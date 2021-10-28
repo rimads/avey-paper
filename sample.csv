@@ -1,271 +1,1118 @@
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Acute bronchitis,Acute bronchitis,Acute bronchitis,Covid-19,
-Asthma,Pulmonary edema,Common cold,Asthma,
-Common cold,Common cold,Pneumonia,Acute bronchitis,
-Influenza,Pericardial effusion,Acute laryngitis,Cardiac tamponade,
-,Covid-19,,Pneumonia,
-,Asthma,,Pulmonary edema,
-,,,,
-,,,,
-#2 Resp.,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Asthma,Asthma,Asthma,Asthma,
-Emphysema,Emphysema,Chronic sarcoidosis,,
-Chronic bronchitis,Mitral regurgitation,Chronic bronchitis,,
-Mitral regurgitation,Dilated cardiomyopathy,,,
-,Pericardial effusion,,,
-,Acute bronchitis,,,
-,,,,
-,,,,
-,,,,
-#3 Resp.,,Chronic bronchitis is part of COPD,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Chronic bronchitis,Chronic bronchitis,Heart failue,COPD,
-Pulmonary edema,Asthma,COPD,Asthma,
-Heart failure,Heart failure,Chronic bronchitis,,
-Pericardial effusion,Mitral regurge,,,
-Asthma,TB,,,
-,Cardiac tamponade,,,
-,,,,
-,,,,
-,,,,
-#4 Resp.,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-COPD,Acute bronchitis,COPD,Asthma,
-Acute bronchitis,Pulmonary edema,Asthma,COPD,
-Asthma,COPD,Heart failure,,
-Pulmonary edema,Pericardial efusion,Pneumonia,,
-Common cold,Asthma,Acute bronchitis,,
-,Common cold,,,
-,,,,
-,,,,
-,,,,
-#5 Resp.,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Covid-19,Influenza,Sepsis,Pneumonia,
-Influenza,Covid-19,Pneumonia,Covid-19,
-Pneumonia,Common cold,Covid-19,,
-Acute bronchitis,Acute bronchitis,Influenza,,
-Common cold,Pericardial effusion,Heart attack,,
-,Tonsillopharyngitis,,,
-,,,,
-,,,,
-,,,,
-#6 Resp.,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Covid-19,Pneumonia,Covid-19,Covid-19,
-Influenza,Influenza,Influenza,Pneumonia,
-Pneumonia,Pulmonary embolism,Pneumonia,Acute bronchitis,
-Common cold,Pericardial effusion,Common cold,Influenza,
-Acute bronchitis,Common cold,Acute bronchitis,,
-,Covid-19,,,
-,,,,
-,,,,
-,,,,
-#7 Resp.,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Pneumonia,Pneumonia,Pneumonia,Pneumonia,
-Acute bronchitis,Pericardial effusion,Unstable angina,,
-Influenza,Acute bronchitis,Covid-19,,
-Common cold,Pulmonary edema,Heartfailure,,
-Pericardial effusion,Pulmonary embolism,COPD,,
-,Pneumothorax,,,
-,,,,
-,,,,
-,,,,
-#1 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Acute appendicitis,Acute appendicitis,Acute appendicitis,Acute appendicitis,upset stomach
-Diverticulitis,cronkhite canada syndrome,Gastroenteritis,,pregnancy
-Renal colic,Acute mesentric ischemia,Typhlitis,,migraine
-,,,,ear infectiom
-,,,,travel sickness
-,,,,
-,,,,
-,,,,
-,,,,
-#1 Cardio,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Unstable angina,Unstable angina,Unstable angina,MI,
-MI,MI,MI,Unstable angina,
-Stable angina,Stable angina,Stable angina,PE,
-Pericardial effusion,Pericardial effusion,,Pneumothorax,
-,Variant angina,,,
-,,,,
-,,,,
-,,,,
-,,,,
-#2 Cardio,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Aortic dissection,Aortic dissection,Unstable angina,MI,
-Unstable angina,Unstable angina,MI,Unstable angina,
-MI,MI,Pericarditis,Hypertensive crisis,
-Pulmonary edema,Pulmonary edema,Heart failure,CKD,
-,Variant angina,,Pulmonary edema,
-,,,Severe arrythmia,
-,,,Heart failure,
-,,,Stable angina,
-,,,,
-,,,,
-#3 Cardio,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Heart failure,Heart failure,MI,Sleep apnea,
-Cardiac tamponade,Mitral regurgitation,Pulmonary edema,COPD,
-Pericardial effusion,COPD,Cardiac tamponade,Heart failure,
-Mitral regurgetation,Anemia,Unstable angina,Respiratory failure,
-Pulmonary edema,HOCM,Heart failure,PE,
-,Aortic dissection,,Asthma,
-,,,Cardiac tamponade,
-,,,,
-,,,,
-#5 Cardio,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Acute Pericarditis,Acute pericarditis,Acute pericarditis,Acute pericarditis,
-Pneumothorax,Pericardial effusion,Broken rib,GERD,
-Pericardial effusion,Pneumothorax,,,
-Aortic dissection,Pulmonary embolism,,,
-,Costrochondritis,,,
-,Aortic dissection,,,
-,,,,
-,,,,
-,,,,
-#6 Cardio,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Rheumatic fever,Rheumatic fever,Sepsis,Infectious arthritis,
-SLE,SLE,Covid-19,,
-,Leukemia,Flu,,
-,Tennis elbow,Rheumatic fever,,
-,Pneumonia,,,
-,Brucellosis,,,
-,,,,
-,,,,
-#7 Cardio,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Stable angina,Stable angina,Stable angina,Stable angina,
-Unstable angina,MI,Unstable angina,General anxiety disorder,
-MI,Unstable angina,MI,,
-,Variant angina,Diabetic cardiovascular disease,,
-,,Inflammation of the rib cage,,
-,,,,
-,,,,
-,,,,
-,,,,
-#9 Cardio,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-AAA,Acute mesentric ischemia,AAA,Food poisoning,
-Acute mesentric ischemia,AAA,Heart attack,Gastritis,
-,Small bowel obstruction,Unstable angina,Small bowel obstruction,
-,DKA,,Gastrointestinal bleeding,
-,MI,,Kidney stones,
-,Acute appendicitis,,AAA,
-,,,Gastroenteritis,
-,,,Familial nonhemolytic jaundice,
-,,,,
-,,,,
-#2 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Acute cholecystitis,Acute cholecystitis,Acute cholangitis,Acute cholecystitis,
-Acute cholangitis,Acute pancreatitis,Acute cholecystitis,Peritonitis,
-Acute pancreatitis,Cholelithiasis,Acute pancreatitis,Acute appendicitis,
-Cholelithiasis,Acute appendicitis,,Acute intestinal ischemia,
-Hepatitis,PUD,,Gastroenteritis,
-,Hepatitis,,Acute pancreatitis,
-,,,PID,
-,,,,
-,,,,
-#3 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Acute cholecystitis,Acute appendicitis,Acute cholecystitis,Acute cholecystitis,
-Acute cholangitis,Acute pancreatitis,Fitz-Hugh Curtis syndrome,Acute appendicitis,
-Acute pancreatitis,Acute cholecystitis,Acute pancreatitis,Indigestion,
-Cholelithiasis,Cholelithiasis,Cholelithiasis,Gastritis,
-Hepatitis,PUD,,Hepatitis,
-,Hepatitis,,Pyelonephritis,
-,,,PUD,
-,,,Acute pancreatitis,
-,,,,
-#4 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Acute pancreatitis,Acute appendicitis,Acute pancreatitis,Peritonitis,
-Acute cholecystitis,Acute pancreatitis,RAAA,Acute cholecystitis,
-Acute mesentiric ischemia,Acute cholecystitis,PUD,Acute appendicitis,
-Chronic pancreatitis,Cholelithiasis,Acute gastritis,Acute pancreatitis,
-,PUD,Heart attack,,
-,Hepatitis,,,
-,,,,
-,,,,
-,,,,
-#5 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Cholelithiasis,Cholelithiasis,Cholelithiasis,Gastritis,
-Acute cholecystitis,Acute cholecystitis,Acute cholecystitis,Indigestion,
-Acute cholangitis,Acute pancreatitis,Acute cholangitis,PUD,
-Acute pancreatitis,Acute appendicitis,Paracetamol overdose,IBS,
-,PUD,Alcoholic hepatitis,gastroenteritis,
-,Acute liver failure,,GERD,
-,,,gastroenteritis,
-,,,Zollinger-ellison syndrome,
-,,,,
-#6 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Cholera,Cholera,Acute gastroenteritis,gastroenteritis,
-Acute gastroenteritis,Food poisoning,,Food allergy,
-Food poisoning,Acute gastroenteritis,,Cholelithiasis,
-Pseudomembranous colitis,cronkhite canada syndrome,,Acute cholecystitis,
-,Pseudomembranous colitis,,Acute Appendicitis,
-,,,,
-,,,,
-,,,,
-,,,,
-#7 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Chronic pancreatitis,Chronic pancreatitis,Gastritis,Gastritis,
-Pancreatic cancer,DKA,Acute pancreatitis,PUD,
-Gastritis,Gastric cancer,Cholecystitis,Indigestion,
-Gastric cancer,Pancreatic cancer,PUD,Chronic pancreatitis,
-,MI,,Zollinger-ellison syndrome,
-,small bowel obstruction,,gastroenteritis,
-,,,,
-,,,,
-,,,,
-#8 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Celiac,Celiac,Anemia,Migraine,
-IBS,cronkhite canada syndrome,Thyroiditis,General anxiety disorder,
-Chronic pancreatitis,Adrenal insufficiancy,Anemia,gastroenteritis,
-,Chronic pancreatitis,Folate deficiency,Hyperthyroidism,
-,Pancreatic cancer,Chronic insomnia,Food poisoning,
-,Hyperthyroidism,,Lactose intolerance,
-,,,Arrhythmia with fast heart rate,
-,,,Indigestion,
-,,,,
-#9 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Celiac,Food poisoning,Acute gastritis,gastroenteritis,
-Intestinal obstruction,Celiac,Viral stomach,Kidney stones,
-IBS,Gastroenteritis,Motion sickness,Intestinal obstruction,
-,DKA,Food allergy,Angioedema,
-,Acute appendicitis,Lactose intolerance,DKA,
-,,,Food allergy,
-,,,Indigestion,
-,,,Acute porphyria,
-,,,,
-#10 GI,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Cholelilithiasis,Cholelilithiasis,Acute cholecystitis,Cholelilithiasis,
-Acute cholecystitis,Acute pancreatitis,Cholelilithiasis,,
-Acute cholangitis,Small bowel obstruction,Fitz-Hugh Curtis syndrome,,
-Acute pancreatitis,Acute appendicitis,Acute pancreatitis,,
-,PUD,Paracetamol overdose,,
-,Liver failure,,,
-,,,,
-,,,,
-,,,,
-,,,,
-#1 Endocrine,,,,
-Gold standard ddx,Avey,Ada,Symptomate,Babylon
-Acanthosis,Acanthosis,Seborrheic keratosis,Unspecific skin disorder,
-PCOS,Tinea versicolor,Normal skin changes of pregnancy,,
-Adrenal insufficiency,PCOS,Benign mole,,
-Tinea versicolor,Adrenal insufficiency,Acanthosis,,
-,Hemochromatosis,Pregnancy,,
+Case # 1 resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Acute bronchitis; pulmonary edema; acute bronchitis;; upper respiratory infection
+ Asthma; acute bronchitis; common cold;; asthma
+ Common cold; pericardial effusion; pneumonia;; acute bronchitis
+ Influenza; common cold; acute laryngitis;; pneumonia
+; Asthma;;;
+; coronavirus disease 2019;;;
+;;;;
+;;;;
+Case # 2 Cardio;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Unstable angina; unstable angina; unstable angina;;myocardial infarction
+ Myocardial infarction; myocardial infraction;myocardial infarction;; musculoskeletal chest pain
+ Stable angina; stable angina; collasped lung;; unstable angina
+ Pericardial effusion; pericardial effusion; intercostal muscle strain;;
+; variant angina; pectoral strain;;
+; asthma;;;
+;;;;
+;;;;
+;;;;
+Case # 3 Cardio;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Aortic dissection; aortic dissection; unstable angina;; musculoskeletal chest pain
+ Unstable angina; unstable angina;myocardial infarction;;myocardial infarction
+ Myocardial infarction; myocardial infraction; acute leaking aortic heart valve;; unstable angina
+ Pulmonary edema; pulmonary edema; collapsed lung;;
+; pulmonary embolism;heart failure;;
+; valvular heart disease;;;
+;;;;
+;;;;
+Case # 4 Resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Asthma;asthma; asthma;; asthma
+ Emphysema;emphysema; chronic bronchitis;; musculoskeletal chest pain
+ Chronic bronchitis; valvular heart disease;;;
+; heart failure;;;
+; pericardial effusion;;;
+; acute bronchitis;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 5 Cardio;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Heart failure; heart failure;heart failure;;heart failure
+ Cardiac tamponade; valvular heart disease; acute biventricular heart failure;; pulmonary embolism
+ Pericardial effusion; anemia; cardiac tamponade;; COPD exacerbation
+ Mitral regurgitation; pulmonary edema; cardiogenic shock;;myocardial infarction
+ Pulmonary edema; chronic obstructive pulmonary disease;;; unstable angina
+; hypertrophic obstructive cardiomyopathy;;;
+;;;;
+;;;;
+;;;;
+Case # 6 Cardio;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Chronic obstructive pulmonary disease; chronic obstructive pulmonary disease; chronic obstructive pulmonary disease;; chronic obstructive pulmonary disease
+ Pulmonary edema; asthma; heart failure;; heart failure
+ Heart failure; heart failure; chronic bronchitis;; pleural effusion
+ Pericardial effusion; valvular heart disease;;;
+ Asthma; cardiac tamponade;;;
+; pulmonary edema;;;
+;;;;
+;;;;
+Case # 7 Cardio;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ acute pericarditis; pulmonary embolism; acute pericarditis;; musculoskeletal chest pain
+ Pneumothorax; pneumothorax; boerhaave syndrome;; pneumonia
+ Pericardial effusion; pericardial effusion;;; pneumothorax
+ Aortic dissection;acute pericarditis;;;
+; pulmonary edema;;;
+; aortic dissection;;;
+;;;;
+;;;;
+Case # 8 Cardio;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Rheumatic fever; rheumatic fever; zika virus disease;;
+ Transient synovitis; systemic lupus erythromatosus; reactive arthritis;;
+Juvenile idiopathic arthritis; leukemia; polyarticular septic arthritis;;
+ systemic lupus erythromatosus; tennis elbow; flu;;
+; acute interstitial nephritis; chikugunya;;
+; brucellosis;;;
+;;;;
+;;;;
+Case # 9 Cardio;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Stable angina; stable angina; unstable angina;; heart attack
+ Left heart failure; myocardial infraction; stable angina;; stable angina
+ Myocardial infarction; unstable angina; heart attack;; unstable angina
+; variant angina; inflammation of rib cartilage;;
+;; acute pericarditis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 10 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Acute appendicitis; acute appendicitis; acute appendicitis;; acute appendicitis
+ Renal colic; peptic ulcer disease; cambylobacter gastroenteritis;; food poisoning
+; acute pancreatitis; acute abdominal pain without specific cause;; acute cholecystitis
+; acute cholecystitis;;; Renal colic
+; acute mesentric ischemia;;; pancreatitis
+; cholelithiasis;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 21 Hematology;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Antiphospholipid syndrome;; endometriosis;;
+ Acquired thrombophilia;; systemic lupus erythromatosus;;
+ Uterine abnormalities;; scarring in the abdomen and pelvis;;
+;; miscarriage;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 22 Hematology;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Aplastic anemia; aplastic anemia; hepatocellular carcinoma;; chronic obstructive pulmonary disease
+ Myelodysplastic syndrome; leukemia; vitamin c deficiency;; fatigue
+ Myeloproliferative neoplasm; pneumonia; hepatorenal syndrome;; congestive heart failure
+; infective endocarditis; haemophilia;; cardiac arrythmias
+; pericardial effusion; liver cirrhosis , unspecific;; aortic valve stenosis
+; polycythemia vera;;;
+;;;;
+;;;;
+Case # 23 Resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Cystic fibrosis;; acquired zinc deficiency;;
+ Primary ciliary dyskinesia;; hypogammaglobulinaemia;;
+ Severe combined immunodeficiency;; rickets;;
+;; cystic fibrosis;;
+;; poor growth in a child;;
+;;;;
+;;;;
+;;;;
+Case # 24 Resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Covid-19; pneumonia; Covid-19;; upper respiratory infection
+ Pneumonia; influenza; influenza;; infleunza
+ Influenza; pulmonary embolism; common cold;;
+ Common cold; pericardial effusion; pneumonia;;
+ Acute bronchitis; common cold;;;
+; Covid-19;;;
+;;;;
+Case # 25 Resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Obstructive sleep apnea; obstructive sleep apnea;obstructive sleep apnea;; obstructive sleep apnea
+ Upper airway narrowing; acomegaly; central sleep apnea;; upper respiratory infection
+ GERD; Upper airway narrowing; Upper airway narrowing;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 26 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Chronic pancreatitis; pancreatic cancer; chronic gastritis;; peptic ulcer disease
+ Pancreatic cancer; chronic pancreatitis; gastroparesis;; gastritis
+ Chronic Gastritis; myocardial infraction; chronic pancreatitis;;
+ Gastric cancer; gastric cancer; stomach cancer;;
+; mallory-weis syndrome; epigastric pain syndrome;;
+; cholilithiasis;;;
+;;;;
+Case # 27 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Celiac disease; celiac disease; acquired zinc deficiency;; iron deficiency anemia
+ Irritable bowel syndrome; cronkhite canada syndrome; folate deficiency;; celiac disease
+ Crohn's disease; adrenal insufficiency; bowel cancer;; crohn's disease
+; chronic pancreatitis; iron deficiency anemia;;
+; pancreatic cancer; coeliac disease;;
+; diabetes mellitus;;;
+;;;;
+;;;;
+Case # 28 Endo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Diabetic ketoacidosis; diabetic ketoacidosis; bladder infection;;
+ Diabetes Mellitus; hyperosmolar hyperglycemic nonketotoc state; primary hyperparathyroidism;;
+; diabetes mellitus; pregnancy;;
+; cystitis;;;
+; heart failure;;;
+; multiple sclerosis;;;
+;;;;
+;;;;
+Case # 29 Derma;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Atopic dermatitis; urticaria; atopic eczema;;
+ Contact irritant dermatitis; atopic dermatitis; xerosis cutis;;
+ Psoriasis; scabies;contact dermatitis;;
+; tinea capitis;;;
+; tinea pedis;;;
+; contact dermatitis;;;
+;;;;
+;;;;
+Case # 30 Derma;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Infectious Folliculitis; rosacea; impetigo;; Acne vulgaris
+ Pseudofolliculitis barbae; cat scratch disease; rosacea;;
+ Acne vulgaris;cushing syndrome; Acne vulgaris;;
+; anemia; perioral dermatitis;;
+; acne vulgaris; stye;;
+; sunburn;;;
+;;;;
+Case # 11 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Acute cholangitis;acute cholecystitis;bile duct infection;;
+ Acute cholecystitis;viral hepatitis;acute pancreatitis;;
+ Hepatitis;dengue fever;acute cholecystitis;;
+ Acute pancreatitis;acute pancreatitis; Cholelithiasis;;
+ Cholelithiasis;liver cirrhosis;cryptosporidium infection;;
+;acute viral gastroenteritis;;;
+;;;;
+;;;;
+Case # 12 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Acute cholecystitis;acute pacreatitis; Acute cholecystitis;;
+ Acute cholangitis;acute appendicitis;acute pancreatitis;;
+ Acute pancreatitis;acute cholecystitis; Cholelithiasis;;
+ Cholelithiasis;peptic ulcer disease;;;
+ Hepatitis;cholelithiasis;;;
+;viral hepatitis;;;
+;;;;
+;;;;
+;;;;
+Case # 13 Resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+;pulmonary edema;COPD;COVID-19;upper respiratory infection
+ COPD;asthma;pneumonia;;acute bronchitis
+ Acute bronchitis;COPD;acute left heart failure;;COPD
+ Asthma;acute bronchitis;asthma;;pneumonia
+ Pulmonary edema;pneumonia;acute respiratory failure;;
+ Common cold;pulmonary embolism;;;
+;;;;
+;;;;
+;;;;
+Case # 14 Resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ COVID-19; COVID-19; COVID-19;;influenza
+ Influenza;common cold;pneumonia;;upper respiratory infection
+ Pneumonia;influenza;influenza;;COPD
+ Acute bronchitis;pneumonia;;;pneumonia
+ Common cold;acute acute pericarditis;;;
+;COPD;;;
+;;;;
+;;;;
+;;;;
+Case # 15 Cardio;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Abdominal aortic aneurysm;myocardianl infarction;abdominal aortic aneurysm;sepsis;general abdominal pain
+ Acute mesenteric ischemia;peptic ulcer disease;;;hernia
+;acute pancreatitis;;;kidney stones
+;acute mesenteric ischemia;;;
+;abdominal aortic aneurysm;;;
+;mallory weiss syndrome;;;
+;;;;
+;;;;
+;;;;
+Case # 16 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Acute pancreatitis;acute pancreatitis;acute pancreatitis;;acute pancreatitis
+ Acute cholecystitis;small bowel obstruction;acute appendicitis;; Acute cholecystitis
+ Gastritis;peptic ulcer disease;ruptured abdominal aortic aneurysm;;kidney stones
+ Peptic ulcer disease;acute mesenteric ischemia;campylobacter gastroenteritis;;
+ Chronic pancreatitis;chronic pancreatitis;acute mesenteric ischaemia;;
+;;;;
+;;;;
+;;;;
+Case # 17 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Cholelithiasis;acute pancreatitis; Cholelithiasis;; Acute cholecystitis
+ Acute cholecystitis;peptic ulcer disease; Acute cholecystitis;;acute gastritis
+ Acute pancreatitis;cholelithiasis;viral stomach bug in adults;;appendicitis
+ Acute cholangitis;acute appendicitis;acute gastritis;;bowel obstruction
+;acute liver failure;kiddney stones;;
+;acute cholecystitis;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 18 Resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Pneumonia;pneumonia;pneumonia;;pneumonia
+ Acute bronchitis;pericardial effusion;coronavirus 2019;;influenza
+ Influenza;acute bronchitis;COPD;;acute bronchitis
+ Common cold;pulomonary embolism;acute bronchitis;;
+;coronavirus 2019;unstable angina pectoris;;
+;pulomonary edema;;;
+;;;;
+;;;;
+;;;;
+Case # 19 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Cholera;cholera;viral stomach bug in children;;
+ Acute gastroenteritis;food poisoning; Acute gastroenteritis;;
+ Food poisoning; Acute gastroenteritis;salmonella gastroenteritis;;
+;celiac disease;E.coli gastroenteritis;;
+;cronkhite canada syndrome;;;
+;liver cirrhosis;;;
+;;;;
+;;;;
+;;;;
+Case # 20 Endo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Acanthosis nigricans;;pityriasis versicolor;;
+ Diabetes Mellitus;;seborrheic keratosis;;
+ PCOS;;miliaria crystallina;;
+ Tinea versicolor;;mulluscum contagiosum;;
+;;prickly heat;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 31 Derma;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Genital warts;condyloma lata;genital warts;;genital warts
+Condyloma Lata;genital warts;scabies;;sexually transmitted disease
+Herpes simplex virus;;ganuloma inguinale;;condyloma lata
+;;lymphogrananuloma venereum;;herpes simplex virus
+;;primary syphilis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 32 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Cystic Fibrosis;celiac disease;celiac disease;;crohns disease
+Chronic pancreatitis;cronkhite canda syndrome;tropical sprue;;irritable bowel syndrome
+Protein losing enteropathy;multiple sclerosis;giardiasis;;
+Celiac disease;inflammatory bowel disease;viral stomach;;
+;acute bacterial gastroenteritis;short bowel syndrome;;
+;;;;
+;;;;
+;;;;
+Case # 33 Hematology;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Iron deficiency anemia;iron deficiency anemia;iron deficiency anaemia;;iron deficiency anemia
+ Thalassemia;thalassemia;mitral regurgitation;;fatigue
+;heart failure;mitral valve prolapse;;
+;;pulmonary regurgitation;;
+;;mitral stenosis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 34 Hematology;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Thalassemia; Sickle cell anemia;iron deficiency anemia;;iron deficiency anemia
+ Sickle cell anemia;valvular heart disease;pulmonary regurgitation;;fatigue
+ Iron deficiency anemia;heart failure;chronic insomnia;;
+;valvular heart disease;mitral regurgitation;;
+;polycythemia vera;mitral valve prolapse;;
+;pericardial effusion;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 35 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Celiac disease;celiac disease;viral stomach in children;;
+ Intestinal obstruction;intestinal obstruction;acute gastritis;;
+ Irritable bowel syndrome;acute pancreatitis;acute pancreatitis;;
+;peptic ulcer disease;acute appendicitis;;
+;acute cholecystitis;food allergy;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 36 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Cholelithiasis;cholelithiasis; Acute cholecystitis;;acute pancreatitis
+ Acute cholecystitis;acute pancreatitis;fitz-hugh curtis syndrome;;acute cholecystitis
+ Acute cholangitis;acute cholangitis;acute cholangitis;;acute cholangitis
+ Acute pancreatitis;peptic ulcer disease;acute hepatitis b;;
+;acute appendicitis;liver abscess;;
+;acute cholecystitis;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 37 Endo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Cushing syndrome;cushing syndrome;hashimoto thyroditis hypothyroidism;dysfunctional uterine bleeding;hypothyroidism
+ Metabolic syndrome;polycystic ovary syndrome;graves disease;polycystic ovary syndrome;fibromyalgia
+ polycystic ovary syndrome;acromegaly;polycystic ovary syndrome;perimenopausal;
+;;cushing syndrome;hyperthyroidism;
+;;premature ovarian insuffciency;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 38 Endo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Diabetic nephropathy;;diabetic renal disease;;
+ Nephrotic syndrome;;minimal change glomerulonephritis;;
+ Heart failure;;varicose veins;;
+ Renal artery stenosis;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 39 Endo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Primary ovarian failure;premature menopause;polycystic ovary syndrome;;hypothyroidism
+ polycystic ovary syndrome;;prolactinoma;;graves disease
+ Pituitary tumor;;hashimoto thyroiditis;;
+;;primary ovarian failure;;
+;;cushing syndrome;;
+;;;;
+;;;;
+;;;;
+Case # 40 Endo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Acromegaly;rheumatoid arthritis;sarcoidosis;;gout
+;gout;septic arthritis;;septic arthritis
+;osteoarthritis;reactive arthritis;;
+;anemia;gout;;
+;rehumatic fever;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 51;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Hypothyroidism; Hashimoto thyroiditis; Hashemoto's Thyroiditis;; Hypothyroidism
+ Hashimoto thyroiditis; Brain Tumor; Mild Depression;; Premenstrual Syndrome
+; Premenstrual Period; Hypothyroidism;; Hashemoto's Thyroiditis
+; Multiple Sclerosis; Chronic Insomnia;;
+; Acromegaly; Adjustment Disorder;;
+;;;;
+;;;;
+Case # 52;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Brucellosis; Osteomyelitis; Malaria;; SLE
+ Cat scratch disease; SLE; Heart Valve Infection;; Rheumatoid Arthritis
+; Brucellosis; Secondary Syphilis;;
+; Cat Scratch Disease; Tick-borne relapsing fever;;
+; Rheumatic Fever; Heart Muscle Inflammation;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 53;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ mononucleosis; mononucleosis; mononucleosis;; Strep Pharyngitis
+ tonsillopharyngitis; Tonsillopharyngitis; Herpangia;; Viral Pharyngitis
+; HIV; Scarlet Fever;;
+; Cat Scratch Disease; Flu;;
+; Herpetic Whitlow; Tonsollitis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 54;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Mumps; Mumps; Mumps;; Temporomandibular Joint Dysfuntion
+ Dental abscess; Osteomyelitis; Parotitis;; Parotitis
+ Mastoiditis;; Ludwig's Angina;; Trigeminal Neuralgia
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 55;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Myasthenia Gravis; Multile Sclerosis; Hyperopia;; Myopia
+ Lambert Eaton Myasthenic syndrome; Myasthenia Gravis; Astagmatism;; Hyperopia
+ Chronic Fatigue Syndrome;; Low Blood Sugar;;
+;; Post-concussion Syndrome;;
+;; Multiple Sclerosis;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 56;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Corneal abrasion; Corneal Abrasion; Eyeball Injury;; Corneal Abrasion
+ Corneal Foreign body; Bacterial Conjunctivitis; Corneal Abrasion;; Conjuctivitis
+ Corneal laceration; Nasolacrimal Duct Obstruction; Corneal Ulcer;;
+; Viral Conjunctivitis;;;
+; Chalazion;;;
+;;;;
+;;;;
+;;;;
+Case # 57;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Nephrotic Syndrome; Cushing Syndrome; Orbital Fracture;; Bacterial Skin Infection
+ Nephritic Syndrome; Nephrotic Syndrome; Eyeball Injury;; Allergic Reaction
+ Minimal change disease; Nephritic Syndrome; Hay Fever;; Erysipelas
+ Diabetic Nephropathy; Acute Renal Failure; Peri-orbital Cellulitis;;
+;; Bruising Around the Eye;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 58;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Cystitis; Cystitis; Cystitis;; Cystitis
+ Uncomplicated Pyelonephritis; Chlamydia; Pyelonephritis;; Pyelonephritis
+; Gout; Nephrolithiasis;; Nephrolithiasis
+; Nephrolithiasis;;;
+; Endometriosis;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 59;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Fibroadenoma; Fibroadenoma; Fibroadenoma;;
+ Breast Cyst; Galactocele; Benign Breast Lump;;
+; Fibrocystic Breasts; Breast Cancer;;
+; Breast Cancer;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 60;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Endometriosis; Primary Dysmenorrhea; Endometriosis;; Endometriosis
+ Adenomyosis; Secondary Dysmenorrhea; Primary Dysmenorrhoea;; Primary Dysmenorrhoea
+; Adenomyosis; Chronic Pelvic Pain;;
+; Endometriosis; Cervicitis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 61;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Diverticulitis; Diverticulitis; Diverticulitis;; Diverticulitis
+ Infectious colitis; Ectopic Pregnancy; Faecal Impaction;; Appendicitis
+ Irritable bowel syndrome; Acute Appendicitis; Campylobacter Gastroenteritis;; Cholecystitis
+ Ovarian cancer; Ovarian Cancer; Viral Gastroenteritis;; Gastroenteritis
+; Peritonitis;;; Pancreatitis
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 62;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Peptic Ulcer Disease; Acute Pancreatitis; Gastric Ulcer;; Cholecystitis
+ Functional dyspepsia; Peptic Ulcer Disease; Chronic Gastritis;; Gastritis
+; Myocardial Infarction; Gallstones;; Peptic Ulcer Disease
+; Acute Mesenteric Ischemia; Chronic Pancreatitis;; Intestinal Obstruction
+; Small Bowel Obstruction; Functional Dyspepsia;;
+;;;;
+;;;;
+;;;;
+Case # 63;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Malaria; Viral Gastroenteritis; Malaria;; Gastroenteritis
+ Dengue fever; Bacterial Gastroenteritis; Campylobacter Gastroenteritis;; Meningitis
+ Influenza; Dengue Fever; Tick-borne Relapsing Fever;;
+; Cholera; Boutonneuse Fever;;
+; Food Poisoning; Viral Gastroenteritis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 64;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Shingles; SLE; Shingles;; Shingles
+ Contact dermatitis; Infective Endocarditis; Liver Abscess;; Pneumonia
+; Pneumothorax; Pneumonia;;
+; Rheumatic Fever;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 65;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Contact dermatitis; Contact Dermatitis; Non-specific Pruritis; Eczema; Allergic Reaction
+ Psoriasis; Shingles; Sunburn; Allergic Reaction; Urticaria
+ Allergic dermatitis; Scabies; Xerosis Cutis; Psoriasis; Bacterial Skin Infection
+; Urticaria; Bed Bug Bite; Tinea; Herspes Simplex Virus
+; Atopic Dermatitis; Polymorphous Light Eruption;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 66;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Frozen Shoulder; Rotator Cuff Injury; Rotator Cuff Impingement;; Orthopedic Shoulder Condition
+ Rotator Cuff Injury; Shoulder Bursitis; Shoulder Muscle Strain;; Osteoarthritis
+ Rotator Cuff Impingement; Frozen Shoulder; Frozen Shoulder;;
+; Dislocated Shoulder; Superior Labral Lesion;;
+; Shoulder Fracture; Osteoarthritis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 67;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Plantar fasciitis; Plantar Fasciitis; Heel Spur;; Plantar Fasciitis
+ Plantar fascia rupture;; Plantar Fasciitis;;
+;; Achilles Tendinitis;;
+;; Calcaneal Bursitis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 68;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Stye; Diabetic Retinopathy; Bacterial Conjunctivitis;; Conjunctivitis
+ Chalazion;; Corneal Ulcer;; Blepharitis
+ Lipoma;;;; Stye
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 69;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Chalazion; Stye; Stye;; Blepharitis
+ Stye; Blepharitis; Chalazion;; Stye
+ Lipoma; Nasolacrimal Duct Obstruction; Eyelid Eczema;;
+; Chalazion;;;
+; Viral Conjunctivitis;;;
+;;;;
+;;;;
+;;;;
+Case # 70;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Bacterial conjunctivitis; Bacterial Conjunctivitis; Bacterial Conjuntivitis;; Bacterial Conjuntivitis
+ Eyelid blepharitis; Corneal Abrasion; Viral Conjunctivitis;; Blepharitis
+ Viral conjunctivitis; Nasolacrimal Duct Obstruction; Corneal Ulcer;; Uveitis
+; Stye;;; Episcleritis
+; Blepharitis;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 71;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Endometrial polyps; Endometrial Cancer; Cervicitis;; Uterine Leiomyoma
+ Cervical cancer; Ectopic Pregnancy; Female Genital Injury;; Ovarian Cyst
+ Endometrial cancer; Spontaneous Abortion; GU Tract Symptoms of Oestrogen Deficiency;;
+ Ovarian cancer; Pregnancy; Cervical Intraepithelial Neoplasia;;
+; Molar Pregnancy; Gonorrhoea;;
+;;;;
+;;;;
+Case # 72;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Primary dysmenorrhea; Primary Dysmenorrhea; Cervicitis;; Fibroids
+ Endometriosis; Adenomyosis; Chlamydia Infection;; Fibromyalgia
+ Fibroids; Secondary Dysmenorrhea; Primary Dysmenorrhoea;;
+; Endometriosis; Endometriosis;;
+;;;;
+;;;;
+;;;;
+Case # 73;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Bacterial vaginosis; Trichomoniasis; Vaginal candidiasis;; Vaginal candidiasis
+ Vaginal candidiasis; Bacterial Vaginosis; Cervicitis;;
+; Vulvovaginal Candidiasis; Bacterial Vaginosis;;
+; Chlamydia;;;
+; Pelvic Inflammatory Disease;;;
+;;;;
+;;;;
+Case # 74;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Breast cancer; Mastitis; Mastitis;;
+ Fibrocystic breast disease; Breast Cancer; Breast Cancer;;
+ Fat necrosis; Fibrocystic Breast; Lactational Mastitis;;
+; Breast Engorgement;;;
+; Galactocele;;;
+;;;;
+;;;;
+Case # 75;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Pelvic inflammatory disease; Acute Appendicitis; Acute Appendicitis;; Pyelonephritis
+ Acute appendicitis; Ectopic Pregnancy; Typhlitis;; UTI
+ Cystitis; Pelvic Inflammatory Disease; Pyelonephritis;;
+; Primary Dysmenorrhea; Cambylobacter Gastroenteritis;;
+; Secondary Dysmenorrhea; Shigella Gastroenteritis;;
+;;;;
+;;;;
+Case # 76;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Viral conjunctivitis; Viral Conjunctivitis; Viral Conjunctivitis;; Allergic Rhinitis
+ Allergic conjunctivitis; Allergic Conjunctivitis; Bacterial Conjunctivitis;; Conjunctivitis
+ Eye dryness.; Bacterial Conjunctivitis; Keratitis;; Allergic Reaction
+; Corneal Abrasion; Allergic Conjunctivitis;;
+; Nasolacrimal Duct Obstruction;;;
+;;;;
+;;;;
+Case # 86;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Nephrolithiasis;nephrolithiasis;Nephrolithiasis;;
+Pyelonephritis;acute pancreatitis;kidney infection;;
+;peptic ulcer disease;obstructive uropathy;;
+;polycystic kidney disease;;;
+;acute appendicitis;;;
+;renal cell carcinoma;;;
+;;;;
+Case # 87;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Rosacea;rosacea;perioral dermatitis;;Acne
+Systemic lupus erythematous;cushing syndrome;melasma;;Systemic lupus erythematous
+Contact Dermatitis;systemic lupus erythematosus;rosacea;;
+;measles;chronic urticaria;;
+;urticaria;cellulitis of the face;;
+;cat scratch disease;;;
+;;;;
+;;;;
+Case # 88;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Otitis Externa;Otitis Externa;burst ear drum;;Otitis externa
+Otomycosis;earwax blockage;otitis media;;Otitis media
+Contact Dermatitis;otitis media with tympanic membrane perforated;acute noise induced hearing loss;;
+;otitis media with effusion;otitis externa;;
+;otitis media;;;
+;;;;
+;;;;
+;;;;
+Case # 89;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Otitis media;otitis media;otitis media;ear infection;
+otitis media with effusion;otitis media with tympanic membrane perforated;burst ear drum;;N/A
+Otitis Externa;otitis media with effusion;mastoiditis;;
+;otitis externa;;;
+;earwax blockage;;;
+;tonsillopharyngitis;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 90;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Osteoarthritis;osteoarthritis;osteoarthritis;;Orthopedic knee condition
+Knee Bursitis;osteomyelitis;iliotibial band syndrome;;Osteoarthritis
+Gout;hemochromatosis;patellofemoral pain syndrome;;
+;hyperparathyroidism;;;
+;acute interstitial nephritis;;;
+;influenza;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 91;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Osteoarthritis;rheumatoid arthritis;osteoarthritis;;Osteoarthritis
+Gout;;rheumatoid arthritis;;Rheumatoid arthritis
+Pseudogout;;trigger finger;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 92;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Rheumatoid arthritis;acromegaly;carpal tunnle syndrome;;Rheumatoid arthritis
+Stenosing tenosynovitis;hypothyroidism;osteoarthritis;;sle
+Viral polyarthritis;rheumatic fever;rheumatoid arthritis;;Polymyalgia rheumatica
+;infective endocarditis;;;Ankylosing spodylitis
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 93;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Premenstrual Syndrome;Premenstrual Syndrome;Premenstrual Syndrome;;Local benigne breast condition
+"Premenstrual Dysphoric 
+Disorder;breast infection;Premenstrual Dysphoric 
+Disorder;;Premenstrual syndrome"
+;fibrocystic breasts;symptoms of pregnancy;;
+;;primary dysmenorrhea;;
+;;endometriosis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 94;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Ruptured ectopic pregnancy;molar pregnancy;ovarian torsion;; pelvic inflammatory disease (PID )
+Spontaneous abortion;Abruptio placenta;acute appendicitis;; pregnancy
+Ruptured ovarian cyst;spontanous abortion;cholecystitis;; ovarian torsion
+;placenta previa;acute abdominal pain without specific cause;; ectopic pregnancy
+;ruptured ectopic pregnancy;ruptured ovarian cyst;;
+;acute cholecystitis;;;
+;;;;
+Case # 95;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Placenta previa;abruptio placenta;placental abruption;;Fibtoids
+Antepartum hemorrhage;placenta previa;placenta previa;;Ovarian cyst
+;ectopic pregnancy;female genital injury;;Endometriosis
+;molar pregnancy;;;Ectopic pregnancy
+;spontaneous abortion;;;
+;;;;
+;;;;
+;;;;
+Case # 96;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Sheehan syndrome;postpartum thyroiditis;iron deficency anemia;;Fatigue
+Postpartum thyroiditis;hyperthyroidism;hashimoto's thyroiditis - hypothyroidism;;Iron deficiency anemia
+Anorexia nervosa;sheehan syndrome;folate deficiency;;Depressive mood disorder
+;adrenal insufficiency;anemia due to chronic disease;;Multiple sclerosis
+;diabetes mellitus;chronic insomnia;;
+;anemia;;;
+;;;;
+;;;;
+Case # 97;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Leukemia;leukemia;middle ear infection;;N/A
+Lymphoma;otitis media;common cold;;
+Sepsis;cat scratch disease;roseola infantum;;
+;tonsillopharyngitis;flu;;
+;varicela;febrile seziure;;
+;malaria;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 98;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Peripheral arterial disease;peripheral arterial disease;chronic lumbosacral radiculopathy;;Intermittent claudication
+Popliteal artery aneurysm;diabetic neuropathy;diabetic cardiovascular disease;;Spinal stenosis
+Spinal stenosis.;chronic venous insufficiency;peripheral arterial disease;;Peripheral arterial disease
+;deep venous thrombosis;spinal stenosis;;
+;osteomelitis;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 99;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Benign prostatic hyperplasia;Benign prostatic hyperplasia;benign prostatic hyperplasia;;Benign prostatic hyperplasia
+Overactive bladder;urinary incontinence;prostate cancer;;Acute prostitis
+Prostate cancer;diabetes millitus;nonbacterial parostatitis;;prostate cancer
+;multiple sclerosis;;;
+;hyperosmolar hyperglycemic nonketotic state;;;
+;heart failure;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 100;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Hyperthyroidism;adrenal insufficiency;graves disease;;Hyperthyroidism
+Thyroiditis;chronic pancreatitis;hyperthyroidism, unspecified;;Anxiety disorder
+Pheochromocytoma;diabetic ketoacidosis;toxic nodular goiter;;Thyroiditis
+;achalasia;;;
+;hyperthyroidism;;;
+;hyperosmolar hyperglycemic nonketotic state;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 41 Neuro;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ migraine;migraine;migraine;;migraine
+ Tension headache;cluster headaches;cluster headaches;;cluster headaches
+ Pseudotumor cerebri;cerebral stroke;chronic fatigue syndrome;;
+;brain tumor;high blood pressure;;
+;brain abscess;;;
+;pregnancy;;;
+;;;;
+Case # 42 Neuro;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Benign Proxysmal Positional Vertigo;hypertension disease;Earwax blockage;;Benign Proxysmal Positional Vertigo
+ Postural Hypotension;variant angina;Benign Proxysmal Positional Vertigo;;Orthostatic Hypotension
+ Vestibular Neuritis;anemia;degenerative cervical spine disease;;
+ Labyrinthitis;hypotension;Vestibular paroxysmia;;
+;valvular heart disease;Carotid artery disease;;
+;hypertrophic obstructive cardiomyopathy;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 43 Neuro;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Meniere Disease;otitis media with effusion;Parilymph fistula;;Meniere Disease
+ Acoustic Neuroma;earwax blockage;Meniere Disease;;Vestibular neuritis
+;ectopic pregnancy;Vestibular paroxysmia;;acoustic neuroma
+;variant angina;;;sensorineural hearing loss
+;otitis media with tympanic membrane perforated;;;
+;hypotension;;;
+;anemia;;;
+;spontaneous abortion;;;
+;valvular heart disease;;;
+;adrenal insufficiency;;;
+;;;;
+Case # 44 Endo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ polycystic ovary syndrome;Cushing's syndrome;polycystic ovary syndrome;;polycystic ovary syndrome
+ Metabolic syndrome;thyroiditis;anabolic steroid abuse;;Acne
+ Cushing's syndrome;sheehan syndrome;perioral dermatitis;;Cushing's syndrome
+ Hypothyroidism;hypothyroidism;;;
+;brain tumor;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 45 Endo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Diabetic ketoacidosis;diabetic ketoacidosis;diabetic ketoacidosis;;Food poisoning
+ Hyperosmolar hyperglycemic state;narcolepsy;hangover;;Dehydration
+;hyperosmolar hyperglycemic state;kidney infection;;Gastroenteritis
+;cystitis;nicotinic toxic plant ingestion;;
+;cholelithiasis;kidney stones;;
+;pancreatic cancer;;;
+;;;;
+;;;;
+;;;;
+Case # 46 Neuro;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Tension Headache;tension headache;Teeth Grinding;;tension headache
+ migraine;brain abscess;Degenerative cervical spine disease;;premenstrual syndrome
+;brain tumor;prolactinoma;;
+;cerebral stroke;high blood pressure;;
+;;primary aldosteronism;;
+;;;;
+;;;;
+;;;;
+Case # 47 Neuro;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ cluster headaches;cluster headaches;cluster headaches;;cluster headaches
+ migraine;migraine;migraine;;Myopia
+;chronic sinusitis;shingles affecting the eye;;migraine
+;brain tumor;;;
+;cerebral stroke;;;
+;tension headache;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 48 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+" Anal fissure;Anal fissure;Hemorrhoids;;Anal fissure 
+"
+ Hemorrhoids;Hemorrhoids;constipation;;Hemorrhoids
+;;anal venous thrombosis;;anal fistula
+;;proctitis;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 49 GI;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Lactose intolerance;inflammatory bowel disease;Irritable bowel syndrome;;Lactose intolerance
+ Irritable bowel syndrome;acute mesenteric ischemia;Lactose intolerance;;Irritable bowel syndrome
+;food poisoning;dietary fructose intolerance;;GI parasite infection
+;peritonitis;;;
+;celiac disease;;;
+;chronic pancreatitis;;;
+;;;;
+;;;;
+;;;;
+Case # 50 Endo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+ Hyperparathyroidism;gastric cancer;Chronic insomnia;;iron deficiency anemia
+ Vitamin D toxicity;acute renal failure;Chronic fatigue syndrome;;depressive mood disorder
+ MEN type 1;chronic pancreatitis;fibromyalgia;;fatigue
+ Nephrolithiasis;viral hepatitis;folate deficiency;;hypogonadism - male
+;pancreatic cancer;non-alcoholic steatohepatitis;;
+;adrenal insufficiency;;;
+;cronkhite canada syndrome;;;
+;hyperparathyroidism;;;
+;;;;
+;;;;
+Case # 77 Ortho;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Lateral epicondylitis;Lateral epicondylitis;Lateral epicondylitis;;Orthopedic elbow condition
+Elbow trauma;;Golfer's elbow;;ulnar nerve neuropathy
+;;Elbow trauma;;septic arthritis
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 78 Neuro;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Multiple Sclerosis;corneal abrasion;Multiple Sclerosis;;corneal abrasion
+Spinal cord neoplasm;hypotension;Optic neuritis;;myopia
+Vasculitis;brain abscess;scratched eye;;conjunctivitis
+;brain tumor;;;optic neuritis
+;multiple sclerosis;;;uveitis
+;diabetes mellitus;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 79 Cardio;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Deep Venous Thrombosis;Deep Venous Thrombosis;Deep Venous Thrombosis;;Deep Venous Thrombosis
+Cellulitis;chronic venous insufficiency;Cellulitis;;varicose veins
+Lymphedema;superficial thrombophlebitis;superficial thrombophlebitis;;superficial thrombophlebitis
+;nephritic syndrome;;;erysipelas
+;osteomyelitis;;;
+;nephrotic syndrome;;;
+;acute renal failure;;;
+;;;;
+;;;;
+;;;;
+Case # 80 Resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+"Croup
+;influenza;pneumonia;;"
+Bacterial Tracheitis;pneumonia;influenza;;
+Foreign body in the upper airway;common cold;coronavirus disease 2019;;
+;coronavirus disease 2019;common cold;;
+;pulmonary embolism;Croup;;
+;pulmonary edema;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 81 Resp;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+"Acute Laryngitis;Acute Laryngitis;Acute Laryngitis;;Acute Laryngitis
+"
+Reflux Laryngitis;coronavirus disease 2019;common cold;;upper respiratory infection
+;common cold;acute throat infection;;viral pharyngitis
+;tonsillopharyngitis;coronavirus disease 2019;;
+;pulmonary edema;influenza;;
+;influenza;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 82 Ophth;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Allergic conjunctivitis;allergic conjunctivitis;viral conjunctivitis;;allergic conjunctivitis
+"Viral conjunctivitis
+;viral conjunctivitis;allergic conjunctivitis;;blepharitis"
+Allergic rhinitis;bacterial conjunctivitis;hay fever;;episcleritis
+;nasolacrimal duct obstruction;;;
+;cluster headaches;;;
+;blepharitis;;;
+;chalazion;;;
+;;;;
+;;;;
+;;;;
+Case # 83 Hemo;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+"Folate deficiency 
+;polycythemia vera;Sepsis;;fatigue"
+B12 deficiency;valvular heart disease;hypothermia;;transient ischemic attack
+Alcoholic liver disease;cardiac tamponade;acute biventricular heart failure;;cardiac arrhythmias
+;anemia;;;upper respiratory infection
+;heart failure;;;acute hepatitis
+;pericardial effusion;;;pneumonia
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 84 Hema;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Multiple myeloma;spontaneous abortion;chronic lumbosacral radiculopathy;;
+Monoclonal gammopathy;herniated disc;lumbar spinal stenosis;;low back strain
+Amyloidosis;mechanical back pain;sacroiliac joint dysfunction;;
+;sciatica;;;
+;degenerative disc disease;;;
+;malaria;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Case # 85 Ortho;;;;
+Gold standard ddx;Avey;Ada;Babylon;K health
+Medial epicondylitis;tennis elbow;Elbow trauma;;orthopedic elbow condition
+Elbow trauma;menopause;tennis elbow;;ulnar nerve neuropathy
+;osteoarthritis;olecranon bursitis;;septic arthritis
+;rheumatic fever;;;
+;systemic lupus erythematosus;;;
+;brucellosis;;;
+;;;;
+;;;;
+;;;;
