@@ -1,0 +1,5850 @@
+{
+	"Time": "2021-11-22T10:52:47.9675162+03:00",
+	"Age": 62,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "dyspnea",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.1664013957577691,
+						"probability": 0.01752784116471673
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 4.655195293278026,
+						"confidence_age": 0.1005238819967396,
+						"probability": 0.012956347778821653
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.08944934421279269,
+						"probability": 0.011528969924242072
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic regurgitation",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.0887464572575653,
+						"probability": 0.011438376050823828
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 5.8189941165975325,
+						"confidence_age": 0.08745148433695679,
+						"probability": 0.011271469250267674
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.0866356447323977,
+						"probability": 0.011166317106931755
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.08535145022911086,
+						"probability": 0.011000799517780404
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.08405704802980785,
+						"probability": 0.010833966276497646
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 6.594859998810537,
+						"confidence_age": 0.08384492077723732,
+						"probability": 0.010806625564986337
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 3.4913964699585196,
+						"confidence_age": 0.06846321701242437,
+						"probability": 0.00882410460131931
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 5.8189941165975325,
+						"confidence_age": 0.062097512229105936,
+						"probability": 0.008003640017264974
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.06197165751639267,
+						"probability": 0.007987418822906704
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 4.655195293278026,
+						"confidence_age": 0.05918464996040281,
+						"probability": 0.007628206281166827
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 3.4913964699585196,
+						"confidence_age": 0.050240537766517074,
+						"probability": 0.006475415264196932
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 5.8189941165975325,
+						"confidence_age": 0.04892499277609948,
+						"probability": 0.006305856965452661
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 3.4913964699585196,
+						"confidence_age": 0.04737467828010021,
+						"probability": 0.006106039634707649
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 2.327597646639013,
+						"confidence_age": 0.046919317521971815,
+						"probability": 0.006047348981004775
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 2.715530587745515,
+						"confidence_age": 0.04138933721613957,
+						"probability": 0.005334599466867217
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 1.939664705532511,
+						"confidence_age": 0.03694721051710011,
+						"probability": 0.004762061506263876
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 3.1034635288520174,
+						"confidence_age": 0.026093329480586385,
+						"probability": 0.0033631237149080863
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 1.1637988233195065,
+						"confidence_age": 0.018725054931643025,
+						"probability": 0.002413439662823361
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.939664705532511,
+						"confidence_age": 0.01630833092536649,
+						"probability": 0.0021019523218175538
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 1.1637988233195065,
+						"confidence_age": 0.013679312326168055,
+						"probability": 0.001763102701094488
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 2.327597646639013,
+						"confidence_age": 0.012493849695162191,
+						"probability": 0.0016103104907159924
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5517317644260087,
+						"confidence_age": 0.017993433669882066,
+						"probability": 0.001224191822089057
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 1.1637988233195065,
+						"confidence_age": 0.009144389830244884,
+						"probability": 0.0011786044521202967
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 6.206927057704035,
+						"confidence_age": 0.008352255576479846,
+						"probability": 0.0010765076500923955
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.7758658822130043,
+						"confidence_age": 0.010323145690282892,
+						"probability": 0.0004591748635231234
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 2.327597646639013,
+						"confidence_age": 0.00004725316702751286,
+						"probability": 0.000006090378261347507
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "nasal congestion",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.1664013957577691,
+						"probability": 0.016651449106480892
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 4.655195293278026,
+						"confidence_age": 0.1005238819967396,
+						"probability": 0.012308530389880569
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.08944934421279269,
+						"probability": 0.010952521428029967
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.0887464572575653,
+						"probability": 0.010866457248282637
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 5.8189941165975325,
+						"confidence_age": 0.08745148433695679,
+						"probability": 0.01070789578775429
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.0866356447323977,
+						"probability": 0.010608001251585168
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.08535145022911086,
+						"probability": 0.010450759541891385
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.08405704802980785,
+						"probability": 0.010292267962672765
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 6.594859998810537,
+						"confidence_age": 0.08384492077723732,
+						"probability": 0.010266294286737022
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 3.4913964699585196,
+						"confidence_age": 0.06846321701242437,
+						"probability": 0.008382899371253343
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 5.8189941165975325,
+						"confidence_age": 0.062097512229105936,
+						"probability": 0.007603458016401724
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 7.370725881023541,
+						"confidence_age": 0.06197165751639267,
+						"probability": 0.0075880478817613685
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 4.655195293278026,
+						"confidence_age": 0.05918464996040281,
+						"probability": 0.007246795967108486
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 3.4913964699585196,
+						"confidence_age": 0.050240537766517074,
+						"probability": 0.006151644500987085
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 5.8189941165975325,
+						"confidence_age": 0.04892499277609948,
+						"probability": 0.005990564117180027
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 3.4913964699585196,
+						"confidence_age": 0.04737467828010021,
+						"probability": 0.005800737652972266
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 2.327597646639013,
+						"confidence_age": 0.046919317521971815,
+						"probability": 0.0057449815319545365
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 2.715530587745515,
+						"confidence_age": 0.04138933721613957,
+						"probability": 0.005067869493523856
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 1.939664705532511,
+						"confidence_age": 0.03694721051710011,
+						"probability": 0.004523958430950682
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 3.1034635288520174,
+						"confidence_age": 0.026093329480586385,
+						"probability": 0.003194967529162682
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 1.1637988233195065,
+						"confidence_age": 0.018725054931643025,
+						"probability": 0.0022927676796821927
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.939664705532511,
+						"confidence_age": 0.01630833092536649,
+						"probability": 0.001996854705726676
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 1.1637988233195065,
+						"confidence_age": 0.013679312326168055,
+						"probability": 0.0016749475660397634
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 2.327597646639013,
+						"confidence_age": 0.012493849695162191,
+						"probability": 0.0015297949661801928
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5517317644260087,
+						"confidence_age": 0.017993433669882066,
+						"probability": 0.001162982230984604
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 6.206927057704035,
+						"confidence_age": 0.008352255576479846,
+						"probability": 0.0010226822675877755
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.7758658822130043,
+						"confidence_age": 0.010323145690282892,
+						"probability": 0.0004362161203469672
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.062419635184047494,
+						"confidence_age": 0.0004904537328509538,
+						"probability": 0.000058930222606014886
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 2.327597646639013,
+						"confidence_age": 0.00004725316702751286,
+						"probability": 0.000005785859348280132
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "wheezing",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 120.34305027266709,
+						"confidence_age": 1.3724132086999328,
+						"probability": 0.009777654564539126
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 57.00460276073705,
+						"confidence_age": 0.6601012700648207,
+						"probability": 0.004702841793851122
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 25.335379004772026,
+						"confidence_age": 0.29779250104377425,
+						"probability": 0.002121600250317033
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 12.00096900226043,
+						"confidence_age": 0.1930907638824601,
+						"probability": 0.0013756606078093156
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 3.457681503736495,
+						"confidence_age": 0.07806056521364983,
+						"probability": 0.0008325724553240447
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2.1837988444651546,
+						"confidence_age": 0.047156762179799,
+						"probability": 0.0006154265194940285
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 3.457681503736495,
+						"confidence_age": 0.041961585330722265,
+						"probability": 0.0005476260714014984
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 3.457681503736495,
+						"confidence_age": 0.04163185400391163,
+						"probability": 0.0005433228624141318
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 2.7297485555814434,
+						"confidence_age": 0.04102436920693178,
+						"probability": 0.0005353947893877145
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 3.093715029658969,
+						"confidence_age": 0.03933249403564128,
+						"probability": 0.0005133147143368511
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 12.00096900226043,
+						"confidence_age": 0.06441762094365801,
+						"probability": 0.00045893848985405786
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 1.637849133348866,
+						"confidence_age": 0.03211678238633461,
+						"probability": 0.00041914496856266723
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 2.7297485555814434,
+						"confidence_age": 0.0291305663686972,
+						"probability": 0.0003801729008200862
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 3.457681503736495,
+						"confidence_age": 0.029071526659538147,
+						"probability": 0.0003794023940880684
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2.1837988444651546,
+						"confidence_age": 0.02776411343692325,
+						"probability": 0.00036233979835542424
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 1.637849133348866,
+						"confidence_age": 0.023568340618975475,
+						"probability": 0.00030758222504935424
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.7297485555814434,
+						"confidence_age": 0.022951205257530114,
+						"probability": 0.00029952820585900136
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 1.637849133348866,
+						"confidence_age": 0.022223937164221667,
+						"probability": 0.00029003688264861335
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 1.0918994222325773,
+						"confidence_age": 0.02201032286132626,
+						"probability": 0.0002872490765977268
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 1.2738826592713401,
+						"confidence_age": 0.0194161535857151,
+						"probability": 0.0002533934746761928
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.9099161851938145,
+						"confidence_age": 0.017332307357751743,
+						"probability": 0.00022619792154753411
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.4558658963101032,
+						"confidence_age": 0.012240642804016062,
+						"probability": 0.00015974837645813412
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 3.437297684614722,
+						"confidence_age": 0.0398579118567134,
+						"probability": 0.00012277930094222933
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.9099161851938145,
+						"confidence_age": 0.007650401752510038,
+						"probability": 0.00009984273528633381
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.5459497111162886,
+						"confidence_age": 0.006417102735539225,
+						"probability": 0.00008374737830198817
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 2.9117317926202064,
+						"confidence_age": 0.00391812693721612,
+						"probability": 0.000051134113379388786
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.3639664740775258,
+						"confidence_age": 0.004842691274894024,
+						"probability": 0.00002181080601734836
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.029281677480575325,
+						"confidence_age": 0.00023007676962771137,
+						"probability": 0.000002946511130300744
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 1.0918994222325773,
+						"confidence_age": 0.000022166935015810638,
+						"probability": 2.892929674140066e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "dry cough or productive cough",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 827.934306364593,
+						"confidence_age": 9.441907741378392,
+						"probability": 0.007333240923404345
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 313.7435266223721,
+						"confidence_age": 3.6330838277622255,
+						"probability": 0.0028217050763106734
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 104.58117554079068,
+						"confidence_age": 1.6826690468989103,
+						"probability": 0.0013068775774188498
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 104.58117554079074,
+						"confidence_age": 1.2292490205306994,
+						"probability": 0.0009547201126426649
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 99.07690314390697,
+						"confidence_age": 0.531815255067619,
+						"probability": 0.0004130446408686521
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 18.780083035907445,
+						"confidence_age": 0.20041203215166387,
+						"probability": 0.00028512967561506467
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 14.27286310728966,
+						"confidence_age": 0.1718509216243253,
+						"probability": 0.0002444952880863593
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 10.50015309296514,
+						"confidence_age": 0.13349555629494997,
+						"probability": 0.0001899264443046349
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 9.014439857235573,
+						"confidence_age": 0.12971609211050764,
+						"probability": 0.00018454933502961253
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 14.27286310728966,
+						"confidence_age": 0.12000351098940643,
+						"probability": 0.0001707310773396308
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 12.686989428701917,
+						"confidence_age": 0.10666978754613902,
+						"probability": 0.0001517609576352274
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 6.76082989292668,
+						"confidence_age": 0.0917375450882813,
+						"probability": 0.00013051659719187598
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 3.7560166071814884,
+						"confidence_age": 0.05644776758845448,
+						"probability": 0.00008030921840815718
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 5.842692500060094,
+						"confidence_age": 0.04912424426466929,
+						"probability": 0.00006988991470043365
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 1.517311216326979,
+						"confidence_age": 0.03425479501900381,
+						"probability": 0.000041628622766202236
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.9583018208380919,
+						"confidence_age": 0.02069348611309393,
+						"probability": 0.00003077132597470143
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.517311216326979,
+						"confidence_age": 0.01841372145131463,
+						"probability": 0.00002738130357007492
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.7187263656285691,
+						"confidence_age": 0.014093592511183469,
+						"probability": 0.000020957248428133363
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.9583018208380919,
+						"confidence_age": 0.012183539948284567,
+						"probability": 0.000018116989917771216
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 1.197877276047615,
+						"confidence_age": 0.010071523686563085,
+						"probability": 0.000014976410292950069
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.47915091041904595,
+						"confidence_age": 0.009658642566233758,
+						"probability": 0.000014362453829886342
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.559009395488887,
+						"confidence_age": 0.00852026063756795,
+						"probability": 0.000012669673733809643
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.399292425349205,
+						"confidence_age": 0.007605820353992766,
+						"probability": 0.000011309896077376708
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5083663215032006,
+						"confidence_age": 0.017490580510151052,
+						"probability": 0.000006138965047111467
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.23957545520952298,
+						"confidence_age": 0.0028159742146390094,
+						"probability": 0.000004187368915099409
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 1.277735761117456,
+						"confidence_age": 0.0017193654020494634,
+						"probability": 0.0000025567056689694396
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.4303168247433226,
+						"confidence_age": 0.005725504080853103,
+						"probability": 7.527043379059264e-7
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.012849482413615606,
+						"confidence_age": 0.00010096304786752538,
+						"probability": 1.4732555651503723e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.47915091041904595,
+						"confidence_age": 0.00000972736762907008,
+						"probability": 1.4464648370700331e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "chest discomfort",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 658.8829263686773,
+						"confidence_age": 7.514016215198245,
+						"probability": 0.00543847702416593
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 313.7435266223721,
+						"confidence_age": 3.6330838277622255,
+						"probability": 0.0026806198224951397
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 104.58117554079074,
+						"confidence_age": 1.2292490205306994,
+						"probability": 0.0009069841070105316
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 61.72303025316061,
+						"confidence_age": 0.9930987288174935,
+						"probability": 0.0007187826675803675
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 99.07690314390697,
+						"confidence_age": 0.531815255067619,
+						"probability": 0.0003923924088252195
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 18.780083035907445,
+						"confidence_age": 0.20041203215166387,
+						"probability": 0.00027087319183431144
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 14.27286310728966,
+						"confidence_age": 0.1718509216243253,
+						"probability": 0.00023227052368204133
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 10.50015309296514,
+						"confidence_age": 0.13349555629494997,
+						"probability": 0.00018043012208940315
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 9.014439857235573,
+						"confidence_age": 0.12971609211050764,
+						"probability": 0.00017532186827813189
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 11.790174701769125,
+						"confidence_age": 0.09912954035607278,
+						"probability": 0.0001314288446147609
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 6.76082989292668,
+						"confidence_age": 0.0917375450882813,
+						"probability": 0.0001239907673322822
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 10.721120347128117,
+						"confidence_age": 0.09014113522452545,
+						"probability": 0.00011951175413774154
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 3.7560166071814884,
+						"confidence_age": 0.05644776758845448,
+						"probability": 0.00007629375748774932
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 5.842692500060094,
+						"confidence_age": 0.04912424426466929,
+						"probability": 0.00006639541896541196
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 1.517311216326979,
+						"confidence_age": 0.03425479501900381,
+						"probability": 0.00003954719162789212
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.4562994730958434,
+						"confidence_age": 0.01767329771159111,
+						"probability": 0.000024490582438098078
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.7187263656285691,
+						"confidence_age": 0.014093592511183469,
+						"probability": 0.000019909386006726693
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 1.197877276047615,
+						"confidence_age": 0.010071523686563085,
+						"probability": 0.000014227589778302563
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.559009395488887,
+						"confidence_age": 0.00852026063756795,
+						"probability": 0.00001203619004711916
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.399292425349205,
+						"confidence_age": 0.007605820353992766,
+						"probability": 0.000010744401273507873
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.22994202206776482,
+						"confidence_age": 0.004965348011459074,
+						"probability": 0.000006880677663723739
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5083663215032006,
+						"confidence_age": 0.017490580510151052,
+						"probability": 0.000005832016794755893
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.1625935630838632,
+						"confidence_age": 0.003277533393443785,
+						"probability": 0.000004541806689144935
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.22994202206776482,
+						"confidence_age": 0.002923408628402541,
+						"probability": 0.000004051082100381477
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.23957545520952298,
+						"confidence_age": 0.0028159742146390094,
+						"probability": 0.000003978000469344438
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 1.0620567067106468,
+						"confidence_age": 0.0014291402120074333,
+						"probability": 0.0000019804156954145464
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.4303168247433226,
+						"confidence_age": 0.005725504080853103,
+						"probability": 7.150691210106301e-7
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.012849482413615606,
+						"confidence_age": 0.00010096304786752538,
+						"probability": 1.3995927868928536e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.47915091041904595,
+						"confidence_age": 0.00000972736762907008,
+						"probability": 1.3741415952165314e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "chest pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 504.8301803323721,
+						"confidence_age": 5.7571717358727845,
+						"probability": 0.0038316183824787698
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 260.86918409519706,
+						"confidence_age": 3.020810099577065,
+						"probability": 0.001909941623527787
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 104.58117554079074,
+						"confidence_age": 1.2292490205306994,
+						"probability": 0.0008185531565770045
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 61.723030253160616,
+						"confidence_age": 0.9930987288174936,
+						"probability": 0.0006487013574912816
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 99.07690314390697,
+						"confidence_age": 0.531815255067619,
+						"probability": 0.0003541341489647605
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 18.780083035907445,
+						"confidence_age": 0.20041203215166387,
+						"probability": 0.00024446305563046605
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 8.702830648425033,
+						"confidence_age": 0.10478552596139001,
+						"probability": 0.00012136134862386661
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 6.995576789164616,
+						"confidence_age": 0.10066503271648515,
+						"probability": 0.00011658904240495774
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 10.548885634454582,
+						"confidence_age": 0.08869301860771858,
+						"probability": 0.00010812968231509949
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 10.721120347128117,
+						"confidence_age": 0.09014113522452545,
+						"probability": 0.00010785935810931173
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 4.656315132682058,
+						"confidence_age": 0.05919888723702904,
+						"probability": 0.0000685634463939732
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 5.842692500060094,
+						"confidence_age": 0.04912424426466929,
+						"probability": 0.0000599218656162843
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 1.517311216326979,
+						"confidence_age": 0.03425479501900381,
+						"probability": 0.000035691340444172644
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.34570974632836,
+						"confidence_age": 0.016331207570714833,
+						"probability": 0.000020809790713256942
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 1.0410084507685442,
+						"confidence_age": 0.015644926322808582,
+						"probability": 0.000018119767403340463
+					},
+					{
+						"disease": "anemia",
+						"instance": "paroxysmal nocturnal hemoglobinuria #1",
+						"confidence": 0.9583018208380919,
+						"confidence_age": 0.012915042017884973,
+						"probability": 0.000016465661778739128
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.5267745388587988,
+						"confidence_age": 0.008028946211872494,
+						"probability": 0.00000971922346304872
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.7968018234838973,
+						"confidence_age": 0.006699357771601754,
+						"probability": 0.000008109726173632463
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.3747630422766763,
+						"confidence_age": 0.0050851510883666755,
+						"probability": 0.000005889561448283409
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5083663215032006,
+						"confidence_age": 0.017490580510151052,
+						"probability": 0.0000052633951572671936
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.23957545520952298,
+						"confidence_age": 0.0028159742146390094,
+						"probability": 0.000003590145423583355
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.09898350232809908,
+						"confidence_age": 0.0018854621047672854,
+						"probability": 0.000002282395104384397
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.05312012156559321,
+						"confidence_age": 0.0011470712817618497,
+						"probability": 0.0000014616379837983185
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.8499219450494907,
+						"confidence_age": 0.0011436843447839816,
+						"probability": 0.0000014573222313125804
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.05312012156559314,
+						"confidence_age": 0.0010707863767351314,
+						"probability": 0.0000013644331138392019
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.05312012156559321,
+						"confidence_age": 0.0006753520749716726,
+						"probability": 8.605570210941332e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.4303168247433226,
+						"confidence_age": 0.005725504080853103,
+						"probability": 6.558720633152896e-7
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.012849482413615606,
+						"confidence_age": 0.00010096304786752538,
+						"probability": 1.2631324901708e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.3984009117419486,
+						"confidence_age": 0.000008088040840580634,
+						"probability": 9.790758865917785e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 504.8301803323721,
+						"confidence_age": 5.7571717358727845,
+						"probability": 0.0036400374633548315
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 260.86918409519706,
+						"confidence_age": 3.020810099577065,
+						"probability": 0.001814444542351397
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 104.58117554079074,
+						"confidence_age": 1.2292490205306994,
+						"probability": 0.0007776254987481544
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 57.8539464704051,
+						"confidence_age": 0.9308467270835682,
+						"probability": 0.0004865260181184612
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 99.07690314390697,
+						"confidence_age": 0.531815255067619,
+						"probability": 0.00033642744151652244
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 18.780083035907445,
+						"confidence_age": 0.20041203215166387,
+						"probability": 0.00023223990284894269
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 8.702830648425033,
+						"confidence_age": 0.10478552596139001,
+						"probability": 0.00011529328119267325
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 6.995576789164616,
+						"confidence_age": 0.10066503271648515,
+						"probability": 0.00011075959028470983
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 10.721120347128117,
+						"confidence_age": 0.09014113522452545,
+						"probability": 0.00010246639020384614
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 4.655398247396417,
+						"confidence_age": 0.05918723025353731,
+						"probability": 0.00005485075711517857
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 1.6118257166795873,
+						"confidence_age": 0.03638855294622687,
+						"probability": 0.000030337639377546738
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.3457097463283603,
+						"confidence_age": 0.016331207570714833,
+						"probability": 0.00001976930117759409
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 1.0410084507685442,
+						"confidence_age": 0.015644926322808582,
+						"probability": 0.00001721377903317344
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.7194699465168937,
+						"confidence_age": 0.014108173479045954,
+						"probability": 0.00001366530482036703
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.4603855006474074,
+						"confidence_age": 0.012278642775338034,
+						"probability": 0.000011984373123256856
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.8464352311963455,
+						"confidence_age": 0.007116665997925345,
+						"probability": 0.000006893267247587592
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.6591755268819455,
+						"confidence_age": 0.005542222116859259,
+						"probability": 0.00000540648411575498
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5083663215032006,
+						"confidence_age": 0.017490580510151052,
+						"probability": 0.000005000225399403834
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.23957545520952298,
+						"confidence_age": 0.0028159742146390094,
+						"probability": 0.0000034106381524041875
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.09898350232809908,
+						"confidence_age": 0.0018854621047672854,
+						"probability": 0.0000021682753491651772
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.0531201215655932,
+						"confidence_age": 0.0011470712817618493,
+						"probability": 0.0000013885560846084027
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.8499219450494903,
+						"confidence_age": 0.001143684344783981,
+						"probability": 0.0000013844561197469516
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.05312012156559314,
+						"confidence_age": 0.0010707863767351314,
+						"probability": 0.0000012962114581472419
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.0531201215655932,
+						"confidence_age": 0.0006753520749716725,
+						"probability": 8.175291700394266e-7
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.03291692565763569,
+						"confidence_age": 0.0005017103258975177,
+						"probability": 4.859611731524366e-7
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.02341807792870072,
+						"confidence_age": 0.00031775936000293114,
+						"probability": 2.944780724141707e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.215116045053994,
+						"confidence_age": 0.002862188329606405,
+						"probability": 2.6234882532611583e-7
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.012849482413615606,
+						"confidence_age": 0.00010096304786752538,
+						"probability": 1.19997586566226e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.12447576929358019,
+						"confidence_age": 0.000002527015064567094,
+						"probability": 2.4476897164794464e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "dyspnea (occurs or worsens with exertion)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 398.9242968780464,
+						"confidence_age": 4.549402504476095,
+						"probability": 0.002490715395767748
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 112.63539653512899,
+						"confidence_age": 1.3042941219880544,
+						"probability": 0.0006350555898229891
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 99.07690314390697,
+						"confidence_age": 0.531815255067619,
+						"probability": 0.0003196060694406963
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 59.428539147407164,
+						"confidence_age": 0.9561812898800216,
+						"probability": 0.00019461040724738448
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 78.20960181046176,
+						"confidence_age": 0.9192770680236632,
+						"probability": 0.00019440637468703858
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 6.995576789164616,
+						"confidence_age": 0.10066503271648515,
+						"probability": 0.00010522161077047433
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 4.655398247396417,
+						"confidence_age": 0.05918723025353731,
+						"probability": 0.00005210821925941963
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 4.054204497585417,
+						"confidence_age": 0.03408697822729134,
+						"probability": 0.00003073991706115384
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.34570974632836,
+						"confidence_age": 0.016331207570714833,
+						"probability": 0.000018780836118714385
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 1.1837723858066518,
+						"confidence_age": 0.02672482743726419,
+						"probability": 0.000016685701657650707
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 1.0410084507685442,
+						"confidence_age": 0.015644926322808582,
+						"probability": 0.000016353090081514768
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 6.094751882168584,
+						"confidence_age": 0.06504026674590066,
+						"probability": 0.000011611995142447146
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.4603855006474074,
+						"confidence_age": 0.012278642775338034,
+						"probability": 0.000011385154467094015
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 0.9578242344423384,
+						"confidence_age": 0.011532582930677802,
+						"probability": 0.000005764664059633667
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5083663215032006,
+						"confidence_age": 0.017490580510151052,
+						"probability": 0.000004750214129433641
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.2643502716580441,
+						"confidence_age": 0.0031071778533023945,
+						"probability": 0.000002899042429543559
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.5197725073684625,
+						"confidence_age": 0.010192282164242944,
+						"probability": 0.0000027330609640734056
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.10614684608733045,
+						"confidence_age": 0.0020219112390551706,
+						"probability": 0.0000017346202793321418
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.4180155734810705,
+						"confidence_age": 0.0035145952209377296,
+						"probability": 0.0000017233168118968982
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.5208585384704066,
+						"confidence_age": 0.004379279257105476,
+						"probability": 0.000001351621028938745
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.0531201215655932,
+						"confidence_age": 0.0011470712817618493,
+						"probability": 0.0000013191282803779826
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.05312012156559314,
+						"confidence_age": 0.0010707863767351314,
+						"probability": 0.0000012314008852398796
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.6773022726530481,
+						"confidence_age": 0.0009114013474199646,
+						"probability": 8.756069317918367e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.0531201215655932,
+						"confidence_age": 0.0006753520749716725,
+						"probability": 7.766527115374552e-7
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.023418077928700716,
+						"confidence_age": 0.0003177593600029311,
+						"probability": 2.7975416879346217e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.215116045053994,
+						"confidence_age": 0.002862188329606405,
+						"probability": 2.4923138405981e-7
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.029353982493337427,
+						"confidence_age": 0.00044740496959825,
+						"probability": 1.9438446926097457e-7
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.012849482413615606,
+						"confidence_age": 0.00010096304786752538,
+						"probability": 1.1399770723791473e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.11100245480673805,
+						"confidence_age": 0.000002253489792370555,
+						"probability": 7.34306914943834e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "recent chest injury or trauma",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 398.9242968780464,
+						"confidence_age": 4.549402504476095,
+						"probability": 0.0023661796259793607
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 112.63539653512899,
+						"confidence_age": 1.3042941219880544,
+						"probability": 0.0006033028103318395
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 99.07690314390697,
+						"confidence_age": 0.531815255067619,
+						"probability": 0.0003036257659686614
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 59.42853914740716,
+						"confidence_age": 0.9561812898800215,
+						"probability": 0.00018487988688501526
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 33.940015880011714,
+						"confidence_age": 0.39893155782158973,
+						"probability": 0.00018468605595268664
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 6.995576789164616,
+						"confidence_age": 0.10066503271648515,
+						"probability": 0.00009996053023195062
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 4.655398247396418,
+						"confidence_age": 0.059187230253537323,
+						"probability": 0.00004950280829644865
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 3.666086947561434,
+						"confidence_age": 0.03082375988564714,
+						"probability": 0.000026128929501980774
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 1.1837723858066518,
+						"confidence_age": 0.02672482743726419,
+						"probability": 0.000015851416574768175
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 1.0410084507685442,
+						"confidence_age": 0.015644926322808582,
+						"probability": 0.000015535435577439026
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.0021382108409156,
+						"confidence_age": 0.012161706623914395,
+						"probability": 0.000013146585283100069
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 6.094751882168584,
+						"confidence_age": 0.06504026674590066,
+						"probability": 0.000011031395385324785
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.4603855006474076,
+						"confidence_age": 0.012278642775338036,
+						"probability": 0.000010815896743739312
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 0.9578242344423382,
+						"confidence_age": 0.0115325829306778,
+						"probability": 0.000005476430856651984
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5083663215032006,
+						"confidence_age": 0.017490580510151052,
+						"probability": 0.000004512703422961959
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.26435027165804414,
+						"confidence_age": 0.003107177853302395,
+						"probability": 0.0000027540903080663807
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.5197725073684625,
+						"confidence_age": 0.010192282164242944,
+						"probability": 0.000002596407915869736
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.4180155734810705,
+						"confidence_age": 0.0035145952209377296,
+						"probability": 0.0000016371509713020531
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.5208585384704065,
+						"confidence_age": 0.004379279257105475,
+						"probability": 0.0000012840399774918076
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.05312012156559321,
+						"confidence_age": 0.0011470712817618497,
+						"probability": 0.0000012531718663590835
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.05312012156559315,
+						"confidence_age": 0.0010707863767351316,
+						"probability": 0.0000011698308409778856
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.07340043525569866,
+						"confidence_age": 0.0013981495490967058,
+						"probability": 0.0000011275031815658921
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.6773022726530483,
+						"confidence_age": 0.0009114013474199649,
+						"probability": 8.318265852022447e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.05312012156559321,
+						"confidence_age": 0.0006753520749716726,
+						"probability": 7.378200759605825e-7
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.02117621592164824,
+						"confidence_age": 0.0002873395860682474,
+						"probability": 2.3779104347444283e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.215116045053994,
+						"confidence_age": 0.002862188329606405,
+						"probability": 2.3676981485681955e-7
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.02935398249333742,
+						"confidence_age": 0.0004474049695982499,
+						"probability": 1.8466524579792588e-7
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.012849482413615606,
+						"confidence_age": 0.00010096304786752538,
+						"probability": 1.0829782187601895e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.11100245480673804,
+						"confidence_age": 0.000002253489792370555,
+						"probability": 6.975915691966422e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "palpitation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 398.9242968780464,
+						"confidence_age": 4.549402504476095,
+						"probability": 0.0022478706446803923
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 66.99654083740552,
+						"confidence_age": 0.7758058043548272,
+						"probability": 0.0003318165456825117
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 99.07690314390697,
+						"confidence_age": 0.531815255067619,
+						"probability": 0.00028844447767022846
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 59.42853914740716,
+						"confidence_age": 0.9561812898800215,
+						"probability": 0.0001756358925407645
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 33.940015880011714,
+						"confidence_age": 0.39893155782158973,
+						"probability": 0.00017545175315505235
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 6.995576789164616,
+						"confidence_age": 0.10066503271648515,
+						"probability": 0.00009496250372035304
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 4.655398247396418,
+						"confidence_age": 0.059187230253537323,
+						"probability": 0.00004702766788162622
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 1.1837723858066518,
+						"confidence_age": 0.02672482743726419,
+						"probability": 0.000015058845746029762
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 1.0410084507685442,
+						"confidence_age": 0.015644926322808582,
+						"probability": 0.000014758663798567076
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 2.180621291808352,
+						"confidence_age": 0.018334247949285436,
+						"probability": 0.000014370911226089424
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.0021382108409156,
+						"confidence_age": 0.012161706623914395,
+						"probability": 0.000012489256018945065
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.4603855006474076,
+						"confidence_age": 0.012278642775338036,
+						"probability": 0.000010275101906552345
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5083663215032006,
+						"confidence_age": 0.017490580510151052,
+						"probability": 0.000004287068251813862
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 1.6478240488920113,
+						"confidence_age": 0.01758478733216493,
+						"probability": 0.0000027578488463311975
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.2643502716580441,
+						"confidence_age": 0.0031071778533023945,
+						"probability": 0.000002616385792663062
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.5197725073684626,
+						"confidence_age": 0.010192282164242946,
+						"probability": 0.0000024665875200762485
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 0.31145307414536305,
+						"confidence_age": 0.00375001829922082,
+						"probability": 0.0000017342031046064621
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.5208585384704065,
+						"confidence_age": 0.004379279257105475,
+						"probability": 0.0000012198379786172169
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.053120121565593204,
+						"confidence_age": 0.0011470712817618495,
+						"probability": 0.000001190513273041129
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.07340043525569866,
+						"confidence_age": 0.0013981495490967058,
+						"probability": 0.000001071128022487598
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.0402135022666711,
+						"confidence_age": 0.0008106169398499556,
+						"probability": 8.1888158868452e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.053120121565593204,
+						"confidence_age": 0.0006753520749716725,
+						"probability": 7.009290721625532e-7
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.4394895785059434,
+						"confidence_age": 0.000591392366746913,
+						"probability": 4.990959511213468e-7
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.11301790919639618,
+						"confidence_age": 0.0009502330265693216,
+						"probability": 4.0928774282551333e-7
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.02117621592164824,
+						"confidence_age": 0.0002873395860682474,
+						"probability": 2.2590149130072072e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.215116045053994,
+						"confidence_age": 0.002862188329606405,
+						"probability": 2.2493132411397855e-7
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.02935398249333742,
+						"confidence_age": 0.0004474049695982499,
+						"probability": 1.7543198350802958e-7
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.012849482413615606,
+						"confidence_age": 0.00010096304786752538,
+						"probability": 1.02882930782218e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.09603673090705532,
+						"confidence_age": 0.0000019496667273573664,
+						"probability": 5.58073255357314e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "dry cough or productive cough (lasting 4 weeks or more)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 3331.223510012537,
+						"confidence_age": 37.98985596521258,
+						"probability": 0.0019219294012017356
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 179.4971973860405,
+						"confidence_age": 2.1098132903347895,
+						"probability": 0.0001583452072224347
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 46.7333377255531,
+						"confidence_age": 0.6724839298998153,
+						"probability": 0.00008119294068090188
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 30.263490414866133,
+						"confidence_age": 0.16244538700247269,
+						"probability": 0.0000028844447767022836
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 13.76018020208787,
+						"confidence_age": 0.1468420385469436,
+						"probability": 0.0000023579607636131733
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 15.559472067684785,
+						"confidence_age": 0.2503456468049511,
+						"probability": 0.0000017563589254076446
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 0.4912610344767045,
+						"confidence_age": 0.005914977317327659,
+						"probability": 0.0000014003690069697184
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 31.427468247364786,
+						"confidence_age": 0.36392345004281,
+						"probability": 8.295413642062802e-7
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 1.1837723858066518,
+						"confidence_age": 0.02672482743726419,
+						"probability": 7.152951729364139e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 2.180621291808352,
+						"confidence_age": 0.018334247949285436,
+						"probability": 6.826182832392475e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.0021382108409158,
+						"confidence_age": 0.012161706623914399,
+						"probability": 5.932396608998906e-7
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5083663215032006,
+						"confidence_age": 0.017490580510151052,
+						"probability": 2.0363574196115843e-7
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.26435027165804414,
+						"confidence_age": 0.003107177853302395,
+						"probability": 1.2427832515149545e-7
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 3.2934826510217214,
+						"confidence_age": 0.041872275075729784,
+						"probability": 1.1756916970406565e-7
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.5197725073684627,
+						"confidence_age": 0.010192282164242948,
+						"probability": 1.1716290720362182e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "secondary spontaneous pneumothorax",
+						"confidence": 0.982333428997954,
+						"confidence_age": 0.014763121384613921,
+						"probability": 7.379331899283536e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.5208585384704064,
+						"confidence_age": 0.004379279257105474,
+						"probability": 5.7942303984317815e-8
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.0531201215655932,
+						"confidence_age": 0.0011470712817618493,
+						"probability": 5.654938046945363e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.58946469298859,
+						"confidence_age": 0.0049561067202273535,
+						"probability": 5.137550953276172e-8
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.07340043525569866,
+						"confidence_age": 0.0013981495490967058,
+						"probability": 5.08785810681609e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.04021350226667111,
+						"confidence_age": 0.0008106169398499557,
+						"probability": 3.88968754625147e-8
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.0531201215655932,
+						"confidence_age": 0.0006753520749716725,
+						"probability": 3.329413092772128e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.4394895785059433,
+						"confidence_age": 0.0005913923667469128,
+						"probability": 2.3707057678263975e-8
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.11301790919639618,
+						"confidence_age": 0.0009502330265693216,
+						"probability": 1.944116778421188e-8
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.021176215921648242,
+						"confidence_age": 0.00028733958606824743,
+						"probability": 1.0730320836784231e-8
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.21511604505399404,
+						"confidence_age": 0.0028621883296064054,
+						"probability": 1.068423789541398e-8
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.02935398249333742,
+						"confidence_age": 0.0004474049695982499,
+						"probability": 8.333019216631403e-9
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.012849482413615606,
+						"confidence_age": 0.00010096304786752538,
+						"probability": 4.886939212155354e-9
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.09603673090705532,
+						"confidence_age": 0.0000019496667273573664,
+						"probability": 2.6508479629472412e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "dyspnea (sudden onset)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 696.5175876293416,
+						"confidence_age": 7.943208479330297,
+						"probability": 0.0002882894101802603
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "emphysema",
+						"confidence": 139.399525124206,
+						"confidence_age": 1.63850452851851,
+						"probability": 0.00011084164505570429
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 46.7333377255531,
+						"confidence_age": 0.6724839298998153,
+						"probability": 0.00007713329364685678
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 13.76018020208787,
+						"confidence_age": 0.1468420385469436,
+						"probability": 0.0000022400627254325142
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 15.559472067684784,
+						"confidence_age": 0.2503456468049511,
+						"probability": 0.000001668540979137262
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 0.4912610344767046,
+						"confidence_age": 0.00591497731732766,
+						"probability": 0.000001330350556621232
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 25.96831002289384,
+						"confidence_age": 0.13939014018677065,
+						"probability": 8.653334330106852e-7
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 1.1837723858066518,
+						"confidence_age": 0.02672482743726419,
+						"probability": 6.795304142895932e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.0021382108409158,
+						"confidence_age": 0.012161706623914399,
+						"probability": 5.63577677854896e-7
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 17.92116672324387,
+						"confidence_age": 0.20752332868118253,
+						"probability": 4.147706821031401e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 1.4684850118622508,
+						"confidence_age": 0.012346741920952545,
+						"probability": 4.0957096994354865e-7
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 1.5083663215032006,
+						"confidence_age": 0.017490580510151052,
+						"probability": 1.934539548631004e-7
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.2643502716580441,
+						"confidence_age": 0.0031071778533023945,
+						"probability": 1.1806440889392066e-7
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.5197725073684625,
+						"confidence_age": 0.010192282164242944,
+						"probability": 1.1130476184344072e-7
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.58946469298859,
+						"confidence_age": 0.0049561067202273535,
+						"probability": 4.880673405612364e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.04021350226667111,
+						"confidence_age": 0.0008106169398499557,
+						"probability": 3.695203168938896e-8
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.03692636980663975,
+						"confidence_age": 0.0007973848157070064,
+						"probability": 2.261975218778145e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.4394895785059434,
+						"confidence_age": 0.000591392366746913,
+						"probability": 2.2521704794350767e-8
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.06776651336061972,
+						"confidence_age": 0.0012908332187532951,
+						"probability": 2.035143242726435e-8
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.11301790919639619,
+						"confidence_age": 0.0009502330265693217,
+						"probability": 1.8469109395001288e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.3847036272554778,
+						"confidence_age": 0.003234514730085145,
+						"probability": 1.1588460796863562e-8
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.02117621592164824,
+						"confidence_age": 0.0002873395860682474,
+						"probability": 1.0193804794945019e-8
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.215116045053994,
+						"confidence_age": 0.002862188329606405,
+						"probability": 1.0150026000643283e-8
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.033464522637267284,
+						"confidence_age": 0.00042545713629641964,
+						"probability": 9.988239278316387e-9
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.029353982493337424,
+						"confidence_age": 0.00044740496959824993,
+						"probability": 7.916368255799835e-9
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 0.6886264413341945,
+						"confidence_age": 0.008754974241938437,
+						"probability": 5.878458485203287e-9
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.012849482413615606,
+						"confidence_age": 0.00010096304786752538,
+						"probability": 4.642592251547588e-9
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 0.3467686796788579,
+						"confidence_age": 0.003010096044715579,
+						"probability": 4.262243577341983e-9
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.0960367309070553,
+						"confidence_age": 0.000001949666727357366,
+						"probability": 2.518305564799879e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "swelling in feet or ankle region",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 321.91209683072697,
+						"confidence_age": 3.671141895853412,
+						"probability": 0.000014414470509013022
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 1749.724634367043,
+						"confidence_age": 20.566294860160657,
+						"probability": 0.000008650697624649882
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 21.598918686798672,
+						"confidence_age": 0.31080437278809886,
+						"probability": 0.0000038566646823428386
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 88.04092511292146,
+						"confidence_age": 0.9395304951877426,
+						"probability": 5.787877458973143e-7
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 127.4043471205486,
+						"confidence_age": 1.4753154530177455,
+						"probability": 1.2148352015063995e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 1.0477352116046963,
+						"confidence_age": 0.012615146686341047,
+						"probability": 1.038279465658533e-7
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 7.191178468206905,
+						"confidence_age": 0.11570316891741256,
+						"probability": 8.342704895686312e-8
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 12.001869413050244,
+						"confidence_age": 0.06442245408012731,
+						"probability": 4.3266671650534264e-8
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.5471084401218622,
+						"confidence_age": 0.012351511850619987,
+						"probability": 3.3976520714479656e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.4631619050195,
+						"confidence_age": 0.00562082070844682,
+						"probability": 2.8178883892744804e-8
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.6786951223184851,
+						"confidence_age": 0.005706339152654353,
+						"probability": 2.0478548497177436e-8
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.6971272139682736,
+						"confidence_age": 0.008083685964015682,
+						"probability": 9.672697743155023e-9
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.1221757379262313,
+						"confidence_age": 0.001436055823639671,
+						"probability": 5.903220444696033e-9
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.2402251726211797,
+						"confidence_age": 0.00471060455795395,
+						"probability": 5.565238092172037e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.27243506653362226,
+						"confidence_age": 0.002290582082579468,
+						"probability": 2.4403367028061813e-9
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 1.2497597657681891,
+						"confidence_age": 0.0016817199357839197,
+						"probability": 2.377679638610273e-9
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.01858562233816873,
+						"confidence_age": 0.0003746458143602141,
+						"probability": 1.847601584469448e-9
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.017066396231659908,
+						"confidence_age": 0.00036853027484759515,
+						"probability": 1.1309876093890727e-9
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.03131989887731816,
+						"confidence_age": 0.000596589139295016,
+						"probability": 1.0175716213632179e-9
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.05223390302700803,
+						"confidence_age": 0.00043917269498084993,
+						"probability": 9.234554697500643e-10
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.17779989121265422,
+						"confidence_age": 0.001494907576613388,
+						"probability": 5.79423039843178e-10
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 4.895551920419234,
+						"confidence_age": 0.06224046651520054,
+						"probability": 5.541995257617116e-10
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.009787089646192362,
+						"confidence_age": 0.00013280079397352763,
+						"probability": 5.09690239747251e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.09942097422257135,
+						"confidence_age": 0.001322828113851378,
+						"probability": 5.075013000321641e-10
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.015466421584941796,
+						"confidence_age": 0.00019663509046904533,
+						"probability": 4.994119639158192e-10
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.013566638118822768,
+						"confidence_age": 0.00020677880135957835,
+						"probability": 3.958184127899918e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005938692576357134,
+						"confidence_age": 0.00004666246340178848,
+						"probability": 2.3212961257737942e-10
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 0.1602673568812282,
+						"confidence_age": 0.0013911871668801634,
+						"probability": 2.131121788670992e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.8192879753706441,
+						"confidence_age": 0.000016632578916602606,
+						"probability": 1.385068060639933e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 13,
+			"Finding": "smoking",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 321.91209683072697,
+						"confidence_age": 3.671141895853412,
+						"probability": 0.000014414470509013017
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 15394.275408523858,
+						"confidence_age": 180.94459036107241,
+						"probability": 0.00000865069762464988
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 179.4725243688899,
+						"confidence_age": 2.582575830671701,
+						"probability": 0.000003856664682342839
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 88.04092511292146,
+						"confidence_age": 0.9395304951877426,
+						"probability": 5.787877458973144e-7
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 127.4043471205486,
+						"confidence_age": 1.4753154530177455,
+						"probability": 1.2148352015063992e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 1.0477352116046958,
+						"confidence_age": 0.012615146686341042,
+						"probability": 1.038279465658533e-7
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 7.191178468206904,
+						"confidence_age": 0.11570316891741254,
+						"probability": 8.34270489568631e-8
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 12.001869413050244,
+						"confidence_age": 0.06442245408012731,
+						"probability": 4.3266671650534264e-8
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.5471084401218622,
+						"confidence_age": 0.012351511850619987,
+						"probability": 3.397652071447965e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.4631619050194999,
+						"confidence_age": 0.005620820708446818,
+						"probability": 2.8178883892744804e-8
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.6786951223184851,
+						"confidence_age": 0.005706339152654353,
+						"probability": 2.0478548497177436e-8
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.6971272139682736,
+						"confidence_age": 0.008083685964015682,
+						"probability": 9.672697743155026e-9
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.12217573792623129,
+						"confidence_age": 0.0014360558236396709,
+						"probability": 5.903220444696033e-9
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.24022517262117973,
+						"confidence_age": 0.004710604557953951,
+						"probability": 5.5652380921720345e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.27243506653362226,
+						"confidence_age": 0.002290582082579468,
+						"probability": 2.4403367028061817e-9
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 1.2497597657681896,
+						"confidence_age": 0.0016817199357839203,
+						"probability": 2.377679638610274e-9
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.13626534107755126,
+						"confidence_age": 0.0027468135717053253,
+						"probability": 1.8476015844694474e-9
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.025025347670988077,
+						"confidence_age": 0.0005403951795187433,
+						"probability": 1.1309876093890727e-9
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.09185200528405203,
+						"confidence_age": 0.0017496195945453212,
+						"probability": 1.0175716213632177e-9
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.052233903027008026,
+						"confidence_age": 0.0004391726949808499,
+						"probability": 9.234554697500644e-10
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.1777998912126542,
+						"confidence_age": 0.0014949075766133879,
+						"probability": 5.79423039843178e-10
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 4.895551920419234,
+						"confidence_age": 0.06224046651520054,
+						"probability": 5.541995257617115e-10
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.009787089646192362,
+						"confidence_age": 0.00013280079397352763,
+						"probability": 5.096902397472511e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.09942097422257135,
+						"confidence_age": 0.001322828113851378,
+						"probability": 5.075013000321641e-10
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.06803766398049885,
+						"confidence_age": 0.0008650088928865989,
+						"probability": 4.994119639158191e-10
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.013566638118822763,
+						"confidence_age": 0.00020677880135957827,
+						"probability": 3.958184127899918e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005938692576357134,
+						"confidence_age": 0.00004666246340178848,
+						"probability": 2.3212961257737942e-10
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 0.7050251743521658,
+						"confidence_age": 0.006119911090897042,
+						"probability": 2.1311217886709911e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.8192879753706441,
+						"confidence_age": 0.000016632578916602606,
+						"probability": 1.3850680606399335e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 14,
+			"Finding": "cold extremities",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 321.9120968307269,
+						"confidence_age": 3.671141895853411,
+						"probability": 0.000013693746983562364
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 15394.275408523861,
+						"confidence_age": 180.94459036107244,
+						"probability": 0.000008218162743417385
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 179.4725243688899,
+						"confidence_age": 2.582575830671701,
+						"probability": 0.000003663831448225696
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 23.386114338477462,
+						"confidence_age": 0.24956538742369652,
+						"probability": 1.4469693647432862e-7
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 115.06324956876183,
+						"confidence_age": 1.332408147758191,
+						"probability": 1.0326099212804393e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 1.0477352116046963,
+						"confidence_age": 0.012615146686341047,
+						"probability": 9.863654923756061e-8
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 7.191178468206905,
+						"confidence_age": 0.11570316891741256,
+						"probability": 7.925569650901996e-8
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 12.001869413050244,
+						"confidence_age": 0.06442245408012731,
+						"probability": 4.110333806800756e-8
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.5471084401218622,
+						"confidence_age": 0.012351511850619987,
+						"probability": 3.2277694678755666e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.4631619050194999,
+						"confidence_age": 0.005620820708446818,
+						"probability": 2.676993969810756e-8
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.6786951223184851,
+						"confidence_age": 0.005706339152654353,
+						"probability": 1.9454621072318554e-8
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.6971272139682736,
+						"confidence_age": 0.008083685964015682,
+						"probability": 9.189062855997274e-9
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.1221757379262313,
+						"confidence_age": 0.001436055823639671,
+						"probability": 5.608059422461231e-9
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.24022517262117976,
+						"confidence_age": 0.004710604557953951,
+						"probability": 5.286976187563433e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.2724350665336223,
+						"confidence_age": 0.0022905820825794686,
+						"probability": 2.3183198676658733e-9
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 1.249759765768189,
+						"confidence_age": 0.0016817199357839195,
+						"probability": 2.2587956566797597e-9
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.13626534107755128,
+						"confidence_age": 0.0027468135717053257,
+						"probability": 1.7552215052459754e-9
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.025025347670988077,
+						"confidence_age": 0.0005403951795187433,
+						"probability": 1.0744382289196192e-9
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.09185200528405203,
+						"confidence_age": 0.0017496195945453212,
+						"probability": 9.66693040295057e-10
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.052233903027008026,
+						"confidence_age": 0.0004391726949808499,
+						"probability": 8.772826962625613e-10
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.17779989121265416,
+						"confidence_age": 0.0014949075766133876,
+						"probability": 5.504518878510191e-10
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 4.8955519204192335,
+						"confidence_age": 0.062240466515200536,
+						"probability": 5.264895494736259e-10
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.009787089646192362,
+						"confidence_age": 0.00013280079397352763,
+						"probability": 4.842057277598884e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.09942097422257136,
+						"confidence_age": 0.0013228281138513783,
+						"probability": 4.82126235030556e-10
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.06803766398049885,
+						"confidence_age": 0.0008650088928865989,
+						"probability": 4.744413657200284e-10
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.013566638118822765,
+						"confidence_age": 0.0002067788013595783,
+						"probability": 3.760274921504921e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.0059386925763571345,
+						"confidence_age": 0.00004666246340178849,
+						"probability": 2.205231319485105e-10
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 0.7050251743521658,
+						"confidence_age": 0.006119911090897042,
+						"probability": 2.0245656992374412e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.8192879753706441,
+						"confidence_age": 0.000016632578916602606,
+						"probability": 1.3158146576079364e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 15,
+			"Finding": "tachypnea",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 2035.5097457680536,
+						"confidence_age": 23.21330941171936,
+						"probability": 0.0000061621861426030646
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 97340.85152930736,
+						"confidence_age": 1144.146121721062,
+						"probability": 0.0000036981732345378245
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 82.86072226828524,
+						"confidence_age": 1.1923501906187486,
+						"probability": 1.8319157241128487e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 4.881097359690257,
+						"confidence_age": 0.05923581542859616,
+						"probability": 2.007745477358067e-8
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 67.45781403119545,
+						"confidence_age": 0.36209341871734163,
+						"probability": 1.644133522720302e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 10.797141968939975,
+						"confidence_age": 0.11522191671293215,
+						"probability": 7.2348468237164294e-9
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 53.12358534728585,
+						"confidence_age": 0.6151599074433561,
+						"probability": 5.1630496064021965e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 0.4837291762890511,
+						"confidence_age": 0.005824290763315179,
+						"probability": 4.931827461878032e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 3.320097290273884,
+						"confidence_age": 0.05341902989852904,
+						"probability": 3.962784825450998e-9
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.2525946557390187,
+						"confidence_age": 0.005702573118902784,
+						"probability": 1.613884733937784e-9
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.3133469495290618,
+						"confidence_age": 0.002634561392388237,
+						"probability": 9.727310536159275e-10
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.32185686731390045,
+						"confidence_age": 0.003732159337055866,
+						"probability": 4.5945314279986346e-10
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 48.15296970904143,
+						"confidence_age": 0.6122013099855763,
+						"probability": 3.6854268463153805e-10
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.05640735217731795,
+						"confidence_age": 0.0006630130332361154,
+						"probability": 2.8040297112306155e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "pernicious anemia",
+						"confidence": 0.11090963020891711,
+						"confidence_age": 0.002174840396126953,
+						"probability": 2.643488093781717e-10
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.1242616071994478,
+						"confidence_age": 0.009452577182332856,
+						"probability": 2.4770334953295854e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.1257806255501543,
+						"confidence_age": 0.0010575395116592446,
+						"probability": 1.1591599338329365e-10
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.5770019517892606,
+						"confidence_age": 0.0007764337690242282,
+						"probability": 1.1293978283398799e-10
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 4.458004615341542,
+						"confidence_age": 0.038697330082955346,
+						"probability": 9.110545646568485e-11
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.06291238517720066,
+						"confidence_age": 0.0012681771613130808,
+						"probability": 8.776107526229879e-11
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.011553960085672402,
+						"confidence_age": 0.00024949520848765945,
+						"probability": 5.372191144598096e-11
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.042407179184616145,
+						"confidence_age": 0.000807782382337181,
+						"probability": 4.8334652014752856e-11
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.024115885965995263,
+						"confidence_age": 0.00020276176999564443,
+						"probability": 4.386413481312806e-11
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.0045186042812942655,
+						"confidence_age": 0.00006131283741142769,
+						"probability": 2.421028638799442e-11
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.04590169866762532,
+						"confidence_age": 0.0006107368987869358,
+						"probability": 2.41063117515278e-11
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.031412328982921844,
+						"confidence_age": 0.00039936620875600533,
+						"probability": 2.372206828600141e-11
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0062635851210714084,
+						"confidence_age": 0.00009546776527869993,
+						"probability": 1.8801374607524604e-11
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.002741836712536677,
+						"confidence_age": 0.000021543606375884035,
+						"probability": 1.102615659742552e-11
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.3782573049755368,
+						"confidence_age": 0.000007679100224729678,
+						"probability": 6.579073288039684e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 16,
+			"Finding": "dyspnea (recurrent)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 22312.318367072778,
+						"confidence_age": 254.4535839361532,
+						"probability": 0.000004929748914082453
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 442245.69564997574,
+						"confidence_age": 5198.16387031922,
+						"probability": 0.0000025887212641764763
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 38.34385858546722,
+						"confidence_age": 0.5517609048278733,
+						"probability": 9.159578620564241e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 3.3140099817879527,
+						"confidence_age": 0.039901992008288874,
+						"probability": 2.465913730939015e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.2587312996847455,
+						"confidence_age": 0.027411416022115408,
+						"probability": 1.0038727386790335e-9
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 31.216151765152038,
+						"confidence_age": 0.16755898889068954,
+						"probability": 8.220667613601509e-10
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 4.996385180469355,
+						"confidence_age": 0.053319024496098946,
+						"probability": 3.6174234118582143e-10
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 24.582977173600746,
+						"confidence_age": 0.2846656878283724,
+						"probability": 2.5815248032010987e-10
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 1.5363773993674268,
+						"confidence_age": 0.02471969435132503,
+						"probability": 1.981392412725499e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.16089701316004493,
+						"confidence_age": 0.0013527914015410637,
+						"probability": 1.3040549255620545e-10
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.11688835788496128,
+						"confidence_age": 0.002638869795710026,
+						"probability": 8.06942366968892e-11
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.1450015253551388,
+						"confidence_age": 0.0012191451715492835,
+						"probability": 4.8636552680796404e-11
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.15652137526006457,
+						"confidence_age": 0.0013160018725678773,
+						"probability": 2.6318480887876833e-11
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.14893949590600256,
+						"confidence_age": 0.0017270594066891747,
+						"probability": 2.297265713999318e-11
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 22.28282122639022,
+						"confidence_age": 0.2832965947354456,
+						"probability": 1.8427134231576904e-11
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.026102542626466604,
+						"confidence_age": 0.00030680975606771517,
+						"probability": 1.4020148556153079e-11
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.520252864076535,
+						"confidence_age": 0.00437418686231162,
+						"probability": 1.2385167476647926e-11
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.004152300790620427,
+						"confidence_age": 0.00003262613465578575,
+						"probability": 7.718309618197867e-12
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.058205074574068504,
+						"confidence_age": 0.0004893771665701087,
+						"probability": 5.7957996691646825e-12
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.2670080665156606,
+						"confidence_age": 0.00035929528280060973,
+						"probability": 5.6469891416994e-12
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 2.062944829162347,
+						"confidence_age": 0.01790721721603808,
+						"probability": 4.555272823284245e-12
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.029112751306928083,
+						"confidence_age": 0.0005868498898339899,
+						"probability": 4.3880537631149395e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.005346603306120608,
+						"confidence_age": 0.00011545408644916041,
+						"probability": 2.686095572299048e-12
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.01962395254531663,
+						"confidence_age": 0.0003738018760672053,
+						"probability": 2.4167326007376426e-12
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.0020909873679914705,
+						"confidence_age": 0.000028372559432508773,
+						"probability": 1.2105143193997212e-12
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.021241043939316577,
+						"confidence_age": 0.0002826189374042696,
+						"probability": 1.20531558757639e-12
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.014536077738515403,
+						"confidence_age": 0.00018480699918078749,
+						"probability": 1.186103414300071e-12
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0028984785015846184,
+						"confidence_age": 0.000044177776769369706,
+						"probability": 9.400687303762304e-13
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.17503883883538443,
+						"confidence_age": 0.0000035535091297817834,
+						"probability": 3.289536644019842e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 17,
+			"Finding": "recent unexplained weight gain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 22312.318367072778,
+						"confidence_age": 254.4535839361532,
+						"probability": 0.00000468326146837833
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 442245.69564997574,
+						"confidence_age": 5198.16387031922,
+						"probability": 0.0000024592852009676526
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 38.34385858546722,
+						"confidence_age": 0.5517609048278733,
+						"probability": 8.701599689536028e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 3.3140099817879536,
+						"confidence_age": 0.03990199200828889,
+						"probability": 2.3426180443920642e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.2587312996847455,
+						"confidence_age": 0.027411416022115408,
+						"probability": 9.536791017450821e-10
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 31.21615176515204,
+						"confidence_age": 0.16755898889068957,
+						"probability": 7.809634232921439e-10
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 24.58297717360074,
+						"confidence_age": 0.2846656878283723,
+						"probability": 2.4524485630410435e-10
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 1.5363773993674266,
+						"confidence_age": 0.024719694351325025,
+						"probability": 1.8823227920892239e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.16089701316004495,
+						"confidence_age": 0.001352791401541064,
+						"probability": 1.2388521792839518e-10
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 1.335252907431123,
+						"confidence_age": 0.014249178137446852,
+						"probability": 9.043558529645536e-11
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.11688835788496127,
+						"confidence_age": 0.0026388697957100255,
+						"probability": 7.665952486204472e-11
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.14500152535513883,
+						"confidence_age": 0.0012191451715492837,
+						"probability": 4.620472504675658e-11
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.15652137526006457,
+						"confidence_age": 0.0013160018725678773,
+						"probability": 2.5002556843482998e-11
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.14893949590600253,
+						"confidence_age": 0.0017270594066891743,
+						"probability": 2.1824024282993524e-11
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 22.28282122639022,
+						"confidence_age": 0.2832965947354456,
+						"probability": 1.750577751999806e-11
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.026102542626466604,
+						"confidence_age": 0.00030680975606771517,
+						"probability": 1.3319141128345427e-11
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.5202528640765349,
+						"confidence_age": 0.004374186862311619,
+						"probability": 1.1765909102815536e-11
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.004152300790620428,
+						"confidence_age": 0.00003262613465578576,
+						"probability": 7.33239413728797e-12
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.05820507457406851,
+						"confidence_age": 0.0004893771665701087,
+						"probability": 5.506009685706446e-12
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.2670080665156605,
+						"confidence_age": 0.0003592952828006096,
+						"probability": 5.3646396846144296e-12
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 2.062944829162347,
+						"confidence_age": 0.01790721721603808,
+						"probability": 4.327509182120033e-12
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.029112751306928083,
+						"confidence_age": 0.0005868498898339899,
+						"probability": 4.168651074959191e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.0053466033061206055,
+						"confidence_age": 0.00011545408644916035,
+						"probability": 2.551790793684095e-12
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.019623952545316632,
+						"confidence_age": 0.0003738018760672054,
+						"probability": 2.2958959707007603e-12
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.002090987367991471,
+						"confidence_age": 0.00002837255943250878,
+						"probability": 1.149988603429735e-12
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.021241043939316577,
+						"confidence_age": 0.0002826189374042696,
+						"probability": 1.1450498081975704e-12
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.0145360777385154,
+						"confidence_age": 0.00018480699918078743,
+						"probability": 1.1267982435850671e-12
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0028984785015846184,
+						"confidence_age": 0.000044177776769369706,
+						"probability": 8.930652938574185e-13
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.17503883883538437,
+						"confidence_age": 0.0000035535091297817825,
+						"probability": 3.1250598118188497e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 18,
+			"Finding": "tachycardia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 21002.376077081582,
+						"confidence_age": 239.5147727846556,
+						"probability": 0.000003918297664399426
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 273653.50617074606,
+						"confidence_age": 3216.528239290796,
+						"probability": 0.0000013526068605322089
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 38.34385858546722,
+						"confidence_age": 0.5517609048278733,
+						"probability": 8.26651970505923e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 2.6099162110977354,
+						"confidence_age": 0.03142442429860758,
+						"probability": 1.6398326310744456e-9
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 31.216151765152024,
+						"confidence_age": 0.16755898889068946,
+						"probability": 7.419152521275364e-10
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.6353006379364127,
+						"confidence_age": 0.007709854681706004,
+						"probability": 2.384197754362705e-10
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 24.582977173600742,
+						"confidence_age": 0.28466568782837237,
+						"probability": 2.329826134888992e-10
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 1.5363773993674266,
+						"confidence_age": 0.024719694351325025,
+						"probability": 1.7882066524847627e-10
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.11688835788496127,
+						"confidence_age": 0.0026388697957100255,
+						"probability": 7.282654861894249e-11
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 1.051565393034731,
+						"confidence_age": 0.011221801147284991,
+						"probability": 6.330490970751875e-11
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.09050919435782967,
+						"confidence_age": 0.0007609840449051053,
+						"probability": 6.194260896419758e-11
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.0978810307248816,
+						"confidence_age": 0.0008229650391762407,
+						"probability": 2.7722835028053934e-11
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.14893949590600253,
+						"confidence_age": 0.0017270594066891743,
+						"probability": 2.0732823068843848e-11
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.12326688118608473,
+						"confidence_age": 0.0010364044284491972,
+						"probability": 1.7501789790438093e-11
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.0261025426264666,
+						"confidence_age": 0.0003068097560677151,
+						"probability": 1.2653184071928156e-11
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 17.548618340724616,
+						"confidence_age": 0.2231074677541915,
+						"probability": 1.225404426399864e-11
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.004152300790620427,
+						"confidence_age": 0.00003262613465578575,
+						"probability": 6.965774430423571e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.3219229079000402,
+						"confidence_age": 0.002706666414826992,
+						"probability": 6.471250006548544e-12
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.05820507457406851,
+						"confidence_age": 0.0004893771665701087,
+						"probability": 5.230709201421125e-12
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.26700806651566056,
+						"confidence_age": 0.0003592952828006097,
+						"probability": 5.096407700383708e-12
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.029112751306928076,
+						"confidence_age": 0.0005868498898339897,
+						"probability": 3.960218521211232e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.0053466033061206055,
+						"confidence_age": 0.00011545408644916035,
+						"probability": 2.424201253999891e-12
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 1.2765123348626035,
+						"confidence_age": 0.011080656804873605,
+						"probability": 2.3801300501660172e-12
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.011039037332695211,
+						"confidence_age": 0.00021027429899295088,
+						"probability": 1.1479479853503802e-12
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.021241043939316574,
+						"confidence_age": 0.00028261893740426955,
+						"probability": 1.0877973177876916e-12
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.0145360777385154,
+						"confidence_age": 0.00018480699918078743,
+						"probability": 1.070458331405814e-12
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.001999608838181441,
+						"confidence_age": 0.000027132646266327983,
+						"probability": 9.774903129152748e-13
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0019565729572441235,
+						"confidence_age": 0.00002982152301314662,
+						"probability": 5.358391763144514e-13
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.11815725331255394,
+						"confidence_age": 0.0000023987412233176972,
+						"probability": 1.875035887091309e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 19,
+			"Finding": "fatigue",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 21002.37607708158,
+						"confidence_age": 239.51477278465555,
+						"probability": 0.000003722382781179456
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 273653.50617074606,
+						"confidence_age": 3216.528239290796,
+						"probability": 0.0000012849765175055982
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 19.708067698930492,
+						"confidence_age": 0.28359538312329113,
+						"probability": 3.3066078820236917e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 1.6768136826331739,
+						"confidence_age": 0.020189500493815793,
+						"probability": 8.199163155372228e-10
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 31.21615176515203,
+						"confidence_age": 0.16755898889068951,
+						"probability": 7.048194895211595e-10
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 24.582977173600742,
+						"confidence_age": 0.28466568782837237,
+						"probability": 2.2133348281445416e-10
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 1.6780506890560247,
+						"confidence_age": 0.026999160594639204,
+						"probability": 1.5199756546120484e-10
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.4489833342244471,
+						"confidence_age": 0.005448753007115344,
+						"probability": 1.3113087648994878e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.05815016392402903,
+						"confidence_age": 0.0004889154882967367,
+						"probability": 3.0971304482098795e-11
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.12326688118608474,
+						"confidence_age": 0.0010364044284491974,
+						"probability": 1.6626700300916183e-11
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.1168883578849613,
+						"confidence_age": 0.0026388697957100264,
+						"probability": 1.6284511327864885e-11
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 0.3378038022305954,
+						"confidence_age": 0.0036048800393560752,
+						"probability": 1.582622742687969e-11
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.06917504706894616,
+						"confidence_age": 0.0005816106031936398,
+						"probability": 1.5247559265429672e-11
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 17.548618340724623,
+						"confidence_age": 0.2231074677541916,
+						"probability": 1.1641342050798706e-11
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.023478432226309555,
+						"confidence_age": 0.000275965915171135,
+						"probability": 8.857228850349707e-12
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.004152300790620427,
+						"confidence_age": 0.00003262613465578575,
+						"probability": 6.6174857089023914e-12
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.05741420745027596,
+						"confidence_age": 0.0006657585783503819,
+						"probability": 6.219846920653156e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.35160824264077295,
+						"confidence_age": 0.00295625504795585,
+						"probability": 5.500562505566263e-12
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.02911275130692809,
+						"confidence_age": 0.00058684988983399,
+						"probability": 3.7622075951506704e-12
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.048614121993005126,
+						"confidence_age": 0.0004087382663852757,
+						"probability": 3.3999609809237313e-12
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 1.2765123348626035,
+						"confidence_age": 0.011080656804873605,
+						"probability": 2.2611235476577157e-12
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.12008276134773026,
+						"confidence_age": 0.00016158751404381376,
+						"probability": 1.7837426951342978e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.003778582352687251,
+						"confidence_age": 0.00008159437845389026,
+						"probability": 1.33331068969994e-12
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.01307762575066627,
+						"confidence_age": 0.0002491058327222923,
+						"probability": 1.0583557485597636e-12
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.021241043939316577,
+						"confidence_age": 0.0002826189374042696,
+						"probability": 1.0334074518983067e-12
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.001999608838181441,
+						"confidence_age": 0.000027132646266327983,
+						"probability": 9.28615797269511e-13
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.010273020771368468,
+						"confidence_age": 0.00013060786929118372,
+						"probability": 5.887520822731975e-13
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0015084660381784825,
+						"confidence_age": 0.000022991606065869248,
+						"probability": 3.215035057886707e-13
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.10627880600155974,
+						"confidence_age": 0.0000021575937657128947,
+						"probability": 1.3125251209639169e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 20,
+			"Finding": "recent upper respiratory tract infection",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 21002.37607708158,
+						"confidence_age": 239.51477278465555,
+						"probability": 0.0000035362636421204828
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 273653.5061707461,
+						"confidence_age": 3216.528239290797,
+						"probability": 0.000001220727691630318
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 19.7080676989305,
+						"confidence_age": 0.28359538312329124,
+						"probability": 3.1412774879225073e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 1.592588067200753,
+						"confidence_age": 0.019175390743891477,
+						"probability": 7.10068358232572e-10
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 31.216151765152027,
+						"confidence_age": 0.1675589888906895,
+						"probability": 6.695785150451016e-10
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 24.582977173600742,
+						"confidence_age": 0.28466568782837237,
+						"probability": 2.1026680867373158e-10
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.3814115694758237,
+						"confidence_age": 0.00462871843499446,
+						"probability": 1.0157354016383065e-10
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.3680637848195339,
+						"confidence_age": 0.005921998244882306,
+						"probability": 3.0399513092240955e-11
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.05815016392402904,
+						"confidence_age": 0.0004889154882967367,
+						"probability": 2.942273925799385e-11
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.12326688118608474,
+						"confidence_age": 0.0010364044284491974,
+						"probability": 1.579536528587038e-11
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.11688835788496127,
+						"confidence_age": 0.0026388697957100255,
+						"probability": 1.5470285761471642e-11
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 0.3378038022305953,
+						"confidence_age": 0.003604880039356074,
+						"probability": 1.5034916055535707e-11
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 17.548618340724616,
+						"confidence_age": 0.2231074677541915,
+						"probability": 1.1059274948258775e-11
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.023478432226309555,
+						"confidence_age": 0.000275965915171135,
+						"probability": 8.41436740783222e-12
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.0379321521771022,
+						"confidence_age": 0.00031892630136078694,
+						"probability": 7.623779632714836e-12
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.004152300790620427,
+						"confidence_age": 0.00003262613465578575,
+						"probability": 6.286611423457272e-12
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.05741420745027596,
+						"confidence_age": 0.0006657585783503819,
+						"probability": 5.908854574620498e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.26992623936478416,
+						"confidence_age": 0.002269488342209155,
+						"probability": 3.8503937538963845e-12
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.029112751306928083,
+						"confidence_age": 0.0005868498898339899,
+						"probability": 3.5740972153931368e-12
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.048614121993005126,
+						"confidence_age": 0.0004087382663852757,
+						"probability": 3.229962931877545e-12
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 1.276512334862604,
+						"confidence_age": 0.011080656804873608,
+						"probability": 2.1480673702748308e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.003778582352687251,
+						"confidence_age": 0.00008159437845389026,
+						"probability": 1.2666451552149429e-12
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.013077625750666268,
+						"confidence_age": 0.0002491058327222922,
+						"probability": 1.005437961131775e-12
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.021241043939316584,
+						"confidence_age": 0.00028261893740426966,
+						"probability": 9.817370793033913e-13
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.06584740842675282,
+						"confidence_age": 0.00008860654863769734,
+						"probability": 8.918713475671491e-13
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.010273020771368465,
+						"confidence_age": 0.00013060786929118366,
+						"probability": 5.593144781595377e-13
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0015084660381784823,
+						"confidence_age": 0.000022991606065869248,
+						"probability": 3.054283304992373e-13
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.0006578915660351784,
+						"confidence_age": 0.000008926915505668187,
+						"probability": 2.7858473918085344e-13
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.04662240519687791,
+						"confidence_age": 9.464936103426675e-7,
+						"probability": 5.2501004838556655e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 21,
+			"Finding": "hypertension disease",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 9576.396074982606,
+						"confidence_age": 109.21089697552209,
+						"probability": 1.7681318210602413e-7
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 124777.04202518561,
+						"confidence_age": 1466.6315988612344,
+						"probability": 6.103638458151595e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 8.986233817776442,
+						"confidence_age": 0.12931021251393832,
+						"probability": 1.5706387439612534e-10
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 3.935345488385049,
+						"confidence_age": 0.047383117459011734,
+						"probability": 1.4201367164651446e-10
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 242.98187410444157,
+						"confidence_age": 2.813678824713179,
+						"probability": 8.73020330098511e-11
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 14.233543487780583,
+						"confidence_age": 0.07640141466145121,
+						"probability": 3.3478925752255074e-11
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.17391119192780308,
+						"confidence_age": 0.0021105441065523496,
+						"probability": 5.078677008191533e-12
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 1.043407501636701,
+						"confidence_age": 0.011134744045885292,
+						"probability": 3.758729013883926e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.1678250390028636,
+						"confidence_age": 0.002700237370295923,
+						"probability": 1.5199756546120478e-12
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.026514571471241227,
+						"confidence_age": 0.00022292946026389188,
+						"probability": 1.4711369628996924e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.03501382589223721,
+						"confidence_age": 0.0007560855088782262,
+						"probability": 9.499838664112068e-13
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.05620566324654636,
+						"confidence_age": 0.0004725664974414947,
+						"probability": 7.89768264293519e-13
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.0532972653928521,
+						"confidence_age": 0.0012032382555802318,
+						"probability": 7.735142880735821e-13
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.1131035814898193,
+						"confidence_age": 0.002154424846532992,
+						"probability": 7.038065727922428e-13
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.10790806819704125,
+						"confidence_age": 0.0021751924875119035,
+						"probability": 5.837929443269495e-13
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 8.001595590075494,
+						"confidence_age": 0.10172970289928444,
+						"probability": 5.529637474129388e-13
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.010705396636722769,
+						"confidence_age": 0.00012583142484329173,
+						"probability": 4.20718370391611e-13
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.09519383914451991,
+						"confidence_age": 0.0012102637361510189,
+						"probability": 4.194858586196533e-13
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.01729581985825104,
+						"confidence_age": 0.0001454199548351557,
+						"probability": 3.8118898163574186e-13
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.0018933132540577813,
+						"confidence_age": 0.000014876449536605782,
+						"probability": 3.1433057117286377e-13
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.026178999407359495,
+						"confidence_age": 0.00030356412118330784,
+						"probability": 2.9544272873102487e-13
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.12307753035659985,
+						"confidence_age": 0.001034812402786502,
+						"probability": 1.9251968769481913e-13
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.022166448469159626,
+						"confidence_age": 0.00018637127130479694,
+						"probability": 1.6149814659387727e-13
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 0.5820478439382264,
+						"confidence_age": 0.00505241682869465,
+						"probability": 1.074033685137415e-13
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.009685220808467206,
+						"confidence_age": 0.00012886498522552333,
+						"probability": 4.9086853965169576e-14
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.03002426303059304,
+						"confidence_age": 0.00004040168605102462,
+						"probability": 4.459356737835744e-14
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.000687811140712813,
+						"confidence_age": 0.000010483419841576873,
+						"probability": 1.5271416524961858e-14
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.00029997702105803356,
+						"confidence_age": 0.000004070381289070854,
+						"probability": 1.3929236959042669e-14
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.02125829079981272,
+						"confidence_age": 4.315701072019436e-7,
+						"probability": 2.625050241927834e-16
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 22,
+			"Finding": "dry cough or productive cough (dry)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 5846.352798442016,
+						"confidence_age": 66.67283058824047,
+						"probability": 7.072527284240964e-8
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 112186.32838526735,
+						"confidence_age": 1318.6401240129205,
+						"probability": 4.8829107665212744e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 8.986233817776442,
+						"confidence_age": 0.12931021251393832,
+						"probability": 1.4921068067631905e-10
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 4.073351948520379,
+						"confidence_age": 0.04904476986792851,
+						"probability": 7.810751940558295e-11
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 170.5577850045543,
+						"confidence_age": 1.9750231568755734,
+						"probability": 3.3811931993720343e-11
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 14.233543487780583,
+						"confidence_age": 0.07640141466145121,
+						"probability": 3.1804979464642324e-11
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.17391119192780308,
+						"confidence_age": 0.0021105441065523496,
+						"probability": 4.8247431577819566e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.16782503900286364,
+						"confidence_age": 0.0027002373702959236,
+						"probability": 1.4439768718814456e-12
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.026514571471241234,
+						"confidence_age": 0.00022292946026389193,
+						"probability": 1.397580114754708e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.03501382589223722,
+						"confidence_age": 0.0007560855088782263,
+						"probability": 9.024846730906465e-13
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 0.46326999839229566,
+						"confidence_age": 0.0049437950639078096,
+						"probability": 7.517458027767853e-13
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.05620566324654636,
+						"confidence_age": 0.0004725664974414947,
+						"probability": 7.502798510788432e-13
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.053297265392852115,
+						"confidence_age": 0.0012032382555802322,
+						"probability": 7.348385736699029e-13
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11310358148981933,
+						"confidence_age": 0.0021544248465329924,
+						"probability": 6.686162441526302e-13
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.10790806819704127,
+						"confidence_age": 0.002175192487511904,
+						"probability": 5.54603297110602e-13
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 8.001595590075492,
+						"confidence_age": 0.10172970289928443,
+						"probability": 5.253155600422917e-13
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.01070539663672277,
+						"confidence_age": 0.00012583142484329175,
+						"probability": 3.996824518720305e-13
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.09519383914451997,
+						"confidence_age": 0.0012102637361510198,
+						"probability": 3.9851156568867057e-13
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.001893313254057781,
+						"confidence_age": 0.00001487644953660578,
+						"probability": 2.9861404261422047e-13
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.026178999407359484,
+						"confidence_age": 0.00030356412118330773,
+						"probability": 2.8067059229447347e-13
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0798139104559401,
+						"confidence_age": 0.0006710601375848065,
+						"probability": 1.0826177630353681e-13
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.011854912288961302,
+						"confidence_age": 0.00009967384164290263,
+						"probability": 5.717834724536125e-14
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.009685220808467204,
+						"confidence_age": 0.0001288649852255233,
+						"probability": 4.6632511266911127e-14
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.030024263030593044,
+						"confidence_age": 0.000040401686051024626,
+						"probability": 4.236388900943956e-14
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.010137096049701774,
+						"confidence_age": 0.00008523077031263278,
+						"probability": 2.5839703455020357e-14
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0006878111407128132,
+						"confidence_age": 0.000010483419841576877,
+						"probability": 1.4507845698713758e-14
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 0.5588497000373552,
+						"confidence_age": 0.0048510473126662035,
+						"probability": 1.0740336851374151e-14
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.0002131023268976547,
+						"confidence_age": 0.0000028915805650789016,
+						"probability": 2.7858473918085336e-15
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.021258290799812722,
+						"confidence_age": 4.315701072019437e-7,
+						"probability": 2.4937977298314423e-16
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 23,
+			"Finding": "post history of myocardial infarction",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 5846.352798442017,
+						"confidence_age": 66.67283058824049,
+						"probability": 6.718900920028916e-8
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 112186.3283852674,
+						"confidence_age": 1318.6401240129212,
+						"probability": 4.638765228195209e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 8.986233817776442,
+						"confidence_age": 0.12931021251393832,
+						"probability": 1.417501466425031e-10
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 4.073351948520378,
+						"confidence_age": 0.049044769867928495,
+						"probability": 7.420214343530379e-11
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 14.233543487780585,
+						"confidence_age": 0.07640141466145123,
+						"probability": 3.0214730491410193e-11
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 170.5577850045543,
+						"confidence_age": 1.9750231568755734,
+						"probability": 1.977333778257709e-11
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.147750204588481,
+						"confidence_age": 0.0017930607000012741,
+						"probability": 3.859794526225565e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.16782503900286364,
+						"confidence_age": 0.0027002373702959236,
+						"probability": 1.3717780282873734e-12
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.026514571471241238,
+						"confidence_age": 0.00022292946026389196,
+						"probability": 1.3277011090169722e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.03160596580508214,
+						"confidence_age": 0.0006824964747603151,
+						"probability": 7.671119721270495e-13
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 0.46326999839229566,
+						"confidence_age": 0.0049437950639078096,
+						"probability": 7.141585126379456e-13
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.05620566324654637,
+						"confidence_age": 0.00047256649744149474,
+						"probability": 7.127658585249007e-13
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.053297265392852115,
+						"confidence_age": 0.0012032382555802322,
+						"probability": 6.980966449864076e-13
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11310358148981929,
+						"confidence_age": 0.0021544248465329915,
+						"probability": 6.35185431944999e-13
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.10790806819704125,
+						"confidence_age": 0.0021751924875119035,
+						"probability": 5.268731322550718e-13
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 7.834235690622098,
+						"confidence_age": 0.09960194317224137,
+						"probability": 4.843170159917621e-13
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.010705396636722769,
+						"confidence_age": 0.00012583142484329173,
+						"probability": 3.7969832927842883e-13
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.09519383914451993,
+						"confidence_age": 0.001210263736151019,
+						"probability": 3.785859874042371e-13
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.0018933132540577813,
+						"confidence_age": 0.000014876449536605782,
+						"probability": 2.8368334048350927e-13
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.026178999407359488,
+						"confidence_age": 0.0003035641211833078,
+						"probability": 2.6663706267974996e-13
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0798139104559401,
+						"confidence_age": 0.0006710601375848065,
+						"probability": 1.0284868748835991e-13
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.009685220808467206,
+						"confidence_age": 0.00012886498522552333,
+						"probability": 4.4300885703565556e-14
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.03002426303059304,
+						"confidence_age": 0.00004040168605102462,
+						"probability": 4.024569455896759e-14
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.006924231939596925,
+						"confidence_age": 0.00005821762160895608,
+						"probability": 3.1448090984948696e-14
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.010137096049701774,
+						"confidence_age": 0.00008523077031263278,
+						"probability": 2.454771828226935e-14
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0006878111407128132,
+						"confidence_age": 0.000010483419841576877,
+						"probability": 1.378245341377808e-14
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 0.5588497000373552,
+						"confidence_age": 0.0048510473126662035,
+						"probability": 1.0203320008805442e-14
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.00015841518330327297,
+						"confidence_age": 0.0000021495319733094717,
+						"probability": 1.9500931742659727e-15
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.02125829079981272,
+						"confidence_age": 4.315701072019436e-7,
+						"probability": 2.3691078433398697e-16
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 24,
+			"Finding": "overweight or obese",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 5846.352798442018,
+						"confidence_age": 66.6728305882405,
+						"probability": 6.38295587402747e-8
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 92686.28894622675,
+						"confidence_age": 1089.4363093034435,
+						"probability": 3.479073921146406e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 9.37702309194549,
+						"confidence_age": 0.1349335965829132,
+						"probability": 1.3427541153088808e-10
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 4.073351948520377,
+						"confidence_age": 0.049044769867928474,
+						"probability": 7.049203626353861e-11
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 14.233543487780583,
+						"confidence_age": 0.07640141466145121,
+						"probability": 2.870399396683968e-11
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 170.5577850045543,
+						"confidence_age": 1.9750231568755734,
+						"probability": 1.878467089344823e-11
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.14775020458848104,
+						"confidence_age": 0.0017930607000012746,
+						"probability": 3.6668047999142875e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.1678250390028636,
+						"confidence_age": 0.002700237370295923,
+						"probability": 1.3031891268730042e-12
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.026514571471241238,
+						"confidence_age": 0.00022292946026389196,
+						"probability": 1.2613160535661235e-12
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 0.4632699983922956,
+						"confidence_age": 0.0049437950639078096,
+						"probability": 6.784505870060481e-13
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.056205663246546377,
+						"confidence_age": 0.0004725664974414948,
+						"probability": 6.771275655986557e-13
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.05329726539285211,
+						"confidence_age": 0.001203238255580232,
+						"probability": 6.631918127370874e-13
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.029593905817448862,
+						"confidence_age": 0.0006390482265076012,
+						"probability": 6.520451763079921e-13
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11310358148981929,
+						"confidence_age": 0.0021544248465329915,
+						"probability": 6.034261603477488e-13
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.1079080681970413,
+						"confidence_age": 0.0021751924875119044,
+						"probability": 5.005294756423181e-13
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 7.335502246942466,
+						"confidence_age": 0.09326120719273316,
+						"probability": 4.1166946359299755e-13
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.08913372644323085,
+						"confidence_age": 0.0011332174198634322,
+						"probability": 3.2179808929360157e-13
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.0018933132540577813,
+						"confidence_age": 0.000014876449536605782,
+						"probability": 2.6949917345933404e-13
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.026178999407359488,
+						"confidence_age": 0.0003035641211833078,
+						"probability": 2.5330520954576233e-13
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.005896401699071648,
+						"confidence_age": 0.00006930641174914233,
+						"probability": 1.8984916463921454e-13
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0798139104559401,
+						"confidence_age": 0.0006710601375848065,
+						"probability": 9.770625311394191e-14
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.009685220808467206,
+						"confidence_age": 0.00012886498522552333,
+						"probability": 4.2085841418387267e-14
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.03002426303059304,
+						"confidence_age": 0.00004040168605102462,
+						"probability": 3.8233409831019225e-14
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.006924231939596922,
+						"confidence_age": 0.000058217621608956056,
+						"probability": 2.9875686435701265e-14
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.010137096049701774,
+						"confidence_age": 0.00008523077031263278,
+						"probability": 2.332033236815588e-14
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0006878111407128131,
+						"confidence_age": 0.000010483419841576875,
+						"probability": 1.3093330743089174e-14
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 0.5588497000373552,
+						"confidence_age": 0.0048510473126662035,
+						"probability": 9.693154008365167e-15
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.00015841518330327294,
+						"confidence_age": 0.0000021495319733094713,
+						"probability": 1.8525885155526742e-15
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.02125829079981273,
+						"confidence_age": 4.3157010720194384e-7,
+						"probability": 2.2506524511728774e-16
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 25,
+			"Finding": "arthralgia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 5846.352798442017,
+						"confidence_age": 66.67283058824049,
+						"probability": 3.630625890143394e-8
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 92686.2889462267,
+						"confidence_age": 1089.436309303443,
+						"probability": 1.9788975673847017e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 9.377023091945489,
+						"confidence_age": 0.13493359658291318,
+						"probability": 7.637586646922877e-11
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral regurgitation",
+						"confidence": 4.073351948520378,
+						"confidence_age": 0.049044769867928495,
+						"probability": 4.009587673145629e-11
+					},
+					{
+						"disease": "foreign body aspiration",
+						"instance": "foreign body aspiration #1",
+						"confidence": 14.233543487780585,
+						"confidence_age": 0.07640141466145123,
+						"probability": 1.6326834417041357e-11
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 170.55778500455426,
+						"confidence_age": 1.9750231568755732,
+						"probability": 1.068472253757628e-11
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.14775020458848104,
+						"confidence_age": 0.0017930607000012746,
+						"probability": 2.085678908551012e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.16782503900286364,
+						"confidence_age": 0.0027002373702959236,
+						"probability": 7.412540956190439e-13
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.020239353429725913,
+						"confidence_age": 0.0001701686237347938,
+						"probability": 5.050303466376975e-13
+					},
+					{
+						"disease": "heart failure",
+						"instance": "congestive heart failure",
+						"confidence": 0.46326999839229555,
+						"confidence_age": 0.004943795063907809,
+						"probability": 3.859027564940587e-13
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.05620566324654636,
+						"confidence_age": 0.0004725664974414947,
+						"probability": 3.851502217954498e-13
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.029593905817448862,
+						"confidence_age": 0.0006390482265076012,
+						"probability": 3.708833564524064e-13
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11310358148981936,
+						"confidence_age": 0.002154424846532993,
+						"probability": 3.432288556878294e-13
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.10790806819704128,
+						"confidence_age": 0.0021751924875119044,
+						"probability": 2.8470121193243867e-13
+					},
+					{
+						"disease": "polycythemia vera",
+						"instance": "polycythemia vera #1",
+						"confidence": 0.038475958284870895,
+						"confidence_age": 0.0008686326509854055,
+						"probability": 2.511338210984376e-13
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 7.335502246942468,
+						"confidence_age": 0.09326120719273319,
+						"probability": 2.1283964747749473e-13
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.08913372644323084,
+						"confidence_age": 0.001133217419863432,
+						"probability": 1.8303878288458894e-13
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.001893313254057781,
+						"confidence_age": 0.00001487644953660578,
+						"probability": 1.532911547320988e-13
+					},
+					{
+						"disease": "hypoparathyroidism",
+						"instance": "hypoparathyroidism #1",
+						"confidence": 0.026178999407359488,
+						"confidence_age": 0.0003035641211833078,
+						"probability": 1.440800265637376e-13
+					},
+					{
+						"disease": "obstructive sleep apnea",
+						"instance": "obstructive sleep apnea #1",
+						"confidence": 0.0058964016990716486,
+						"confidence_age": 0.00006930641174914234,
+						"probability": 1.0798622236539401e-13
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.07981391045594009,
+						"confidence_age": 0.0006710601375848064,
+						"probability": 5.5575325787197246e-14
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.009685220808467204,
+						"confidence_age": 0.0001288649852255233,
+						"probability": 2.3938430482311124e-14
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.03002426303059304,
+						"confidence_age": 0.00004040168605102462,
+						"probability": 2.1747167039927435e-14
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.006924231939596924,
+						"confidence_age": 0.00005821762160895607,
+						"probability": 1.6993293201449455e-14
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.009680930548216341,
+						"confidence_age": 0.00008139541777271128,
+						"probability": 1.1682070120382241e-14
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.0007609291618650471,
+						"confidence_age": 0.000011597863717739998,
+						"probability": 7.548090455849157e-15
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 0.5588497000373552,
+						"confidence_age": 0.0048510473126662035,
+						"probability": 5.513466894408043e-15
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 0.00015841518330327297,
+						"confidence_age": 0.0000021495319733094717,
+						"probability": 1.0537525185966702e-15
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.00727954309362877,
+						"confidence_age": 1.477839033665968e-7,
+						"probability": 1.1298833587910151e-17
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "asthma",
+				"instance": "asthma #1",
+				"confidence": 5846.352798442016,
+				"confidence_age": 66.67283058824047,
+				"probability": 3.630625890143396e-8
+			},
+			{
+				"disease": "chronic obstructive pulmonary disease",
+				"instance": "chronic bronchitis",
+				"confidence": 92686.28894622673,
+				"confidence_age": 1089.4363093034435,
+				"probability": 1.9788975673847017e-8
+			},
+			{
+				"disease": "lung cancer",
+				"instance": "lung cancer #1",
+				"confidence": 9.37702309194549,
+				"confidence_age": 0.1349335965829132,
+				"probability": 7.637586646922874e-11
+			},
+			{
+				"disease": "valvular heart disease",
+				"instance": "mitral regurgitation",
+				"confidence": 4.0733519485203775,
+				"confidence_age": 0.04904476986792849,
+				"probability": 4.0095876731456286e-11
+			},
+			{
+				"disease": "foreign body aspiration",
+				"instance": "foreign body aspiration #1",
+				"confidence": 14.233543487780588,
+				"confidence_age": 0.07640141466145124,
+				"probability": 1.6326834417041357e-11
+			},
+			{
+				"disease": "pulmonary edema",
+				"instance": "pulmonary edema #1",
+				"confidence": 170.55778500455426,
+				"confidence_age": 1.9750231568755732,
+				"probability": 1.0684722537576282e-11
+			},
+			{
+				"disease": "cardiac tamponade",
+				"instance": "cardiac tamponade #1",
+				"confidence": 0.14775020458848104,
+				"confidence_age": 0.0017930607000012746,
+				"probability": 2.085678908551012e-12
+			},
+			{
+				"disease": "acute bronchitis",
+				"instance": "acute bronchitis #1",
+				"confidence": 0.16782503900286364,
+				"confidence_age": 0.0027002373702959236,
+				"probability": 7.412540956190439e-13
+			},
+			{
+				"disease": "anemia",
+				"instance": "sickle cell anemia",
+				"confidence": 0.020239353429725916,
+				"confidence_age": 0.00017016862373479385,
+				"probability": 5.050303466376976e-13
+			},
+			{
+				"disease": "heart failure",
+				"instance": "congestive heart failure",
+				"confidence": 0.4632699983922956,
+				"confidence_age": 0.0049437950639078096,
+				"probability": 3.859027564940586e-13
+			},
+			{
+				"disease": "hypertrophic obstructive cardiomyopathy",
+				"instance": "hypertrophic obstructive cardiomyopathy #1",
+				"confidence": 0.05620566324654637,
+				"confidence_age": 0.00047256649744149474,
+				"probability": 3.851502217954498e-13
+			},
+			{
+				"disease": "unstable angina",
+				"instance": "unstable angina #1",
+				"confidence": 0.029593905817448855,
+				"confidence_age": 0.0006390482265076011,
+				"probability": 3.7088335645240626e-13
+			},
+			{
+				"disease": "aortic dissection",
+				"instance": "aortic dissection #1",
+				"confidence": 0.11310358148981933,
+				"confidence_age": 0.0021544248465329924,
+				"probability": 3.4322885568782933e-13
+			},
+			{
+				"disease": "variant angina",
+				"instance": "variant angina #1",
+				"confidence": 0.10790806819704128,
+				"confidence_age": 0.0021751924875119044,
+				"probability": 2.847012119324386e-13
+			},
+			{
+				"disease": "polycythemia vera",
+				"instance": "polycythemia vera #1",
+				"confidence": 0.0384759582848709,
+				"confidence_age": 0.0008686326509854056,
+				"probability": 2.5113382109843745e-13
+			},
+			{
+				"disease": "pulmonary embolism",
+				"instance": "pulmonary embolism #1",
+				"confidence": 7.335502246942468,
+				"confidence_age": 0.09326120719273319,
+				"probability": 2.1283964747749468e-13
+			},
+			{
+				"disease": "myocardial infarction",
+				"instance": "myocardial infarction #1",
+				"confidence": 0.08913372644323085,
+				"confidence_age": 0.0011332174198634322,
+				"probability": 1.8303878288458904e-13
+			},
+			{
+				"disease": "allergic rhinitis",
+				"instance": "allergic rhinitis #1",
+				"confidence": 0.001893313254057781,
+				"confidence_age": 0.00001487644953660578,
+				"probability": 1.5329115473209872e-13
+			},
+			{
+				"disease": "hypoparathyroidism",
+				"instance": "hypoparathyroidism #1",
+				"confidence": 0.026178999407359488,
+				"confidence_age": 0.0003035641211833078,
+				"probability": 1.440800265637376e-13
+			},
+			{
+				"disease": "obstructive sleep apnea",
+				"instance": "obstructive sleep apnea #1",
+				"confidence": 0.005896401699071648,
+				"confidence_age": 0.00006930641174914233,
+				"probability": 1.0798622236539396e-13
+			},
+			{
+				"disease": "pneumonia",
+				"instance": "typical pneumonia",
+				"confidence": 0.07981391045594012,
+				"confidence_age": 0.0006710601375848066,
+				"probability": 5.5575325787197283e-14
+			},
+			{
+				"disease": "hodgkin lymphoma",
+				"instance": "hodgkin lymphoma #1",
+				"confidence": 0.009685220808467206,
+				"confidence_age": 0.00012886498522552333,
+				"probability": 2.3938430482311124e-14
+			},
+			{
+				"disease": "myocarditis",
+				"instance": "myocarditis #1",
+				"confidence": 0.03002426303059304,
+				"confidence_age": 0.00004040168605102462,
+				"probability": 2.174716703992742e-14
+			},
+			{
+				"disease": "pericardial effusion",
+				"instance": "pericardial effusion #1",
+				"confidence": 0.006924231939596922,
+				"confidence_age": 0.000058217621608956056,
+				"probability": 1.6993293201449462e-14
+			},
+			{
+				"disease": "coronavirus disease 2019",
+				"instance": "coronavirus disease 2019 #1",
+				"confidence": 0.009680930548216341,
+				"confidence_age": 0.00008139541777271128,
+				"probability": 1.1682070120382241e-14
+			},
+			{
+				"disease": "infective endocarditis",
+				"instance": "infective endocarditis #1",
+				"confidence": 0.0007609291618650469,
+				"confidence_age": 0.000011597863717739995,
+				"probability": 7.548090455849154e-15
+			},
+			{
+				"disease": "pneumothorax",
+				"instance": "primary spontaneous pneumothorax",
+				"confidence": 0.5588497000373551,
+				"confidence_age": 0.004851047312666202,
+				"probability": 5.513466894408043e-15
+			},
+			{
+				"disease": "acute pericarditis",
+				"instance": "acute pericarditis #1",
+				"confidence": 0.00015841518330327297,
+				"confidence_age": 0.0000021495319733094717,
+				"probability": 1.0537525185966702e-15
+			},
+			{
+				"disease": "rheumatic fever",
+				"instance": "rheumatic fever #1",
+				"confidence": 0.007279543093628773,
+				"confidence_age": 1.4778390336659685e-7,
+				"probability": 1.1298833587910148e-17
+			}
+		],
+		"urgency": 3,
+		"specialist": "pulmonologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"dyspnea"
+		],
+		"findings": {
+			"arthralgia": false,
+			"chest discomfort": false,
+			"chest pain": false,
+			"chest pain (occurs or worsens with physical activity)": false,
+			"cold extremities": false,
+			"dry cough or productive cough": true,
+			"dry cough or productive cough (dry)": false,
+			"dry cough or productive cough (lasting 3 weeks or less)": false,
+			"dry cough or productive cough (lasting 4 weeks or more)": true,
+			"dyspnea": true,
+			"dyspnea (occurs or worsens with exertion)": false,
+			"dyspnea (recurrent)": true,
+			"dyspnea (sudden onset)": false,
+			"fatigue": false,
+			"fever": false,
+			"hypertension disease": true,
+			"nasal congestion": false,
+			"overweight or obese": false,
+			"palpitation": false,
+			"post history of myocardial infarction": false,
+			"recent chest injury or trauma": false,
+			"recent unexplained weight gain": false,
+			"recent upper respiratory tract infection": false,
+			"smoking": true,
+			"swelling in feet or ankle region": true,
+			"tachycardia": false,
+			"tachypnea": true,
+			"wheezing": true
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 62,
+		"sex": "male",
+		"question_count": 25
+	}
+}

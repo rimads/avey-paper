@@ -1,0 +1,1935 @@
+{
+	"Time": "2021-11-22T14:22:58.2457516+03:00",
+	"Age": 1,
+	"Sex": "female",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "skin erythema",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 7.799282088066167,
+						"probability": 0.31666666666666665
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 5.746839433311912,
+						"probability": 0.026240838610903996
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 7.799282088066167,
+						"probability": 0.02410072346697465
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 7.799282088066167,
+						"probability": 0.016825797520408796
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 7.388793557115316,
+						"probability": 0.015940229229860967
+					},
+					{
+						"disease": "atopic dermatitis",
+						"instance": "atopic dermatitis #1",
+						"confidence": 6.567816495213615,
+						"probability": 0.014688810958725007
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at abdomen)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 7.799282088066167,
+						"probability": 0.3008333333333333
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 5.746839433311912,
+						"probability": 0.024928796680358797
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 7.799282088066167,
+						"probability": 0.02289568729362592
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 7.595831556485015,
+						"probability": 0.015481010098597042
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 7.388793557115316,
+						"probability": 0.015143217768367917
+					},
+					{
+						"disease": "atopic dermatitis",
+						"instance": "atopic dermatitis #1",
+						"confidence": 6.567816495213615,
+						"probability": 0.013954370410788756
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at back)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 7.799282088066167,
+						"probability": 0.2857916666666666
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 5.746839433311912,
+						"probability": 0.023682356846340853
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 7.388793557115316,
+						"probability": 0.014386056879949519
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 7.441902104491431,
+						"probability": 0.014243703656968816
+					},
+					{
+						"disease": "atopic dermatitis",
+						"instance": "atopic dermatitis #1",
+						"confidence": 6.567816495213615,
+						"probability": 0.013256651890249318
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 4.830999586195841,
+						"probability": 0.012875191133841437
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at buttocks)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.10583155694853,
+						"probability": 0.19541640637043783
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 128.88948886566786,
+						"probability": 0.005072002636345637
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 2.707433088301369,
+						"probability": 0.0011841178423170427
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 81.40388770463233,
+						"probability": 0.0011384157865130635
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 3.480985399244618,
+						"probability": 0.000719302843997476
+					},
+					{
+						"disease": "atopic dermatitis",
+						"instance": "atopic dermatitis #1",
+						"confidence": 3.0942092437729936,
+						"probability": 0.000662832594512466
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at chest)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.10583155694853,
+						"probability": 0.18564558605191595
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 128.88948886566786,
+						"probability": 0.004818402504528354
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 2.707433088301369,
+						"probability": 0.0011249119502011904
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 81.40388770463233,
+						"probability": 0.0010474288821100022
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 3.480985399244618,
+						"probability": 0.0006833377017976021
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 3.480985399244618,
+						"probability": 0.0006036513288756687
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at face)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.10583155694853,
+						"probability": 0.17636330674932013
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 128.88948886566786,
+						"probability": 0.004577482379301936
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 2.707433088301369,
+						"probability": 0.0010686663526911309
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 81.40388770463234,
+						"probability": 0.0007332002174770015
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 3.480985399244618,
+						"probability": 0.0006491708167077222
+					},
+					{
+						"disease": "osteomyelitis",
+						"instance": "chronic osteomyelitis",
+						"confidence": 2.514045010565557,
+						"probability": 0.000468845589844466
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at feet)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.10583155694853,
+						"probability": 0.16754514141185411
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 128.88948886566786,
+						"probability": 0.0025143207647900585
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 2.707433088301369,
+						"probability": 0.0010152330350565741
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 81.40388770463234,
+						"probability": 0.0006965402066031514
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 3.480985399244618,
+						"probability": 0.000616712275872336
+					},
+					{
+						"disease": "atopic dermatitis",
+						"instance": "atopic dermatitis #1",
+						"confidence": 2.184246690774282,
+						"probability": 0.0003322032344016904
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at genitals)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.1058315569485,
+						"probability": 0.1145627156362083
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.670630795393045,
+						"probability": 0.00012571603823950293
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.00007159852077468293
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109964,
+						"probability": 0.00005076165175282872
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393245,
+						"probability": 0.00003482701033015757
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.000030835613793616795
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at hands)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.1058315569485,
+						"probability": 0.10883457985439789
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.670630795393045,
+						"probability": 0.00006905333963534054
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.00006801859473594877
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109964,
+						"probability": 0.00004822356916518729
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393245,
+						"probability": 0.00003204349142863176
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.000029293833103935958
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at lips)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.1058315569485,
+						"probability": 0.103392850861678
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.670630795393045,
+						"probability": 0.0000656006726535735
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.00006461766499915136
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109964,
+						"probability": 0.00004581239070692791
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393246,
+						"probability": 0.000030441316857200185
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.000027829141448739163
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at lower extremity except feet)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.1058315569485,
+						"probability": 0.0982232083185941
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.00006138678174919378
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109964,
+						"probability": 0.000043521771171581514
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.67063079539304,
+						"probability": 0.000036033155295778257
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393244,
+						"probability": 0.000028008320741367077
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.000026437684376302202
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at neck)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.1058315569485,
+						"probability": 0.09331204790266437
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.00005831744266173409
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109964,
+						"probability": 0.00004134568261300244
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.670630795393045,
+						"probability": 0.00003423149753098934
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393246,
+						"probability": 0.00002576977975135612
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.000025115800157487085
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at scalp)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.10583155694853,
+						"probability": 0.08421412323215458
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.00005263149200221501
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109962,
+						"probability": 0.0000373144785582347
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.67063079539305,
+						"probability": 0.000030893926521717886
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393246,
+						"probability": 0.0000232572262255989
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.000022667009642132102
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (at upper extremity except hand)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.10583155694853,
+						"probability": 0.08000341707054684
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.00004999991740210425
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109962,
+						"probability": 0.00003544875463032297
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.00002153365916002549
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393245,
+						"probability": 0.0000213984123859292
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.67063079539304,
+						"probability": 0.000016969424352278837
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (in one breast)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.10583155694853,
+						"probability": 0.0760032462170195
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.000047499921531999046
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109962,
+						"probability": 0.00003367631689880681
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.000020456976202024214
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393245,
+						"probability": 0.000019688162646596836
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.67063079539304,
+						"probability": 0.000016120953134664898
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (in one breast)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.10583155694853,
+						"probability": 0.07600324621701951
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.00004749992153199903
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109962,
+						"probability": 0.00003367631689880681
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.000020456976202024217
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393244,
+						"probability": 0.000019688162646596836
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.67063079539304,
+						"probability": 0.000016120953134664905
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema (in both breasts)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 122.10583155694853,
+						"probability": 0.07220308390616853
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 5.977440748285171,
+						"probability": 0.00004512492545539908
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109962,
+						"probability": 0.00003199250105386647
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.000019434127391923007
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 38.31829313393246,
+						"probability": 0.00001811460314942513
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 60.67063079539304,
+						"probability": 0.000015314905477931657
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 2,
+			"Finding": "pruritus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 100.89082280549398,
+						"probability": 0.019949882655697478
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109962,
+						"probability": 0.00002887323220111449
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 3.2926023143255327,
+						"probability": 0.00002143433959131456
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.6385632515141382,
+						"probability": 0.00001753929997121051
+					},
+					{
+						"disease": "sunburn",
+						"instance": "sunburn #1",
+						"confidence": 1.7295945432649236,
+						"probability": 0.00000419239147863827
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 2.1107177129273165,
+						"probability": 8.604436495976943e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 3,
+			"Finding": "blister or vesicle",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 100.89082280549395,
+						"probability": 0.018004769096766966
+					},
+					{
+						"disease": "leukemia",
+						"instance": "leukemia #1",
+						"confidence": 1.2744380845109964,
+						"probability": 0.00002605809206150583
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 3.2926023143255323,
+						"probability": 0.000019344491481161392
+					},
+					{
+						"disease": "sunburn",
+						"instance": "sunburn #1",
+						"confidence": 1.404919447323026,
+						"probability": 0.000002987078928529767
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 2.110717712927317,
+						"probability": 7.765503937619192e-7
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 13.309045144221106,
+						"probability": 1.1134222230025e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 4,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 100.89082280549398,
+						"probability": 0.01710453064192862
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 3.2926023143255327,
+						"probability": 0.000018377266907103322
+					},
+					{
+						"disease": "sunburn",
+						"instance": "sunburn #1",
+						"confidence": 1.6632168881075273,
+						"probability": 0.000002829564990963569
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 2.1107177129273174,
+						"probability": 7.377228740738232e-7
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 13.309045144221106,
+						"probability": 1.057751111852375e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 1.8243064659761412,
+						"probability": 8.523584336528219e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 5,
+			"Finding": "sun light exposure",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 100.89082280549398,
+						"probability": 0.016249304109832184
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 3.2926023143255323,
+						"probability": 0.000017458403561748155
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 2.0070215970782734,
+						"probability": 6.63950586666441e-7
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 13.3090451442211,
+						"probability": 1.0048635562597562e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 1.8243064659761423,
+						"probability": 8.097405119701808e-8
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 8.607570351699136,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 6,
+			"Finding": "lymphadenopathy",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 100.89082280549395,
+						"probability": 0.01543683890434058
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 3.2926023143255323,
+						"probability": 0.000016585483383660754
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 2.007021597078274,
+						"probability": 6.307530573331189e-7
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 13.309045144221102,
+						"probability": 9.546203784467677e-8
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 1.8243064659761423,
+						"probability": 7.692534863716721e-8
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 5.12447810943662,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 7,
+			"Finding": "vaginal discharge",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 100.89082280549395,
+						"probability": 0.014664996959123558
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 2.0070215970782734,
+						"probability": 5.992154044664626e-7
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 13.309045144221102,
+						"probability": 9.068893595244297e-8
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 1.8243064659761432,
+						"probability": 7.307908120530879e-8
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 5.124478109436616,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 8,
+			"Finding": "fatigue",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 100.89082280549398,
+						"probability": 0.01393174711116737
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 2.007021597078274,
+						"probability": 5.692546342431394e-7
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 13.309045144221097,
+						"probability": 8.615448915482082e-8
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 1.8243064659761414,
+						"probability": 6.94251271450434e-8
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 5.597019343120487,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 9,
+			"Finding": "scaly skin at scalp",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 100.89082280549398,
+						"probability": 0.013235159755609004
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 2.0070215970782734,
+						"probability": 5.407919025309828e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 1.824306465976142,
+						"probability": 6.595387078779123e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 10.18688664469274,
+						"probability": 6.244302167395469e-8
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 5.597019343120487,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 10,
+			"Finding": "hot, humid environments",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 100.89082280549398,
+						"probability": 0.01257340176782855
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 2.0070215970782734,
+						"probability": 5.137523074044334e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 1.8243064659761417,
+						"probability": 6.265617724840163e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 10.186886644692738,
+						"probability": 5.932087059025693e-8
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 5.032580862114683,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 11,
+			"Finding": "skin erythema (recurrent)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 476.5837209872752,
+						"probability": 0.003772020530348565
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152293,
+						"probability": 1.798133075915517e-7
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 2.566764102320105,
+						"probability": 6.506374758491258e-8
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.49207023382319,
+						"probability": 5.639055952356151e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 4.766407763160595,
+						"probability": 2.966043529512847e-9
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 2.3547265544977884,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 12,
+			"Finding": "pimples or bumps",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 476.5837209872751,
+						"probability": 0.0035834195038311374
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152293,
+						"probability": 1.7082264221197417e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.492070233823192,
+						"probability": 5.357103154738339e-8
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 1.3704162088695757,
+						"probability": 3.2531873792456264e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 4.766407763160596,
+						"probability": 2.8177413530372044e-9
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 2.354726554497787,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 13,
+			"Finding": "face swelling",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 476.5837209872751,
+						"probability": 0.0032340361022076014
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152293,
+						"probability": 1.5416743459630658e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.492070233823192,
+						"probability": 4.8347855971513525e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 4.766407763160596,
+						"probability": 2.5430115711160776e-9
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 2.3547265544977876,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 14,
+			"Finding": "pachyonychia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 476.58372098727517,
+						"probability": 0.0030723342970972217
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152293,
+						"probability": 1.4645906286649132e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.492070233823192,
+						"probability": 4.593046317293786e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 3.0209626667919274,
+						"probability": 1.5258069426696468e-9
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 2.354726554497787,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 15,
+			"Finding": "contact with sick person of impetigo",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 476.5837209872752,
+						"probability": 0.0029187175822423606
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152297,
+						"probability": 1.391361097231667e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.492070233823195,
+						"probability": 4.363394001429096e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 3.0209626667919283,
+						"probability": 1.4495165955361634e-9
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 2.354726554497789,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 16,
+			"Finding": "diarrhea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.8246871456338,
+						"probability": 0.0024809099449060066
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152299,
+						"probability": 1.3217930423700834e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.492070233823185,
+						"probability": 4.145224301357641e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 3.020962666791929,
+						"probability": 1.3770407657593562e-9
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 2.2027509191832464,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 17,
+			"Finding": "honey-crusting skin at torso",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.8246871456338,
+						"probability": 0.0023568644476607056
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152291,
+						"probability": 1.2557033902515798e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.492070233823195,
+						"probability": 3.937963086289758e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 3.0209626667919283,
+						"probability": 1.3081887274713878e-9
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.7402351011805859,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 18,
+			"Finding": "scaly skin at upper extremity",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.8246871456338,
+						"probability": 0.0022390212252776705
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152293,
+						"probability": 1.1929182207390005e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.492070233823192,
+						"probability": 3.741064931975269e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 2.308945040721667,
+						"probability": 9.481485859236645e-10
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.7402351011805857,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 19,
+			"Finding": "scaly skin at lower extremity",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.8246871456339,
+						"probability": 0.0021270701640137865
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152293,
+						"probability": 1.1332723097020502e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.492070233823195,
+						"probability": 3.554011685376505e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 1.7647444834975754,
+						"probability": 6.871988132222362e-10
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.7402351011805859,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 20,
+			"Finding": "dry skin at scalp",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.8246871456339,
+						"probability": 0.002020716655813098
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152293,
+						"probability": 1.0766086942169477e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 24.492070233823192,
+						"probability": 3.3763111011076804e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 1.3714937344765967,
+						"probability": 5.063324147478021e-10
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.7402351011805848,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 36,
+			"QuestionNumber": 21,
+			"Finding": "dry skin at upper extremity",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.8246871456338,
+						"probability": 0.0019196808230224427
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152293,
+						"probability": 1.0227782595061008e-7
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 23.6326589919296,
+						"probability": 3.08828211756756e-8
+					},
+					{
+						"disease": "psoriasis",
+						"instance": "psoriasis #1",
+						"confidence": 1.0660062244312813,
+						"probability": 3.730689129427103e-10
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.740235101180586,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 37,
+			"QuestionNumber": 22,
+			"Finding": "dry skin at lower extremity",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.8246871456338,
+						"probability": 0.0018236967818713195
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 11.060795818152299,
+						"probability": 9.716393465307956e-8
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 22.803403946537237,
+						"probability": 2.8248245354400446e-8
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.7402351011805852,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 38,
+			"QuestionNumber": 23,
+			"Finding": "history of allergy",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.8246871456338,
+						"probability": 0.0008449027255115465
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 5.9062295124541135,
+						"probability": 2.3692209901361616e-8
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 22.803403946537234,
+						"probability": 1.3087164340094714e-8
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.4867975986079924,
+						"probability": 0
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 39,
+			"QuestionNumber": 24,
+			"Finding": "honey-crusting skin around the mouth, nose or ears",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.82468714563385,
+						"probability": 0.0008026575892359686
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 5.906229512454116,
+						"probability": 2.2507599406293524e-8
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 22.803403946537234,
+						"probability": 1.243280612308998e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 40,
+			"QuestionNumber": 25,
+			"Finding": "thinning or loss of hair anywhere",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diaper dermatitis",
+						"instance": "diaper dermatitis #1",
+						"confidence": 445.8246871456338,
+						"probability": 0.0007625247097741703
+					},
+					{
+						"disease": "urticaria",
+						"instance": "urticaria #1",
+						"confidence": 5.906229512454117,
+						"probability": 2.138221943597886e-8
+					},
+					{
+						"disease": "contact dermatitis",
+						"instance": "contact dermatitis#1",
+						"confidence": 22.80340394653723,
+						"probability": 1.1811165816935488e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "diaper dermatitis",
+				"instance": "diaper dermatitis #1",
+				"confidence": 445.82468714563385,
+				"probability": 0.000762524709774171
+			},
+			{
+				"disease": "urticaria",
+				"instance": "urticaria #1",
+				"confidence": 5.906229512454115,
+				"probability": 2.1382219435978852e-8
+			},
+			{
+				"disease": "contact dermatitis",
+				"instance": "contact dermatitis#1",
+				"confidence": 22.803403946537244,
+				"probability": 1.1811165816935483e-8
+			}
+		],
+		"urgency": 2,
+		"specialist": "dermatologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"skin erythema"
+		],
+		"findings": {
+			"allergic rhinitis": false,
+			"blister or vesicle": false,
+			"blister or vesicle (at lips)": false,
+			"chest discomfort (occurs or worsens when exposed to allergens or weather changes)": false,
+			"contact with sick person of impetigo": false,
+			"diarrhea": false,
+			"dry cough or productive cough (occurs or worsens when exposed to allergens or weather changes)": false,
+			"dry skin at lower extremity": false,
+			"dry skin at scalp": false,
+			"dry skin at upper extremity": false,
+			"dyspnea (occurs or worsens when exposed to allergens or weather changes)": false,
+			"face swelling": false,
+			"fatigue": false,
+			"fever": false,
+			"fissured skin at lower extremity": false,
+			"headache (occurs or worsens when exposed to allergens)": false,
+			"history of allergy": false,
+			"honey-crusting skin around the mouth, nose or ears": false,
+			"honey-crusting skin at torso": false,
+			"hot, humid environments": false,
+			"itchy eyes (occurs or worsens when exposed to allergens)": false,
+			"lachrymation (occurs or worsens when exposed to allergens)": false,
+			"lymphadenopathy": false,
+			"nasal congestion (occurs or worsens when exposed to allergens)": false,
+			"nasal drip (occurs or worsens when exposed to allergens)": false,
+			"pachyonychia": false,
+			"periorbital edema": false,
+			"periorbital edema (occurs or worsens when exposed to allergens)": false,
+			"photophobia (occurs or worsens when exposed to allergens)": false,
+			"pimples or bumps": false,
+			"pruritus": false,
+			"pruritus ( around the anus)": false,
+			"red eye (occurs or worsens when exposed to allergens)": false,
+			"scaly skin at lower extremity": false,
+			"scaly skin at scalp": false,
+			"scaly skin at upper extremity": false,
+			"skin erythema": true,
+			"skin erythema (at abdomen)": false,
+			"skin erythema (at back)": false,
+			"skin erythema (at buttocks)": true,
+			"skin erythema (at chest)": false,
+			"skin erythema (at face)": false,
+			"skin erythema (at feet)": false,
+			"skin erythema (at genitals)": true,
+			"skin erythema (at hands)": false,
+			"skin erythema (at lips)": false,
+			"skin erythema (at lower extremity except feet)": false,
+			"skin erythema (at neck)": false,
+			"skin erythema (at scalp)": false,
+			"skin erythema (at upper extremity except hand)": false,
+			"skin erythema (in both breasts)": false,
+			"skin erythema (in one breast)": false,
+			"skin erythema (recurrent)": true,
+			"sneezing (occurs or worsens when exposed to allergens)": false,
+			"sun light exposure": false,
+			"thinning or loss of hair anywhere": false,
+			"vaginal discharge": false,
+			"wheezing (occurs or worsens when exposed to allergens or weather changes)": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 1,
+		"sex": "female",
+		"question_count": 25
+	}
+}

@@ -1,0 +1,4878 @@
+{
+	"Time": "2021-11-22T19:56:47.2148025+03:00",
+	"Age": 68,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "dysuria",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 11.556792992720355,
+						"confidence_age": 0.14293098492319828,
+						"probability": 0.009894162507763583
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 7.9452951824952445,
+						"confidence_age": 0.0742404808638784,
+						"probability": 0.005139175265016349
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 10.834493430675332,
+						"confidence_age": 0.109292279823191,
+						"probability": 0.005043718957535914
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 5.778396496360178,
+						"confidence_age": 0.06196417440187555,
+						"probability": 0.00428936812770857
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 10.834493430675332,
+						"confidence_age": 0.054528125923096436,
+						"probability": 0.003774619893767678
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 3.611497810225111,
+						"confidence_age": 0.0710927291513682,
+						"probability": 0.0026373045706825833
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 10.834493430675332,
+						"confidence_age": 0.03018096981672,
+						"probability": 0.0020892280296605503
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 4.333797372270133,
+						"confidence_age": 0.06085156094739006,
+						"probability": 0.0015739583289159577
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 2.1668986861350663,
+						"confidence_age": 0.01000249950998841,
+						"probability": 0.0006924065883183341
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.4445991240900444,
+						"confidence_age": 0.021293118256732604,
+						"probability": 0.0005086799531100499
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 8.667594744540265,
+						"confidence_age": 0.004995224486021818,
+						"probability": 0.0003457862048177773
+					}
+				],
+				"urgency": 2,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "urethral discharge",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 11.556792992720355,
+						"confidence_age": 0.14293098492319828,
+						"probability": 0.009399454382375404
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 7.9452951824952445,
+						"confidence_age": 0.0742404808638784,
+						"probability": 0.004882216501765531
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 5.778396496360178,
+						"confidence_age": 0.06196417440187555,
+						"probability": 0.004074899721323142
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 10.834493430675332,
+						"confidence_age": 0.054528125923096436,
+						"probability": 0.0035858888990792934
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 3.611497810225111,
+						"confidence_age": 0.0710927291513682,
+						"probability": 0.002505439342148454
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 4.333797372270133,
+						"confidence_age": 0.06085156094739006,
+						"probability": 0.0014952604124701598
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 2.1668986861350663,
+						"confidence_age": 0.01000249950998841,
+						"probability": 0.0006577862589024172
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.4445991240900444,
+						"confidence_age": 0.021293118256732604,
+						"probability": 0.0004832459554545475
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.5770190003910178,
+						"confidence_age": 0.0058206433422612,
+						"probability": 0.0002521859478767959
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.5770190003910178,
+						"confidence_age": 0.001607365692351502,
+						"probability": 0.00010446140148302761
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.769691201876884,
+						"confidence_age": 0.0015962016820236602,
+						"probability": 0.00010373586144533321
+					}
+				],
+				"urgency": 2,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 35.896606419030185,
+						"confidence_age": 0.3849343986667174,
+						"probability": 0.003163724443485792
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 67.30613703568159,
+						"confidence_age": 0.3387401117700496,
+						"probability": 0.002784059765268975
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 25.977807276929738,
+						"confidence_age": 0.24273546290356188,
+						"probability": 0.00142996810614626
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 25.505483508258287,
+						"confidence_age": 0.3581266844929661,
+						"probability": 0.001345734371223144
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.0004699727191187702
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 8.974151604757546,
+						"confidence_age": 0.1322772997625314,
+						"probability": 0.0004590836576818201
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.00012527196710742272
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.00003288931294512086
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.7167211263900195,
+						"confidence_age": 0.0015656744797378033,
+						"probability": 0.000015560379216799984
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 0.000012609297393839797
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 0.0000052230700741513806
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain (periumbilical pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 35.896606419030185,
+						"confidence_age": 0.3849343986667174,
+						"probability": 0.002855261310245927
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 67.30613703568159,
+						"confidence_age": 0.3387401117700496,
+						"probability": 0.0025126139381552496
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 25.977807276929738,
+						"confidence_age": 0.24273546290356188,
+						"probability": 0.0012905462157969995
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 25.505483508258287,
+						"confidence_age": 0.3581266844929661,
+						"probability": 0.0012145252700288872
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.00042415037900469014
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 8.974151604757546,
+						"confidence_age": 0.1322772997625314,
+						"probability": 0.0004143230010578426
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.000113057950314449
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.00002968260493297158
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.7167211263900195,
+						"confidence_age": 0.0015656744797378033,
+						"probability": 0.000014043242243161985
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 0.000011379890897940415
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 0.00000471382074192162
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain (left iliac pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 35.896606419030185,
+						"confidence_age": 0.3849343986667174,
+						"probability": 0.0027124982447336303
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 67.30613703568159,
+						"confidence_age": 0.3387401117700496,
+						"probability": 0.002386983241247487
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 25.977807276929738,
+						"confidence_age": 0.24273546290356188,
+						"probability": 0.0012260189050071495
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 25.505483508258287,
+						"confidence_age": 0.3581266844929661,
+						"probability": 0.0011537990065274427
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.0004029428600544556
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.00010740505279872654
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.4023463649788588,
+						"confidence_age": 0.020670320567446707,
+						"probability": 0.00004143230010578425
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.000028198474686322998
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.7167211263900195,
+						"confidence_age": 0.0015656744797378033,
+						"probability": 0.000013341080131003885
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 0.000010810896353043394
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 0.00000447812970482554
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain (hypogastric or pelvic)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 537.2958875488831,
+						"confidence_age": 2.7041169946421006,
+						"probability": 0.002267634079185112
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 78.23281081625791,
+						"confidence_age": 0.7310038659265748,
+						"probability": 0.0011647179597567918
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 236.02238640683282,
+						"confidence_age": 3.314029106040218,
+						"probability": 0.00023075980130548855
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 16.121159135782978,
+						"confidence_age": 0.17287396544686337,
+						"probability": 0.00013562491223668153
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.00002014714300272278
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 4.1899944329279775,
+						"confidence_age": 0.002414737121949634,
+						"probability": 0.000012674026124453689
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.000005370252639936327
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.883781926293873,
+						"confidence_age": 0.04250640095180905,
+						"probability": 0.000004374124305502127
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.00000140992373431615
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 5.405448176521697e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 2.23906485241277e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain (right iliac pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 537.2958875488831,
+						"confidence_age": 2.7041169946421006,
+						"probability": 0.0021542523752258566
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 78.23281081625791,
+						"confidence_age": 0.7310038659265748,
+						"probability": 0.0011064820617689524
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 236.02238640683282,
+						"confidence_age": 3.314029106040218,
+						"probability": 0.0002192218112402141
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 16.121159135782978,
+						"confidence_age": 0.17287396544686337,
+						"probability": 0.00012884366662484746
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.000019139785852586642
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 4.1899944329279775,
+						"confidence_age": 0.002414737121949634,
+						"probability": 0.000012040324818231004
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.000005101740007939511
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.8837819262938735,
+						"confidence_age": 0.042506400951809055,
+						"probability": 0.000003912335715654725
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.0000013394275476003421
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 5.135175767695614e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 2.1271116097921316e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain (flank pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 537.2958875488831,
+						"confidence_age": 2.7041169946421006,
+						"probability": 0.0020465397564645637
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 78.23281081625791,
+						"confidence_age": 0.7310038659265748,
+						"probability": 0.0010511579586805046
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 236.02238640683282,
+						"confidence_age": 3.314029106040218,
+						"probability": 0.000049019487208374637
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.000018182796559957307
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 4.1899944329279775,
+						"confidence_age": 0.002414737121949634,
+						"probability": 0.000011438308577319453
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.506673361028792,
+						"confidence_age": 0.0483269526919754,
+						"probability": 0.000006442183331242378
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.000004846653007542536
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.883781926293873,
+						"confidence_age": 0.04250640095180905,
+						"probability": 0.0000037167189298719894
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.0000012724561702203253
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 4.878416979310831e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 2.0207560293025245e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain (flank pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 537.2958875488831,
+						"confidence_age": 2.7041169946421006,
+						"probability": 0.0020465397564645637
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 78.23281081625791,
+						"confidence_age": 0.7310038659265748,
+						"probability": 0.0010511579586805046
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 236.02238640683282,
+						"confidence_age": 3.314029106040218,
+						"probability": 0.00004901948720837465
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.000018182796559957307
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 4.1899944329279775,
+						"confidence_age": 0.002414737121949634,
+						"probability": 0.000011438308577319453
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.506673361028792,
+						"confidence_age": 0.0483269526919754,
+						"probability": 0.000006442183331242378
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.000004846653007542536
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.883781926293873,
+						"confidence_age": 0.04250640095180905,
+						"probability": 0.0000037167189298719885
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.0000012724561702203253
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 4.87841697931083e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 2.0207560293025243e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain (left hypochondrial)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 537.2958875488831,
+						"confidence_age": 2.7041169946421006,
+						"probability": 0.0019442127686413353
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 78.23281081625791,
+						"confidence_age": 0.7310038659265748,
+						"probability": 0.0009986000607464793
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 236.02238640683282,
+						"confidence_age": 3.314029106040218,
+						"probability": 0.00004656851284795591
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.000017273656731959442
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 4.1899944329279775,
+						"confidence_age": 0.002414737121949634,
+						"probability": 0.000010866393148453479
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.506673361028792,
+						"confidence_age": 0.0483269526919754,
+						"probability": 0.000006120074164680259
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.000004604320357165408
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.883781926293873,
+						"confidence_age": 0.04250640095180905,
+						"probability": 0.000003530882983378389
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.0000012088333617093087
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 4.6344961303452904e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 1.9197182278373985e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain (epigastric)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 537.2958875488831,
+						"confidence_age": 2.7041169946421006,
+						"probability": 0.0018470021302092684
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 78.23281081625791,
+						"confidence_age": 0.7310038659265748,
+						"probability": 0.0009486700577091554
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 236.02238640683282,
+						"confidence_age": 3.314029106040218,
+						"probability": 0.00004424008720555811
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.000016409973895361466
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 4.1899944329279775,
+						"confidence_age": 0.002414737121949634,
+						"probability": 0.000010323073491030804
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.506673361028792,
+						"confidence_age": 0.0483269526919754,
+						"probability": 0.000005814070456446245
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.0000043741043393071375
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.883781926293873,
+						"confidence_age": 0.04250640095180905,
+						"probability": 0.0000033543388342094694
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.0000011483916936238437
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 4.4027713238280245e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 1.8237323164455282e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain (right hypochondrial)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 537.2958875488831,
+						"confidence_age": 2.7041169946421006,
+						"probability": 0.0017546520236988048
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 78.23281081625791,
+						"confidence_age": 0.7310038659265748,
+						"probability": 0.0009012365548236974
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 236.02238640683282,
+						"confidence_age": 3.314029106040218,
+						"probability": 0.0000420280828452802
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.735207841952221,
+						"confidence_age": 0.0585636448703897,
+						"probability": 0.000015589475200593393
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 4.1899944329279775,
+						"confidence_age": 0.002414737121949634,
+						"probability": 0.000009806919816479262
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.506673361028792,
+						"confidence_age": 0.0483269526919754,
+						"probability": 0.000005523366933623933
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 1.4797524506100688,
+						"confidence_age": 0.029129088735550885,
+						"probability": 0.00000415539912234178
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.883781926293873,
+						"confidence_age": 0.04250640095180905,
+						"probability": 0.0000031866218924989955
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8878514703660412,
+						"confidence_age": 0.004098361383530446,
+						"probability": 0.0000010909721089426514
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0023849138785166043,
+						"probability": 4.1826327576366236e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.2364241444255394,
+						"confidence_age": 0.0006585919325631348,
+						"probability": 1.7325457006232524e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.00008773260118494027
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.00004506182774118489
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 36.30223331722643,
+						"confidence_age": 0.4489752447942347,
+						"probability": 0.000014810001440563723
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.00000210140414226401
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 4.903459908239633e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 2.7616834668119665e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 2.0776995611708898e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221783,
+						"confidence_age": 0.018247067624904346,
+						"probability": 1.593310946249498e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 5.454860544713256e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.001023791331338611,
+						"probability": 2.0913163788183122e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.0002827191025728212,
+						"probability": 8.66272850311626e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 3,
+			"Finding": "ankle pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803075,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.0000678858143941967
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426422,
+						"confidence_age": 0.31380396074349454,
+						"probability": 0.00003486798331503753
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.34566304091672,
+						"confidence_age": 0.3258353393770136,
+						"probability": 0.000008094799678003367
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.3192448506627,
+						"confidence_age": 1.4226401637102972,
+						"probability": 0.0000016260264672674282
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.794203804791326e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 2.1369380220280134e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848229,
+						"confidence_age": 0.012504480269031467,
+						"probability": 1.6076843142861493e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 1.2328736377179485e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.38113520453089367,
+						"confidence_age": 0.0017593368443816432,
+						"probability": 4.220867106219984e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.618220748211139e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 6.703054182449272e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 3,
+			"Finding": "ankle pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.6493651580308,
+						"confidence_age": 1.1608182429471847,
+						"probability": 0.00006788581439419668
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.00003486798331503753
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.34566304091672,
+						"confidence_age": 0.3258353393770136,
+						"probability": 0.000008094799678003365
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000016260264672674288
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.794203804791327e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 2.1369380220280134e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.6076843142861495e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 1.2328736377179483e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 4.220867106219983e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.6182207482111383e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 6.703054182449269e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 3,
+			"Finding": "pain at the base of thumb",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.00006449152367448686
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000033124584149285655
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.345663040916715,
+						"confidence_age": 0.32583533937701353,
+						"probability": 0.000007690059694103197
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.000001544725143904057
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.60449361455176e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 2.0300911209266125e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.5273000985718419e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221783,
+						"confidence_age": 0.018247067624904346,
+						"probability": 1.1712299558320511e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 4.009823750908983e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.537309710800582e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.0002827191025728212,
+						"probability": 6.3679014733268055e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 3,
+			"Finding": "pain at the base of thumb",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.00006449152367448685
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000033124584149285655
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.34566304091672,
+						"confidence_age": 0.3258353393770136,
+						"probability": 0.000007690059694103197
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000015447251439040563
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.60449361455176e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 2.0300911209266125e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.5273000985718419e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221783,
+						"confidence_age": 0.018247067624904346,
+						"probability": 1.1712299558320506e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 4.009823750908983e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.537309710800582e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 6.3679014733268055e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (elbows)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.6493651580308,
+						"confidence_age": 1.1608182429471847,
+						"probability": 0.00006126694749076249
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000031468354941821375
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.34566304091672,
+						"confidence_age": 0.3258353393770136,
+						"probability": 0.0000073055567093980356
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000014674888867088538
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.4242689338241715e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.9285865648802816e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.4509350936432497e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 1.1126684580404485e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 3.8093325633635354e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.460444225260552e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 6.049506399660465e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (elbows)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803075,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.00006126694749076252
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426422,
+						"confidence_age": 0.31380396074349454,
+						"probability": 0.000031468354941821375
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.34566304091672,
+						"confidence_age": 0.3258353393770136,
+						"probability": 0.0000073055567093980356
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.3192448506627,
+						"confidence_age": 1.4226401637102972,
+						"probability": 0.0000014674888867088538
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.424268933824171e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.9285865648802819e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848229,
+						"confidence_age": 0.012504480269031467,
+						"probability": 1.4509350936432497e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221783,
+						"confidence_age": 0.018247067624904346,
+						"probability": 1.1126684580404483e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.38113520453089367,
+						"confidence_age": 0.0017593368443816432,
+						"probability": 3.8093325633635354e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.460444225260552e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 6.0495063996604666e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (in fingers)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.000058203600116224365
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000029894937194730305
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.34566304091672,
+						"confidence_age": 0.3258353393770136,
+						"probability": 0.0000069402788739281365
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000013941144423734113
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.2530554871329633e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.8321572366362675e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.3783883389610868e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 1.057035035138426e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 3.6188659351953566e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.3874220139975248e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 5.747031079677442e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (in fingers)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.000058203600116224365
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000029894937194730305
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.345663040916715,
+						"confidence_age": 0.32583533937701353,
+						"probability": 0.0000069402788739281365
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000013941144423734113
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.2530554871329633e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.8321572366362675e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.3783883389610874e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221783,
+						"confidence_age": 0.018247067624904346,
+						"probability": 1.057035035138426e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 3.6188659351953566e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.3874220139975248e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 5.747031079677442e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (at hip)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.000055293420110413146
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000028400190334993788
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.34566304091672,
+						"confidence_age": 0.3258353393770136,
+						"probability": 0.000006593264930231729
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000013244087202547401
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.090402712776315e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.740549374804454e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.3094689220130328e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 1.004183283381505e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 3.4379226384355896e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.3180509132976481e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.0002827191025728212,
+						"probability": 5.45967952569357e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (at hip)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.000055293420110413146
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000028400190334993788
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 26.34566304091672,
+						"confidence_age": 0.3258353393770136,
+						"probability": 0.000006593264930231729
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.3192448506627,
+						"confidence_age": 1.4226401637102972,
+						"probability": 0.0000013244087202547403
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 3.090402712776315e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.7405493748044536e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.3094689220130328e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 1.004183283381505e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 3.43792263843559e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.3180509132976483e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 5.4596795256935725e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (knees)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.6493651580308,
+						"confidence_age": 1.1608182429471847,
+						"probability": 0.00005252874910489249
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000026980180818244098
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 8.223647917509576,
+						"confidence_age": 0.10170763612808913,
+						"probability": 0.0000016483162325579319
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000012581882842420036
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 2.935882577137498e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.6535219060642317e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.2439954759123813e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221788,
+						"confidence_age": 0.018247067624904353,
+						"probability": 9.539741192124293e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 3.26602650651381e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.2521483676327656e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 5.186695549408891e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (knees)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.6493651580308,
+						"confidence_age": 1.1608182429471847,
+						"probability": 0.00005252874910489249
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000026980180818244098
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 8.223647917509576,
+						"confidence_age": 0.10170763612808913,
+						"probability": 0.0000016483162325579319
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000012581882842420036
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885103,
+						"confidence_age": 0.00103659379702686,
+						"probability": 2.935882577137499e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.6535219060642317e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.2439954759123813e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 9.539741192124293e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 3.26602650651381e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.2521483676327656e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.0002827191025728212,
+						"probability": 5.186695549408891e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (shoulder pain that doesn't radiate)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.00004740719606716547
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.0000243496131884653
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 8.223647917509576,
+						"confidence_age": 0.10170763612808913,
+						"probability": 0.0000014876053998835335
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000011355149265284079
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 2.6496340258665927e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.4923035202229685e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.122705917010924e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221783,
+						"confidence_age": 0.018247067624904346,
+						"probability": 8.609616425892174e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 2.9475889221287136e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.1300639017885713e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.0002827191025728212,
+						"probability": 4.680992733341524e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (shoulder pain that doesn't radiate)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.000047407196067165476
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.0000243496131884653
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 8.223647917509576,
+						"confidence_age": 0.10170763612808913,
+						"probability": 0.0000014876053998835337
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.3192448506627,
+						"confidence_age": 1.4226401637102972,
+						"probability": 0.0000011355149265284083
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 2.6496340258665927e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.4923035202229687e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.1227059170109236e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 8.609616425892178e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 2.9475889221287136e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.1300639017885713e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513602,
+						"confidence_age": 0.0002827191025728212,
+						"probability": 4.680992733341524e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 3,
+			"Finding": "toes arthralgia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.00004503683626380719
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000023132132529042036
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 7.368342301352573,
+						"confidence_age": 0.09112947017801383,
+						"probability": 0.0000012644645899010037
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000010787391802019877
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 2.517152324573262e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.4176883442118198e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.0665706211603774e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 8.179135604597567e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 2.800209476022277e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.0735607066991425e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 4.446943096674445e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 3,
+			"Finding": "toes arthralgia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.6493651580308,
+						"confidence_age": 1.1608182429471847,
+						"probability": 0.00004503683626380719
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000023132132529042036
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 7.368342301352572,
+						"confidence_age": 0.09112947017801382,
+						"probability": 0.0000012644645899010039
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000010787391802019873
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 2.517152324573262e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.4176883442118203e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.0665706211603777e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 8.179135604597564e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 2.800209476022278e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.0735607066991424e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 4.446943096674447e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (at wrist)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803075,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.00004278499445061684
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426422,
+						"confidence_age": 0.31380396074349454,
+						"probability": 0.000021975525902589935
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 7.368342301352572,
+						"confidence_age": 0.09112947017801382,
+						"probability": 0.000001201241360405953
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.3192448506627,
+						"confidence_age": 1.4226401637102972,
+						"probability": 0.0000010248022211918877
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 2.3912947083445994e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.3468039270012292e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848229,
+						"confidence_age": 0.012504480269031467,
+						"probability": 1.0132420901023584e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221783,
+						"confidence_age": 0.018247067624904346,
+						"probability": 7.770178824367682e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.38113520453089367,
+						"confidence_age": 0.0017593368443816432,
+						"probability": 2.6601990022211638e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.0198826713641851e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 4.224595941840724e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 3,
+			"Finding": "arthralgia (at wrist)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 230.64936515803078,
+						"confidence_age": 1.1608182429471845,
+						"probability": 0.00004278499445061683
+					},
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.000021975525902589935
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 7.368342301352573,
+						"confidence_age": 0.09112947017801383,
+						"probability": 0.0000012012413604059534
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 0.0000010248022211918884
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.7986729069885101,
+						"confidence_age": 0.0010365937970268598,
+						"probability": 2.3912947083446e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.346803927001229e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 1.0132420901023584e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 7.770178824367689e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 2.6601990022211638e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.001023791331338611,
+						"probability": 1.0198826713641851e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.10149171077513601,
+						"confidence_age": 0.00028271910257282113,
+						"probability": 4.224595941840726e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 4,
+			"Finding": "recent sex",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 33.58363346426421,
+						"confidence_age": 0.3138039607434945,
+						"probability": 0.00001983291212708741
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 92.11648181714301,
+						"confidence_age": 0.46360627308116875,
+						"probability": 0.000014546898113209725
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 7.368342301352574,
+						"confidence_age": 0.09112947017801383,
+						"probability": 0.000001084120327766373
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 101.31924485066271,
+						"confidence_age": 1.4226401637102974,
+						"probability": 9.73562110132294e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.9346162399229785,
+						"confidence_age": 0.02074570309718255,
+						"probability": 1.2154905441186094e-7
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.6352253408848227,
+						"confidence_age": 0.012504480269031466,
+						"probability": 9.144509863173787e-8
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2379444659221785,
+						"confidence_age": 0.01824706762490435,
+						"probability": 7.012586388991835e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.3811352045308936,
+						"confidence_age": 0.001759336844381643,
+						"probability": 2.4008295995045996e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.09925226596753468,
+						"confidence_age": 0.00005720010728079743,
+						"probability": 1.1358649864636861e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.03814931230223389,
+						"confidence_age": 0.0003848288193514703,
+						"probability": 3.2636245483653924e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.04731113943783549,
+						"confidence_age": 0.00013179167817160614,
+						"probability": 1.6765320105546387e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 5,
+			"Finding": "fever",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 75.62275119693189,
+						"confidence_age": 0.7066155862250143,
+						"probability": 0.00000892481045718933
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 456.29607367861115,
+						"confidence_age": 6.406928140012281,
+						"probability": 8.762058991190649e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 34.555017468718646,
+						"confidence_age": 0.17390940848922004,
+						"probability": 7.273449056604861e-7
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 16.591841296205683,
+						"confidence_age": 0.20520296760960222,
+						"probability": 4.878541474948678e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 4.645951846438716,
+						"confidence_age": 0.06848045276478963,
+						"probability": 5.259439791743876e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.7628714021681239,
+						"confidence_age": 0.0035214478993390286,
+						"probability": 9.603318398018398e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.7257191834411144,
+						"confidence_age": 0.007782191837797514,
+						"probability": 6.077452720593047e-9
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.23828768009638457,
+						"confidence_age": 0.004690719028885195,
+						"probability": 4.572254931586893e-9
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.03723181472699062,
+						"confidence_age": 0.00002145707985487453,
+						"probability": 5.679324932318428e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.014310687154119758,
+						"confidence_age": 0.000144358168189199,
+						"probability": 1.6318122741826966e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.017747499877216792,
+						"confidence_age": 0.00004943809893317133,
+						"probability": 8.38266005277319e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 6,
+			"Finding": "arthralgia (sudden onset)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 75.6227511969319,
+						"confidence_age": 0.7066155862250144,
+						"probability": 0.000008478569934329868
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 456.29607367861115,
+						"confidence_age": 6.406928140012281,
+						"probability": 8.32395604163111e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 34.55501746871863,
+						"confidence_age": 0.17390940848921996,
+						"probability": 6.909776603774617e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 4.645951846438715,
+						"confidence_age": 0.06848045276478962,
+						"probability": 4.996467802156683e-8
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.728316801688093,
+						"confidence_age": 0.021375309126000244,
+						"probability": 2.4392707374743408e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.762871402168124,
+						"confidence_age": 0.003521447899339029,
+						"probability": 9.123152478117477e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.7257191834411144,
+						"confidence_age": 0.007782191837797514,
+						"probability": 5.773580084563393e-9
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.23828768009638462,
+						"confidence_age": 0.004690719028885196,
+						"probability": 4.343642185007549e-9
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.03723181472699062,
+						"confidence_age": 0.00002145707985487453,
+						"probability": 5.395358685702507e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.01431068715411976,
+						"confidence_age": 0.00014435816818919903,
+						"probability": 1.5502216604735614e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.017747499877216796,
+						"confidence_age": 0.00004943809893317134,
+						"probability": 7.963527050134533e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 7,
+			"Finding": "arthralgia (recurrent)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 75.62275119693189,
+						"confidence_age": 0.7066155862250143,
+						"probability": 0.000008054641437613373
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 456.29607367861126,
+						"confidence_age": 6.406928140012282,
+						"probability": 7.907758239549558e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 34.555017468718646,
+						"confidence_age": 0.17390940848922004,
+						"probability": 6.564287773585889e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 4.645951846438716,
+						"confidence_age": 0.06848045276478963,
+						"probability": 4.746644412048848e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.7628714021681239,
+						"confidence_age": 0.0035214478993390286,
+						"probability": 8.666994854211608e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.7257191834411144,
+						"confidence_age": 0.007782191837797514,
+						"probability": 5.4849010803352234e-9
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 0.23828768009638457,
+						"confidence_age": 0.004690719028885195,
+						"probability": 4.126460075757169e-9
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.1816828982906622,
+						"confidence_age": 0.0022470001507116175,
+						"probability": 1.2196353687371713e-9
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.03723181472699063,
+						"confidence_age": 0.000021457079854874535,
+						"probability": 5.125590751417382e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.014310687154119758,
+						"confidence_age": 0.000144358168189199,
+						"probability": 1.4727105774498834e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.017747499877216792,
+						"confidence_age": 0.00004943809893317133,
+						"probability": 7.565350697627808e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 8,
+			"Finding": "urinary urgency",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 511.99160789417886,
+						"confidence_age": 4.7840265585194786,
+						"probability": 0.000004027320718806685
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 210.55424203879835,
+						"confidence_age": 1.0596829742890972,
+						"probability": 2.9539294981136476e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 456.29607367861115,
+						"confidence_age": 6.406928140012281,
+						"probability": 8.864280538404829e-8
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 2.258603485857044,
+						"confidence_age": 0.04446085649720006,
+						"probability": 1.8663048096204918e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 4.645951846438716,
+						"confidence_age": 0.06848045276478963,
+						"probability": 1.6380961971805466e-9
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.9680874921987161,
+						"confidence_age": 0.024340721846638734,
+						"probability": 9.757082949897377e-10
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.35101982210376886,
+						"confidence_age": 0.0016203229163665274,
+						"probability": 4.3334974271058023e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.333924981254772,
+						"confidence_age": 0.003580817929099752,
+						"probability": 2.742450540167612e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.08719937385410871,
+						"confidence_age": 0.0008796182699864593,
+						"probability": 6.627197598524475e-11
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.017131465335999737,
+						"confidence_age": 0.000009873040635837763,
+						"probability": 2.5627953757086915e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.008166152554653468,
+						"confidence_age": 0.00002274793974888818,
+						"probability": 3.782675348813901e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 36,
+			"QuestionNumber": 9,
+			"Finding": "arthralgia (severe)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 511.99160789417886,
+						"confidence_age": 4.7840265585194786,
+						"probability": 0.00000382595468286635
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 210.55424203879835,
+						"confidence_age": 1.0596829742890972,
+						"probability": 2.806233023207965e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 456.2960736786112,
+						"confidence_age": 6.4069281400122815,
+						"probability": 8.421066511484582e-8
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 2.258603485857044,
+						"confidence_age": 0.04446085649720006,
+						"probability": 1.772989569139467e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 4.645951846438715,
+						"confidence_age": 0.06848045276478962,
+						"probability": 1.5561913873215192e-9
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.35101982210376886,
+						"confidence_age": 0.0016203229163665274,
+						"probability": 4.1168225557505124e-10
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.7006475131631991,
+						"confidence_age": 0.008665400444871393,
+						"probability": 2.9271248849692116e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.33392498125477205,
+						"confidence_age": 0.0035808179290997525,
+						"probability": 2.6053280131592316e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.08719937385410871,
+						"confidence_age": 0.0008796182699864593,
+						"probability": 6.295837718598251e-11
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.017131465335999737,
+						"confidence_age": 0.000009873040635837763,
+						"probability": 2.4346556069232566e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.00816615255465347,
+						"confidence_age": 0.000022747939748888184,
+						"probability": 3.5935415813732075e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 37,
+			"QuestionNumber": 10,
+			"Finding": "abdominal pain (gradually increases)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 511.99160789417897,
+						"confidence_age": 4.784026558519479,
+						"probability": 0.0000036346569487230356
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 210.55424203879835,
+						"confidence_age": 1.0596829742890972,
+						"probability": 2.665921372047567e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 456.29607367861115,
+						"confidence_age": 6.406928140012281,
+						"probability": 8.000013185910351e-8
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 2.2586034858570443,
+						"confidence_age": 0.044460856497200066,
+						"probability": 1.684340090682493e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.675412005866866,
+						"confidence_age": 0.024695256541945047,
+						"probability": 4.668574161964559e-10
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.35101982210376886,
+						"confidence_age": 0.0016203229163665274,
+						"probability": 3.9109814279629865e-10
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.7006475131631992,
+						"confidence_age": 0.008665400444871395,
+						"probability": 2.78076864072075e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.33392498125477194,
+						"confidence_age": 0.0035808179290997516,
+						"probability": 2.4750616125012696e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.08719937385410871,
+						"confidence_age": 0.0008796182699864593,
+						"probability": 5.981045832668338e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.008166152554653468,
+						"confidence_age": 0.00002274793974888818,
+						"probability": 3.4138645023045465e-12
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.015951911491576095,
+						"confidence_age": 0.000009193251557101979,
+						"probability": 2.4346556069232557e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 38,
+			"QuestionNumber": 11,
+			"Finding": "constipation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 511.99160789417886,
+						"confidence_age": 4.7840265585194786,
+						"probability": 0.00000311626400141141
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 210.55424203879838,
+						"confidence_age": 1.0596829742890974,
+						"probability": 2.285694336359283e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 456.2960736786112,
+						"confidence_age": 6.4069281400122815,
+						"probability": 6.859011305269888e-8
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 2.258603485857044,
+						"confidence_age": 0.04446085649720006,
+						"probability": 1.4441110852489028e-9
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.35101982210376886,
+						"confidence_age": 0.0016203229163665274,
+						"probability": 3.3531777017997654e-10
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.7006475131631991,
+						"confidence_age": 0.008665400444871393,
+						"probability": 2.384161513337954e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.333924981254772,
+						"confidence_age": 0.003580817929099752,
+						"probability": 2.1220559500182758e-10
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.5822091375722616,
+						"confidence_age": 0.008581652729635559,
+						"probability": 8.4034334915362e-11
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.08719937385410871,
+						"confidence_age": 0.0008796182699864593,
+						"probability": 5.1279991707840155e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.008166152554653468,
+						"confidence_age": 0.00002274793974888818,
+						"probability": 2.926962077663359e-12
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.015951911491576088,
+						"confidence_age": 0.000009193251557101975,
+						"probability": 2.0874128509858243e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 39,
+			"QuestionNumber": 12,
+			"Finding": "difficulty urination",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 2461.4981148758484,
+						"confidence_age": 23.000127685189696,
+						"probability": 7.790660003528531e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 99.5024266174912,
+						"confidence_age": 0.500778451984721,
+						"probability": 1.1428471681796418e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 215.6335875612002,
+						"confidence_age": 3.027746631566985,
+						"probability": 3.429505652634943e-9
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 19.545607089147406,
+						"confidence_age": 0.38475741199499874,
+						"probability": 6.498499883620061e-10
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.16588278512920723,
+						"confidence_age": 0.0007657222220803842,
+						"probability": 1.6765888508998826e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.33110768554547804,
+						"confidence_age": 0.0040950415604455535,
+						"probability": 1.1920807566689765e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.15780421055077828,
+						"confidence_age": 0.0016922008778868021,
+						"probability": 1.0610279750091374e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.2751368076290856,
+						"confidence_age": 0.004055464581093597,
+						"probability": 4.2017167457681025e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.04120814291839735,
+						"confidence_age": 0.00041568458328474005,
+						"probability": 2.5639995853920075e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.0038591100680218913,
+						"confidence_age": 0.000010750081231542091,
+						"probability": 1.4634810388316797e-13
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.007538456063529627,
+						"confidence_age": 0.000004344490187322452,
+						"probability": 1.0437064254929132e-13
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 40,
+			"QuestionNumber": 13,
+			"Finding": "blister or vesicle",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 2461.4981148758475,
+						"confidence_age": 23.000127685189685,
+						"probability": 7.031070653184493e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 99.5024266174912,
+						"confidence_age": 0.500778451984721,
+						"probability": 1.0314195692821267e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 215.63358756120022,
+						"confidence_age": 3.027746631566985,
+						"probability": 3.0951288515030396e-9
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 19.545607089147406,
+						"confidence_age": 0.38475741199499874,
+						"probability": 5.864896144967106e-10
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.3311076855454779,
+						"confidence_age": 0.004095041560445552,
+						"probability": 1.0758528828937514e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.15780421055077828,
+						"confidence_age": 0.0016922008778868021,
+						"probability": 9.57577747445747e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.2751368076290857,
+						"confidence_age": 0.0040554645810935985,
+						"probability": 3.792049363055712e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.041208142918397354,
+						"confidence_age": 0.00041568458328474016,
+						"probability": 2.3140096258162875e-12
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.008982912660528418,
+						"confidence_age": 0.000041465519389587,
+						"probability": 7.963797041774453e-13
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.003859110068021892,
+						"confidence_age": 0.000010750081231542094,
+						"probability": 1.320791637545591e-13
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.007538456063529628,
+						"confidence_age": 0.0000043444901873224525,
+						"probability": 9.419450490073541e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 41,
+			"QuestionNumber": 14,
+			"Finding": "contact with a person with herpes simplex",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 2461.4981148758475,
+						"confidence_age": 23.000127685189685,
+						"probability": 6.679517120525269e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 99.50242661749118,
+						"confidence_age": 0.5007784519847209,
+						"probability": 9.798485908180205e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 215.63358756120016,
+						"confidence_age": 3.0277466315669845,
+						"probability": 2.9403724089278855e-9
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 19.545607089147403,
+						"confidence_age": 0.3847574119949987,
+						"probability": 5.571651337718749e-10
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.331107685545478,
+						"confidence_age": 0.004095041560445553,
+						"probability": 1.0220602387490643e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.15780421055077828,
+						"confidence_age": 0.0016922008778868021,
+						"probability": 9.096988600734596e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.27513680762908566,
+						"confidence_age": 0.004055464581093598,
+						"probability": 3.602446894902925e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.041208142918397354,
+						"confidence_age": 0.00041568458328474016,
+						"probability": 2.1983091445254724e-12
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.002381472073310822,
+						"confidence_age": 0.000010992979689710237,
+						"probability": 1.9909492604436132e-13
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.0038591100680218917,
+						"confidence_age": 0.000010750081231542093,
+						"probability": 1.2547520556683113e-13
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.007538456063529628,
+						"confidence_age": 0.0000043444901873224525,
+						"probability": 8.948477965569863e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 42,
+			"QuestionNumber": 15,
+			"Finding": "history of sexually transmitted infections",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 2461.4981148758475,
+						"confidence_age": 23.000127685189685,
+						"probability": 6.345541264499006e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 99.50242661749118,
+						"confidence_age": 0.5007784519847209,
+						"probability": 9.30856161277119e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 215.63358756120022,
+						"confidence_age": 3.027746631566985,
+						"probability": 2.793353788481493e-9
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 19.545607089147406,
+						"confidence_age": 0.38475741199499874,
+						"probability": 5.293068770832812e-10
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.331107685545478,
+						"confidence_age": 0.004095041560445553,
+						"probability": 9.709572268116105e-12
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.1578042105507783,
+						"confidence_age": 0.0016922008778868026,
+						"probability": 8.642139170697866e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.2751368076290856,
+						"confidence_age": 0.004055464581093597,
+						"probability": 3.42232455015778e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.021942229420164428,
+						"confidence_age": 0.0002213408769941712,
+						"probability": 1.0991545722627364e-12
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.002381472073310822,
+						"confidence_age": 0.000010992979689710237,
+						"probability": 1.8914017974214324e-13
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.002284086636973567,
+						"confidence_age": 0.000006362637098851037,
+						"probability": 7.904442636676847e-14
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.004014025401420099,
+						"confidence_age": 0.0000023133243493320184,
+						"probability": 4.4742389827849295e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 43,
+			"QuestionNumber": 16,
+			"Finding": "chemotherapy",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 2461.4981148758484,
+						"confidence_age": 23.000127685189696,
+						"probability": 6.028264201274056e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 99.50242661749117,
+						"confidence_age": 0.5007784519847209,
+						"probability": 8.843133532132633e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 215.63358756120016,
+						"confidence_age": 3.0277466315669845,
+						"probability": 2.6536860990574155e-9
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 19.545607089147406,
+						"confidence_age": 0.38475741199499874,
+						"probability": 5.028415332291168e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.15780421055077828,
+						"confidence_age": 0.0016922008778868021,
+						"probability": 8.210032212162971e-12
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.14004482024211304,
+						"confidence_age": 0.0017320327623075065,
+						"probability": 3.883828907246443e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.2751368076290856,
+						"confidence_age": 0.004055464581093597,
+						"probability": 3.2512083226498915e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.02194222942016442,
+						"confidence_age": 0.00022134087699417112,
+						"probability": 1.0441968436495995e-12
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0023814720733108226,
+						"confidence_age": 0.000010992979689710239,
+						"probability": 1.7968317075503596e-13
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.002284086636973567,
+						"confidence_age": 0.000006362637098851037,
+						"probability": 7.509220504843003e-14
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.004014025401420098,
+						"confidence_age": 0.000002313324349332018,
+						"probability": 4.2505270336456844e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 44,
+			"QuestionNumber": 17,
+			"Finding": "abdominal pain (steady)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 1138.5861935882187,
+						"confidence_age": 10.638898187595801,
+						"probability": 3.014132100637028e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1671.4182385126428,
+						"confidence_age": 23.46865810114109,
+						"probability": 1.5922116594344498e-9
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 46.0256656263637,
+						"confidence_age": 0.2316391907962288,
+						"probability": 4.4215667660663153e-10
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 19.545607089147406,
+						"confidence_age": 0.38475741199499874,
+						"probability": 2.5142076661455868e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.2511193351470515,
+						"confidence_age": 0.03318107384531106,
+						"probability": 1.950724993589934e-12
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.07299363519206543,
+						"confidence_age": 0.0007827414307960803,
+						"probability": 4.1050161060814867e-13
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.14004482024211307,
+						"confidence_age": 0.0017320327623075067,
+						"probability": 1.9419144536232206e-13
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.021942229420164428,
+						"confidence_age": 0.0002213408769941712,
+						"probability": 5.220984218247996e-14
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.002381472073310822,
+						"confidence_age": 0.000010992979689710237,
+						"probability": 8.984158537751805e-15
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.0022840866369735675,
+						"confidence_age": 0.000006362637098851039,
+						"probability": 3.7546102524215044e-15
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.001856720456192527,
+						"confidence_age": 0.0000010700471999239102,
+						"probability": 2.125263516822843e-15
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 45,
+			"QuestionNumber": 18,
+			"Finding": "urinary frequency",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 530.3505648778167,
+						"confidence_age": 4.955571826922771,
+						"probability": 1.507066050318514e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1807.1136296393881,
+						"confidence_age": 25.37397938271816,
+						"probability": 1.784805554013749e-10
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 215.65970386240232,
+						"confidence_age": 1.0853778779774266,
+						"probability": 1.3264700298198952e-10
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 22.545323485655487,
+						"confidence_age": 0.443807157146187,
+						"probability": 1.1371194131452303e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.45602920414457054,
+						"confidence_age": 0.004890192833905065,
+						"probability": 1.642006442432594e-13
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.4338782111825226,
+						"confidence_age": 0.035874905161553956,
+						"probability": 6.732071999396763e-14
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.06523252252826676,
+						"confidence_age": 0.0008067764733575253,
+						"probability": 9.709572268116106e-15
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.010220634883151869,
+						"confidence_age": 0.00010310001983641189,
+						"probability": 2.610492109123999e-15
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.010702407907027311,
+						"confidence_age": 0.00002981302744562955,
+						"probability": 1.1263830757264516e-15
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0011092836593607268,
+						"confidence_age": 0.000005120502093701585,
+						"probability": 4.492079268875901e-16
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.0008648556853290246,
+						"confidence_age": 4.984252752416688e-7,
+						"probability": 1.0626317584114207e-16
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 46,
+			"QuestionNumber": 19,
+			"Finding": "sedentary lifestyle",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 530.3505648778167,
+						"confidence_age": 4.955571826922771,
+						"probability": 1.4317127478025881e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1807.1136296393881,
+						"confidence_age": 25.37397938271816,
+						"probability": 1.6955652763130616e-10
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 215.65970386240227,
+						"confidence_age": 1.0853778779774264,
+						"probability": 1.2601465283289e-10
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 22.545323485655487,
+						"confidence_age": 0.443807157146187,
+						"probability": 1.080263442487969e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.45602920414457065,
+						"confidence_age": 0.004890192833905066,
+						"probability": 1.5599061203109648e-13
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.412192836808565,
+						"confidence_age": 0.020815455702575345,
+						"probability": 3.70263959966822e-14
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.06523252252826674,
+						"confidence_age": 0.000806776473357525,
+						"probability": 9.2240936547103e-15
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.010220634883151867,
+						"confidence_age": 0.00010310001983641186,
+						"probability": 2.4799675036677977e-15
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.010702407907027317,
+						"confidence_age": 0.000029813027445629568,
+						"probability": 1.0700639219401288e-15
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0011092836593607268,
+						"confidence_age": 0.000005120502093701585,
+						"probability": 4.2674753054321064e-16
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.0008648556853290245,
+						"confidence_age": 4.984252752416687e-7,
+						"probability": 1.0095001704908504e-16
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 47,
+			"QuestionNumber": 20,
+			"Finding": "low fiber consumption",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 530.3505648778167,
+						"confidence_age": 4.955571826922771,
+						"probability": 1.4317127478025886e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1807.1136296393877,
+						"confidence_age": 25.373979382718154,
+						"probability": 1.6955652763130618e-10
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 215.6597038624023,
+						"confidence_age": 1.0853778779774264,
+						"probability": 1.2601465283288993e-10
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 22.54532348565549,
+						"confidence_age": 0.44380715714618707,
+						"probability": 1.0802634424879686e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.4560292041445705,
+						"confidence_age": 0.004890192833905065,
+						"probability": 1.5599061203109646e-13
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.4121928368085652,
+						"confidence_age": 0.020815455702575345,
+						"probability": 3.70263959966822e-14
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.06523252252826676,
+						"confidence_age": 0.0008067764733575253,
+						"probability": 9.224093654710305e-15
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.010220634883151867,
+						"confidence_age": 0.00010310001983641186,
+						"probability": 2.479967503667798e-15
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.010702407907027311,
+						"confidence_age": 0.00002981302744562955,
+						"probability": 1.070063921940128e-15
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.001109283659360727,
+						"confidence_age": 0.000005120502093701586,
+						"probability": 4.2674753054321044e-16
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.0008648556853290246,
+						"confidence_age": 4.984252752416688e-7,
+						"probability": 1.0095001704908505e-16
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 48,
+			"QuestionNumber": 21,
+			"Finding": "overweight or obese",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 530.3505648778167,
+						"confidence_age": 4.955571826922771,
+						"probability": 1.3601271104124584e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1807.113629639388,
+						"confidence_age": 25.373979382718158,
+						"probability": 1.6107870124974097e-10
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 215.65970386240227,
+						"confidence_age": 1.0853778779774264,
+						"probability": 1.197139201912455e-10
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 22.545323485655494,
+						"confidence_age": 0.4438071571461871,
+						"probability": 1.0262502703635705e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.40188050425640215,
+						"confidence_age": 0.0043095335652621495,
+						"probability": 1.2479248962487714e-13
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.8556004207440854,
+						"confidence_age": 0.012611388609895347,
+						"probability": 2.0364517798175212e-14
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.05748684252964213,
+						"confidence_age": 0.0007109802025581177,
+						"probability": 7.37927492376824e-15
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.010220634883151865,
+						"confidence_age": 0.00010310001983641185,
+						"probability": 2.3559691284844078e-15
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.010702407907027313,
+						"confidence_age": 0.000029813027445629557,
+						"probability": 1.0165607258431215e-15
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0011092836593607268,
+						"confidence_age": 0.000005120502093701585,
+						"probability": 4.0541015401605033e-16
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.0008648556853290244,
+						"confidence_age": 4.984252752416687e-7,
+						"probability": 9.59025161966307e-17
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 49,
+			"QuestionNumber": 22,
+			"Finding": "nephrolithiasis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 530.3505648778166,
+						"confidence_age": 4.95557182692277,
+						"probability": 1.2921207548918354e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1807.1136296393884,
+						"confidence_age": 25.373979382718165,
+						"probability": 1.5302476618725384e-10
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 215.65970386240235,
+						"confidence_age": 1.0853778779774268,
+						"probability": 1.1372822418168324e-10
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 22.54532348565549,
+						"confidence_age": 0.44380715714618707,
+						"probability": 9.749377568453916e-12
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.4018805042564022,
+						"confidence_age": 0.00430953356526215,
+						"probability": 1.185528651436333e-13
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.855600420744085,
+						"confidence_age": 0.012611388609895342,
+						"probability": 1.9346291908266463e-14
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.03336522195940077,
+						"confidence_age": 0.00041265116021739154,
+						"probability": 4.058601208072535e-15
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.010220634883151867,
+						"confidence_age": 0.00010310001983641186,
+						"probability": 2.238170672060189e-15
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.01070240790702731,
+						"confidence_age": 0.000029813027445629547,
+						"probability": 9.657326895509657e-16
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0011092836593607268,
+						"confidence_age": 0.000005120502093701585,
+						"probability": 3.851396463152474e-16
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.0008648556853290245,
+						"confidence_age": 4.984252752416687e-7,
+						"probability": 9.110739038679916e-17
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 50,
+			"QuestionNumber": 23,
+			"Finding": "tophi",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 530.3505648778167,
+						"confidence_age": 4.955571826922771,
+						"probability": 1.2275147171472439e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1807.1136296393881,
+						"confidence_age": 25.37397938271816,
+						"probability": 1.4537352787789109e-10
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 215.6597038624023,
+						"confidence_age": 1.0853778779774264,
+						"probability": 1.0804181297259909e-10
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 22.545323485655494,
+						"confidence_age": 0.4438071571461871,
+						"probability": 9.261908690031222e-12
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.4018805042564022,
+						"confidence_age": 0.00430953356526215,
+						"probability": 1.1262522188645161e-13
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.855600420744085,
+						"confidence_age": 0.012611388609895342,
+						"probability": 1.8378977312853123e-14
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.019371082418371315,
+						"confidence_age": 0.0002395757967483097,
+						"probability": 2.232230664439895e-15
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.010220634883151867,
+						"confidence_age": 0.00010310001983641186,
+						"probability": 2.126262138457179e-15
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.010702407907027311,
+						"confidence_age": 0.00002981302744562955,
+						"probability": 9.174460550734174e-16
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0011092836593607268,
+						"confidence_age": 0.000005120502093701585,
+						"probability": 3.6588266399948506e-16
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.0008648556853290245,
+						"confidence_age": 4.984252752416687e-7,
+						"probability": 8.655202086745924e-17
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 51,
+			"QuestionNumber": 24,
+			"Finding": "abdominal pain (sudden onset)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 530.3505648778166,
+						"confidence_age": 4.95557182692277,
+						"probability": 1.1661389812898822e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1807.1136296393886,
+						"confidence_age": 25.37397938271817,
+						"probability": 1.3810485148399662e-10
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 215.6597038624023,
+						"confidence_age": 1.0853778779774264,
+						"probability": 1.0263972232396909e-10
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 22.54532348565549,
+						"confidence_age": 0.44380715714618707,
+						"probability": 8.798813255529655e-12
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.183970588844332,
+						"confidence_age": 0.001972793950561639,
+						"probability": 2.8156305471612915e-14
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.8556004207440849,
+						"confidence_age": 0.01261138860989534,
+						"probability": 1.7460028447210476e-14
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.01937108241837132,
+						"confidence_age": 0.00023957579674830978,
+						"probability": 2.120619131217898e-15
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.010220634883151867,
+						"confidence_age": 0.00010310001983641186,
+						"probability": 2.019949031534319e-15
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.010702407907027317,
+						"confidence_age": 0.000029813027445629568,
+						"probability": 8.715737523197465e-16
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0011092836593607268,
+						"confidence_age": 0.000005120502093701585,
+						"probability": 3.475885307995108e-16
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.0008648556853290246,
+						"confidence_age": 4.984252752416688e-7,
+						"probability": 8.222441982408632e-17
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 52,
+			"QuestionNumber": 25,
+			"Finding": "arthralgia (pain often wakes the patient from sleep)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute prostatitis",
+						"instance": "acute prostatitis #1",
+						"confidence": 530.3505648778169,
+						"confidence_age": 4.955571826922773,
+						"probability": 1.1078320322253874e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1807.1136296393877,
+						"confidence_age": 25.373979382718154,
+						"probability": 1.311996089097968e-10
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 215.65970386240235,
+						"confidence_age": 1.0853778779774268,
+						"probability": 9.750773620777061e-11
+					},
+					{
+						"disease": "benign prostatic hyperplasia",
+						"instance": "benign prostatic hyperplasia #1",
+						"confidence": 22.545323485655494,
+						"confidence_age": 0.4438071571461871,
+						"probability": 8.358872592753182e-12
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.18397058884433204,
+						"confidence_age": 0.0019727939505616394,
+						"probability": 2.6748490198032256e-14
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.855600420744085,
+						"confidence_age": 0.012611388609895342,
+						"probability": 1.6587027024849952e-14
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #2",
+						"confidence": 0.010220634883151869,
+						"confidence_age": 0.00010310001983641189,
+						"probability": 1.9189515799576037e-15
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.01170648629611286,
+						"confidence_age": 0.00014478234726081002,
+						"probability": 1.1663405221698444e-15
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #1",
+						"confidence": 0.010702407907027311,
+						"confidence_age": 0.00002981302744562955,
+						"probability": 8.279950647037593e-16
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0011092836593607268,
+						"confidence_age": 0.000005120502093701585,
+						"probability": 3.302091042595352e-16
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.0008648556853290247,
+						"confidence_age": 4.984252752416689e-7,
+						"probability": 7.811319883288198e-17
+					}
+				],
+				"urgency": 2,
+				"specialist": "urologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "acute prostatitis",
+				"instance": "acute prostatitis #1",
+				"confidence": 530.3505648778167,
+				"confidence_age": 4.955571826922771,
+				"probability": 1.1078320322253874e-9
+			},
+			{
+				"disease": "pyelonephritis",
+				"instance": "pyelonephritis #1",
+				"confidence": 1807.113629639388,
+				"confidence_age": 25.373979382718158,
+				"probability": 1.311996089097968e-10
+			},
+			{
+				"disease": "cystitis",
+				"instance": "cystitis #1",
+				"confidence": 215.65970386240232,
+				"confidence_age": 1.0853778779774266,
+				"probability": 9.750773620777065e-11
+			},
+			{
+				"disease": "benign prostatic hyperplasia",
+				"instance": "benign prostatic hyperplasia #1",
+				"confidence": 22.545323485655494,
+				"confidence_age": 0.4438071571461871,
+				"probability": 8.358872592753172e-12
+			},
+			{
+				"disease": "nephrolithiasis",
+				"instance": "nephrolithiasis #1",
+				"confidence": 0.18397058884433207,
+				"confidence_age": 0.00197279395056164,
+				"probability": 2.6748490198032256e-14
+			},
+			{
+				"disease": "diverticulitis",
+				"instance": "diverticulitis #1",
+				"confidence": 0.855600420744085,
+				"confidence_age": 0.012611388609895342,
+				"probability": 1.6587027024849946e-14
+			},
+			{
+				"disease": "trichomoniasis",
+				"instance": "trichomoniasis #2",
+				"confidence": 0.010220634883151867,
+				"confidence_age": 0.00010310001983641186,
+				"probability": 1.918951579957604e-15
+			},
+			{
+				"disease": "gout",
+				"instance": "gout #2",
+				"confidence": 0.011706486296112862,
+				"confidence_age": 0.00014478234726081004,
+				"probability": 1.166340522169844e-15
+			},
+			{
+				"disease": "urethritis",
+				"instance": "urethritis #1",
+				"confidence": 0.010702407907027317,
+				"confidence_age": 0.000029813027445629568,
+				"probability": 8.279950647037586e-16
+			},
+			{
+				"disease": "herpes simplex",
+				"instance": "genital herpes",
+				"confidence": 0.001109283659360727,
+				"confidence_age": 0.000005120502093701586,
+				"probability": 3.3020910425953537e-16
+			},
+			{
+				"disease": "chlamydia",
+				"instance": "chlamydia #1",
+				"confidence": 0.0008648556853290247,
+				"confidence_age": 4.984252752416689e-7,
+				"probability": 7.811319883288197e-17
+			}
+		],
+		"urgency": 2,
+		"specialist": "urologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"dysuria"
+		],
+		"findings": {
+			"abdominal pain": true,
+			"abdominal pain (epigastric)": false,
+			"abdominal pain (flank pain)": false,
+			"abdominal pain (gradually increases)": false,
+			"abdominal pain (hypogastric or pelvic)": true,
+			"abdominal pain (left hypochondrial)": false,
+			"abdominal pain (left iliac pain)": false,
+			"abdominal pain (nonspecific, non-focal)": false,
+			"abdominal pain (periumbilical pain)": false,
+			"abdominal pain (right hypochondrial)": false,
+			"abdominal pain (right iliac pain)": false,
+			"abdominal pain (steady)": true,
+			"abdominal pain (sudden onset)": false,
+			"ankle pain": false,
+			"ankle pain (bilateral)": null,
+			"arthralgia": true,
+			"arthralgia (at hip)": false,
+			"arthralgia (at wrist)": false,
+			"arthralgia (bilateral)": false,
+			"arthralgia (elbows)": false,
+			"arthralgia (in fingers)": false,
+			"arthralgia (knees)": false,
+			"arthralgia (pain often wakes the patient from sleep)": false,
+			"arthralgia (recurrent)": false,
+			"arthralgia (severe)": false,
+			"arthralgia (shoulder pain that doesn't radiate)": false,
+			"arthralgia (sudden onset)": false,
+			"blister or vesicle": false,
+			"blister or vesicle (at lips)": false,
+			"chemotherapy": false,
+			"chronic constipation": false,
+			"constipation": false,
+			"constipation (chronic)": false,
+			"contact with a person with herpes simplex": false,
+			"difficulty urination": true,
+			"dysuria": true,
+			"fever": true,
+			"history of sexually transmitted infections": false,
+			"low fiber consumption": null,
+			"multiple sexual partners": false,
+			"nephrolithiasis": false,
+			"overweight or obese": false,
+			"pain at the base of thumb": false,
+			"pain in elbow with flexion of the wrist": false,
+			"pain in inner elbow or elbow pit": false,
+			"pain in outer elbow": false,
+			"recent sex": false,
+			"sedentary lifestyle": false,
+			"shoulder pain": false,
+			"toes arthralgia": false,
+			"toes arthralgia (bilateral)": null,
+			"tophi": false,
+			"urethral discharge": false,
+			"urinary frequency": true,
+			"urinary urgency": true
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 68,
+		"sex": "male",
+		"question_count": 25
+	}
+}

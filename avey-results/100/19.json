@@ -1,0 +1,4395 @@
+{
+	"Time": "2021-11-17T10:45:56.3147757+03:00",
+	"Age": 3,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"Finding": "diarrhea",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 4.880722714448,
+						"probability": 0.04933785507076197
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 10.303747952723555,
+						"probability": 0.016825797520408796
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 10.303747952723555,
+						"probability": 0.016825797520408796
+					},
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 10.303747952723555,
+						"probability": 0.016825797520408796
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.013283524358217471
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.012450409293177062
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.008855682905478314
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 3.796117666792888,
+						"probability": 0.004921659731315436
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.00477388944549901
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 3.253815142965333,
+						"probability": 0.003728294793943741
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.003683277769248014
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0026567048716434945
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0026567048716434945
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.0024024313536025023
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0023426835584632547
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 2.169210095310222,
+						"probability": 0.001269590255723142
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 1.084605047655111,
+						"probability": 0.0008487427996385448
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 4.880722714448,
+						"probability": 0.0008176278231013674
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0006076699137171731
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 8.676840381240888,
+						"probability": 0.0005044751367945199
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 9.761445428896,
+						"probability": 0.000468102110086868
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0003775637676272869
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 2.169210095310222,
+						"probability": 0.00016005483997071627
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.00008563293690861014
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0000428462687862957
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"Finding": "diabetes mellitus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 4.880722714448,
+						"probability": 0.046870962317223874
+					},
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 10.303747952723555,
+						"probability": 0.015984507644388357
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 10.303747952723555,
+						"probability": 0.015984507644388357
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 10.303747952723555,
+						"probability": 0.015984507644388357
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.012619348140306595
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.011827888828518207
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.008412898760204398
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 3.796117666792888,
+						"probability": 0.004675576744749664
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.004535194973224059
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 3.253815142965333,
+						"probability": 0.0035418800542465537
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.0034991138807856127
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0025238696280613197
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0025238696280613197
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.0022823097859223773
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.002225549380540092
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 2.169210095310222,
+						"probability": 0.001206110742936985
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 1.084605047655111,
+						"probability": 0.0008063056596566175
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 4.880722714448,
+						"probability": 0.000776746431946299
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0005772864180313144
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 8.676840381240888,
+						"probability": 0.0004792513799547939
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 9.761445428896,
+						"probability": 0.00044469700458252455
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 2.169210095310222,
+						"probability": 0.00015205209797218043
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.00008135129006317963
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.00004070395534698091
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.08913750096697773,
+						"probability": 0.000018878188381364362
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 1.8369309215869292,
+						"probability": 0.014061288695167163
+					},
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 10.987568290232925,
+						"probability": 0.013586831497730103
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.011236494387092297
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 8.674396018604941,
+						"probability": 0.010726445919260605
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 7.109603011327188,
+						"probability": 0.008791479204413597
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 3.231637732421449,
+						"probability": 0.003996126911097089
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.632827485855048,
+						"probability": 0.0036281559785792477
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.0021681942966262583
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 5.612844482626728,
+						"probability": 0.0019245126344320871
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 4.880722714448,
+						"probability": 0.0007379091103489839
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 1.1565861358139922,
+						"probability": 0.000685359810708125
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 1.6269075714826664,
+						"probability": 0.0005484220971297486
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.40820687146376183,
+						"probability": 0.0005047739256122638
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.5102585893297029,
+						"probability": 0.0004206449380102203
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 10.409275222325931,
+						"probability": 0.00037799245389514587
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.5442758286183491,
+						"probability": 0.00024122214858739695
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 5.4427582861834924,
+						"probability": 0.00023962568997739695
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.23812067502052797,
+						"probability": 0.00023377883723748339
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.20410343573188114,
+						"probability": 0.00017709400271232785
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 2.169210095310222,
+						"probability": 0.00014444949307357142
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.10205171786594057,
+						"probability": 0.0001261934814030661
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.10205171786594057,
+						"probability": 0.00011127746902700469
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 8.134537857413333,
+						"probability": 0.00007728372556002065
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.08913750096697773,
+						"probability": 0.000017934278962296142
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.40820687146376183,
+						"probability": 0.000008140791069396182
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"Finding": "abdominal pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 1.8369309215869292,
+						"probability": 0.013358224260408804
+					},
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 10.86974304433707,
+						"probability": 0.011367558801404882
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 7.086876841004108,
+						"probability": 0.008279119851268784
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 5.128353103699419,
+						"probability": 0.005363222959630304
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 4.203238426169329,
+						"probability": 0.0043957396022067975
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 1.632827485855048,
+						"probability": 0.003446748179650285
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 5.771023003158002,
+						"probability": 0.0013009165779757548
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.9552814604930292,
+						"probability": 0.0009990317277742723
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 4.880722714448,
+						"probability": 0.0007010136548315347
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 1.1565861358139922,
+						"probability": 0.0006510918201727186
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 1.7735401047225037,
+						"probability": 0.0005056201905849516
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.40820687146376183,
+						"probability": 0.00047953522933165063
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 1.4840095020874504,
+						"probability": 0.0004303341074147352
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.23812067502052797,
+						"probability": 0.00023377883723748344
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.5442758286183491,
+						"probability": 0.00022916104115802707
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 5.4427582861834924,
+						"probability": 0.00017971926748304768
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.20410343573188114,
+						"probability": 0.00016823930257671145
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.22227075729622203,
+						"probability": 0.00015496692013732848
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 4.923218979551444,
+						"probability": 0.00015119698155805836
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.10205171786594057,
+						"probability": 0.00011988380733291279
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.10205171786594057,
+						"probability": 0.00010571359557565445
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 1.5389394675088006,
+						"probability": 0.00008666969584414285
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 7.133175344169108,
+						"probability": 0.00005731514485753415
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.08913750096697773,
+						"probability": 0.000017037565014181332
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.40820687146376183,
+						"probability": 0.00000773375151592637
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"Finding": "area of poor sanitation or recent contaminated water or food",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 149.23383391185843,
+						"probability": 0.005115401460632197
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 83.61025676817677,
+						"probability": 0.005095061811648787
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 54.1007543794085,
+						"probability": 0.002197869801103399
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.8616353892135866,
+						"probability": 0.0006679112130204402
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 3.324188086469837,
+						"probability": 0.00041395599256343935
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 13.115334395008121,
+						"probability": 0.0003309389454613836
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.7658981237454102,
+						"probability": 0.00017233740898251425
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 2.7069704108365906,
+						"probability": 0.00006504582889878775
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 2.289363941935245,
+						"probability": 0.00003505068274157674
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.5425111709863322,
+						"probability": 0.00003255459100863593
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.8319011349094779,
+						"probability": 0.00002528100952924758
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.19147453093635247,
+						"probability": 0.000023976761466582533
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.696093189951384,
+						"probability": 0.000021516705370736757
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.11169347637953905,
+						"probability": 0.00001168894186187417
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.2552993745818033,
+						"probability": 0.000011458052057901355
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 2.552993745818034,
+						"probability": 0.000008985963374152385
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.09573726546817635,
+						"probability": 0.000008411965128835572
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.10425887452984757,
+						"probability": 0.000007748346006866424
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 2.309297345795036,
+						"probability": 0.0000075598490779029186
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.04786863273408817,
+						"probability": 0.00000599419036664564
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.04786863273408817,
+						"probability": 0.000005285679778782723
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.7218587762230908,
+						"probability": 0.000004333484792207142
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 3.345904977576508,
+						"probability": 0.0000028657572428767073
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.04181105801891403,
+						"probability": 8.518782507090668e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.19147453093635247,
+						"probability": 3.8668757579631857e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"Finding": "recent antibiotic use",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 149.23383391185845,
+						"probability": 0.004859631387600588
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 83.61025676817675,
+						"probability": 0.004840308721066348
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 54.10075437940849,
+						"probability": 0.0020879763110482293
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.8616353892135865,
+						"probability": 0.0006345156523694181
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 3.324188086469837,
+						"probability": 0.00039325819293526743
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 13.115334395008121,
+						"probability": 0.0003143919981883144
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.7658981237454102,
+						"probability": 0.00016372053853338852
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 2.7069704108365906,
+						"probability": 0.00006179353745384838
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 2.289363941935245,
+						"probability": 0.0000332981486044979
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.5425111709863322,
+						"probability": 0.00003092686145820414
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.8319011349094779,
+						"probability": 0.0000240169590527852
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.19147453093635247,
+						"probability": 0.000022777923393253403
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.6960931899513839,
+						"probability": 0.000020440870102199916
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.11169347637953905,
+						"probability": 0.000011104494768780461
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.2552993745818033,
+						"probability": 0.000010885149455006286
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 2.552993745818034,
+						"probability": 0.000008536665205444765
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.09573726546817633,
+						"probability": 0.000007991366872393794
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.10425887452984758,
+						"probability": 0.000007360928706523102
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.047868632734088166,
+						"probability": 0.0000056944808483133576
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.047868632734088166,
+						"probability": 0.000005021395789843586
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.7218587762230908,
+						"probability": 0.000004116810552596786
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 3.345904977576508,
+						"probability": 0.0000027224693807328716
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.04181105801891403,
+						"probability": 8.092843381736133e-7
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.12193488140512594,
+						"probability": 3.7799245389514623e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.19147453093635247,
+						"probability": 3.6735319700650264e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"Finding": "dehydration",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 2337.946113313422,
+						"probability": 0.004616649818220558
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 39.10643388873502,
+						"probability": 0.00024201543605331742
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 25.304163104475606,
+						"probability": 0.00010439881555241145
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.00003172578261847092
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 1.5547989763707077,
+						"probability": 0.00001966290964676337
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 6.134342570781966,
+						"probability": 0.00001571959990941572
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.35822811099362706,
+						"probability": 0.000008186026926669427
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 1.2661121195173128,
+						"probability": 0.0000030896768726924183
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 1.0707880002184185,
+						"probability": 0.0000016649074302248953
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.25374491195381915,
+						"probability": 0.000001546343072910207
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.38909923246023964,
+						"probability": 0.0000012008479526392603
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.08955702774840672,
+						"probability": 0.00000113889616966267
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.3255787431524004,
+						"probability": 0.0000010220435051099958
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.052241599519903974,
+						"probability": 5.552247384390229e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 5.442574727503143e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.19409370331209,
+						"probability": 4.2683326027223833e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420341,
+						"probability": 3.9956834361968967e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04876426579361064,
+						"probability": 3.6804643532615517e-7
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.847240424156679e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.5106978949217936e-7
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.33762989853795006,
+						"probability": 2.0584052762983925e-7
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.5649564642096296,
+						"probability": 1.3612346903664359e-7
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.019555990370514694,
+						"probability": 4.046421690868067e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.057031739438638325,
+						"probability": 1.889962269475731e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08955702774840672,
+						"probability": 1.8367659850325133e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"Finding": "abdominal discomfort other than pain",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 2337.946113313422,
+						"probability": 0.004616649818220558
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 39.10643388873502,
+						"probability": 0.00024201543605331742
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 25.304163104475606,
+						"probability": 0.00010439881555241145
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.00003172578261847092
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 1.5547989763707077,
+						"probability": 0.00001966290964676337
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 6.134342570781966,
+						"probability": 0.00001571959990941572
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.35822811099362706,
+						"probability": 0.000008186026926669427
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 1.2661121195173128,
+						"probability": 0.0000030896768726924183
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 1.0707880002184185,
+						"probability": 0.0000016649074302248953
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.25374491195381915,
+						"probability": 0.000001546343072910207
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.38909923246023964,
+						"probability": 0.0000012008479526392603
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.08955702774840672,
+						"probability": 0.00000113889616966267
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.3255787431524004,
+						"probability": 0.0000010220435051099958
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.052241599519903974,
+						"probability": 5.552247384390229e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 5.442574727503143e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.19409370331209,
+						"probability": 4.2683326027223833e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420341,
+						"probability": 3.9956834361968967e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04876426579361064,
+						"probability": 3.6804643532615517e-7
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.847240424156679e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.5106978949217936e-7
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.33762989853795006,
+						"probability": 2.0584052762983925e-7
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.5649564642096296,
+						"probability": 1.3612346903664359e-7
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.019555990370514694,
+						"probability": 4.046421690868067e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.057031739438638325,
+						"probability": 1.889962269475731e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08955702774840672,
+						"probability": 1.8367659850325133e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"Finding": "mood swings",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 2337.946113313421,
+						"probability": 0.004385817327309529
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 39.106433888735026,
+						"probability": 0.00022991466425065153
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 25.304163104475606,
+						"probability": 0.00009917887477479087
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.000030139493487547373
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 1.5547989763707077,
+						"probability": 0.000018679764164425194
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 6.134342570781965,
+						"probability": 0.000014933619913944934
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.358228110993627,
+						"probability": 0.000007776725580335955
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 1.2661121195173128,
+						"probability": 0.000002935193029057797
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.9155084065330722,
+						"probability": 0.0000013214379030843352
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.38909923246023964,
+						"probability": 0.0000011408055550072968
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.08955702774840671,
+						"probability": 0.0000010819513611795367
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.3255787431524004,
+						"probability": 9.709413298544961e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.052241599519903974,
+						"probability": 5.274635015170719e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 5.170445991127986e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.19409370331209,
+						"probability": 4.054915972586264e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420341,
+						"probability": 3.7958992643870517e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04876426579361063,
+						"probability": 3.4964411355984737e-7
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.7048784029488444e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.3851630001757034e-7
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.33762989853795006,
+						"probability": 1.9554850124834727e-7
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.027333768719834128,
+						"probability": 1.5463430729102068e-7
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.5649564642096296,
+						"probability": 1.2931729558481143e-7
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.019555990370514694,
+						"probability": 3.844100606324663e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.05703173943863833,
+						"probability": 1.7954641560019445e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08955702774840671,
+						"probability": 1.7449276857808872e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"Finding": "diarrhea (mucus)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 2337.9461133134214,
+						"probability": 0.004166526460944053
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 39.106433888735026,
+						"probability": 0.00021841893103811895
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 25.304163104475606,
+						"probability": 0.00009421993103605133
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.000028632518813169993
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 1.5547989763707075,
+						"probability": 0.000017745775956203938
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.358228110993627,
+						"probability": 0.000007387889301319157
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 1.2661121195173128,
+						"probability": 0.000002788433377604907
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.9394899363838164,
+						"probability": 0.0000014933619913944932
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.9155084065330723,
+						"probability": 0.0000012553660079301183
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.38909923246023964,
+						"probability": 0.000001083765277256932
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.08955702774840671,
+						"probability": 0.0000010278537931205598
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.3255787431524004,
+						"probability": 9.223942633617714e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.052241599519903974,
+						"probability": 5.010903264412182e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 4.911923691571586e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.19409370331209,
+						"probability": 3.852170173956951e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420341,
+						"probability": 3.6061043011676997e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04876426579361063,
+						"probability": 3.32161907881855e-7
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.5696344828014027e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.2659048501669185e-7
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.33762989853795,
+						"probability": 1.8577107618592994e-7
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.027333768719834128,
+						"probability": 1.4690259192646963e-7
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.5649564642096296,
+						"probability": 1.2285143080557083e-7
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.019555990370514694,
+						"probability": 3.65189557600843e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08955702774840671,
+						"probability": 1.657681301491843e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.0521061313333577,
+						"probability": 1.5261445326016532e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"Finding": "darkening of skin on the hands, arms, neck and face",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 2337.9461133134214,
+						"probability": 0.00395820013789685
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 39.10643388873502,
+						"probability": 0.00020749798448621302
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 25.30416310447561,
+						"probability": 0.00008950893448424877
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.000027200892872511492
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 1.5547989763707075,
+						"probability": 0.000016858487158393744
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.35822811099362706,
+						"probability": 0.000007018494836253198
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.9394899363838165,
+						"probability": 0.0000014186938918247685
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.9155084065330725,
+						"probability": 0.0000011925977075336124
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.38909923246023964,
+						"probability": 0.0000010295770133940857
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.08955702774840672,
+						"probability": 9.764611034645316e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.3255787431524004,
+						"probability": 8.762745501936826e-7
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.3348659258169216,
+						"probability": 6.971083444012268e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.052241599519903974,
+						"probability": 4.7603581011915743e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 4.6663275069930073e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.19409370331209,
+						"probability": 3.6595616652591025e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420341,
+						"probability": 3.4257990861093143e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04876426579361063,
+						"probability": 3.155538124877622e-7
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.441152758661332e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.152609607658572e-7
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.33762989853795006,
+						"probability": 1.7648252237663338e-7
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.027333768719834128,
+						"probability": 1.395574623301461e-7
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.5649564642096296,
+						"probability": 1.1670885926529229e-7
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.019555990370514694,
+						"probability": 3.469300797208009e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08955702774840672,
+						"probability": 1.5747972364172516e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.0521061313333577,
+						"probability": 1.4498373059715702e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"Finding": "diarrhea (chronic)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 2337.946113313421,
+						"probability": 0.003760290131002007
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 39.106433888735026,
+						"probability": 0.0001971230852619023
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 25.304163104475613,
+						"probability": 0.00008503348776003631
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.000025840848228885927
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.358228110993627,
+						"probability": 0.000006667570094440538
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.73241537570292,
+						"probability": 0.000004214621789598434
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.9394899363838165,
+						"probability": 0.00000134775919723353
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.38909923246023964,
+						"probability": 9.780981627243812e-7
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.08955702774840671,
+						"probability": 9.276380482913051e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.052241599519903974,
+						"probability": 4.522340196131996e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120898,
+						"probability": 4.433011131643356e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1940937033120902,
+						"probability": 3.4765835819961475e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420341,
+						"probability": 3.2545091318038485e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04876426579361063,
+						"probability": 2.9977612186337413e-7
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.319095120728265e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.022389256937101705,
+						"probability": 2.0449791272756433e-7
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.33762989853795006,
+						"probability": 1.6765839625780177e-7
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.14422352271038263,
+						"probability": 1.3942166888024532e-7
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.027333768719834128,
+						"probability": 1.3257958921363884e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749623,
+						"probability": 1.1925977075336117e-7
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.5649564642096296,
+						"probability": 1.1087341630202769e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.1007857288590246,
+						"probability": 4.3813727509684176e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08955702774840671,
+						"probability": 1.4960573745963884e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.052106131333357716,
+						"probability": 1.3773454406729916e-8
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206538,
+						"probability": 6.938601594416016e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"Finding": "weight loss",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 2337.9461133134214,
+						"probability": 0.0035722756244519057
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 39.10643388873502,
+						"probability": 0.00018726693099880713
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 25.30416310447561,
+						"probability": 0.00008078181337203449
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.4030066248678305,
+						"probability": 0.000024548805817441616
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.35822811099362706,
+						"probability": 0.000006334191589718513
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.4492208461298954,
+						"probability": 0.000002318041984279139
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.9394899363838165,
+						"probability": 0.0000012803712373718536
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.08955702774840672,
+						"probability": 8.812561458767401e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.052241599519903974,
+						"probability": 4.296223186325394e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 4.211360575061189e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.1735641894752854,
+						"probability": 3.912392650897524e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420342,
+						"probability": 3.0917836752136553e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04876426579361064,
+						"probability": 2.847873157702054e-7
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.02238925693710171,
+						"probability": 2.2031403646918523e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.02238925693710171,
+						"probability": 1.9427301709118613e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.5326453729103231,
+						"probability": 1.390633432798459e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749624,
+						"probability": 1.1329678221569316e-7
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.5649564642096296,
+						"probability": 1.053297454869263e-7
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.016764938475599782,
+						"probability": 7.291877406750135e-8
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.15060543633519058,
+						"probability": 6.706335850312072e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.06433330300916462,
+						"probability": 5.5768667552098124e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.08991430401693222,
+						"probability": 3.5050982007747335e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.052106131333357716,
+						"probability": 1.3084781686393421e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857562,
+						"probability": 1.2516914027263138e-8
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206538,
+						"probability": 6.591671514695215e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"Finding": "vomiting",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 1442.0706035919636,
+						"probability": 0.001964751593448549
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 32.52511918367565,
+						"probability": 0.0001388808730356402
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 15.607883155931741,
+						"probability": 0.00004442999735461898
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.00001820588165633158
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.358228110993627,
+						"probability": 0.000006017482010232585
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.4061681990069773,
+						"probability": 0.0000018688651948635837
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.09528186818658779,
+						"probability": 8.3603298689763e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120898,
+						"probability": 3.909480843904221e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.2634034618355096,
+						"probability": 3.2009280934296335e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.04142769833385268,
+						"probability": 3.037888548541564e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.14435465951110085,
+						"probability": 2.901508045851041e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420341,
+						"probability": 2.5867718117418785e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.044806937043284076,
+						"probability": 2.33332305407792e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.022389256937101705,
+						"probability": 1.8455936623662676e-7
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.017754727857365434,
+						"probability": 1.5578554917794118e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749623,
+						"probability": 1.0763194310490847e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.4430052171423398,
+						"probability": 1.0313213560424582e-7
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.618083989204082,
+						"probability": 9.710922711920619e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.016764938475599785,
+						"probability": 6.927283536412628e-8
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.1510688696149737,
+						"probability": 5.998329136496656e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.06453126527625345,
+						"probability": 4.988101266443129e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.08571109630865709,
+						"probability": 2.9793334706585238e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.052106131333357696,
+						"probability": 1.2430542602073745e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857561,
+						"probability": 1.189106832589998e-8
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206535,
+						"probability": 6.262087938960454e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"Finding": "nausea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 1442.0706035919638,
+						"probability": 0.0018665140137761208
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 24.121273968258144,
+						"probability": 0.00010299681204934396
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 15.607883155931741,
+						"probability": 0.000042208497486888015
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.000017295587573514992
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.358228110993627,
+						"probability": 0.000005716607909720955
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.327463270955647,
+						"probability": 0.0000015067272897814414
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.09039231695566646,
+						"probability": 7.931305312890661e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 3.6292405260577785e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420341,
+						"probability": 2.457433221154785e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.10705628074714356,
+						"probability": 2.1518159579936393e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.029293806420817865,
+						"probability": 2.148111593162698e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04098369838353689,
+						"probability": 1.9117412093889012e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.16173195185994446,
+						"probability": 1.7605104513862988e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.02124566189976418,
+						"probability": 1.5687546130113277e-7
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.012554488466064799,
+						"probability": 1.1015701823459257e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749622,
+						"probability": 1.0225034594966303e-7
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.4917997274100856,
+						"probability": 8.953028366388734e-8
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.3285414621146506,
+						"probability": 7.648483880391523e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.016764938475599782,
+						"probability": 6.580919359591996e-8
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.13512010469725344,
+						"probability": 5.365068680249657e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.0577185183327098,
+						"probability": 4.461493404167849e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.05262733756594088,
+						"probability": 1.6386334088621887e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857561,
+						"probability": 1.0963023307534217e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.0349021145902528,
+						"probability": 7.458325561244252e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206535,
+						"probability": 5.948983542012431e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"Finding": "anemia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 1442.0706035919634,
+						"probability": 0.0017731883130873147
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 24.121273968258148,
+						"probability": 0.00009784697144687677
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 15.607883155931743,
+						"probability": 0.00004009807261254361
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.4030066248678305,
+						"probability": 0.00001643080819483925
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.35822811099362706,
+						"probability": 0.000005430777514234908
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.29746663544825963,
+						"probability": 0.0000012807181963142247
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.09039231695566645,
+						"probability": 7.534740047246125e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 3.447778499754889e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420342,
+						"probability": 2.3345615600970454e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.10705628074714356,
+						"probability": 2.0442251600939568e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.029293806420817862,
+						"probability": 2.0407060135045634e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.040983698383536896,
+						"probability": 1.816154148919456e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.16173195185994446,
+						"probability": 1.6724849288169835e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.02124566189976419,
+						"probability": 1.4903168823607614e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749623,
+						"probability": 9.713782865217986e-8
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 1.3551463172656508,
+						"probability": 7.610074111430425e-8
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.3285414621146507,
+						"probability": 7.266059686371949e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.016764938475599782,
+						"probability": 6.251873391612396e-8
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.13512010469725347,
+						"probability": 5.096815246237173e-8
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.005366804229768161,
+						"probability": 4.4062807293837056e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.05243132581368296,
+						"probability": 3.792269393542673e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.039370069324138994,
+						"probability": 1.1470433862035319e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857562,
+						"probability": 1.0414872142157506e-8
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.03490211459025281,
+						"probability": 7.085409283182038e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206535,
+						"probability": 5.6515343649118094e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"Finding": "melena",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 1442.0706035919636,
+						"probability": 0.0016845288974329492
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 24.121273968258144,
+						"probability": 0.00009295462287453292
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 15.607883155931745,
+						"probability": 0.000038093168981916434
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.000015609267785097284
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.35822811099362706,
+						"probability": 0.000005159238638523162
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.2974666354482595,
+						"probability": 0.0000012166822864985137
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.09039231695566646,
+						"probability": 7.158003044883818e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 3.2753895747671455e-7
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.04477851387420341,
+						"probability": 2.2178334820921927e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.10705628074714357,
+						"probability": 1.9420139020892588e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.029293806420817862,
+						"probability": 1.938670712829335e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.040983698383536896,
+						"probability": 1.725346441473483e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.16173195185994454,
+						"probability": 1.5888606823761338e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.021245661899764182,
+						"probability": 1.4158010382427236e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749623,
+						"probability": 9.22809372195709e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.01676493847559978,
+						"probability": 5.9392797220317756e-8
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.26325074748564153,
+						"probability": 5.4495447647789615e-8
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.13512010469725347,
+						"probability": 4.841974483925314e-8
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.00536680422976816,
+						"probability": 4.1859666929145206e-8
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.7238929675753878,
+						"probability": 3.805037055715212e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.039210921045977475,
+						"probability": 2.6545885754798714e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.039370069324138994,
+						"probability": 1.0896912168933551e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857562,
+						"probability": 9.894128535049631e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.03490211459025281,
+						"probability": 6.731138819022934e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206538,
+						"probability": 5.368957646666217e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"Finding": "otorrhea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 1442.0706035919638,
+						"probability": 0.0016003024525613016
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 24.121273968258144,
+						"probability": 0.00008830689173080627
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 15.607883155931743,
+						"probability": 0.00003618851053282061
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.40300662486783045,
+						"probability": 0.000014828804395842418
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.358228110993627,
+						"probability": 0.000004901276706597005
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.2974666354482596,
+						"probability": 0.0000011558481721735876
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.09039231695566645,
+						"probability": 6.800102892639629e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120898,
+						"probability": 3.1116200960287874e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.10705628074714357,
+						"probability": 1.844913206984796e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.029293806420817862,
+						"probability": 1.8417371771878684e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04098369838353689,
+						"probability": 1.6390791193998093e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.1617319518599445,
+						"probability": 1.509417648257328e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.021245661899764182,
+						"probability": 1.3450109863305872e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749623,
+						"probability": 8.766689035859234e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.016764938475599782,
+						"probability": 5.642315735930186e-8
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.26325074748564153,
+						"probability": 5.177067526540014e-8
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.1351201046972535,
+						"probability": 4.599875759729048e-8
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.00536680422976816,
+						"probability": 3.9766683582687923e-8
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.7238929675753878,
+						"probability": 3.6147852029294515e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.03921092104597748,
+						"probability": 2.5218591467058772e-8
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.002380744712557271,
+						"probability": 1.1089167410460974e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.039370069324138994,
+						"probability": 1.0352066560486873e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857561,
+						"probability": 9.399422108297147e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.0349021145902528,
+						"probability": 6.3945818780717855e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206535,
+						"probability": 5.100509764332907e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"Finding": "difficulty hearing",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 1442.0706035919636,
+						"probability": 0.0015202873299332363
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 24.121273968258148,
+						"probability": 0.00008389154714426594
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 15.607883155931743,
+						"probability": 0.00003437908500617958
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.2383111034599679,
+						"probability": 0.000008155842417713328
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.35822811099362706,
+						"probability": 0.0000046562128712671535
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.2974666354482595,
+						"probability": 0.0000010980557635649084
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.09039231695566646,
+						"probability": 6.460097748007644e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.11940937033120896,
+						"probability": 2.956039091227348e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.10705628074714357,
+						"probability": 1.7526675466355562e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.029293806420817865,
+						"probability": 1.7496503183284743e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.040983698383536896,
+						"probability": 1.5571251634298186e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.16173195185994446,
+						"probability": 1.4339467658444613e-7
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.021245661899764182,
+						"probability": 1.277760437014057e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749622,
+						"probability": 8.328354584066271e-8
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.2632507474856416,
+						"probability": 4.918214150213013e-8
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.13512010469725347,
+						"probability": 4.369881971742594e-8
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.00536680422976816,
+						"probability": 3.777834940355353e-8
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.7238929675753878,
+						"probability": 3.4340459427829796e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.009913660821007447,
+						"probability": 3.103273654761603e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.03921092104597748,
+						"probability": 2.3957661893705832e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.039370069324139,
+						"probability": 9.83446323246253e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857562,
+						"probability": 8.929451002882291e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.0349021145902528,
+						"probability": 6.074852784168197e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206538,
+						"probability": 4.845484276116261e-9
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.00012798298509633185,
+						"probability": 5.544583705230492e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"Finding": "dry cough or productive cough",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 1442.0706035919636,
+						"probability": 0.001176369355425111
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 24.121273968258144,
+						"probability": 0.00006491367999761557
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 15.607883155931747,
+						"probability": 0.000026601880626473817
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.23831110345996792,
+						"probability": 0.000006310835392080487
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.358228110993627,
+						"probability": 0.0000036028887607286636
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.2974666354482596,
+						"probability": 8.496546181585328e-7
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.03047683419253543,
+						"probability": 1.4162775118532385e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.10705628074714355,
+						"probability": 1.3561807373614852e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.029293806420817865,
+						"probability": 1.3538460636133797e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.04098369838353689,
+						"probability": 1.2048737687635657e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.16173195185994446,
+						"probability": 1.1095606728002197e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749623,
+						"probability": 6.444322017891221e-8
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.26325074748564153,
+						"probability": 3.8056203559775886e-8
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.13512010469725347,
+						"probability": 3.381331368859334e-8
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.7238929675753877,
+						"probability": 2.657199289024685e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.005969354262591358,
+						"probability": 2.6018596548767027e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.009913660821007447,
+						"probability": 2.4012539979004846e-8
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.004523703124422143,
+						"probability": 2.3078026277908583e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.03921092104597748,
+						"probability": 1.8537982080419725e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.039370069324138994,
+						"probability": 7.609720179824134e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857561,
+						"probability": 6.909438968370569e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.0349021145902528,
+						"probability": 4.700605282508152e-9
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.0067100459109524346,
+						"probability": 4.218202141823677e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206538,
+						"probability": 3.74934336581475e-9
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.0001279829850963318,
+						"probability": 4.2902931774804745e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"Finding": "liver cirrhosis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 1442.0706035919636,
+						"probability": 0.0011175508876538553
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 24.121273968258144,
+						"probability": 0.00006166799599773477
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 15.607883155931747,
+						"probability": 0.000025271786595150125
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.23831110345996792,
+						"probability": 0.000005995293622476461
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.358228110993627,
+						"probability": 0.0000034227443226922304
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.2974666354482596,
+						"probability": 8.071718872506062e-7
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.03047683419253542,
+						"probability": 1.345463636260577e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.10705628074714357,
+						"probability": 1.288371700493411e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.029293806420817862,
+						"probability": 1.286153760432711e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.16173195185994446,
+						"probability": 1.0540826391602086e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.03689614380312614,
+						"probability": 1.0241427034490309e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749624,
+						"probability": 6.12210591699666e-8
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.2632507474856415,
+						"probability": 3.6153393381787093e-8
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.7238929675753877,
+						"probability": 2.5243393245734508e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.005969354262591359,
+						"probability": 2.4717666721328678e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.009913660821007447,
+						"probability": 2.2811912980054596e-8
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.004523703124422143,
+						"probability": 2.1924124964013155e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.03921092104597748,
+						"probability": 1.7611082976398735e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.039370069324138994,
+						"probability": 7.2292341708329275e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857561,
+						"probability": 6.563967019952045e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.03490211459025281,
+						"probability": 4.465575018382744e-9
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.0067100459109524346,
+						"probability": 4.007292034732491e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206538,
+						"probability": 3.5618761975240116e-9
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.014311029564941697,
+						"probability": 3.3813313688593316e-9
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.00012798298509633185,
+						"probability": 4.0757785186064496e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"Finding": "thinning or loss of hair anywhere",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 1442.0706035919638,
+						"probability": 0.001061673343271163
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 24.121273968258148,
+						"probability": 0.00005858459619784802
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 15.607883155931743,
+						"probability": 0.00002400819726539263
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.2383111034599679,
+						"probability": 0.00000569552894135264
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.35822811099362706,
+						"probability": 0.000003251607106557618
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.29746663544825963,
+						"probability": 7.668132928880759e-7
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.030476834192535423,
+						"probability": 1.2781904544475484e-7
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.029293806420817862,
+						"probability": 1.2218460724110754e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.16173195185994446,
+						"probability": 1.0013785072021981e-7
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.03689614380312614,
+						"probability": 9.729355682765786e-8
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.0632134401928542,
+						"probability": 7.08604435271376e-8
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.7565228091749624,
+						"probability": 5.816000621146829e-8
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.26325074748564153,
+						"probability": 3.434572371269775e-8
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.7238929675753878,
+						"probability": 2.3981223583447775e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.005969354262591359,
+						"probability": 2.3481783385262227e-8
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.004523703124422143,
+						"probability": 2.0827918715812502e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.005853711720857787,
+						"probability": 1.2546552139030028e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.03937006932413899,
+						"probability": 6.867772462291279e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.08355807971857562,
+						"probability": 6.235768668954439e-9
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.01052401934226528,
+						"probability": 4.402770744099682e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.0349021145902528,
+						"probability": 4.242296267463606e-9
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.006710045910952434,
+						"probability": 3.806927432995866e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.020168166236206538,
+						"probability": 3.3837823876478108e-9
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.014311029564941695,
+						"probability": 3.2122648004163644e-9
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.00012798298509633185,
+						"probability": 3.8719895926761267e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"Finding": "diarrhea (watery)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 675.1227789609263,
+						"probability": 0.00005308366716355812
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 120.88047522729308,
+						"probability": 0.0000234338384791392
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 7.3070191041156525,
+						"probability": 0.0000012004098632696314
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.11156822282098348,
+						"probability": 2.847764470676318e-7
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.1677088189673492,
+						"probability": 1.6258035532788096e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 1.154959111904376,
+						"probability": 4.506203282409892e-8
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.139262599952984,
+						"probability": 3.834066464440378e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.014268098207359197,
+						"probability": 6.3909522722377396e-9
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.01371424946039736,
+						"probability": 6.109230362055377e-9
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.01727337557208582,
+						"probability": 4.864677841382894e-9
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.11207183666045793,
+						"probability": 3.742355132484728e-9
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.029594135893470805,
+						"probability": 3.543022176356881e-9
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.35417529488871224,
+						"probability": 2.908000310573414e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.3148329382016198,
+						"probability": 2.545377760478163e-9
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.12324401854067293,
+						"probability": 1.7172861856348874e-9
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.3388992402469433,
+						"probability": 1.1990611791723891e-9
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.0027946253313289485,
+						"probability": 1.174089169263112e-9
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.00211782628183873,
+						"probability": 1.0413959357906252e-9
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.0027404858779992666,
+						"probability": 6.273276069515013e-10
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.018431573699506452,
+						"probability": 3.433886231145641e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.039118724730765844,
+						"probability": 3.117884334477221e-10
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.0031413890769799013,
+						"probability": 1.903463716497933e-10
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.009441970734316659,
+						"probability": 1.691891193823906e-10
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.006699881424397449,
+						"probability": 1.6061324002081829e-10
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.000059916781011090206,
+						"probability": 1.935994796338064e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"Finding": "rectal bleeding",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 675.1227789609263,
+						"probability": 0.00005042948380538024
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 120.88047522729309,
+						"probability": 0.00002226214655518224
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 7.3070191041156525,
+						"probability": 0.0000011403893701061494
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.11156822282098348,
+						"probability": 2.705376247142503e-7
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.1677088189673492,
+						"probability": 1.5445133756148693e-7
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.13926259995298398,
+						"probability": 3.64236314121836e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.7356988434513808,
+						"probability": 2.7037219694459357e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.014268098207359197,
+						"probability": 6.071404658625853e-9
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.01371424946039736,
+						"probability": 5.803768843952606e-9
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.01727337557208582,
+						"probability": 4.621443949313749e-9
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.11207183666045792,
+						"probability": 3.555237375860494e-9
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.029594135893470805,
+						"probability": 3.3658710675390364e-9
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.35417529488871236,
+						"probability": 2.7626002950447423e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.3148329382016197,
+						"probability": 2.4181088724542546e-9
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.12324401854067293,
+						"probability": 1.6314218763531433e-9
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.002794625331328949,
+						"probability": 1.1153847107999563e-9
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.00211782628183873,
+						"probability": 9.893261390010943e-10
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.1694496201234717,
+						"probability": 5.995305895861944e-10
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.002740485877999266,
+						"probability": 5.959612266039265e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.039118724730765844,
+						"probability": 2.961990117753359e-10
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.015654334788651216,
+						"probability": 2.747108984916513e-10
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.0031413890769799013,
+						"probability": 1.8082905306730365e-10
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.00944197073431666,
+						"probability": 1.60729663413271e-10
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.006699881424397451,
+						"probability": 1.5258257801977735e-10
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.00005991678101109019,
+						"probability": 1.83919505652116e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"Finding": "abdominal tenderness",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 675.1227789609261,
+						"probability": 0.000047908009615111214
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 120.88047522729308,
+						"probability": 0.00002114903922742314
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 7.3070191041156525,
+						"probability": 0.0000010833699016008425
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.11156822282098351,
+						"probability": 2.5701074347853766e-7
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.16770881896734924,
+						"probability": 1.4672877068341257e-7
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.13926259995298398,
+						"probability": 3.4602449841574424e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.7356988434513808,
+						"probability": 2.568535870973637e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.0142680982073592,
+						"probability": 5.767834425694561e-9
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.013714249460397359,
+						"probability": 5.513580401754976e-9
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.11207183666045795,
+						"probability": 3.377475507067469e-9
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.029594135893470805,
+						"probability": 3.1975775141620836e-9
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.3541752948887123,
+						"probability": 2.6244702802925053e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.2721150125298394,
+						"probability": 1.934487097963405e-9
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.00687516148813487,
+						"probability": 1.7025545078472886e-9
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.12324401854067295,
+						"probability": 1.5498507825354864e-9
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.002794625331328949,
+						"probability": 1.0596154752599586e-9
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.00211782628183873,
+						"probability": 9.398598320510394e-10
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.16944962012347167,
+						"probability": 5.695540601068846e-10
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.002740485877999267,
+						"probability": 5.6616316527373e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.03911872473076585,
+						"probability": 2.813890611865691e-10
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.01565433478865122,
+						"probability": 2.609753535670686e-10
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.0031413890769799013,
+						"probability": 1.7178760041393846e-10
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.009441970734316659,
+						"probability": 1.526931802426074e-10
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.006699881424397451,
+						"probability": 1.4495344911878846e-10
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.00005991678101109021,
+						"probability": 1.7472353036951024e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"Finding": "travel from or to an endemic area of dengue fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cholera",
+						"instance": "cholera #1",
+						"confidence": 675.1227789609263,
+						"probability": 0.000045512609134355675
+					},
+					{
+						"disease": "food poisoning",
+						"instance": "food poisoning #1",
+						"confidence": 120.88047522729306,
+						"probability": 0.00002009158726605198
+					},
+					{
+						"disease": "acute viral gastroenteritis",
+						"instance": "acute gastroenteritis viral #1",
+						"confidence": 7.3070191041156525,
+						"probability": 0.0000010292014065208002
+					},
+					{
+						"disease": "otitis media",
+						"instance": "otitis media #1",
+						"confidence": 0.11156822282098347,
+						"probability": 2.441602063046108e-7
+					},
+					{
+						"disease": "impetigo",
+						"instance": "impetigo #1",
+						"confidence": 0.1677088189673492,
+						"probability": 1.3939233214924196e-7
+					},
+					{
+						"disease": "celiac disease",
+						"instance": "celiac disease #1",
+						"confidence": 0.13926259995298398,
+						"probability": 3.28723273494957e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.7356988434513808,
+						"probability": 2.4401090774249557e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.014268098207359197,
+						"probability": 5.479442704409831e-9
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.11207183666045795,
+						"probability": 3.2086017317140943e-9
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.0295941358934708,
+						"probability": 3.0376986384539805e-9
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.35417529488871224,
+						"probability": 2.4932467662778797e-9
+					},
+					{
+						"disease": "pseudomembranous colitis",
+						"instance": "pseudomembranous colitis #1",
+						"confidence": 0.27211501252983933,
+						"probability": 1.837762743065234e-9
+					},
+					{
+						"disease": "peritonitis",
+						"instance": "peritonitis #1",
+						"confidence": 0.0068751614881348705,
+						"probability": 1.6174267824549238e-9
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.12324401854067292,
+						"probability": 1.4723582434087117e-9
+					},
+					{
+						"disease": "dengue fever",
+						"instance": "dengue fever #1",
+						"confidence": 0.0028949842695076824,
+						"probability": 1.102716080350995e-9
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.002794625331328949,
+						"probability": 1.0066347014969607e-9
+					},
+					{
+						"disease": "malaria",
+						"instance": "malaria #1",
+						"confidence": 0.0021178262818387296,
+						"probability": 8.928668404484869e-10
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 0.16944962012347167,
+						"probability": 5.410763571015404e-10
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.002740485877999267,
+						"probability": 5.378550070100434e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.039118724730765844,
+						"probability": 2.6731960812724053e-10
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.015654334788651213,
+						"probability": 2.479265858887153e-10
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "atypical pneumonia",
+						"confidence": 0.0031413890769799013,
+						"probability": 1.631982203932415e-10
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.009441970734316659,
+						"probability": 1.450585212304771e-10
+					},
+					{
+						"disease": "hepatocellular carcinoma",
+						"instance": "hepatocellular carcinoma #1",
+						"confidence": 0.006699881424397448,
+						"probability": 1.3770577666284906e-10
+					},
+					{
+						"disease": "otitis media with tympanic membrane perforated",
+						"instance": "otitis media with tympanic membrane perforated #1",
+						"confidence": 0.0000599167810110902,
+						"probability": 1.6598735385103466e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "cholera",
+				"instance": "cholera #1",
+				"confidence": 675.1227789609262,
+				"probability": 0.00004551260913435566
+			},
+			{
+				"disease": "food poisoning",
+				"instance": "food poisoning #1",
+				"confidence": 120.88047522729306,
+				"probability": 0.000020091587266051982
+			},
+			{
+				"disease": "acute viral gastroenteritis",
+				"instance": "acute gastroenteritis viral #1",
+				"confidence": 7.3070191041156525,
+				"probability": 0.0000010292014065208
+			},
+			{
+				"disease": "otitis media",
+				"instance": "otitis media #1",
+				"confidence": 0.1115682228209835,
+				"probability": 2.4416020630461093e-7
+			},
+			{
+				"disease": "impetigo",
+				"instance": "impetigo #1",
+				"confidence": 0.1677088189673492,
+				"probability": 1.3939233214924188e-7
+			},
+			{
+				"disease": "celiac disease",
+				"instance": "celiac disease #1",
+				"confidence": 0.139262599952984,
+				"probability": 3.2872327349495694e-8
+			},
+			{
+				"disease": "acute bacterial gastroenteritis",
+				"instance": "acute bacterial gastroenteritis #1",
+				"confidence": 0.7356988434513808,
+				"probability": 2.4401090774249557e-8
+			},
+			{
+				"disease": "coronavirus disease 2019",
+				"instance": "coronavirus disease 2019 #1",
+				"confidence": 0.014268098207359197,
+				"probability": 5.47944270440983e-9
+			},
+			{
+				"disease": "cronkhite canada syndrome",
+				"instance": "cronkhite canada syndrome #1",
+				"confidence": 0.11207183666045793,
+				"probability": 3.2086017317140943e-9
+			},
+			{
+				"disease": "adrenal insufficiency",
+				"instance": "adrenal insufficiency #1",
+				"confidence": 0.029594135893470798,
+				"probability": 3.0376986384539793e-9
+			},
+			{
+				"disease": "multiple sclerosis",
+				"instance": "multiple sclerosis #1",
+				"confidence": 0.35417529488871224,
+				"probability": 2.4932467662778797e-9
+			},
+			{
+				"disease": "pseudomembranous colitis",
+				"instance": "pseudomembranous colitis #1",
+				"confidence": 0.2721150125298394,
+				"probability": 1.8377627430652347e-9
+			},
+			{
+				"disease": "peritonitis",
+				"instance": "peritonitis #1",
+				"confidence": 0.006875161488134869,
+				"probability": 1.6174267824549246e-9
+			},
+			{
+				"disease": "liver cirrhosis",
+				"instance": "liver cirrhosis #1",
+				"confidence": 0.12324401854067293,
+				"probability": 1.472358243408711e-9
+			},
+			{
+				"disease": "dengue fever",
+				"instance": "dengue fever #1",
+				"confidence": 0.0028949842695076824,
+				"probability": 1.102716080350995e-9
+			},
+			{
+				"disease": "influenza",
+				"instance": "influenza #1",
+				"confidence": 0.0027946253313289493,
+				"probability": 1.0066347014969605e-9
+			},
+			{
+				"disease": "malaria",
+				"instance": "malaria #1",
+				"confidence": 0.0021178262818387296,
+				"probability": 8.92866840448487e-10
+			},
+			{
+				"disease": "colonic polyps",
+				"instance": "colonic polyps #1",
+				"confidence": 0.16944962012347164,
+				"probability": 5.410763571015403e-10
+			},
+			{
+				"disease": "hyperthyroidism",
+				"instance": "hyperthyroidism #1",
+				"confidence": 0.002740485877999267,
+				"probability": 5.378550070100435e-10
+			},
+			{
+				"disease": "hiv infection",
+				"instance": "hiv infection #1",
+				"confidence": 0.03911872473076585,
+				"probability": 2.6731960812724053e-10
+			},
+			{
+				"disease": "inflammatory bowel disease",
+				"instance": "inflammatory bowel disease #1",
+				"confidence": 0.015654334788651216,
+				"probability": 2.479265858887153e-10
+			},
+			{
+				"disease": "pneumonia",
+				"instance": "atypical pneumonia",
+				"confidence": 0.0031413890769799013,
+				"probability": 1.6319822039324158e-10
+			},
+			{
+				"disease": "diabetic neuropathy",
+				"instance": "diabetic neuropathy #1",
+				"confidence": 0.00944197073431666,
+				"probability": 1.4505852123047706e-10
+			},
+			{
+				"disease": "hepatocellular carcinoma",
+				"instance": "hepatocellular carcinoma #1",
+				"confidence": 0.00669988142439745,
+				"probability": 1.3770577666284906e-10
+			},
+			{
+				"disease": "otitis media with tympanic membrane perforated",
+				"instance": "otitis media with tympanic membrane perforated #1",
+				"confidence": 0.00005991678101109021,
+				"probability": 1.659873538510347e-11
+			}
+		],
+		"urgency": 3,
+		"specialist": ""
+	},
+	"Case": {
+		"chief_findings": [
+			"diarrhea"
+		],
+		"findings": {
+			"abdominal discomfort other than pain": null,
+			"abdominal pain": false,
+			"abdominal tenderness": false,
+			"anemia": false,
+			"area of poor sanitation or recent contaminated water or food": true,
+			"chronic cough": false,
+			"darkening of skin on the hands, arms, neck and face": false,
+			"dehydration": true,
+			"diabetes mellitus": false,
+			"diarrhea": true,
+			"diarrhea (chronic)": false,
+			"diarrhea (mucus)": false,
+			"diarrhea (watery)": true,
+			"difficulty hearing": false,
+			"dry cough or productive cough": false,
+			"dry cough or productive cough (dry at first then production of clear/white mucus)": false,
+			"dry cough or productive cough (dry at first then production of yellowish-gray mucus)": false,
+			"dry cough or productive cough (production of pink, frothy mucus)": false,
+			"fever": false,
+			"liver cirrhosis": false,
+			"melena": false,
+			"mood swings": false,
+			"nausea": false,
+			"otorrhea": false,
+			"recent antibiotic use": false,
+			"rectal bleeding": false,
+			"thinning or loss of hair anywhere": false,
+			"travel from or to an endemic area of dengue fever": false,
+			"vomiting": false,
+			"weight loss": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 3,
+		"sex": "male",
+		"question_count": 25
+	}
+}

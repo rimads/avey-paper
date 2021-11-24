@@ -1,0 +1,494 @@
+{
+	"Time": "2021-11-17T10:50:54.4633098+03:00",
+	"Age": 32,
+	"Sex": "female",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"Finding": "dysmenorrhea",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 15.38842975206601,
+						"probability": 0.012939142425339058
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 15.38842975206601,
+						"probability": 0.011765937227937917
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 15.38842975206601,
+						"probability": 0.007135804323294098
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 12.958677685950326,
+						"probability": 0.006975461721885136
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"Finding": "abdominal pain",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 94.76199665150526,
+						"probability": 0.012292185304072103
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 94.76199665150526,
+						"probability": 0.01117764036654102
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 50.39973229110529,
+						"probability": 0.0025637923673897316
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 44.88726157176565,
+						"probability": 0.00184375020063166
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"Finding": "abdominal pain (periumbilical pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 94.76199665150526,
+						"probability": 0.011093697236925071
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 94.76199665150526,
+						"probability": 0.01008782043080327
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 50.39973229110529,
+						"probability": 0.002313822611569233
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 44.88726157176565,
+						"probability": 0.0016639845560700729
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"Finding": "abdominal pain (left iliac pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 40.8572716187111,
+						"probability": 0.00408695300572118
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 40.8572716187111,
+						"probability": 0.0037163848219707294
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 44.88726157176565,
+						"probability": 0.0015807853282665692
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 43.802120502439394,
+						"probability": 0.0010941391598067083
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"Finding": "abdominal pain (hypogastric or pelvic)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0025813066450671965
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0023472569474498077
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 122.15361439064988,
+						"probability": 0.0015017460618532406
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 195.1022070752201,
+						"probability": 0.0006564834958840251
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"Finding": "abdominal pain (right iliac pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 122.15361439064988,
+						"probability": 0.0014266587587605784
+					},
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0009509614988077294
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0008647368529807576
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 195.1022070752201,
+						"probability": 0.00031043187884069386
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"Finding": "abdominal pain (flank pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 122.15361439064988,
+						"probability": 0.0013553258208225494
+					},
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0009034134238673432
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0008215000103317199
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 195.1022070752201,
+						"probability": 0.0002949102848986592
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"Finding": "abdominal pain (flank pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 122.15361439064988,
+						"probability": 0.0013553258208225494
+					},
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0009034134238673432
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0008215000103317199
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 195.1022070752201,
+						"probability": 0.0002949102848986592
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"Finding": "abdominal pain (left hypochondrial)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 122.15361439064988,
+						"probability": 0.0012875595297814218
+					},
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0008582427526739758
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0007804250098151337
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 195.1022070752201,
+						"probability": 0.0002801647706537263
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"Finding": "abdominal pain (epigastric)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 122.15361439064988,
+						"probability": 0.0012231815532923508
+					},
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.0008153306150402769
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 948.160525291206,
+						"probability": 0.000741403759324377
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 195.1022070752201,
+						"probability": 0.00026615653212103997
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"Finding": "abdominal pain (right hypochondrial)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 122.15361439064988,
+						"probability": 0.0011620224756277331
+					},
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 948.1605252912062,
+						"probability": 0.0007745640842882632
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 948.1605252912062,
+						"probability": 0.0007043335713581582
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 195.10220707522012,
+						"probability": 0.00025284870551498786
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"Finding": "abdominal pain (usually starts a few hours before menstruation lasts for hours or even days during menstruation)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 14458.630630927624,
+						"probability": 0.0007358358800738502
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 14458.630630927624,
+						"probability": 0.0006691168927902505
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 266.6450687895745,
+						"probability": 0.0005810112378138666
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 605.8151910391948,
+						"probability": 0.00012642435275749396
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "primary dysmenorrhea",
+				"instance": "primary dysmenorrhea #1",
+				"confidence": 14458.630630927626,
+				"probability": 0.0007358358800738502
+			},
+			{
+				"disease": "secondary dysmenorrhea",
+				"instance": "secondary dysmenorrhea #1",
+				"confidence": 14458.630630927626,
+				"probability": 0.0006691168927902505
+			},
+			{
+				"disease": "adenomyosis",
+				"instance": "adenomyosis #1",
+				"confidence": 266.6450687895745,
+				"probability": 0.0005810112378138666
+			},
+			{
+				"disease": "endometriosis",
+				"instance": "endometriosis #1",
+				"confidence": 605.8151910391949,
+				"probability": 0.0001264243527574939
+			}
+		],
+		"urgency": 2,
+		"specialist": "gynecologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"dysmenorrhea"
+		],
+		"findings": {
+			"abdominal pain": true,
+			"abdominal pain (epigastric)": false,
+			"abdominal pain (flank pain)": false,
+			"abdominal pain (hypogastric or pelvic)": true,
+			"abdominal pain (left hypochondrial)": false,
+			"abdominal pain (left iliac pain)": false,
+			"abdominal pain (nonspecific, non-focal)": false,
+			"abdominal pain (periumbilical pain)": false,
+			"abdominal pain (right hypochondrial)": false,
+			"abdominal pain (right iliac pain)": false,
+			"abdominal pain (usually starts a few hours before menstruation lasts for hours or even days during menstruation)": true,
+			"amenorrhea": false,
+			"amenorrhea (6 months or more without pregnancy)": false,
+			"amenorrhea (after age 51)": false,
+			"amenorrhea (not due to pregnancy)": false,
+			"decreased fetal movements": false,
+			"dysmenorrhea": true,
+			"pregnant": false,
+			"pregnant (last month of pregnancy)": false,
+			"pregnant (preeclampsia)": false,
+			"uterine contractions": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 32,
+		"sex": "female",
+		"question_count": 2
+	}
+}

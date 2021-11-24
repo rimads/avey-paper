@@ -1,0 +1,394 @@
+{
+	"Time": "2021-11-22T10:46:53.8032925+03:00",
+	"Age": 30,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "yellow nail discoloration",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 15.247786437931635,
+						"confidence_age": 0.1268431934735341,
+						"probability": 0.00345393373328503
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 16.200773090302363,
+						"confidence_age": 0.15616181265444948,
+						"probability": 0.002288303113945547
+					}
+				],
+				"urgency": 2,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "diarrhea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 15.247786437931635,
+						"confidence_age": 0.1268431934735341,
+						"probability": 0.003281237046620778
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 4.457401264850257,
+						"confidence_age": 0.04296559536803319,
+						"probability": 0.0005720757784863867
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "darkening of skin on the hands, arms, neck and face",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 15.247786437931635,
+						"confidence_age": 0.1268431934735341,
+						"probability": 0.003117175194289739
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 1.1787908845690036,
+						"confidence_age": 0.011362551666440375,
+						"probability": 0.00014301894462159667
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "thinning or loss of hair anywhere",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 15.247786437931635,
+						"confidence_age": 0.1268431934735341,
+						"probability": 0.002961316434575252
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.3162558266595432,
+						"confidence_age": 0.0030484399033554946,
+						"probability": 0.00003575473615539917
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "pachyonychia",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 200.12719699785168,
+						"confidence_age": 1.6648169143401264,
+						"probability": 0.0020729215042026763
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.14921929849429147,
+						"confidence_age": 0.0014383484051043527,
+						"probability": 0.0000017877368077699585
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "weight loss",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 200.12719699785168,
+						"confidence_age": 1.6648169143401264,
+						"probability": 0.0019692754289925424
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.06639854151852129,
+						"confidence_age": 0.0006400260372358864,
+						"probability": 7.150947231079834e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "melena",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 200.12719699785168,
+						"confidence_age": 1.6648169143401264,
+						"probability": 0.001870811657542915
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.04964150821264369,
+						"confidence_age": 0.00047850234443611337,
+						"probability": 5.005663061755884e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "anorexia or loss of appetite",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 200.12719699785168,
+						"confidence_age": 1.6648169143401264,
+						"probability": 0.0017772710746657696
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.033290991212605765,
+						"confidence_age": 0.0003208971265658803,
+						"probability": 3.0033978370535304e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "stomach polyps",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 200.12719699785168,
+						"confidence_age": 1.6648169143401264,
+						"probability": 0.001688407520932481
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.033290991212605765,
+						"confidence_age": 0.0003208971265658803,
+						"probability": 2.8532279452008536e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "colonic polyps",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 200.12719699785168,
+						"confidence_age": 1.6648169143401264,
+						"probability": 0.0016039871448858566
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.03329099121260577,
+						"confidence_age": 0.0003208971265658804,
+						"probability": 2.7105665479408114e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "dysgeusia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 200.12719699785168,
+						"confidence_age": 1.6648169143401264,
+						"probability": 0.0015237877876415637
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.028103770298086986,
+						"confidence_age": 0.00027089668423296414,
+						"probability": 2.1684532383526492e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "abdominal pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 200.12719699785168,
+						"confidence_age": 1.6648169143401264,
+						"probability": 0.0014475983982594855
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.01990644936879516,
+						"confidence_age": 0.00019188141205470435,
+						"probability": 1.3010719430115892e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "tachycardia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "onychomycosis",
+						"instance": "onychomycosis #1",
+						"confidence": 200.12719699785168,
+						"confidence_age": 1.6648169143401264,
+						"probability": 0.0013752184783465112
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.01567712988148116,
+						"confidence_age": 0.00015111433299295975,
+						"probability": 9.107503601081122e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "dermatologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "onychomycosis",
+				"instance": "onychomycosis #1",
+				"confidence": 200.12719699785168,
+				"confidence_age": 1.6648169143401264,
+				"probability": 0.0013752184783465112
+			},
+			{
+				"disease": "cronkhite canada syndrome",
+				"instance": "cronkhite canada syndrome #2",
+				"confidence": 0.015677129881481164,
+				"confidence_age": 0.00015111433299295978,
+				"probability": 9.107503601081124e-8
+			}
+		],
+		"urgency": 2,
+		"specialist": "dermatologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"yellow nail discoloration"
+		],
+		"findings": {
+			"abdominal pain": false,
+			"anorexia or loss of appetite": false,
+			"colonic polyps": false,
+			"darkening of skin on the hands, arms, neck and face": false,
+			"diarrhea": false,
+			"dysgeusia": false,
+			"melena": false,
+			"pachyonychia": true,
+			"stomach polyps": false,
+			"tachycardia": false,
+			"thinning or loss of hair anywhere": false,
+			"weight loss": false,
+			"yellow nail discoloration": true
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 30,
+		"sex": "male",
+		"question_count": 12
+	}
+}

@@ -1,0 +1,332 @@
+{
+	"Time": "2021-11-22T07:59:21.9186534+03:00",
+	"Age": 31,
+	"Sex": "female",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "breast fullness",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "breast engorgement",
+						"instance": "breast engorgement #1",
+						"confidence": 17.9245283018867,
+						"confidence_age": 0.3219933577681536,
+						"probability": 0.017065647961712227
+					}
+				],
+				"urgency": 1,
+				"specialist": "obstetrician-gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 0,
+			"Finding": "breast pain",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "breast engorgement",
+						"instance": "breast engorgement #1",
+						"confidence": 178.7487586891739,
+						"confidence_age": 3.211014094086833,
+						"probability": 0.010239388777027335
+					},
+					{
+						"disease": "breast infection",
+						"instance": "breast abscess",
+						"confidence": 5.883867117914243,
+						"confidence_age": 0.11264812872243352,
+						"probability": 0.0007179470138320731
+					},
+					{
+						"disease": "fibrocystic breasts",
+						"instance": "fibrocystic breasts #1",
+						"confidence": 5.883867117914243,
+						"confidence_age": 0.09014097034491822,
+						"probability": 0.0005745008036708862
+					},
+					{
+						"disease": "galactocele",
+						"instance": "galactocele #1",
+						"confidence": 1.9612890393047477,
+						"confidence_age": 0.035232282416778525,
+						"probability": 0.0002245479994962135
+					},
+					{
+						"disease": "fibroadenoma",
+						"instance": "fibroadenoma #1",
+						"confidence": 1.9612890393047477,
+						"confidence_age": 0.032786410629979994,
+						"probability": 0.00020895957947127954
+					}
+				],
+				"urgency": 3,
+				"specialist": "obstetrician-gynecologist"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "postpartum",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "breast engorgement",
+						"instance": "breast engorgement #1",
+						"confidence": 2457.1123710664538,
+						"confidence_age": 44.139173396829605,
+						"probability": 0.007526891654949429
+					},
+					{
+						"disease": "breast infection",
+						"instance": "breast abscess",
+						"confidence": 51.08254015415554,
+						"confidence_age": 0.9779881910035448,
+						"probability": 0.00033332022806298415
+					},
+					{
+						"disease": "galactocele",
+						"instance": "galactocele #1",
+						"confidence": 26.96022952580431,
+						"confidence_age": 0.4843092484782485,
+						"probability": 0.00016506341348573308
+					},
+					{
+						"disease": "fibrocystic breasts",
+						"instance": "fibrocystic breasts #1",
+						"confidence": 2.7235217223731087,
+						"confidence_age": 0.04172441115515912,
+						"probability": 0.00002222688852294808
+					},
+					{
+						"disease": "fibroadenoma",
+						"instance": "fibroadenoma #1",
+						"confidence": 0.9078405741243696,
+						"confidence_age": 0.015176158767679459,
+						"probability": 0.000008084446965144622
+					}
+				],
+				"urgency": 3,
+				"specialist": "obstetrician-gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "skin erythema",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "breast engorgement",
+						"instance": "breast engorgement #1",
+						"confidence": 2238.3323983591486,
+						"confidence_age": 40.20904498072868,
+						"probability": 0.005720437657761566
+					},
+					{
+						"disease": "galactocele",
+						"instance": "galactocele #1",
+						"confidence": 26.96022952580431,
+						"confidence_age": 0.4843092484782485,
+						"probability": 0.00014896973067087408
+					},
+					{
+						"disease": "fibrocystic breasts",
+						"instance": "fibrocystic breasts #1",
+						"confidence": 2.7235217223731087,
+						"confidence_age": 0.04172441115515912,
+						"probability": 0.000020059766891960643
+					},
+					{
+						"disease": "breast infection",
+						"instance": "breast abscess",
+						"confidence": 2.9083861294849433,
+						"confidence_age": 0.055681790312915626,
+						"probability": 0.000015832710832991762
+					},
+					{
+						"disease": "fibroadenoma",
+						"instance": "fibroadenoma #1",
+						"confidence": 0.9078405741243696,
+						"confidence_age": 0.015176158767679459,
+						"probability": 0.00000729621338604302
+					}
+				],
+				"urgency": 3,
+				"specialist": "obstetrician-gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "breast swelling",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "breast engorgement",
+						"instance": "breast engorgement #1",
+						"confidence": 26449.511357966207,
+						"confidence_age": 475.1347890466952,
+						"probability": 0.0030040711567506256
+					},
+					{
+						"disease": "galactocele",
+						"instance": "galactocele #1",
+						"confidence": 378.3121380340634,
+						"confidence_age": 6.795938702454746,
+						"probability": 0.00010987613192218894
+					},
+					{
+						"disease": "fibrocystic breasts",
+						"instance": "fibrocystic breasts #1",
+						"confidence": 38.21708286225903,
+						"confidence_age": 0.5854865284886577,
+						"probability": 0.000014795553320956362
+					},
+					{
+						"disease": "breast infection",
+						"instance": "breast abscess",
+						"confidence": 32.21932319802358,
+						"confidence_age": 0.6168471167389724,
+						"probability": 0.000011280806468506627
+					},
+					{
+						"disease": "fibroadenoma",
+						"instance": "fibroadenoma #1",
+						"confidence": 12.73902762075301,
+						"confidence_age": 0.21295534836044508,
+						"probability": 0.000005381493951334936
+					}
+				],
+				"urgency": 3,
+				"specialist": "obstetrician-gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "breast tenderness",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "breast engorgement",
+						"instance": "breast engorgement #1",
+						"confidence": 394079.1181012729,
+						"confidence_age": 7079.174209029831,
+						"probability": 0.002853867598913094
+					},
+					{
+						"disease": "galactocele",
+						"instance": "galactocele #1",
+						"confidence": 1483.3117898291885,
+						"confidence_age": 26.645975602823373,
+						"probability": 0.000027469032980547236
+					},
+					{
+						"disease": "fibrocystic breasts",
+						"instance": "fibrocystic breasts #1",
+						"confidence": 449.5323613753332,
+						"confidence_age": 6.88684541029867,
+						"probability": 0.00001109666499071727
+					},
+					{
+						"disease": "breast infection",
+						"instance": "breast abscess",
+						"confidence": 378.98309746256905,
+						"confidence_age": 7.255727549762159,
+						"probability": 0.00000846060485137997
+					},
+					{
+						"disease": "fibroadenoma",
+						"instance": "fibroadenoma #1",
+						"confidence": 49.948040152814805,
+						"confidence_age": 0.8349697172597412,
+						"probability": 0.000001345373487833734
+					}
+				],
+				"urgency": 3,
+				"specialist": "obstetrician-gynecologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "breast engorgement",
+				"instance": "breast engorgement #1",
+				"confidence": 394079.1181012729,
+				"confidence_age": 7079.174209029831,
+				"probability": 0.002853867598913094
+			},
+			{
+				"disease": "galactocele",
+				"instance": "galactocele #1",
+				"confidence": 1483.3117898291887,
+				"confidence_age": 26.645975602823377,
+				"probability": 0.00002746903298054724
+			},
+			{
+				"disease": "fibrocystic breasts",
+				"instance": "fibrocystic breasts #1",
+				"confidence": 449.5323613753332,
+				"confidence_age": 6.88684541029867,
+				"probability": 0.00001109666499071727
+			},
+			{
+				"disease": "breast infection",
+				"instance": "breast abscess",
+				"confidence": 378.9830974625691,
+				"confidence_age": 7.25572754976216,
+				"probability": 0.000008460604851379969
+			},
+			{
+				"disease": "fibroadenoma",
+				"instance": "fibroadenoma #1",
+				"confidence": 49.948040152814805,
+				"confidence_age": 0.8349697172597412,
+				"probability": 0.000001345373487833734
+			}
+		],
+		"urgency": 3,
+		"specialist": "obstetrician-gynecologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"breast pain",
+			"breast fullness"
+		],
+		"findings": {
+			"amenorrhea (6 months or more without pregnancy)": false,
+			"amenorrhea (after age 51)": false,
+			"amenorrhea (not due to pregnancy)": false,
+			"breast fullness": true,
+			"breast pain": true,
+			"breast shrinkage": false,
+			"breast swelling": true,
+			"breast tenderness": true,
+			"fissured skin at lower extremity": false,
+			"infertility": false,
+			"nulliparity": false,
+			"postpartum": true,
+			"skin erythema": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 31,
+		"sex": "female",
+		"question_count": 4
+	}
+}

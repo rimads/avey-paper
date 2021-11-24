@@ -1,0 +1,559 @@
+{
+    "Case # 1.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "acute bronchitis"
+            ],
+            [
+                "pulmonary edema"
+            ]
+        ]
+    },
+    "case # 14.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "pneumonia"
+            ],
+            [
+                "pericardial effusion"
+            ],
+            [
+                "coronavirus disease 2019"
+            ],
+            [
+                "pulmonary edema"
+            ],
+            [
+                "tonsillopharyngitis"
+            ],
+            [
+                "valvular heart disease"
+            ],
+            [
+                "heart failure"
+            ]
+        ]
+    },
+    "case # 18.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "pneumonia"
+            ],
+            [
+                "chronic obstructive pulmonary disease"
+            ],
+            [
+                "asthma"
+            ],
+            [
+                "pericardial effusion"
+            ]
+        ]
+    },
+    "Case # 3.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "aortic dissection"
+            ],
+            [
+                "myocardial infarction"
+            ]
+        ]
+    },
+    "Case # 4.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "asthma"
+            ]
+        ]
+    },
+    "case # 45.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "diabetic ketoacidosis"
+            ],
+            [
+                "hyperosmolar hyperglycemic nonketotic state"
+            ]
+        ]
+    },
+    "Case # 47.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "cluster headaches"
+            ]
+        ]
+    },
+    "Case # 49.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "lactose intolerance"
+            ],
+            [
+                "celiac disease"
+            ]
+        ]
+    },
+    "Case # 53.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "mononucleosis"
+            ],
+            [
+                "tonsillopharyngitis"
+            ]
+        ]
+    },
+    "Case # 62.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "acute pancreatitis"
+            ]
+        ]
+    },
+    "case # 7.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "acute pericarditis"
+            ]
+        ]
+    },
+    "Case # 73.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "bacterial vaginosis"
+            ]
+        ]
+    },
+    "Case # 82.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "allergic conjunctivitis"
+            ]
+        ]
+    },
+    "Case # 89.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "otitis media"
+            ]
+        ]
+    },
+    "case #10.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "acute appendicitis"
+            ]
+        ]
+    },
+    "case #27.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "celiac disease"
+            ],
+            [
+                "cronkhite canada syndrome"
+            ],
+            [
+                "adrenal insufficiency"
+            ],
+            [
+                "liver cirrhosis"
+            ]
+        ]
+    },
+    "case #28.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "diabetic ketoacidosis"
+            ],
+            [
+                "hyperosmolar hyperglycemic nonketotic state"
+            ]
+        ]
+    },
+    "case #44.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "polycystic ovary syndrome"
+            ]
+        ]
+    },
+    "case #46.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "tension headache"
+            ]
+        ]
+    },
+    "case #49.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "lactose intolerance"
+            ],
+            [
+                "food poisoning"
+            ]
+        ]
+    },
+    "case 13.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "chronic obstructive pulmonary disease"
+            ],
+            [
+                "asthma"
+            ]
+        ]
+    },
+    "case 15.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "acute appendicitis"
+            ],
+            [
+                "abdominal aortic aneurysm"
+            ],
+            [
+                "acute mesenteric ischemia"
+            ]
+        ]
+    },
+    "case 19.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "cholera"
+            ]
+        ]
+    },
+    "case 2.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "stable angina"
+            ]
+        ]
+    },
+    "case 20.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "acanthosis nigricans"
+            ]
+        ]
+    },
+    "case 24.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "common cold"
+            ],
+            [
+                "coronavirus disease 2019"
+            ],
+            [
+                "pericardial effusion"
+            ],
+            [
+                "influenza"
+            ],
+            [
+                "acute bronchitis"
+            ],
+            [
+                "pneumonia"
+            ]
+        ]
+    },
+    "case 25.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "obstructive sleep apnea"
+            ]
+        ]
+    },
+    "case 29.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "urticaria"
+            ],
+            [
+                "contact dermatitis"
+            ],
+            [
+                "atopic dermatitis"
+            ]
+        ]
+    },
+    "case 35 test 2.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "celiac disease"
+            ],
+            [
+                "acute bacterial gastroenteritis"
+            ],
+            [
+                "small bowel obstruction"
+            ],
+            [
+                "liver cirrhosis"
+            ],
+            [
+                "nephrolithiasis"
+            ]
+        ]
+    },
+    "case 37 test 2.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "cushing syndrome"
+            ]
+        ]
+    },
+    "case 5.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "heart failure"
+            ]
+        ]
+    },
+    "case 51.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "multiple sclerosis"
+            ],
+            [
+                "adrenal insufficiency"
+            ],
+            [
+                "hyperparathyroidism"
+            ],
+            [
+                "myasthenia gravis"
+            ],
+            [
+                "hemochromatosis"
+            ],
+            [
+                "diabetes mellitus"
+            ],
+            [
+                "hypoparathyroidism"
+            ],
+            [
+                "hypothyroidism"
+            ],
+            [
+                "polycythemia vera"
+            ]
+        ]
+    },
+    "case 52.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "malaria"
+            ],
+            [
+                "brucellosis"
+            ]
+        ]
+    },
+    "case 6.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "chronic obstructive pulmonary disease"
+            ],
+            [
+                "asthma"
+            ]
+        ]
+    },
+    "case 60.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "primary dysmenorrhea"
+            ],
+            [
+                "secondary dysmenorrhea"
+            ]
+        ]
+    },
+    "case 63 final after joint.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "dengue fever"
+            ],
+            [
+                "malaria"
+            ],
+            [
+                "influenza"
+            ],
+            [
+                "osteomyelitis"
+            ],
+            [
+                "brucellosis"
+            ]
+        ]
+    },
+    "case 64.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "systemic lupus erythematosus"
+            ]
+        ]
+    },
+    "case 65.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "urticaria"
+            ],
+            [
+                "contact dermatitis"
+            ]
+        ]
+    },
+    "case 75 test 2.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "pelvic inflammatory disease"
+            ]
+        ]
+    },
+    "case 87.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "rosacea"
+            ]
+        ]
+    },
+    "case 9.json": {
+        "labels": [
+            "AveySortProbMeanConfCut"
+        ],
+        "rows": [
+            [
+                "stable angina"
+            ]
+        ]
+    }
+}

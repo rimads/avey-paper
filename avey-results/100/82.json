@@ -1,0 +1,2127 @@
+{
+	"Time": "2021-11-17T10:40:35.6037714+03:00",
+	"Age": 26,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"Finding": "red eye",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 13.464852614999641,
+						"probability": 0.013660707151455247
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 13.464852614999641,
+						"probability": 0.013660707151455247
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 13.464852614999641,
+						"probability": 0.0121671347778424
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 10.630146801315506,
+						"probability": 0.011649803546344747
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 6.378088080789304,
+						"probability": 0.007869043935796493
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 6.378088080789304,
+						"probability": 0.007796765260307286
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 6.378088080789304,
+						"probability": 0.006989882127806848
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 6.378088080789304,
+						"probability": 0.005960904656163431
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 8.504117441052404,
+						"probability": 0.0021818150451814507
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 10.630146801315506,
+						"probability": 0.0021384186077356955
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 4.252058720526202,
+						"probability": 0.0017560607530457616
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"Finding": "itchy eyes",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 232.024008584841,
+						"probability": 0.012977671793882485
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 6.339607672467071,
+						"probability": 0.0006830353575727624
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 6.339607672467071,
+						"probability": 0.00060835673889212
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 5.004953425631898,
+						"probability": 0.0005824901773172375
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 34.70719241989311,
+						"probability": 0.00045373124304715675
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 3.0029720553791392,
+						"probability": 0.00039345219678982464
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 3.0029720553791392,
+						"probability": 0.0003898382630153643
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 3.0029720553791392,
+						"probability": 0.0003494941063903424
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 3.0029720553791392,
+						"probability": 0.0002980452328081716
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 4.003962740505519,
+						"probability": 0.00010909075225907254
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 5.004953425631898,
+						"probability": 0.00010692093038678479
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"Finding": "lachrymation",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 2986.3735298500324,
+						"probability": 0.01232878820418836
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 81.59688584884988,
+						"probability": 0.000577938901947514
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 68.71316703061044,
+						"probability": 0.0005464282860582101
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 50.856784808839954,
+						"probability": 0.0004368676329879281
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 38.65115645471837,
+						"probability": 0.0003320194010708253
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 30.514070885303976,
+						"probability": 0.0002950891475923685
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 282.1358867681617,
+						"probability": 0.00027223874582829404
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 18.308442531182386,
+						"probability": 0.00017542721835691393
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 18.308442531182386,
+						"probability": 0.0001341203547636772
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 1.8424404384331299,
+						"probability": 0.0000054545376129536275
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 2.303050548041412,
+						"probability": 0.000005346046519339239
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"Finding": "periorbital edema",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 13233.999599750396,
+						"probability": 0.0011095909383769527
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 256.9216730286178,
+						"probability": 0.00015832306456711482
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 3125.685865519119,
+						"probability": 0.0001531342945284154
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 256.9216730286178,
+						"probability": 0.00012104362017421867
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 542.3901986159708,
+						"probability": 0.00011703262764437158
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 456.74964093976496,
+						"probability": 0.0001106517279267875
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 114.18741023494124,
+						"probability": 0.000013280776042833005
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 10.876848649855686,
+						"probability": 0.0000010921690824698203
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 6.526109189913411,
+						"probability": 7.377228689809212e-7
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 5.443136026816762,
+						"probability": 6.079419260153071e-8
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.49255831524094773,
+						"probability": 1.33651162983481e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"Finding": "diabetes mellitus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 13233.999599750394,
+						"probability": 0.0010541113914581052
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 256.9216730286178,
+						"probability": 0.00015040691133875905
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 3125.6858655191195,
+						"probability": 0.00014547757980199464
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 542.3901986159708,
+						"probability": 0.00011118099626215298
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 456.74964093976496,
+						"probability": 0.00010511914153044812
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 154.84279443650578,
+						"probability": 0.00006657399109582027
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 114.18741023494124,
+						"probability": 0.000012616737240691354
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 10.876848649855685,
+						"probability": 0.0000010375606283463293
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 6.526109189913411,
+						"probability": 7.008367255318753e-7
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 5.443136026816762,
+						"probability": 5.775448297145416e-8
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 6.682558149174056e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"Finding": "headache",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 13233.999599750394,
+						"probability": 0.0009513355307909395
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 256.9216730286178,
+						"probability": 0.00013574223748323005
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 3125.6858655191195,
+						"probability": 0.00013129351577130017
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 542.3901986159708,
+						"probability": 0.00010034084912659306
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 456.74964093976496,
+						"probability": 0.00009487002523122942
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 154.84279443650578,
+						"probability": 0.00006008302696397779
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 114.18741023494124,
+						"probability": 0.000011386605359723948
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 10.876848649855685,
+						"probability": 9.363984670825619e-7
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 5.443136026816762,
+						"probability": 5.2123420881737374e-8
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.3673413535405204,
+						"probability": 3.2052459947849865e-8
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 6.031008729629586e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"Finding": "pus discharge from the eye",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 13233.999599750396,
+						"probability": 0.0009037687542513926
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 256.9216730286178,
+						"probability": 0.00012895512560906852
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 3125.685865519119,
+						"probability": 0.00012472883998273514
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 542.3901986159708,
+						"probability": 0.0000953238066702634
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 154.84279443650578,
+						"probability": 0.000057078875615778904
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 90.50439955716949,
+						"probability": 0.00000853995401979296
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 24.134506548578553,
+						"probability": 0.000004743501261561476
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 10.876848649855686,
+						"probability": 8.895785437284338e-7
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 5.443136026816762,
+						"probability": 4.951724983765051e-8
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 3.044983695045737e-8
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614993,
+						"probability": 5.729458293148105e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"Finding": "eyelids forming crusts",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 13233.999599750394,
+						"probability": 0.0008585803165388229
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 256.9216730286178,
+						"probability": 0.0001225073693286151
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 542.3901986159708,
+						"probability": 0.00009055761633675023
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 1820.6894973142716,
+						"probability": 0.00006860086199050431
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 90.19481217717217,
+						"probability": 0.000031393381588678396
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 90.50439955716949,
+						"probability": 0.000008112956318803311
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 10.876848649855685,
+						"probability": 8.45099616542012e-7
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 1.2780160168015315,
+						"probability": 2.3717506307807396e-7
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 5.443136026816762,
+						"probability": 4.7041387345767986e-8
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 2.89273451029345e-8
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 5.4429853784907e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"Finding": "eye pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 13233.999599750396,
+						"probability": 0.0008156513007118817
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 256.9216730286178,
+						"probability": 0.00011638200086218433
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 542.3901986159709,
+						"probability": 0.0000860297355199127
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 1820.6894973142719,
+						"probability": 0.0000651708188909791
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 90.19481217717217,
+						"probability": 0.000029823712509244475
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 90.50439955716949,
+						"probability": 0.000007707308502863146
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 1.2780160168015315,
+						"probability": 2.2531630992417027e-7
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 5.443136026816762,
+						"probability": 4.468931797847958e-8
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.5748178682296141,
+						"probability": 4.225498082710064e-8
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 2.7480977847787778e-8
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 3.8487718710300015e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"Finding": "periorbital edema (painful)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 41522.327597951866,
+						"probability": 0.0006973818621086588
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 2694.4787396461666,
+						"probability": 0.00010503475577812134
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 2552.6640691384728,
+						"probability": 0.00007355542386952536
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 1820.6894973142716,
+						"probability": 0.000003095613897321508
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 90.50439955716949,
+						"probability": 3.660971538859993e-7
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 5.680604394048047,
+						"probability": 1.8194292026376747e-7
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 9.286761102940524,
+						"probability": 7.455928127311127e-8
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 5.443136026816762,
+						"probability": 2.12274260397778e-9
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.5748178682296141,
+						"probability": 2.0071115892872805e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 1.3053464477699194e-9
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 1.8281666387392507e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"Finding": "periorbital edema (warm in the eyelid)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 41522.327597951866,
+						"probability": 0.000662512769003226
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 2694.4787396461666,
+						"probability": 0.00009978301798921528
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 2552.6640691384728,
+						"probability": 0.0000698776526760491
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 846.354125739242,
+						"probability": 7.739034743303771e-7
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 84.6234125530571,
+						"probability": 1.4643886155439977e-7
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 4.677722122095583,
+						"probability": 9.097146013188372e-8
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.9620708601943995,
+						"probability": 3.727964063655566e-9
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 5.443136026816762,
+						"probability": 2.0166054737788907e-9
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.574817868229614,
+						"probability": 1.9067560098229163e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 1.2400791253814238e-9
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.02698703852061499,
+						"probability": 1.7367583068022882e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"Finding": "skin erythema",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 41522.327597951866,
+						"probability": 0.0005979177740254111
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 2694.4787396461666,
+						"probability": 0.00009005417373526679
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 2552.6640691384728,
+						"probability": 0.00006306458154013429
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 846.3541257392419,
+						"probability": 6.984478855831652e-7
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 84.62341255305711,
+						"probability": 1.3216107255284576e-7
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 4.6777221220955845,
+						"probability": 8.210174276902506e-8
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.9620708601943994,
+						"probability": 3.3644875674491482e-9
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.5748178682296141,
+						"probability": 1.7208472988651823e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 1.119171410656735e-9
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.6208462606234095,
+						"probability": 1.9157752000899462e-10
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614993,
+						"probability": 1.5674243718890653e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"Finding": "photophobia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 37408.569455171746,
+						"probability": 0.0005082301079215996
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 2694.4787396461666,
+						"probability": 0.00009005417373526682
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 2299.7629624886,
+						"probability": 0.00005360489430911416
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 762.5029454743118,
+						"probability": 5.936807027456903e-7
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 84.6234125530571,
+						"probability": 1.255530189252035e-7
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 4.214284290388322,
+						"probability": 6.978648135367129e-8
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.7647840261960565,
+						"probability": 2.523365675586861e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 1.063212840123898e-9
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.1523143258925332,
+						"probability": 4.302118247162956e-10
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.6208462606234095,
+						"probability": 1.7135214308037524e-10
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 1.489053153294612e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"Finding": "periorbital edema (with redness)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297626995,
+						"probability": 0.0002541150539607998
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 1512.3374307795857,
+						"probability": 0.000045027086867633395
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701944,
+						"probability": 0.000021441957723645666
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 295.5045505960902,
+						"probability": 8.905210541185359e-8
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 76.89960289821447,
+						"probability": 3.1388254731300875e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 3.0862353208774724,
+						"probability": 2.0935944406101392e-8
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.3673413535405204,
+						"probability": 1.010052198117703e-9
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.2350667993244427,
+						"probability": 6.308414188967155e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.1523143258925332,
+						"probability": 4.087012334804808e-10
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.6208462606234095,
+						"probability": 1.627845359263564e-10
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614993,
+						"probability": 1.4146004956298811e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"Finding": "recent eye or eyelid injury or trauma",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297627,
+						"probability": 0.00024140930126275982
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 1475.7646387897144,
+						"probability": 0.000041512922915853494
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701944,
+						"probability": 0.000020369859837463376
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 295.5045505960902,
+						"probability": 8.459950014126089e-8
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 44.765735307776545,
+						"probability": 1.726354010221548e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 1.7965969688397392,
+						"probability": 1.1514769423355767e-8
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.3673413535405204,
+						"probability": 9.595495882118178e-10
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.23506679932444263,
+						"probability": 5.992993479518795e-10
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.6208462606234095,
+						"probability": 1.546453091300387e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.04030321554758861,
+						"probability": 1.0217530837012015e-10
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 1.3438704708483866e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"Finding": "history of sexually transmitted infections",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297626995,
+						"probability": 0.0002293388361996218
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 1475.7646387897144,
+						"probability": 0.000039437276770060804
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701942,
+						"probability": 0.00001935136684559021
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 295.5045505960902,
+						"probability": 8.036952513419781e-8
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 44.76573530777656,
+						"probability": 1.6400363097104705e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 1.0525549025330243,
+						"probability": 6.333123182845672e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 9.115721088012268e-10
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.23506679932444266,
+						"probability": 5.693343805542855e-10
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.6208462606234095,
+						"probability": 1.469130436735367e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.04030321554758862,
+						"probability": 9.706654295161414e-11
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614993,
+						"probability": 1.2766769473059674e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"Finding": "poor contact lens hygiene",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297626995,
+						"probability": 0.0002178718943896407
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 1475.7646387897144,
+						"probability": 0.00003746541293155776
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701944,
+						"probability": 0.000018383798503310697
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 295.5045505960902,
+						"probability": 7.635104887748793e-8
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 44.76573530777656,
+						"probability": 1.5580344942249474e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995802,
+						"probability": 5.383154705418822e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 8.659935033611653e-10
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.23506679932444266,
+						"probability": 5.408676615265713e-10
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.6208462606234095,
+						"probability": 1.395673914898598e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.04030321554758861,
+						"probability": 9.221321580403345e-11
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614997,
+						"probability": 1.2128430999406692e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"Finding": "periorbital edema (in one eyelid)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297626995,
+						"probability": 0.00020697829967015864
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701942,
+						"probability": 0.00001746460857814516
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 525.3265901614043,
+						"probability": 0.00001123962387946733
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 203.6289851823198,
+						"probability": 4.0567548177871464e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995802,
+						"probability": 5.113996970147879e-9
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 40.90832057401342,
+						"probability": 4.674103482674841e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 8.226938281931074e-10
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.6208462606234094,
+						"probability": 1.3258902191536683e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.04030321554758861,
+						"probability": 8.760255501383179e-11
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.024353612222617043,
+						"probability": 2.7043383076328585e-11
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 1.1522009449436355e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"Finding": "travel from or to an endemic area of measles",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297626995,
+						"probability": 0.0001966293846866507
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701944,
+						"probability": 0.000016591378149237913
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 525.3265901614043,
+						"probability": 0.000010677642685493961
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 203.62898518231984,
+						"probability": 3.85391707689779e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995803,
+						"probability": 4.8582971216404866e-9
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 40.90832057401342,
+						"probability": 4.440398308541099e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 7.815591367834519e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.04030321554758862,
+						"probability": 8.322242726314019e-11
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.13105639965771487,
+						"probability": 2.651780438307336e-11
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.024353612222617043,
+						"probability": 2.5691213922512157e-11
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.02698703852061499,
+						"probability": 1.0945908976964534e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"Finding": "foreign body sensation in the eye",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297626995,
+						"probability": 0.00018679791545231825
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701944,
+						"probability": 0.00001576180924177601
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 525.3265901614043,
+						"probability": 0.000010143760551219264
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 172.0931991192297,
+						"probability": 3.0831336615182316e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995802,
+						"probability": 4.61538226555846e-9
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 40.908320574013416,
+						"probability": 4.218378393114043e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 7.42481179944279e-10
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.1310563996577149,
+						"probability": 2.519191416391969e-11
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.010644219700854343,
+						"probability": 2.0805606815785027e-11
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.020581996387925006,
+						"probability": 2.0552971138009723e-11
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 1.0398613528116309e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.18729762699,
+						"probability": 0.00017745801967970228
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701944,
+						"probability": 0.000014973718779687205
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 525.3265901614043,
+						"probability": 0.000009636572523658301
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 172.09319911922972,
+						"probability": 2.92897697844232e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995804,
+						"probability": 4.3846131522805394e-9
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 40.908320574013416,
+						"probability": 4.007459473458342e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 7.053571209470653e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.010644219700854347,
+						"probability": 1.9765326474995787e-11
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.020581996387925013,
+						"probability": 1.952532258110924e-11
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.02698703852061499,
+						"probability": 9.878682851710493e-12
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.016441660186271446,
+						"probability": 2.5191914163919687e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"Finding": "blurred vision",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297627,
+						"probability": 0.00016858511869571714
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701944,
+						"probability": 0.00001422503284070285
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 479.0332630864423,
+						"probability": 0.000008191086645109554
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 172.09319911922972,
+						"probability": 2.7825281295202036e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995804,
+						"probability": 4.165382494666509e-9
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 39.497674047684754,
+						"probability": 3.6067135261125068e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 6.700892648997119e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.006280495097475949,
+						"probability": 1.0870929561247686e-11
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.012144161906039518,
+						"probability": 1.073892741961008e-11
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614993,
+						"probability": 6.9852836336357514e-12
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.016441660186271446,
+						"probability": 2.3932318455723693e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"Finding": "anorexia or loss of appetite",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297626995,
+						"probability": 0.0001601558627609313
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701944,
+						"probability": 0.000013513781198667707
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 479.0332630864422,
+						"probability": 0.000007781532312854076
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 172.09319911922975,
+						"probability": 2.6434017230441936e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995804,
+						"probability": 3.957113369933185e-9
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 39.49767404768475,
+						"probability": 3.426377849806881e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 6.365848016547261e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.006280495097475949,
+						"probability": 1.03273830831853e-11
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.01214416190603952,
+						"probability": 1.0201981048629577e-11
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614997,
+						"probability": 6.636019451953966e-12
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.005524114362480894,
+						"probability": 7.179695536717108e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"Finding": "periorbital edema (yellowish spot at the center)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297626995,
+						"probability": 0.00015214806962288475
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1794.8186436701944,
+						"probability": 0.000012838092138734317
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 479.0332630864423,
+						"probability": 0.0000073924556972113725
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 172.0931991192298,
+						"probability": 2.5112316368919848e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995806,
+						"probability": 3.7592577014365275e-9
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 39.49767404768475,
+						"probability": 3.2550589573165372e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.3673413535405204,
+						"probability": 6.047555615719898e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.006280495097475946,
+						"probability": 9.811013929026038e-12
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 6.304218479356263e-12
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.006722077784461897,
+						"probability": 5.100990524314789e-12
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.005524114362480894,
+						"probability": 6.820710759881257e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"Finding": "recent upper respiratory tract infection",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297626995,
+						"probability": 0.00014454066614174045
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1458.5862784742646,
+						"probability": 0.000009520983949647617
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 479.03326308644216,
+						"probability": 0.000007022832912350803
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 172.09319911922975,
+						"probability": 2.3856700550473835e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995806,
+						"probability": 3.5712948163647004e-9
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 39.49767404768474,
+						"probability": 3.0923060094507085e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.36734135354052033,
+						"probability": 5.745177834933902e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.006280495097475947,
+						"probability": 9.320463232574733e-12
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614987,
+						"probability": 5.9890075553884516e-12
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.006722077784461898,
+						"probability": 4.845940998099048e-12
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.0024213237341531245,
+						"probability": 2.7282843039525016e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"Finding": "family history of cluster headaches",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 33994.187297627,
+						"probability": 0.00013731363283465346
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 1458.5862784742649,
+						"probability": 0.00000904493475216524
+					},
+					{
+						"disease": "chalazion",
+						"instance": "chalazion #1",
+						"confidence": 479.0332630864423,
+						"probability": 0.000006671691266733265
+					},
+					{
+						"disease": "blepharitis",
+						"instance": "blepharitis #1",
+						"confidence": 172.09319911922975,
+						"probability": 2.2663865522950155e-8
+					},
+					{
+						"disease": "bacterial conjunctivitis",
+						"instance": "bacterial conjunctivitis #1",
+						"confidence": 0.9420969560995804,
+						"probability": 3.392730075546465e-9
+					},
+					{
+						"disease": "nasolacrimal duct obstruction",
+						"instance": "nasolacrimal duct obstruction #1",
+						"confidence": 39.497674047684754,
+						"probability": 2.937690708978175e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.21297632437254269,
+						"probability": 3.159847809213648e-10
+					},
+					{
+						"disease": "corneal abrasion",
+						"instance": "corneal abrasion #1",
+						"confidence": 0.006280495097475949,
+						"probability": 8.854440070945996e-12
+					},
+					{
+						"disease": "diabetic retinopathy",
+						"instance": "diabetic retinopathy #1",
+						"confidence": 0.026987038520614993,
+						"probability": 5.68955717761903e-12
+					},
+					{
+						"disease": "stye",
+						"instance": "stye #1",
+						"confidence": 0.006722077784461899,
+						"probability": 4.603643948194095e-12
+					},
+					{
+						"disease": "measles",
+						"instance": "measles #1",
+						"confidence": 0.0024213237341531245,
+						"probability": 2.591870088754877e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "ophthalmologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "allergic conjunctivitis",
+				"instance": "allergic conjunctivitis #1",
+				"confidence": 33994.187297626995,
+				"probability": 0.0001373136328346534
+			},
+			{
+				"disease": "viral conjunctivitis",
+				"instance": "viral conjunctivitis #1",
+				"confidence": 1458.586278474265,
+				"probability": 0.000009044934752165234
+			},
+			{
+				"disease": "chalazion",
+				"instance": "chalazion #1",
+				"confidence": 479.03326308644216,
+				"probability": 0.000006671691266733262
+			},
+			{
+				"disease": "blepharitis",
+				"instance": "blepharitis #1",
+				"confidence": 172.09319911922972,
+				"probability": 2.266386552295016e-8
+			},
+			{
+				"disease": "bacterial conjunctivitis",
+				"instance": "bacterial conjunctivitis #1",
+				"confidence": 0.9420969560995804,
+				"probability": 3.3927300755464646e-9
+			},
+			{
+				"disease": "nasolacrimal duct obstruction",
+				"instance": "nasolacrimal duct obstruction #1",
+				"confidence": 39.49767404768475,
+				"probability": 2.9376907089781748e-9
+			},
+			{
+				"disease": "cluster headaches",
+				"instance": "cluster headaches #1",
+				"confidence": 0.21297632437254269,
+				"probability": 3.159847809213648e-10
+			},
+			{
+				"disease": "corneal abrasion",
+				"instance": "corneal abrasion #1",
+				"confidence": 0.006280495097475948,
+				"probability": 8.854440070945996e-12
+			},
+			{
+				"disease": "diabetic retinopathy",
+				"instance": "diabetic retinopathy #1",
+				"confidence": 0.026987038520614993,
+				"probability": 5.689557177619028e-12
+			},
+			{
+				"disease": "stye",
+				"instance": "stye #1",
+				"confidence": 0.006722077784461897,
+				"probability": 4.603643948194095e-12
+			},
+			{
+				"disease": "measles",
+				"instance": "measles #1",
+				"confidence": 0.0024213237341531245,
+				"probability": 2.5918700887548764e-13
+			}
+		],
+		"urgency": 3,
+		"specialist": "ophthalmologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"red eye"
+		],
+		"findings": {
+			"anorexia or loss of appetite": false,
+			"blurred vision": false,
+			"diabetes mellitus": false,
+			"eye pain": false,
+			"eyelids forming crusts": false,
+			"face swelling": true,
+			"family history of cluster headaches": false,
+			"fever": false,
+			"fissured skin at lower extremity": false,
+			"foreign body sensation in the eye": false,
+			"headache": false,
+			"headache (radiates to the occipital region)": false,
+			"history of sexually transmitted infections": false,
+			"itchy eyes": true,
+			"lachrymation": true,
+			"periorbital edema": true,
+			"periorbital edema (in one eyelid)": false,
+			"periorbital edema (painful)": false,
+			"periorbital edema (painless)": true,
+			"periorbital edema (warm in the eyelid)": false,
+			"periorbital edema (with redness)": false,
+			"periorbital edema (yellowish spot at the center)": false,
+			"photophobia": false,
+			"poor contact lens hygiene": false,
+			"pus discharge from the eye": false,
+			"recent eye or eyelid injury or trauma": false,
+			"recent upper respiratory tract infection": false,
+			"red eye": true,
+			"skin erythema": false,
+			"travel from or to an endemic area of measles": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 26,
+		"sex": "male",
+		"question_count": 25
+	}
+}

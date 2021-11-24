@@ -1,0 +1,714 @@
+{
+	"Time": "2021-11-22T09:43:51.6778949+03:00",
+	"Age": 50,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "swelling in scrotum",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 17.076282330783684,
+						"confidence_age": 0.14849865950018626,
+						"probability": 0.008261384052596807
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 8.98751701620194,
+						"confidence_age": 0.09569330208645672,
+						"probability": 0.0053236784928445136
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 7.190013612961552,
+						"confidence_age": 0.0652519959241636,
+						"probability": 0.0036301458904908213
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 2.696255104860582,
+						"confidence_age": 0.034836192596249614,
+						"probability": 0.0005144236201218767
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "recent sex",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 17.076282330783684,
+						"confidence_age": 0.14849865950018626,
+						"probability": 0.0074558991074686175
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 8.98751701620194,
+						"confidence_age": 0.09569330208645672,
+						"probability": 0.004804619839792174
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 2.696255104860582,
+						"confidence_age": 0.034836192596249614,
+						"probability": 0.00046426731715999356
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.39675092711473936,
+						"confidence_age": 0.003600659369034986,
+						"probability": 0.00017243192979831415
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "transilluminating scrotum",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 306.08430592913965,
+						"confidence_age": 2.6617684250033227,
+						"probability": 0.007083104152095186
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 4.242259879875676,
+						"confidence_age": 0.04516885536710257,
+						"probability": 0.00024023099198960867
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 1.2726779639627028,
+						"confidence_age": 0.016443271478905567,
+						"probability": 0.00002321336585799968
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.18727314088731617,
+						"confidence_age": 0.0016995720569784984,
+						"probability": 0.000008621596489915708
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "heavy scrotum",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.003187396868442833
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00010810394639532389
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 1.340501097309948,
+						"confidence_age": 0.01731956086691877,
+						"probability": 9.242496929470651e-7
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.08841508978235556,
+						"confidence_age": 0.0008023991870769876,
+						"probability": 4.310798244957855e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "anemia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.0030280270250206912
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.0001026987490755577
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.7160796459989042,
+						"confidence_age": 0.009251902172499347,
+						"probability": 4.621248464735324e-7
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.08841508978235554,
+						"confidence_age": 0.0008023991870769874,
+						"probability": 4.095258332709962e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "urethral discharge",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.0028766256737696562
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00009756381162177981
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.7160796459989042,
+						"confidence_age": 0.009251902172499347,
+						"probability": 4.390186041498558e-7
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.028252647187686858,
+						"confidence_age": 0.00025640307770967126,
+						"probability": 1.2285774998129888e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "dysuria",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.002732794390081174
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00009268562104069081
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.7160796459989042,
+						"confidence_age": 0.009251902172499347,
+						"probability": 4.170676739423631e-7
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012141536804340297,
+						"confidence_age": 0.00011018887483629748,
+						"probability": 4.9143099992519545e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "abdominal tenderness",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.002596154670577115
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00008805133998865628
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.46394436581070997,
+						"confidence_age": 0.005994260428915345,
+						"probability": 2.502406043654179e-7
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012141536804340297,
+						"confidence_age": 0.00011018887483629748,
+						"probability": 4.668594499289357e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "hematuria",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.002466346937048259
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00008364877298922345
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.29737284563822586,
+						"confidence_age": 0.003842120764045324,
+						"probability": 1.501443626192507e-7
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012141536804340297,
+						"confidence_age": 0.00011018887483629748,
+						"probability": 4.435164774324889e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "abdominal mass",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.0023430295901958466
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00007946633433976227
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.23630192572347108,
+						"confidence_age": 0.0030530714176591847,
+						"probability": 1.1260827196443803e-7
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012141536804340297,
+						"confidence_age": 0.00011018887483629748,
+						"probability": 4.2134065356086433e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "weight loss",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.0022258781106860542
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00007549301762277417
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.17086541754059434,
+						"confidence_age": 0.0022076177371912788,
+						"probability": 7.319537677688474e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012141536804340297,
+						"confidence_age": 0.00011018887483629748,
+						"probability": 4.002736208828211e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "abdominal pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.0021145842051517507
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00007171836674163544
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.1868008349615506,
+						"confidence_age": 0.0024135067383385823,
+						"probability": 5.6696895055250316e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012183457493880749,
+						"confidence_age": 0.000110569320383452,
+						"probability": 3.4023257775039804e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "overweight or obese",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.002008854994894163
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00006813244840455366
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.14404266532523965,
+						"confidence_age": 0.0018610620420528201,
+						"probability": 3.968782653867523e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012183457493880747,
+						"confidence_age": 0.00011056932038345199,
+						"probability": 3.232209488628781e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 13,
+			"Finding": "family history of renal cell carcinoma",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.001908412245149455
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00006472582598432597
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.12892551652487227,
+						"confidence_age": 0.001665745246484623,
+						"probability": 3.373465255787394e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012183457493880749,
+						"confidence_age": 0.000110569320383452,
+						"probability": 3.070599014197341e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 14,
+			"Finding": "hypertensive",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.0018129916328919816
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00006148953468510967
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012183457493880749,
+						"confidence_age": 0.000110569320383452,
+						"probability": 2.9170690634874746e-8
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.1110064314601567,
+						"confidence_age": 0.0014342268351378265,
+						"probability": 2.698772204629915e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 15,
+			"Finding": "smoking",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hydrocele",
+						"instance": "hydrocele #1",
+						"confidence": 2607.7859833899015,
+						"confidence_age": 22.677812142908223,
+						"probability": 0.0017223420512473828
+					},
+					{
+						"disease": "varicocele",
+						"instance": "varicocele #1",
+						"confidence": 36.14332926693159,
+						"confidence_age": 0.3848309293563227,
+						"probability": 0.00005841505795085418
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.012183457493880749,
+						"confidence_age": 0.000110569320383452,
+						"probability": 2.7712156103131003e-8
+					},
+					{
+						"disease": "renal cell carcinoma",
+						"instance": "renal cell carcinoma #1",
+						"confidence": 0.09274181615938949,
+						"confidence_age": 0.0011982440992435411,
+						"probability": 2.0240791534724368e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "urologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "hydrocele",
+				"instance": "hydrocele #1",
+				"confidence": 2607.7859833899015,
+				"confidence_age": 22.677812142908223,
+				"probability": 0.0017223420512473824
+			},
+			{
+				"disease": "varicocele",
+				"instance": "varicocele #1",
+				"confidence": 36.14332926693159,
+				"confidence_age": 0.3848309293563227,
+				"probability": 0.00005841505795085418
+			},
+			{
+				"disease": "chlamydia",
+				"instance": "chlamydia #1",
+				"confidence": 0.012183457493880747,
+				"confidence_age": 0.00011056932038345199,
+				"probability": 2.7712156103131003e-8
+			},
+			{
+				"disease": "renal cell carcinoma",
+				"instance": "renal cell carcinoma #1",
+				"confidence": 0.09274181615938952,
+				"confidence_age": 0.0011982440992435413,
+				"probability": 2.024079153472437e-8
+			}
+		],
+		"urgency": 3,
+		"specialist": "urologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"swelling in scrotum"
+		],
+		"findings": {
+			"abdominal mass": false,
+			"abdominal pain": false,
+			"abdominal tenderness": false,
+			"anemia": false,
+			"dysuria": false,
+			"family history of renal cell carcinoma": false,
+			"heavy scrotum": true,
+			"hematuria": false,
+			"hypertensive": false,
+			"multiple sexual partners": false,
+			"overweight or obese": false,
+			"recent sex": false,
+			"smoking": false,
+			"swelling in scrotum": true,
+			"transilluminating scrotum": true,
+			"urethral discharge": false,
+			"weight loss": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 50,
+		"sex": "male",
+		"question_count": 15
+	}
+}

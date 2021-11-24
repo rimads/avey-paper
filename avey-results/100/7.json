@@ -1,0 +1,5596 @@
+{
+	"Time": "2021-11-17T10:36:40.7542479+03:00",
+	"Age": 30,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"Finding": "chest pain",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.015027177785468544
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.012281051243831897
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 7.569993424628696,
+						"probability": 0.01186356140958043
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.011183824054379964
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 7.569993424628696,
+						"probability": 0.010854955302477445
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 6.055994739702957,
+						"probability": 0.008252853651441171
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 4.037329826468638,
+						"probability": 0.007382172265305479
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.007193583813288174
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 4.037329826468638,
+						"probability": 0.00632723275177623
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 9.083992109554435,
+						"probability": 0.0058587687572757355
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 4.541996054777218,
+						"probability": 0.005527886280485426
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.005039329950327561
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 8.074659652937276,
+						"probability": 0.00472117028809483
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 2.5233311415428985,
+						"probability": 0.003954520469860143
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 6.055994739702957,
+						"probability": 0.0038944158210479168
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 4.541996054777218,
+						"probability": 0.003321991820424526
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 2.5233311415428985,
+						"probability": 0.0032881510666429303
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 3.0279973698514784,
+						"probability": 0.0024874733800672013
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 2.5233311415428985,
+						"probability": 0.0021192211327027395
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.541996054777218,
+						"probability": 0.0020110556979728825
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 2.5233311415428985,
+						"probability": 0.001859120580514434
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.5139986849257392,
+						"probability": 0.0013749172647040927
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.0012727076817808114
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.0012727076817808114
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.018664913234319,
+						"probability": 0.0009016632916880461
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 1.5139986849257392,
+						"probability": 0.0005277707774412695
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 1.0093324566171595,
+						"probability": 0.00047463917454865397
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 4.037329826468638,
+						"probability": 0.00007141579100557662
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"Finding": "chest pain (around the ribs)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.014275818896195117
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 7.569993424628696,
+						"probability": 0.011270383339101407
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.010624632851660966
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 7.569993424628696,
+						"probability": 0.010312207537353572
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 6.055994739702957,
+						"probability": 0.007840210968869114
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 4.037329826468638,
+						"probability": 0.007013063652040205
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.006833904622623765
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 4.037329826468638,
+						"probability": 0.006010871114187418
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 9.083992109554435,
+						"probability": 0.005565830319411949
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 4.541996054777218,
+						"probability": 0.005251491966461155
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.004787363452811183
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 8.074659652937276,
+						"probability": 0.0044851117736900885
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 2.5233311415428985,
+						"probability": 0.003756794446367136
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 6.055994739702957,
+						"probability": 0.0036996950299955206
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 4.541996054777218,
+						"probability": 0.0031558922294032993
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 2.5233311415428985,
+						"probability": 0.0031237435133107836
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 3.0279973698514784,
+						"probability": 0.0023630997110638415
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 2.5233311415428985,
+						"probability": 0.0020132600760676025
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.541996054777218,
+						"probability": 0.0019105029130742383
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 2.5233311415428985,
+						"probability": 0.001766164551488712
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.5139986849257392,
+						"probability": 0.001306171401468888
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 3.049856540332852,
+						"probability": 0.0012281051243831895
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.0012090722976917708
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.0012090722976917708
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.018664913234319,
+						"probability": 0.0008565801271036437
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 1.5139986849257392,
+						"probability": 0.0005013822385692059
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 1.0093324566171595,
+						"probability": 0.00045090721582122126
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 4.037329826468638,
+						"probability": 0.00006784500145529778
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"Finding": "chest pain (around the ribs)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.014275818896195117
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 7.569993424628696,
+						"probability": 0.011270383339101407
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.010624632851660966
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 7.569993424628696,
+						"probability": 0.010312207537353572
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 6.055994739702957,
+						"probability": 0.007840210968869114
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 4.037329826468638,
+						"probability": 0.007013063652040205
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.006833904622623765
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 4.037329826468638,
+						"probability": 0.006010871114187418
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 9.083992109554435,
+						"probability": 0.005565830319411949
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 4.541996054777218,
+						"probability": 0.005251491966461155
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #3",
+						"confidence": 9.588658337863015,
+						"probability": 0.004787363452811183
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 8.074659652937276,
+						"probability": 0.0044851117736900885
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 2.5233311415428985,
+						"probability": 0.003756794446367136
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 6.055994739702957,
+						"probability": 0.0036996950299955206
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 4.541996054777218,
+						"probability": 0.0031558922294032993
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 2.5233311415428985,
+						"probability": 0.0031237435133107836
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 3.0279973698514784,
+						"probability": 0.0023630997110638415
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 2.5233311415428985,
+						"probability": 0.0020132600760676025
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.541996054777218,
+						"probability": 0.0019105029130742383
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 2.5233311415428985,
+						"probability": 0.001766164551488712
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.5139986849257392,
+						"probability": 0.001306171401468888
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 3.049856540332852,
+						"probability": 0.0012281051243831895
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.0012090722976917708
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 9.588658337863015,
+						"probability": 0.0012090722976917708
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.018664913234319,
+						"probability": 0.0008565801271036437
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 1.5139986849257392,
+						"probability": 0.0005013822385692059
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 1.0093324566171595,
+						"probability": 0.00045090721582122126
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 4.037329826468638,
+						"probability": 0.00006784500145529778
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"Finding": "chest pain (middle chest)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 86.13614581420737,
+						"probability": 0.012848237006575607
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 86.13614581420737,
+						"probability": 0.0072648289402311135
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 47.72085640676309,
+						"probability": 0.006230114683359046
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 15.27067405016419,
+						"probability": 0.004110066769932789
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 42.20710501241179,
+						"probability": 0.00403660059632108
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 7.649023986299234,
+						"probability": 0.003876726240741239
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 62.573584166706155,
+						"probability": 0.003777689565036408
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #3",
+						"confidence": 70.39528218754442,
+						"probability": 0.0032734662030180473
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 15.270674050164187,
+						"probability": 0.003136084387547645
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 19.326946844739048,
+						"probability": 0.0028139653193278236
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 17.179508306434712,
+						"probability": 0.001744534318481472
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 5.302317378529232,
+						"probability": 0.0017267629453033976
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.63019659284209,
+						"probability": 0.0016301939576220718
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 5.965107050845386,
+						"probability": 0.0009463835854374394
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 70.39528218754442,
+						"probability": 0.000826730066039857
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 70.39528218754442,
+						"probability": 0.000826730066039857
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 3.3868518795296207,
+						"probability": 0.0005156103768676786
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.3476738479236852,
+						"probability": 0.0004283618550301602
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 2.1474385383043395,
+						"probability": 0.0003428312533459447
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 1.1289506265098734,
+						"probability": 0.00018783972231835682
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 2.7094815036236968,
+						"probability": 0.00018498475149977603
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 1.3547407518118484,
+						"probability": 0.00011815498555319207
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.1289506265098734,
+						"probability": 0.00010066300380338013
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 2.0321111277177724,
+						"probability": 0.00009552514565371193
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.6773703759059242,
+						"probability": 0.0000653085700734444
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 9.083215983730339,
+						"probability": 0.00006445275138253289
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 1.3645206510108268,
+						"probability": 0.00006140525621915948
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.9031605012078989,
+						"probability": 0.000042829006355182195
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"Finding": "chest pain (left side)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 86.13614581420737,
+						"probability": 0.012205825156246825
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 42.20710501241179,
+						"probability": 0.0038347705665050255
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 15.270674050164187,
+						"probability": 0.0029792801681702624
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 47.72085640676309,
+						"probability": 0.0027861919879220804
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 62.573584166706155,
+						"probability": 0.0026443826955254855
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 86.13614581420737,
+						"probability": 0.0022973406262637567
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 7.649023986299234,
+						"probability": 0.0017337246808909249
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.63019659284209,
+						"probability": 0.0015486842597409681
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 19.326946844739048,
+						"probability": 0.0013061270004365644
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 15.27067405016419,
+						"probability": 0.0012997172328358868
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 70.39528218754442,
+						"probability": 0.0010351609045120176
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 17.179508306434712,
+						"probability": 0.0007801794650411677
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 5.302317378529232,
+						"probability": 0.0007722318653452295
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 5.965107050845386,
+						"probability": 0.0004392723482480844
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.3476738479236852,
+						"probability": 0.00040694376227865214
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 70.39528218754442,
+						"probability": 0.0002614350018827368
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 70.39528218754442,
+						"probability": 0.0002614350018827368
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 1.1289506265098734,
+						"probability": 0.00017844773620243897
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 2.7094815036236968,
+						"probability": 0.00017573551392478722
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 1.5508877919454702,
+						"probability": 0.00011529398525804148
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 1.3547407518118484,
+						"probability": 0.00011224723627553246
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 2.1474385383043395,
+						"probability": 0.00010841276136634067
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.1289506265098734,
+						"probability": 0.00009562985361321112
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 2.0321111277177724,
+						"probability": 0.00009074888837102632
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.6773703759059242,
+						"probability": 0.00006204314156977218
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 9.083215983730339,
+						"probability": 0.00006123011381340624
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 1.3645206510108268,
+						"probability": 0.000058334993408201505
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.9031605012078989,
+						"probability": 0.00004068755603742309
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"Finding": "chest pain (right side)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 86.13614581420737,
+						"probability": 0.011595533898434483
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 42.20710501241179,
+						"probability": 0.0036430320381797736
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 15.270674050164187,
+						"probability": 0.0028303161597617497
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 47.72085640676309,
+						"probability": 0.0026468823885259763
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 62.573584166706155,
+						"probability": 0.002512163560749211
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 86.13614581420735,
+						"probability": 0.002182473594950569
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 7.649023986299234,
+						"probability": 0.0016470384468463787
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.63019659284209,
+						"probability": 0.0014712500467539194
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 15.27067405016419,
+						"probability": 0.0012347313711940924
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #3",
+						"confidence": 70.39528218754441,
+						"probability": 0.0009834028592864167
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 17.179508306434712,
+						"probability": 0.0007411704917891092
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 5.302317378529232,
+						"probability": 0.000733620272077968
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 19.32694684473905,
+						"probability": 0.000606250450050651
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.3476738479236852,
+						"probability": 0.0003865965741647195
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 70.39528218754441,
+						"probability": 0.0002483632517886
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 70.39528218754441,
+						"probability": 0.0002483632517886
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 5.965107050845386,
+						"probability": 0.0002038921626543172
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 1.1289506265098734,
+						"probability": 0.000169525349392317
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 2.7094815036236968,
+						"probability": 0.00016694873822854786
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 1.3547407518118484,
+						"probability": 0.00010663487446175581
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 2.147438538304339,
+						"probability": 0.00010299212329802361
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.1289506265098734,
+						"probability": 0.00009084836093255057
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 2.0321111277177724,
+						"probability": 0.000086211443952475
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.6773703759059242,
+						"probability": 0.00005894098449128356
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 9.083215983730339,
+						"probability": 0.000058168608122735934
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 1.3645206510108268,
+						"probability": 0.00005541824373779143
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.9031605012078989,
+						"probability": 0.000038653178235551925
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 1.067452233610902,
+						"probability": 0.000025780518843383954
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"Finding": "wheezing",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 86.13614581420737,
+						"probability": 0.01101575720351276
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 42.20710501241179,
+						"probability": 0.003460880436270785
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 15.270674050164187,
+						"probability": 0.0026888003517736617
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 47.72085640676309,
+						"probability": 0.002514538269099677
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 62.573584166706155,
+						"probability": 0.0023865553827117506
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 86.13614581420737,
+						"probability": 0.0020733499152030405
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 7.649023986299234,
+						"probability": 0.0015646865245040594
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.63019659284209,
+						"probability": 0.0013976875444162234
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 15.27067405016419,
+						"probability": 0.001172994802634388
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #3",
+						"confidence": 70.39528218754442,
+						"probability": 0.0009342327163220959
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 17.179508306434712,
+						"probability": 0.0007041119671996538
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 5.302317378529232,
+						"probability": 0.0006969392584740696
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 19.326946844739048,
+						"probability": 0.0005759379275481184
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.3476738479236852,
+						"probability": 0.00036726674545648353
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 70.39528218754442,
+						"probability": 0.00023594508919917
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 70.39528218754442,
+						"probability": 0.00023594508919917
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 1.1289506265098734,
+						"probability": 0.00016104908192270115
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 2.7094815036236968,
+						"probability": 0.00015860130131712045
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 3.4841149591074623,
+						"probability": 0.0001121406894598745
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 1.3547407518118484,
+						"probability": 0.00010130313073866804
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 2.1474385383043395,
+						"probability": 0.00009784251713312245
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.1289506265098734,
+						"probability": 0.00008630594288592303
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.6773703759059242,
+						"probability": 0.00005599393526671939
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 9.083215983730339,
+						"probability": 0.00005526017771659914
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 1.3645206510108268,
+						"probability": 0.00005264733155090185
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.9031605012078989,
+						"probability": 0.00003672051932377433
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 1.067452233610902,
+						"probability": 0.000024491492901214747
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.10790187789058164,
+						"probability": 0.000004310572197623754
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"Finding": "dyspnea",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 274.26153670790086,
+						"probability": 0.001885903701824758
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 46.89120815248879,
+						"probability": 0.0012517492196032478
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 297.02524425465657,
+						"probability": 0.0009330074618413679
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 87.76369174652828,
+						"probability": 0.0008797461019757909
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 125.06326073880278,
+						"probability": 0.0006689063688396711
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 119.87440183805977,
+						"probability": 0.0005966388456779376
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 323.6608849627614,
+						"probability": 0.0005605396297932576
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 36.604248480869465,
+						"probability": 0.0005507878601756379
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 75.01296946016654,
+						"probability": 0.0004193062633248671
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 12.18940163146226,
+						"probability": 0.0002090817775422209
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 17.936249003582017,
+						"probability": 0.00017304402181353925
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 323.6608849627614,
+						"probability": 0.00014156705351950198
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 17.64820456005427,
+						"probability": 0.0001348111061195524
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 6.489395852564115,
+						"probability": 0.00013444001758868313
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 25.36363496571157,
+						"probability": 0.00010653365498688076
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 2.5953242000079806,
+						"probability": 0.000048314724576810354
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 4.671583560014366,
+						"probability": 0.000045586408832400605
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 6.574821306686885,
+						"probability": 0.00003488449335758561
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 3.4604322666773073,
+						"probability": 0.00003452237715436922
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 5.759492270865919,
+						"probability": 0.00003424488099659284
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 8.213141625901459,
+						"probability": 0.00002879689637740593
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 6.134866638959073,
+						"probability": 0.000018368619675911063
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.3476738479236852,
+						"probability": 0.000012674601399590793
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 29.915041783176537,
+						"probability": 0.0000117972544599585
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.7855033129080756,
+						"probability": 0.0000040950435877425646
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.28785399345266216,
+						"probability": 0.0000027996967633359696
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 3.8599857438598124,
+						"probability": 0.0000027630088858299568
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.579864033789166,
+						"probability": 0.0000026323665775450934
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"Finding": "dry cough or productive cough",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 1119.7453878293534,
+						"probability": 0.000848656665821141
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 1212.6842550191893,
+						"probability": 0.0004198533578286156
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 510.603896850185,
+						"probability": 0.0003010078659778519
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 138.07167962061362,
+						"probability": 0.00006392019299212845
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 20.54133639196487,
+						"probability": 0.0000625874609801624
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 59.24396497846424,
+						"probability": 0.00004988010926423438
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 38.446088002329795,
+						"probability": 0.000043987305098789546
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 29.826055500551686,
+						"probability": 0.00003279625829665075
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 52.51262464668368,
+						"probability": 0.00002983194228389688
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 141.78408654604593,
+						"probability": 0.000028026981489662878
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 16.034992721353053,
+						"probability": 0.000027539393008781902
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 25.430636795207228,
+						"probability": 0.000027351845299440364
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.860459351582854,
+						"probability": 0.000020965313166243358
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 5.339734444768025,
+						"probability": 0.000010454088877111046
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 7.857219698722306,
+						"probability": 0.000008652201090676963
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 141.78408654604593,
+						"probability": 0.0000070783526759750995
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 2.84276879270525,
+						"probability": 0.000006722000879434156
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 5.345042316854078,
+						"probability": 0.000003071282690806924
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 8.349072818571296,
+						"probability": 0.0000027552929513866596
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 1.136917335659254,
+						"probability": 0.0000024157362288405186
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 2.219898143737005,
+						"probability": 0.0000023797422488355737
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.8801905836701103,
+						"probability": 0.0000017442246678792803
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 2.523024525152892,
+						"probability": 0.0000017122440498296428
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 3.597879253267582,
+						"probability": 0.0000014398448188702962
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 10.506276322120932,
+						"probability": 8.28902665748987e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 13.104694049460079,
+						"probability": 5.898627229979251e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.3476738479236852,
+						"probability": 4.3740829417822505e-7
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.25401738724517686,
+						"probability": 1.3161832887725467e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 772.6261567886095,
+						"probability": 0.00046676116620162765
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 510.603896850185,
+						"probability": 0.00028595747267895933
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 138.07167962061362,
+						"probability": 0.000060724183342522035
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 20.54133639196487,
+						"probability": 0.000059458087931154266
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 59.459539117954705,
+						"probability": 0.00003990408741138751
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 40.99760779826182,
+						"probability": 0.000037389209333971114
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 52.51262464668368,
+						"probability": 0.000028340345169702038
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 141.78408654604593,
+						"probability": 0.00002662563241517973
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 16.034992721353053,
+						"probability": 0.0000261624233583428
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 25.430636795207228,
+						"probability": 0.000025984253034468345
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 76.06855707291496,
+						"probability": 0.000020992667891430795
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.860459351582854,
+						"probability": 0.000019917047507931185
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 7.857219698722306,
+						"probability": 0.000008219591036143117
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 141.78408654604593,
+						"probability": 0.000006724435042176343
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 2.84276879270525,
+						"probability": 0.000006385900835462448
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 5.345042316854078,
+						"probability": 0.000002917718556266578
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 8.349072818571296,
+						"probability": 0.0000026175283038173273
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 1.6747388806479497,
+						"probability": 0.000002613522219277762
+					},
+					{
+						"disease": "anemia",
+						"instance": "aplastic anemia",
+						"confidence": 1.0232256020933286,
+						"probability": 0.0000020654544756586423
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.8801905836701103,
+						"probability": 0.0000016570134344853162
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.8709115713452908,
+						"probability": 0.000001639812914832539
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.2532363898484002,
+						"probability": 0.0000010708840119760078
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 10.506276322120932,
+						"probability": 7.874575324615378e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 13.104694049460079,
+						"probability": 5.603695868480287e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.7496331767129e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.45137138077926253,
+						"probability": 1.4398448188702958e-7
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.25401738724517686,
+						"probability": 1.250374124333919e-7
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.15826282422123142,
+						"probability": 8.56122024914822e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"Finding": "dysphagia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 772.6261567886095,
+						"probability": 0.00044342310789154626
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 465.641438738893,
+						"probability": 0.00024306385177711543
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 138.0716796206136,
+						"probability": 0.000057687974175395915
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 20.54133639196487,
+						"probability": 0.000056485183534596563
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 59.459539117954705,
+						"probability": 0.00003790888304081813
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 40.99760779826182,
+						"probability": 0.00003551974886727256
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 52.512624646683676,
+						"probability": 0.00002692332791121693
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 141.7840865460459,
+						"probability": 0.000025294350794420742
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 16.034992721353053,
+						"probability": 0.000024854302190425664
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.555473696868702,
+						"probability": 0.000023385827731021515
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 76.06855707291494,
+						"probability": 0.000019943034496859256
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.860459351582854,
+						"probability": 0.000018921195132534633
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 141.7840865460459,
+						"probability": 0.000006388213290067526
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 3.371921534315232,
+						"probability": 0.000003287836414457246
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 5.345042316854078,
+						"probability": 0.000002771832628453249
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 8.349072818571296,
+						"probability": 0.000002486651888626461
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 1.6747388806479497,
+						"probability": 0.0000024828461083138737
+					},
+					{
+						"disease": "anemia",
+						"instance": "aplastic anemia",
+						"confidence": 1.0232256020933286,
+						"probability": 0.00000196218175187571
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.8801905836701103,
+						"probability": 0.0000015741627627610501
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.8709115713452908,
+						"probability": 0.0000015578222690909122
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.2532363898484002,
+						"probability": 0.0000010173398113772076
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 13.104694049460075,
+						"probability": 5.323511075056271e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.15249658398187763,
+						"probability": 3.1929504177312267e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.817976709193538,
+						"probability": 1.9686438311538444e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.6621515178772553e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.45137138077926253,
+						"probability": 1.3678525779267812e-7
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.25401738724517686,
+						"probability": 1.1878554181172232e-7
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.15826282422123142,
+						"probability": 8.13315923669081e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"Finding": "recent chest injury or trauma",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 698.8129430682588,
+						"probability": 0.00037690964170781425
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 465.64143873889304,
+						"probability": 0.00023091065918825964
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 138.07167962061362,
+						"probability": 0.000054803575466626124
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 20.54133639196487,
+						"probability": 0.000053660924357866716
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 59.45953911795471,
+						"probability": 0.000036013438888777225
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 40.99760779826182,
+						"probability": 0.00003374376142390893
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 141.7840865460459,
+						"probability": 0.000024029633254699705
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.555473696868702,
+						"probability": 0.00002221653634447044
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.860459351582854,
+						"probability": 0.000017975135375907895
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 36.32032196235149,
+						"probability": 0.000017500163142291013
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 68.80131066753862,
+						"probability": 0.000016951579322330366
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.384347133287427,
+						"probability": 0.000013669866204734116
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 141.7840865460459,
+						"probability": 0.000006068802625564149
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 3.3719215343152316,
+						"probability": 0.0000031234445937343834
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 5.345042316854078,
+						"probability": 0.0000026332409970305864
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 8.349072818571297,
+						"probability": 0.000002362319294195137
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 1.67473888064795,
+						"probability": 0.0000023587038028981793
+					},
+					{
+						"disease": "anemia",
+						"instance": "aplastic anemia",
+						"confidence": 1.0232256020933286,
+						"probability": 0.0000018640726642819241
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.8709115713452913,
+						"probability": 0.0000014799311556363662
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.1453189739820164,
+						"probability": 0.0000011019139339327356
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.2532363898484,
+						"probability": 9.664728208083473e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 13.104694049460077,
+						"probability": 5.057335521303459e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.1524965839818776,
+						"probability": 3.033302896844665e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.817976709193538,
+						"probability": 1.8702116395961522e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.5790439419833923e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.45137138077926253,
+						"probability": 1.299459949030442e-7
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.15826282422123145,
+						"probability": 7.726501274856267e-8
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.14866157916149597,
+						"probability": 6.533204799644726e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"Finding": "dyspnea (occurs or worsens with exertion)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 375.2469016080066,
+						"probability": 0.00011307289251234428
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 59.45953911795471,
+						"probability": 0.000034212766944338363
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 16.393590290853215,
+						"probability": 0.00003393814846417343
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 141.7840865460459,
+						"probability": 0.000022828151591964715
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.555473696868702,
+						"probability": 0.000021105709527246915
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 59.70333794111537,
+						"probability": 0.000019181251413319144
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.860459351582854,
+						"probability": 0.000017076378607112503
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 68.8013106675386,
+						"probability": 0.000016104000356213848
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 39.0063991142945,
+						"probability": 0.000014000130513832807
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.384347133287427,
+						"probability": 0.000012986372894497407
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 51.32379992860545,
+						"probability": 0.000011545532959412995
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 20.276786996561007,
+						"probability": 0.000008435940355977232
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 141.7840865460459,
+						"probability": 0.00000576536249428594
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 3.3719215343152316,
+						"probability": 0.000002967272364047665
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 8.349072818571296,
+						"probability": 0.0000022442033294853805
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.229979063859403,
+						"probability": 0.0000018018094478692893
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.9984225096315718,
+						"probability": 0.0000014498342944414968
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.1453189739820164,
+						"probability": 0.0000010468182372360986
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.2532363898484,
+						"probability": 9.1814917976793e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 1.4956733638919884,
+						"probability": 7.076111408694539e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 13.104694049460077,
+						"probability": 4.804468745238286e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.4805185944796753,
+						"probability": 3.6998278890909154e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.1524965839818776,
+						"probability": 2.881637752002432e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.817976709193538,
+						"probability": 1.7767010576163444e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.5000917448842223e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.45137138077926253,
+						"probability": 1.2344869515789196e-7
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.14866157916149594,
+						"probability": 6.206544559662491e-8
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.14134113288779304,
+						"probability": 3.090600509942507e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"Finding": "dyspnea (sudden onset)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 375.24690160800674,
+						"probability": 0.00010741924788672709
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 16.393590290853215,
+						"probability": 0.00003224124104096476
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.55547369686871,
+						"probability": 0.000020050424050884562
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.860459351582854,
+						"probability": 0.000016222559676756876
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 68.80131066753862,
+						"probability": 0.000015298800338403157
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.384347133287429,
+						"probability": 0.000012337054249772537
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 51.32379992860544,
+						"probability": 0.000010968256311442344
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 34.06732055900615,
+						"probability": 0.000009590625706659568
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 20.276786996561007,
+						"probability": 0.00000801414333817837
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 89.3790108607459,
+						"probability": 0.000006848445477589419
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 36.03585633516525,
+						"probability": 0.0000056000522055331235
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 3.371921534315232,
+						"probability": 0.0000028189087458452805
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 98.62511543254718,
+						"probability": 0.0000023061449977143773
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 12.440342389577259,
+						"probability": 0.000001710638347216919
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.9984225096315718,
+						"probability": 0.0000013773425797194223
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.1453189739820164,
+						"probability": 9.944773253742937e-7
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.2532363898484002,
+						"probability": 8.722417207795334e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 1.4956733638919884,
+						"probability": 6.722305838259812e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 13.104694049460079,
+						"probability": 4.564245307976372e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.1524965839818776,
+						"probability": 2.73755586440231e-7
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.8850117009949097,
+						"probability": 2.7027141718039335e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 2.949182653657995,
+						"probability": 2.2442033294853797e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.817976709193538,
+						"probability": 1.6878660047355271e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.4250871576400113e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.45137138077926253,
+						"probability": 1.1727626039999739e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.0942154432842024,
+						"probability": 7.399655778181831e-8
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.14866157916149597,
+						"probability": 5.8962173316793645e-8
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.14134113288779307,
+						"probability": 2.9360704844453814e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"Finding": "swelling in feet or ankle region",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 375.2469016080067,
+						"probability": 0.00010204828549239071
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 15.779200631283725,
+						"probability": 0.000028837442658621315
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.555473696868706,
+						"probability": 0.000019047902848340336
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 32.860459351582854,
+						"probability": 0.00001541143169291903
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 68.8013106675386,
+						"probability": 0.000014533860321482995
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.384347133287427,
+						"probability": 0.000011720201537283911
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 51.32379992860543,
+						"probability": 0.000010419843495870224
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 20.276786996561,
+						"probability": 0.0000076134361712694495
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 25.923217697164304,
+						"probability": 0.0000067815964730010095
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 89.3790108607459,
+						"probability": 0.000006506023203709945
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 36.03585633516524,
+						"probability": 0.000005320049595256467
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 3.371921534315232,
+						"probability": 0.0000026779633085530167
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 98.62511543254718,
+						"probability": 0.0000021908377478286575
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 12.125341418061083,
+						"probability": 0.0000015493656320716615
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.998422509631572,
+						"probability": 0.0000013084754507334506
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.1453189739820164,
+						"probability": 9.447534591055785e-7
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.2532363898484,
+						"probability": 8.286296347405568e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 13.104694049460079,
+						"probability": 4.336033042577553e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.7242945227433061,
+						"probability": 3.0250376272169156e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.1524965839818776,
+						"probability": 2.6006780711821945e-7
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.8850117009949098,
+						"probability": 2.567578463213738e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 2.9491826536579944,
+						"probability": 2.1319931630111106e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.8179767091935384,
+						"probability": 1.6034727044987505e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.353832799758011e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.4513713807792626,
+						"probability": 1.1141244737999747e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.0942154432842022,
+						"probability": 7.02967298927274e-8
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.14866157916149597,
+						"probability": 5.601406465095398e-8
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.14134113288779304,
+						"probability": 2.7892669602231125e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"Finding": "chest pain (change in body position doesn't change the pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 375.2469016080066,
+						"probability": 0.00009694587121777117
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 15.779200631283723,
+						"probability": 0.000027395570525690247
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.555473696868706,
+						"probability": 0.00001809550770592332
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 68.8013106675386,
+						"probability": 0.000013807167305408842
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.384347133287429,
+						"probability": 0.000011134191460419715
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 20.276786996561007,
+						"probability": 0.000007232764362705977
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 36.035856335165256,
+						"probability": 0.0000050540471154936425
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 16.151503435310012,
+						"probability": 0.0000030822863385838047
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 35.64158034532719,
+						"probability": 0.000002083968699174045
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 22.854433022366212,
+						"probability": 0.0000016953991182502522
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 12.125341418061081,
+						"probability": 0.0000014718973504680786
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.9984225096315718,
+						"probability": 0.0000012430516781967783
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.1453189739820164,
+						"probability": 8.975157861502998e-7
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.2532363898484002,
+						"probability": 7.871981530035287e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 25.450794112813,
+						"probability": 3.253011601854975e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.7242945227433061,
+						"probability": 2.8737857458560696e-7
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 1.838505742832298,
+						"probability": 2.677963308553017e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.15249658398187763,
+						"probability": 2.4706441676230845e-7
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.8850117009949097,
+						"probability": 2.439199540053051e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 2.9491826536579944,
+						"probability": 2.0253935048605547e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.817976709193538,
+						"probability": 1.5232990692738132e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.28614115977011e-7
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 28.083634883103993,
+						"probability": 1.0954188739143297e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.45137138077926253,
+						"probability": 1.0584182501099759e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.0942154432842024,
+						"probability": 6.6781893398091e-8
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.14866157916149597,
+						"probability": 5.3213361418406265e-8
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.14134113288779304,
+						"probability": 2.6498036122119567e-8
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 3.731579337836395,
+						"probability": 2.1680165212887778e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"Finding": "hypertension disease",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 375.2469016080067,
+						"probability": 0.00009209857765688261
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 15.77920063128372,
+						"probability": 0.000026025791999405727
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.555473696868706,
+						"probability": 0.000017190732320627153
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 68.80131066753862,
+						"probability": 0.000013116808940138404
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.38434713328743,
+						"probability": 0.000010577481887398726
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 20.276786996561007,
+						"probability": 0.000006871126144570678
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 14.713481725119737,
+						"probability": 0.0000025788257698251443
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 35.64158034532719,
+						"probability": 0.0000019797702642153427
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 11.770897600122769,
+						"probability": 0.0000015162141346480929
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 12.125341418061081,
+						"probability": 0.0000013983024829446744
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.9984225096315719,
+						"probability": 0.0000011808990942869393
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 14.5523767681367,
+						"probability": 9.914754190228377e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.1453189739820164,
+						"probability": 8.52639996842785e-7
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.2532363898484,
+						"probability": 7.478382453533525e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.7242945227433061,
+						"probability": 2.730096458563266e-7
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 1.8385057428322977,
+						"probability": 2.5440651431253654e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.15249658398187763,
+						"probability": 2.3471119592419305e-7
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.8850117009949097,
+						"probability": 2.317239563050398e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 2.949182653657994,
+						"probability": 1.9241238296175276e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.8179767091935384,
+						"probability": 1.4471341158101226e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.221834101781605e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.4513713807792626,
+						"probability": 1.0054973376044774e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 6.927791784137236,
+						"probability": 8.132529004637438e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.0942154432842024,
+						"probability": 6.344279872818646e-8
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.14866157916149597,
+						"probability": 5.055269334748596e-8
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 7.644459899737638,
+						"probability": 2.7385471847858253e-8
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.14134113288779307,
+						"probability": 2.5173134316013593e-8
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 2.2346465906189477,
+						"probability": 1.1924090867088279e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"Finding": "diabetes mellitus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 375.2469016080066,
+						"probability": 0.00008749364877403846
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 15.779200631283723,
+						"probability": 0.00002472450239943545
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.555473696868706,
+						"probability": 0.0000163311957045958
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 68.8013106675386,
+						"probability": 0.000012460968493131478
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.384347133287427,
+						"probability": 0.000010048607793028791
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 20.276786996561007,
+						"probability": 0.000006527569837342147
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 14.713481725119742,
+						"probability": 0.0000024498844813338876
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 35.64158034532719,
+						"probability": 0.000001880781751004575
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 11.770897600122765,
+						"probability": 0.0000014404034279156886
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 12.125341418061083,
+						"probability": 0.0000013283873587974404
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.9984225096315718,
+						"probability": 0.0000011218541395725921
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 14.552376768136703,
+						"probability": 9.419016480716962e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.1453189739820164,
+						"probability": 8.100079970006454e-7
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.1672919542520002,
+						"probability": 6.356625085503492e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.7242945227433061,
+						"probability": 2.593591635635103e-7
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 1.8385057428322982,
+						"probability": 2.4168618859690965e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.1524965839818776,
+						"probability": 2.2297563612798337e-7
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.8850117009949097,
+						"probability": 2.201377584897878e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 2.949182653657995,
+						"probability": 1.827917638136651e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.8179767091935384,
+						"probability": 1.374777410019616e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.1607423966925242e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.45137138077926253,
+						"probability": 9.552224707242536e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.0942154432842024,
+						"probability": 6.027065879177714e-8
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.14866157916149597,
+						"probability": 4.802505868011166e-8
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 4.175275003018483,
+						"probability": 4.4728909525505934e-8
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.14134113288779307,
+						"probability": 2.391447760021291e-8
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 4.607200003330739,
+						"probability": 1.5062009516322045e-8
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 1.3467875971323997,
+						"probability": 6.558249976898556e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"Finding": "chest pain (lasts for more than 30 minutes even with rest)",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 375.2469016080066,
+						"probability": 0.00008749364877403844
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 15.779200631283723,
+						"probability": 0.000024724502399435455
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.555473696868706,
+						"probability": 0.000016331195704595795
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 68.80131066753862,
+						"probability": 0.000012460968493131478
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.384347133287429,
+						"probability": 0.00001004860779302879
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 20.276786996561004,
+						"probability": 0.000006527569837342144
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 14.71348172511974,
+						"probability": 0.000002449884481333888
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 35.64158034532719,
+						"probability": 0.000001880781751004575
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 11.770897600122764,
+						"probability": 0.0000014404034279156884
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 12.125341418061083,
+						"probability": 0.0000013283873587974412
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.9984225096315718,
+						"probability": 0.0000011218541395725921
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 14.552376768136696,
+						"probability": 9.419016480716959e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.145318973982016,
+						"probability": 8.100079970006457e-7
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.1672919542520002,
+						"probability": 6.356625085503492e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.7242945227433061,
+						"probability": 2.5935916356351026e-7
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 1.8385057428322982,
+						"probability": 2.416861885969097e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.15249658398187763,
+						"probability": 2.2297563612798337e-7
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.8850117009949097,
+						"probability": 2.201377584897878e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 2.9491826536579944,
+						"probability": 1.8279176381366514e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.8179767091935384,
+						"probability": 1.3747774100196162e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.1607423966925245e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.45137138077926253,
+						"probability": 9.552224707242536e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.0942154432842022,
+						"probability": 6.027065879177714e-8
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.14866157916149597,
+						"probability": 4.8025058680111645e-8
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 4.175275003018482,
+						"probability": 4.472890952550592e-8
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.14134113288779301,
+						"probability": 2.3914477600212915e-8
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 4.607200003330737,
+						"probability": 1.5062009516322035e-8
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 1.3467875971323993,
+						"probability": 6.558249976898552e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"Finding": "chest discomfort",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 221.55574842263107,
+						"probability": 0.00004812150682572118
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 15.77920063128372,
+						"probability": 0.000019151517207255763
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 24.555473696868706,
+						"probability": 0.000015514635919365998
+					},
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 68.8013106675386,
+						"probability": 0.000011837920068474908
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 9.384347133287429,
+						"probability": 0.00000954617740337735
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 20.276786996561007,
+						"probability": 0.000006201191345475037
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 35.64158034532719,
+						"probability": 0.000001786742663454346
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 11.770897600122764,
+						"probability": 0.0000013683832565199039
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 12.125341418061083,
+						"probability": 0.0000012619679908575689
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.9984225096315718,
+						"probability": 0.0000010657614325939627
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 14.552376768136698,
+						"probability": 8.94806565668111e-7
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 14.71348172511974,
+						"probability": 7.747214965315349e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 2.145318973982017,
+						"probability": 7.244931774447555e-7
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 1.1672919542520002,
+						"probability": 6.038793831228322e-7
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.7242945227433061,
+						"probability": 2.4639120538533467e-7
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 1.8385057428322982,
+						"probability": 2.2960187916706415e-7
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.15249658398187763,
+						"probability": 2.1182685432158422e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 2.9491826536579944,
+						"probability": 1.7365217562298185e-7
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.8850117009949098,
+						"probability": 1.6325853114645945e-7
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 2.817976709193538,
+						"probability": 1.306038539518635e-7
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.1744694735440383,
+						"probability": 1.1027052768578984e-7
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.45137138077926253,
+						"probability": 9.074613471880408e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.0942154432842022,
+						"probability": 5.219592161650293e-8
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.14866157916149597,
+						"probability": 4.562380574610608e-8
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.14134113288779304,
+						"probability": 2.2718753720202264e-8
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 4.1752750030184815,
+						"probability": 1.0001688225846913e-8
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 4.607200003330737,
+						"probability": 3.367967715624482e-9
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 1.3467875971323993,
+						"probability": 1.4664692761781604e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"Finding": "chest pain (sharp)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 813.3843838917854,
+						"probability": 0.000009470336054779923
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 103.16718056320988,
+						"probability": 0.000002406075341286058
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 113.72784740944795,
+						"probability": 0.0000010947066052159233
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 7.347566706170279,
+						"probability": 9.575758603627883e-7
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 11.434228209992293,
+						"probability": 7.757317959683004e-7
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 4.36981049717964,
+						"probability": 4.773088701688675e-7
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 9.441862647253593,
+						"probability": 3.100595672737519e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 27.525704767474473,
+						"probability": 1.389217404983854e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 16.59646107683174,
+						"probability": 8.933713317271729e-8
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 5.6461513473414175,
+						"probability": 6.309839954287842e-8
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.4649142983780599,
+						"probability": 5.328807162969813e-8
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 6.776297579056017,
+						"probability": 4.4740328283405565e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 6.851315917803846,
+						"probability": 3.873607482657675e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.9989653237626177,
+						"probability": 3.622465887223779e-8
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.5435481619036029,
+						"probability": 3.0193969156141596e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.1401994503420247,
+						"probability": 2.6097960808251448e-8
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.337266915170547,
+						"probability": 1.2319560269266732e-8
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.8560980939906118,
+						"probability": 1.1480093958353211e-8
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.07100985971675214,
+						"probability": 1.0591342716079209e-8
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.4121046851961027,
+						"probability": 8.162926557322974e-9
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 1.312187627945082,
+						"probability": 6.530192697593176e-9
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.08124151058157504,
+						"probability": 5.513526384289491e-9
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.2101805666224046,
+						"probability": 4.537306735940204e-9
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.0692240941133683,
+						"probability": 2.281190287305303e-9
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.06581533668820895,
+						"probability": 1.1359376860101133e-9
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 1.944212024306316,
+						"probability": 5.000844112923456e-10
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2.1453374061311066,
+						"probability": 1.6839838578122409e-10
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.6271301024814986,
+						"probability": 7.3323463808908e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"Finding": "chest pain (occurs or worsens with laughing, coughing or sneezing)",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 813.3843838917857,
+						"probability": 0.000009470336054779926
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 103.16718056320987,
+						"probability": 0.0000024060753412860586
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 113.72784740944795,
+						"probability": 0.0000010947066052159233
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 7.347566706170279,
+						"probability": 9.57575860362788e-7
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 11.434228209992293,
+						"probability": 7.757317959683e-7
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 4.369810497179641,
+						"probability": 4.773088701688674e-7
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 9.441862647253593,
+						"probability": 3.1005956727375187e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 27.525704767474473,
+						"probability": 1.3892174049838544e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 16.59646107683174,
+						"probability": 8.933713317271732e-8
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 5.6461513473414175,
+						"probability": 6.309839954287842e-8
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.4649142983780599,
+						"probability": 5.328807162969813e-8
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 6.776297579056016,
+						"probability": 4.474032828340555e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 6.851315917803845,
+						"probability": 3.8736074826576745e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.9989653237626178,
+						"probability": 3.622465887223779e-8
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.5435481619036029,
+						"probability": 3.0193969156141596e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.1401994503420247,
+						"probability": 2.6097960808251448e-8
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.337266915170547,
+						"probability": 1.2319560269266737e-8
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.8560980939906118,
+						"probability": 1.1480093958353213e-8
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.07100985971675214,
+						"probability": 1.0591342716079209e-8
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.41210468519610277,
+						"probability": 8.162926557322974e-9
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 1.3121876279450821,
+						"probability": 6.530192697593176e-9
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.08124151058157505,
+						"probability": 5.513526384289491e-9
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.21018056662240464,
+						"probability": 4.537306735940203e-9
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.06922409411336833,
+						"probability": 2.281190287305303e-9
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.06581533668820894,
+						"probability": 1.1359376860101129e-9
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 1.9442120243063157,
+						"probability": 5.000844112923459e-10
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2.1453374061311066,
+						"probability": 1.683983857812241e-10
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.6271301024814986,
+						"probability": 7.332346380890804e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"Finding": "chest pain (occurs or worsens with deep inspiration)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9987.007331016726,
+						"probability": 0.000006475552840748155
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 833.3693284388135,
+						"probability": 0.0000012030376706430295
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 44.7116704954807,
+						"probability": 1.7662312375521987e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 266.8183192171735,
+						"probability": 9.499082884941014e-8
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 52.60784196177767,
+						"probability": 5.473533026079616e-8
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 46.21689819691344,
+						"probability": 4.898916847794665e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 3.398812488643953,
+						"probability": 4.787879301813941e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 5.289206507712398,
+						"probability": 3.8786589798415016e-8
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 4.367584802543834,
+						"probability": 1.5502978363687598e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.316218401746842,
+						"probability": 9.59216112027476e-9
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.5268842639919443,
+						"probability": 7.801522318622553e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 7.677134680228069,
+						"probability": 4.466856658635866e-9
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 1.2224215726800134,
+						"probability": 4.083576062346184e-9
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.21505847944864795,
+						"probability": 2.664403581484906e-9
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 3.134556753206783,
+						"probability": 2.237016414170278e-9
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 3.1692584819300245,
+						"probability": 1.9368037413288382e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.4620979916079376,
+						"probability": 1.8112329436118893e-9
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.6174508831942677,
+						"probability": 9.47142114441381e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.1560117858236577,
+						"probability": 6.159780134633369e-10
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.39601095297523153,
+						"probability": 5.740046979176605e-10
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.032847500087270255,
+						"probability": 5.295671358039604e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.19062998767972508,
+						"probability": 4.0814632786614887e-10
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 0.6069873028248315,
+						"probability": 3.2650963487965884e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.03758042244503549,
+						"probability": 2.756763192144746e-10
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.030444635241261456,
+						"probability": 5.6796884300505654e-11
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.8993470046668404,
+						"probability": 2.500422056461729e-11
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.9923829017013409,
+						"probability": 8.419919289061207e-12
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.2900957159774688,
+						"probability": 3.666173190445399e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"Finding": "fatigue",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9987.00733101673,
+						"probability": 0.000006151775198710748
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 587.7577096393976,
+						"probability": 6.616707188536663e-7
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 44.7116704954807,
+						"probability": 1.6779196756745888e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 266.81831921717355,
+						"probability": 9.024128740693962e-8
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 62.195373784543854,
+						"probability": 5.046348107240191e-8
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 46.21689819691345,
+						"probability": 4.653971005404932e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 1.5254338600422983,
+						"probability": 1.675757755634879e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 2.712992838890754,
+						"probability": 1.5514635919366007e-8
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 4.367584802543834,
+						"probability": 1.4727829445503215e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.4346468743356289,
+						"probability": 8.153336952233542e-9
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.33781844995323457,
+						"probability": 3.900761159311277e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 5.414520240020247,
+						"probability": 2.4567711622497267e-9
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 3.134556753206784,
+						"probability": 2.1251655934617633e-9
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 3.1692584819300245,
+						"probability": 1.8399635542623955e-9
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.137887439693497,
+						"probability": 1.3322017907424535e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.32590791130416313,
+						"probability": 9.961781189865392e-10
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.6174508831942678,
+						"probability": 8.997850087193121e-10
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.3960109529752316,
+						"probability": 5.453044630217772e-10
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.032847500087270255,
+						"probability": 5.030887790137625e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.14004047675841344,
+						"probability": 4.3118460942433597e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.1906299876797251,
+						"probability": 3.8773901147284123e-10
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 0.6069873028248315,
+						"probability": 3.101841531356759e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.03758042244503549,
+						"probability": 2.6189250325375085e-10
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.07837709134514434,
+						"probability": 2.0417880311730938e-10
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.02342395138242765,
+						"probability": 3.4078130580303395e-11
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.6342903651425237,
+						"probability": 1.3752321310539514e-11
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.6999066098124396,
+						"probability": 4.630955608983665e-12
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.2900957159774688,
+						"probability": 3.4828645309231307e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"Finding": "dyspnea (recurrent)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9987.007331016728,
+						"probability": 0.0000058441864387752105
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 587.7577096393974,
+						"probability": 6.285871829109828e-7
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 44.71167049548071,
+						"probability": 1.5940236918908597e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 266.8183192171735,
+						"probability": 8.572922303659267e-8
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 62.19537378454387,
+						"probability": 4.7940307018781784e-8
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 46.21689819691344,
+						"probability": 4.421272455134684e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 1.525433860042298,
+						"probability": 1.591969867853135e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 2.712992838890754,
+						"probability": 1.4738904123397708e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.4346468743356289,
+						"probability": 7.745670104621868e-9
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.582224726037799,
+						"probability": 5.8911317782012864e-9
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.33781844995323457,
+						"probability": 3.7057231013457125e-9
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 3.1345567532067835,
+						"probability": 2.0189073137886756e-9
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 3.1692584819300254,
+						"probability": 1.747965376549276e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 3.055689941671392,
+						"probability": 1.2283855811248634e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.32590791130416313,
+						"probability": 9.463692130372121e-10
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.6174508831942678,
+						"probability": 8.547957582833461e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.12598929133237627,
+						"probability": 6.661008953712266e-10
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.3960109529752315,
+						"probability": 5.180392398706887e-10
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.032847500087270255,
+						"probability": 4.779343400630743e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.14004047675841344,
+						"probability": 4.096253789531191e-10
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 0.6069873028248315,
+						"probability": 2.94674945478892e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.0375804224450355,
+						"probability": 2.487978780910633e-10
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.07837709134514435,
+						"probability": 1.939698629614439e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.04918044581601976,
+						"probability": 7.754780229456825e-11
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.023423951382427647,
+						"probability": 3.2374224051288225e-11
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.6342903651425237,
+						"probability": 1.3064705245012536e-11
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.6999066098124399,
+						"probability": 4.39940782853448e-12
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.2900957159774688,
+						"probability": 3.3087213043769733e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"Finding": "smoking",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9987.007331016728,
+						"probability": 0.000005551977116836451
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 587.7577096393975,
+						"probability": 5.971578237654337e-7
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 44.711670495480696,
+						"probability": 1.5143225072963165e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 163.66700819190854,
+						"probability": 4.715107267012598e-8
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 46.21689819691344,
+						"probability": 4.20020883237795e-8
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 58.03498978059675,
+						"probability": 4.01097385423857e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 1.5254338600422985,
+						"probability": 1.5123713744604788e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.4346468743356289,
+						"probability": 7.358386599390774e-9
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.5822247260377993,
+						"probability": 5.596575189291221e-9
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.33781844995323457,
+						"probability": 3.5204369462784265e-9
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.4538608441573155,
+						"probability": 2.210835618509656e-9
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 3.134556753206783,
+						"probability": 1.917961948099242e-9
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 3.0556899416713916,
+						"probability": 1.1669663020686201e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.32590791130416313,
+						"probability": 8.990507523853514e-10
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.6174508831942678,
+						"probability": 8.120559703691793e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.1259892913323763,
+						"probability": 6.327958506026652e-10
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.39601095297523153,
+						"probability": 4.921372778771542e-10
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.03284750008727025,
+						"probability": 4.540376230599207e-10
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.8836504034351503,
+						"probability": 4.3699134413731887e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.14004047675841347,
+						"probability": 3.89144110005463e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.0375804224450355,
+						"probability": 2.3635798418651007e-10
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.07837709134514435,
+						"probability": 1.8427136981337175e-10
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 0.27078363122696847,
+						"probability": 1.1786997819155689e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.04918044581601977,
+						"probability": 7.36704121798398e-11
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.02342395138242765,
+						"probability": 3.0755512848723814e-11
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.3890752579973087,
+						"probability": 7.185587884756893e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.6635013804092035,
+						"probability": 3.739496654254307e-12
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.17794542017438067,
+						"probability": 1.8197967174073347e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"Finding": "palpitation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9987.00733101673,
+						"probability": 0.000005274378260994628
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 349.7991227408562,
+						"probability": 3.284368030709886e-7
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 44.71167049548071,
+						"probability": 1.4386063819315004e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 163.66700819190848,
+						"probability": 4.479351903661965e-8
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 46.21689819691344,
+						"probability": 3.9901983907590516e-8
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 58.03498978059677,
+						"probability": 3.8104251615266435e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.9903810559862404,
+						"probability": 9.074228246762868e-9
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 1.4346468743356289,
+						"probability": 6.9904672694212356e-9
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.3378184499532345,
+						"probability": 3.3444150989645035e-9
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.45386084415731553,
+						"probability": 2.1002938375841733e-9
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.6985407337643663,
+						"probability": 1.3991437973228053e-9
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 1.8655054361190173,
+						"probability": 1.0548790714545832e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.32590791130416313,
+						"probability": 8.540982147660839e-10
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.6174508831942679,
+						"probability": 7.714531718507202e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.12598929133237635,
+						"probability": 6.011560580725321e-10
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.3960109529752316,
+						"probability": 4.675304139832962e-10
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.032847500087270255,
+						"probability": 4.313357419069247e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.1212275308560135,
+						"probability": 3.1131528800437045e-10
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.6693237137539712,
+						"probability": 3.0589394089612337e-10
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 0.826622048998334,
+						"probability": 2.91741575517155e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.03758042244503549,
+						"probability": 2.245400849771846e-10
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.07837709134514435,
+						"probability": 1.750578013227031e-10
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 0.2707836312269684,
+						"probability": 1.1197647928197903e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.04918044581601977,
+						"probability": 6.998689157084781e-11
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.02342395138242765,
+						"probability": 2.921773720628761e-11
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.3890752579973087,
+						"probability": 6.826308490519047e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.6635013804092033,
+						"probability": 3.5525218215415915e-12
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.17794542017438064,
+						"probability": 1.7288068815369683e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"Finding": "tachypnea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9987.00733101673,
+						"probability": 0.000005010659347944895
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 349.7991227408562,
+						"probability": 3.1201496291743917e-7
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 44.711670495480696,
+						"probability": 1.3666760628349255e-7
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 58.03498978059678,
+						"probability": 3.61990390345031e-8
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 96.9589859850948,
+						"probability": 2.463643547014082e-8
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 14.934348492279787,
+						"probability": 1.1970595172277161e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.9903810559862406,
+						"probability": 8.62051683442473e-9
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.8499080402274092,
+						"probability": 3.84475699818168e-9
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.25470978934008315,
+						"probability": 2.3410905692751537e-9
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.4538608441573155,
+						"probability": 1.9952791457049655e-9
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.6985407337643664,
+						"probability": 1.3291866074566651e-9
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 1.8655054361190178,
+						"probability": 1.0021351178818537e-9
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.6174508831942677,
+						"probability": 7.328805132581837e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.12598929133237627,
+						"probability": 5.710982551689052e-10
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.3960109529752315,
+						"probability": 4.441538932841316e-10
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.032847500087270255,
+						"probability": 4.0976895481157846e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.12122753085601344,
+						"probability": 2.9574952360415194e-10
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.6693237137539712,
+						"probability": 2.90599243851317e-10
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 0.8266220489983342,
+						"probability": 2.7715449674129717e-10
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.08776051101247848,
+						"probability": 2.1352455369152094e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.0375804224450355,
+						"probability": 2.133130807283253e-10
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.07837709134514435,
+						"probability": 1.6630491125656794e-10
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 0.2707836312269684,
+						"probability": 1.0637765531788002e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.029135292502108074,
+						"probability": 3.84927903639663e-11
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.02342395138242765,
+						"probability": 2.775685034597324e-11
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.38907525799730885,
+						"probability": 6.484993065993094e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.6635013804092035,
+						"probability": 3.374895730464511e-12
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.17794542017438061,
+						"probability": 1.6423665374601203e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"Finding": "hypotensive",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 9987.007331016728,
+						"probability": 0.000004760126380547652
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 349.79912274085615,
+						"probability": 2.96414214771567e-7
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 44.711670495480696,
+						"probability": 1.298342259693179e-7
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 58.03498978059676,
+						"probability": 3.4389087082777945e-8
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 96.9589859850948,
+						"probability": 2.3404613696633763e-8
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 14.93434849227979,
+						"probability": 1.13720654136633e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.9903810559862406,
+						"probability": 8.189490992703489e-9
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.8499080402274092,
+						"probability": 3.652519148272595e-9
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.25470978934008315,
+						"probability": 2.2240360408113954e-9
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.4538608441573155,
+						"probability": 1.8955151884197165e-9
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.6985407337643664,
+						"probability": 1.262727277083832e-9
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.6174508831942677,
+						"probability": 6.962364875952743e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.1259892913323763,
+						"probability": 5.425433424104601e-10
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 1.002077353656162,
+						"probability": 5.010675589409271e-10
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.3960109529752315,
+						"probability": 4.219461986199251e-10
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.032847500087270255,
+						"probability": 3.8928050707099943e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.12122753085601344,
+						"probability": 2.8096204742394436e-10
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.6693237137539713,
+						"probability": 2.760692816587512e-10
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 0.8266220489983341,
+						"probability": 2.6329677190423237e-10
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.0375804224450355,
+						"probability": 2.0264742669190905e-10
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.07837709134514435,
+						"probability": 1.5798966569373952e-10
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 0.2707836312269684,
+						"probability": 1.0105877255198601e-10
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.02357077576087165,
+						"probability": 5.3381138422880254e-11
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.02913529250210808,
+						"probability": 3.6568150845767995e-11
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.023423951382427647,
+						"probability": 2.636900782867456e-11
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.38907525799730874,
+						"probability": 6.1607434126934385e-12
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.6635013804092031,
+						"probability": 3.206150943941287e-12
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.17794542017438067,
+						"probability": 1.560248210587114e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"Finding": "tachycardia",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute pericarditis",
+						"instance": "acute pericarditis #1",
+						"confidence": 13327.308940509507,
+						"probability": 7.140189570821476e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 1244.7855689216406,
+						"probability": 1.1856568590862685e-7
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 258.1521546043175,
+						"probability": 1.7194543541388966e-8
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "primary spontaneous pneumothorax",
+						"confidence": 388.1650382198139,
+						"probability": 1.0532076163485196e-8
+					},
+					{
+						"disease": "costochondritis",
+						"instance": "costochondritis #1",
+						"confidence": 19.524703825373667,
+						"probability": 6.491711298465897e-9
+					},
+					{
+						"disease": "pulmonary embolism",
+						"instance": "pulmonary embolism #1",
+						"confidence": 39.858722354934386,
+						"probability": 3.4116196240989895e-9
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 3.402516884499128,
+						"probability": 1.643633616722668e-9
+					},
+					{
+						"disease": "tuberculosis",
+						"instance": "tuberculosis #1",
+						"confidence": 0.6798024553691393,
+						"probability": 6.672108122434191e-10
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 0.4324798554405758,
+						"probability": 4.094745496351745e-10
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 1.864355929227127,
+						"probability": 3.788181831251497e-10
+					},
+					{
+						"disease": "anemia",
+						"instance": "sickle cell anemia",
+						"confidence": 0.5604275478893619,
+						"probability": 2.712716712052301e-10
+					},
+					{
+						"disease": "rheumatic fever",
+						"instance": "rheumatic fever #1",
+						"confidence": 0.43139696801744803,
+						"probability": 1.1238481896957775e-10
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.19819207070336026,
+						"probability": 9.47757594209858e-11
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "mitral stenosis",
+						"confidence": 2.2061959221404184,
+						"probability": 7.89890315712697e-11
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.1572718433664297,
+						"probability": 4.003585381716018e-11
+					},
+					{
+						"disease": "intercostal neuralgia",
+						"instance": "intercostal neuralgia #1",
+						"confidence": 0.26962861122135884,
+						"probability": 3.481182437976374e-11
+					},
+					{
+						"disease": "pulmonary edema",
+						"instance": "pulmonary edema #1",
+						"confidence": 0.4375873977293773,
+						"probability": 2.5053377947046358e-11
+					},
+					{
+						"disease": "diffuse esophageal spasm",
+						"instance": "diffuse esophageal spasm #1",
+						"confidence": 0.17293016527367042,
+						"probability": 2.109730993099625e-11
+					},
+					{
+						"disease": "achalasia",
+						"instance": "achalasia #1",
+						"confidence": 0.014343854825838177,
+						"probability": 1.946402535354997e-11
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 0.29228045227400684,
+						"probability": 1.3803464082937561e-11
+					},
+					{
+						"disease": "infective endocarditis",
+						"instance": "infective endocarditis #1",
+						"confidence": 0.08335583125395427,
+						"probability": 1.0547603131469832e-11
+					},
+					{
+						"disease": "hodgkin lymphoma",
+						"instance": "hodgkin lymphoma #1",
+						"confidence": 0.01641062858400487,
+						"probability": 1.0132371334595451e-11
+					},
+					{
+						"disease": "systemic lupus erythematosus",
+						"instance": "systemic lupus erythematosus #1",
+						"confidence": 0.03422572850108288,
+						"probability": 7.899483284686978e-12
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.0777600398953896,
+						"probability": 5.973040788845667e-12
+					},
+					{
+						"disease": "esophageal cancer",
+						"instance": "esophageal cancer #1",
+						"confidence": 0.11824586605414687,
+						"probability": 5.052938627599302e-12
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 0.16990148419854129,
+						"probability": 3.0803717063467216e-13
+					},
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 0.28973795424453425,
+						"probability": 1.6030754719706436e-13
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 0.07770525206249285,
+						"probability": 7.801241052935574e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "acute pericarditis",
+				"instance": "acute pericarditis #1",
+				"confidence": 13327.308940509505,
+				"probability": 7.140189570821477e-7
+			},
+			{
+				"disease": "pericardial effusion",
+				"instance": "pericardial effusion #2",
+				"confidence": 1244.7855689216403,
+				"probability": 1.185656859086269e-7
+			},
+			{
+				"disease": "aortic dissection",
+				"instance": "aortic dissection #1",
+				"confidence": 258.1521546043176,
+				"probability": 1.719454354138897e-8
+			},
+			{
+				"disease": "pneumothorax",
+				"instance": "primary spontaneous pneumothorax",
+				"confidence": 388.16503821981377,
+				"probability": 1.0532076163485195e-8
+			},
+			{
+				"disease": "costochondritis",
+				"instance": "costochondritis #1",
+				"confidence": 19.524703825373663,
+				"probability": 6.491711298465897e-9
+			},
+			{
+				"disease": "pulmonary embolism",
+				"instance": "pulmonary embolism #1",
+				"confidence": 39.858722354934386,
+				"probability": 3.4116196240989908e-9
+			},
+			{
+				"disease": "pneumonia",
+				"instance": "typical pneumonia",
+				"confidence": 3.402516884499128,
+				"probability": 1.6436336167226683e-9
+			},
+			{
+				"disease": "tuberculosis",
+				"instance": "tuberculosis #1",
+				"confidence": 0.6798024553691392,
+				"probability": 6.672108122434189e-10
+			},
+			{
+				"disease": "myocarditis",
+				"instance": "myocarditis #1",
+				"confidence": 0.43247985544057577,
+				"probability": 4.0947454963517435e-10
+			},
+			{
+				"disease": "hypertrophic obstructive cardiomyopathy",
+				"instance": "hypertrophic obstructive cardiomyopathy #1",
+				"confidence": 1.8643559292271268,
+				"probability": 3.788181831251494e-10
+			},
+			{
+				"disease": "anemia",
+				"instance": "sickle cell anemia",
+				"confidence": 0.5604275478893619,
+				"probability": 2.7127167120523e-10
+			},
+			{
+				"disease": "rheumatic fever",
+				"instance": "rheumatic fever #1",
+				"confidence": 0.4313969680174479,
+				"probability": 1.123848189695777e-10
+			},
+			{
+				"disease": "lung cancer",
+				"instance": "lung cancer #1",
+				"confidence": 0.19819207070336023,
+				"probability": 9.477575942098579e-11
+			},
+			{
+				"disease": "valvular heart disease",
+				"instance": "mitral stenosis",
+				"confidence": 2.2061959221404184,
+				"probability": 7.89890315712697e-11
+			},
+			{
+				"disease": "cardiac tamponade",
+				"instance": "cardiac tamponade #1",
+				"confidence": 0.15727184336642966,
+				"probability": 4.0035853817160194e-11
+			},
+			{
+				"disease": "intercostal neuralgia",
+				"instance": "intercostal neuralgia #1",
+				"confidence": 0.2696286112213587,
+				"probability": 3.481182437976374e-11
+			},
+			{
+				"disease": "pulmonary edema",
+				"instance": "pulmonary edema #1",
+				"confidence": 0.4375873977293774,
+				"probability": 2.5053377947046355e-11
+			},
+			{
+				"disease": "diffuse esophageal spasm",
+				"instance": "diffuse esophageal spasm #1",
+				"confidence": 0.17293016527367044,
+				"probability": 2.1097309930996246e-11
+			},
+			{
+				"disease": "achalasia",
+				"instance": "achalasia #1",
+				"confidence": 0.014343854825838177,
+				"probability": 1.946402535354997e-11
+			},
+			{
+				"disease": "variant angina",
+				"instance": "variant angina #1",
+				"confidence": 0.29228045227400684,
+				"probability": 1.3803464082937561e-11
+			},
+			{
+				"disease": "infective endocarditis",
+				"instance": "infective endocarditis #1",
+				"confidence": 0.08335583125395427,
+				"probability": 1.0547603131469827e-11
+			},
+			{
+				"disease": "hodgkin lymphoma",
+				"instance": "hodgkin lymphoma #1",
+				"confidence": 0.01641062858400487,
+				"probability": 1.0132371334595453e-11
+			},
+			{
+				"disease": "systemic lupus erythematosus",
+				"instance": "systemic lupus erythematosus #1",
+				"confidence": 0.034225728501082894,
+				"probability": 7.899483284686978e-12
+			},
+			{
+				"disease": "asthma",
+				"instance": "asthma #1",
+				"confidence": 0.07776003989538961,
+				"probability": 5.9730407888456656e-12
+			},
+			{
+				"disease": "esophageal cancer",
+				"instance": "esophageal cancer #1",
+				"confidence": 0.11824586605414687,
+				"probability": 5.052938627599299e-12
+			},
+			{
+				"disease": "myocardial infarction",
+				"instance": "myocardial infarction #1",
+				"confidence": 0.16990148419854129,
+				"probability": 3.08037170634672e-13
+			},
+			{
+				"disease": "unstable angina",
+				"instance": "unstable angina #1",
+				"confidence": 0.28973795424453425,
+				"probability": 1.6030754719706434e-13
+			},
+			{
+				"disease": "stable angina",
+				"instance": "stable angina #1",
+				"confidence": 0.07770525206249286,
+				"probability": 7.801241052935572e-14
+			}
+		],
+		"urgency": 3,
+		"specialist": "cardiologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"chest pain"
+		],
+		"findings": {
+			"chest discomfort": false,
+			"chest pain": true,
+			"chest pain (around the ribs)": false,
+			"chest pain (change in body position doesn't change the pain)": false,
+			"chest pain (lasts for more than 30 minutes even with rest)": null,
+			"chest pain (left side)": false,
+			"chest pain (middle chest)": true,
+			"chest pain (occurs or worsens with deep inspiration)": true,
+			"chest pain (occurs or worsens with laughing, coughing or sneezing)": null,
+			"chest pain (right side)": false,
+			"chest pain (sharp)": true,
+			"diabetes mellitus": false,
+			"dry cough or productive cough": true,
+			"dysphagia": false,
+			"dyspnea": true,
+			"dyspnea (occurs or worsens with exertion)": false,
+			"dyspnea (recurrent)": false,
+			"dyspnea (sudden onset)": false,
+			"fatigue": false,
+			"fever": false,
+			"hypertension disease": false,
+			"hypotensive": false,
+			"palpitation": false,
+			"recent chest injury or trauma": false,
+			"smoking": false,
+			"swelling in feet or ankle region": false,
+			"tachycardia": true,
+			"tachypnea": false,
+			"wheezing": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 30,
+		"sex": "male",
+		"question_count": 25
+	}
+}
