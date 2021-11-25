@@ -1,10 +1,11 @@
 {
-	"Time": "2021-11-17T10:50:54.4633098+03:00",
+	"Time": "2021-11-25T09:00:40.3664574+03:00",
 	"Age": 32,
 	"Sex": "female",
 	"ChiefSymptoms": [
 		{
 			"EntryNumber": 1,
+			"QuestionNumber": 0,
 			"Finding": "dysmenorrhea",
 			"Answer": true,
 			"Diagnosis": {
@@ -12,26 +13,37 @@
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 15.38842975206601,
+						"confidence": 15.438662449690415,
+						"confidence_age": 0.33364076809322346,
 						"probability": 0.012939142425339058
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 15.38842975206601,
+						"confidence": 15.438662449690415,
+						"confidence_age": 0.30338922047710537,
 						"probability": 0.011765937227937917
 					},
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 15.38842975206601,
+						"confidence": 15.438662449690415,
+						"confidence_age": 0.18399946125675334,
 						"probability": 0.007135804323294098
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 12.958677685950326,
+						"confidence": 13.000978905002457,
+						"confidence_age": 0.17986496555884782,
 						"probability": 0.006975461721885136
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 3.2502447262506142,
+						"confidence_age": 0.11796555221770527,
+						"probability": 0.0016396951714966813
 					}
 				],
 				"urgency": 2,
@@ -42,6 +54,7 @@
 	"AskedFindings": [
 		{
 			"EntryNumber": 1,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain",
 			"Answer": true,
 			"Diagnosis": {
@@ -49,26 +62,37 @@
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 94.76199665150526,
+						"confidence": 96.12313013138544,
+						"confidence_age": 2.077291026542484,
 						"probability": 0.012292185304072103
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 94.76199665150526,
+						"confidence": 96.12313013138544,
+						"confidence_age": 1.888940937429795,
 						"probability": 0.01117764036654102
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 50.39973229110529,
+						"confidence": 51.12365923885321,
+						"confidence_age": 0.7072817574298546,
 						"probability": 0.0025637923673897316
 					},
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 44.88726157176565,
-						"probability": 0.00184375020063166
+						"confidence": 45.532009009603634,
+						"confidence_age": 0.5426548546550226,
+						"probability": 0.0018437502006316596
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 3.2502447262506142,
+						"confidence_age": 0.11796555221770527,
+						"probability": 0.00011753701178712393
 					}
 				],
 				"urgency": 2,
@@ -77,6 +101,7 @@
 		},
 		{
 			"EntryNumber": 2,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain (periumbilical pain)",
 			"Answer": false,
 			"Diagnosis": {
@@ -84,26 +109,37 @@
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 94.76199665150526,
+						"confidence": 96.12313013138544,
+						"confidence_age": 2.077291026542484,
 						"probability": 0.011093697236925071
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 94.76199665150526,
+						"confidence": 96.12313013138544,
+						"confidence_age": 1.888940937429795,
 						"probability": 0.01008782043080327
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 50.39973229110529,
+						"confidence": 51.12365923885321,
+						"confidence_age": 0.7072817574298546,
 						"probability": 0.002313822611569233
 					},
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 44.88726157176565,
-						"probability": 0.0016639845560700729
+						"confidence": 45.532009009603634,
+						"confidence_age": 0.5426548546550226,
+						"probability": 0.001663984556070073
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 3.2502447262506142,
+						"confidence_age": 0.11796555221770527,
+						"probability": 0.00010607715313787934
 					}
 				],
 				"urgency": 2,
@@ -112,6 +148,7 @@
 		},
 		{
 			"EntryNumber": 3,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain (left iliac pain)",
 			"Answer": false,
 			"Diagnosis": {
@@ -119,26 +156,37 @@
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 40.8572716187111,
+						"confidence": 41.43133929338159,
+						"confidence_age": 0.8953614932653685,
 						"probability": 0.00408695300572118
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 40.8572716187111,
-						"probability": 0.0037163848219707294
+						"confidence": 41.43133929338159,
+						"confidence_age": 0.8141781564628717,
+						"probability": 0.00371638482197073
 					},
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 44.88726157176565,
+						"confidence": 45.532009009603634,
+						"confidence_age": 0.5426548546550226,
 						"probability": 0.0015807853282665692
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 43.802120502439394,
-						"probability": 0.0010941391598067083
+						"confidence": 44.417564962293056,
+						"confidence_age": 0.614504788487634,
+						"probability": 0.0010941391598067085
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 3.2502447262506142,
+						"confidence_age": 0.11796555221770527,
+						"probability": 0.00010077329548098537
 					}
 				],
 				"urgency": 2,
@@ -147,6 +195,7 @@
 		},
 		{
 			"EntryNumber": 4,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain (hypogastric or pelvic)",
 			"Answer": false,
 			"Diagnosis": {
@@ -154,26 +203,37 @@
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 948.160525291206,
+						"confidence": 940.3535705631552,
+						"confidence_age": 20.321727260005453,
 						"probability": 0.0025813066450671965
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 948.160525291206,
+						"confidence": 940.3535705631552,
+						"confidence_age": 18.479135590644333,
 						"probability": 0.0023472569474498077
 					},
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 122.15361439064988,
+						"confidence": 121.14782717215891,
+						"confidence_age": 1.4438514349765124,
 						"probability": 0.0015017460618532406
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 195.1022070752201,
-						"probability": 0.0006564834958840251
+						"confidence": 193.49577645788222,
+						"confidence_age": 2.676960821387697,
+						"probability": 0.000656483495884025
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 2.399204446948174,
+						"confidence_age": 0.08707758993702083,
+						"probability": 0.0000957346307069361
 					}
 				],
 				"urgency": 2,
@@ -182,6 +242,7 @@
 		},
 		{
 			"EntryNumber": 5,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain (right iliac pain)",
 			"Answer": false,
 			"Diagnosis": {
@@ -189,26 +250,37 @@
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 122.15361439064988,
+						"confidence": 121.14782717215891,
+						"confidence_age": 1.4438514349765124,
 						"probability": 0.0014266587587605784
 					},
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 948.160525291206,
-						"probability": 0.0009509614988077294
+						"confidence": 940.3535705631554,
+						"confidence_age": 20.321727260005456,
+						"probability": 0.0009509614988077296
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 948.160525291206,
-						"probability": 0.0008647368529807576
+						"confidence": 940.3535705631554,
+						"confidence_age": 18.479135590644333,
+						"probability": 0.0008647368529807578
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 195.1022070752201,
-						"probability": 0.00031043187884069386
+						"confidence": 193.49577645788222,
+						"confidence_age": 2.676960821387697,
+						"probability": 0.00031043187884069397
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 2.399204446948174,
+						"confidence_age": 0.08707758993702083,
+						"probability": 0.00009094789917158929
 					}
 				],
 				"urgency": 2,
@@ -217,6 +289,7 @@
 		},
 		{
 			"EntryNumber": 6,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain (flank pain)",
 			"Answer": false,
 			"Diagnosis": {
@@ -224,26 +297,37 @@
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 122.15361439064988,
+						"confidence": 121.14782717215891,
+						"confidence_age": 1.4438514349765124,
 						"probability": 0.0013553258208225494
 					},
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 948.160525291206,
+						"confidence": 940.3535705631552,
+						"confidence_age": 20.321727260005453,
 						"probability": 0.0009034134238673432
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 948.160525291206,
+						"confidence": 940.3535705631552,
+						"confidence_age": 18.479135590644333,
 						"probability": 0.0008215000103317199
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 195.1022070752201,
+						"confidence": 193.49577645788222,
+						"confidence_age": 2.676960821387697,
 						"probability": 0.0002949102848986592
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 2.399204446948174,
+						"confidence_age": 0.08707758993702083,
+						"probability": 0.00008640050421300982
 					}
 				],
 				"urgency": 2,
@@ -252,6 +336,7 @@
 		},
 		{
 			"EntryNumber": 7,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain (flank pain)",
 			"Answer": false,
 			"Diagnosis": {
@@ -259,26 +344,37 @@
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 122.15361439064988,
+						"confidence": 121.14782717215891,
+						"confidence_age": 1.4438514349765124,
 						"probability": 0.0013553258208225494
 					},
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 948.160525291206,
-						"probability": 0.0009034134238673432
+						"confidence": 940.3535705631552,
+						"confidence_age": 20.321727260005453,
+						"probability": 0.000903413423867343
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 948.160525291206,
-						"probability": 0.0008215000103317199
+						"confidence": 940.3535705631552,
+						"confidence_age": 18.479135590644333,
+						"probability": 0.0008215000103317197
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 195.1022070752201,
+						"confidence": 193.49577645788222,
+						"confidence_age": 2.676960821387697,
 						"probability": 0.0002949102848986592
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 2.399204446948174,
+						"confidence_age": 0.08707758993702083,
+						"probability": 0.00008640050421300983
 					}
 				],
 				"urgency": 2,
@@ -287,6 +383,7 @@
 		},
 		{
 			"EntryNumber": 8,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain (left hypochondrial)",
 			"Answer": false,
 			"Diagnosis": {
@@ -294,26 +391,37 @@
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 122.15361439064988,
+						"confidence": 121.14782717215891,
+						"confidence_age": 1.4438514349765124,
 						"probability": 0.0012875595297814218
 					},
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 948.160525291206,
-						"probability": 0.0008582427526739758
+						"confidence": 940.3535705631552,
+						"confidence_age": 20.321727260005453,
+						"probability": 0.0008582427526739759
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 948.160525291206,
-						"probability": 0.0007804250098151337
+						"confidence": 940.3535705631552,
+						"confidence_age": 18.479135590644333,
+						"probability": 0.0007804250098151339
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 195.1022070752201,
-						"probability": 0.0002801647706537263
+						"confidence": 193.49577645788222,
+						"confidence_age": 2.676960821387697,
+						"probability": 0.00028016477065372623
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 2.399204446948174,
+						"confidence_age": 0.08707758993702083,
+						"probability": 0.00008208047900235933
 					}
 				],
 				"urgency": 2,
@@ -322,6 +430,7 @@
 		},
 		{
 			"EntryNumber": 9,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain (epigastric)",
 			"Answer": false,
 			"Diagnosis": {
@@ -329,26 +438,37 @@
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 122.15361439064988,
+						"confidence": 121.14782717215891,
+						"confidence_age": 1.4438514349765124,
 						"probability": 0.0012231815532923508
 					},
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 948.160525291206,
+						"confidence": 940.3535705631552,
+						"confidence_age": 20.321727260005453,
 						"probability": 0.0008153306150402769
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 948.160525291206,
+						"confidence": 940.3535705631552,
+						"confidence_age": 18.479135590644333,
 						"probability": 0.000741403759324377
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 195.1022070752201,
-						"probability": 0.00026615653212103997
+						"confidence": 193.49577645788222,
+						"confidence_age": 2.676960821387697,
+						"probability": 0.00026615653212103986
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 2.399204446948174,
+						"confidence_age": 0.08707758993702083,
+						"probability": 0.00007797645505224137
 					}
 				],
 				"urgency": 2,
@@ -357,6 +477,7 @@
 		},
 		{
 			"EntryNumber": 10,
+			"QuestionNumber": 1,
 			"Finding": "abdominal pain (right hypochondrial)",
 			"Answer": false,
 			"Diagnosis": {
@@ -364,26 +485,37 @@
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 122.15361439064988,
+						"confidence": 121.14782717215891,
+						"confidence_age": 1.4438514349765124,
 						"probability": 0.0011620224756277331
 					},
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 948.1605252912062,
-						"probability": 0.0007745640842882632
+						"confidence": 940.3535705631552,
+						"confidence_age": 20.321727260005453,
+						"probability": 0.000774564084288263
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 948.1605252912062,
-						"probability": 0.0007043335713581582
+						"confidence": 940.3535705631552,
+						"confidence_age": 18.479135590644333,
+						"probability": 0.0007043335713581581
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 195.10220707522012,
+						"confidence": 193.49577645788222,
+						"confidence_age": 2.676960821387697,
 						"probability": 0.00025284870551498786
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 2.399204446948174,
+						"confidence_age": 0.08707758993702083,
+						"probability": 0.00007407763229962928
 					}
 				],
 				"urgency": 2,
@@ -392,6 +524,7 @@
 		},
 		{
 			"EntryNumber": 11,
+			"QuestionNumber": 2,
 			"Finding": "abdominal pain (usually starts a few hours before menstruation lasts for hours or even days during menstruation)",
 			"Answer": true,
 			"Diagnosis": {
@@ -399,26 +532,272 @@
 					{
 						"disease": "primary dysmenorrhea",
 						"instance": "primary dysmenorrhea #1",
-						"confidence": 14458.630630927624,
-						"probability": 0.0007358358800738502
+						"confidence": 14391.51539872712,
+						"confidence_age": 311.0111557464004,
+						"probability": 0.00073583588007385
 					},
 					{
 						"disease": "secondary dysmenorrhea",
 						"instance": "secondary dysmenorrhea #1",
-						"confidence": 14458.630630927624,
-						"probability": 0.0006691168927902505
+						"confidence": 14391.51539872712,
+						"confidence_age": 282.811458086619,
+						"probability": 0.0006691168927902502
 					},
 					{
 						"disease": "adenomyosis",
 						"instance": "adenomyosis #1",
-						"confidence": 266.6450687895745,
+						"confidence": 265.40733430670787,
+						"confidence_age": 3.163150090570478,
 						"probability": 0.0005810112378138666
 					},
 					{
 						"disease": "endometriosis",
 						"instance": "endometriosis #1",
-						"confidence": 605.8151910391948,
-						"probability": 0.00012642435275749396
+						"confidence": 603.0030694590077,
+						"confidence_age": 8.342381532393038,
+						"probability": 0.00012642435275749399
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 1.1244285625149868,
+						"confidence_age": 0.0408104150543319,
+						"probability": 0.000003703881614981464
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 3,
+			"Finding": "menorrhagia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 14391.51539872712,
+						"confidence_age": 311.0111557464004,
+						"probability": 0.0006990440860701575
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 7687.442176226391,
+						"confidence_age": 151.06795014842206,
+						"probability": 0.0003345584463951251
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 70.88563918048759,
+						"confidence_age": 0.8448218530946551,
+						"probability": 0.00014525280945346664
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 603.0030694590079,
+						"confidence_age": 8.34238153239304,
+						"probability": 0.00012010313511961923
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 0.12012605088684199,
+						"confidence_age": 0.004359898137561297,
+						"probability": 3.7038816149814635e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 4,
+			"Finding": "nulliparity",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 186484.7201078581,
+						"confidence_age": 4030.0709635427784,
+						"probability": 0.0005693757771296811
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 7687.44217622639,
+						"confidence_age": 151.06795014842203,
+						"probability": 0.0002724999455791194
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 3125.476519093696,
+						"confidence_age": 43.24010757724316,
+						"probability": 0.0000978247541995244
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 41.29208289747447,
+						"confidence_age": 0.49212300819860566,
+						"probability": 0.00006849487012784128
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 1.2452711118539412,
+						"confidence_age": 0.04519631804466134,
+						"probability": 3.0168347246624953e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 5,
+			"Finding": "abdominal mass",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 186484.72010785807,
+						"confidence_age": 4030.070963542778,
+						"probability": 0.000540906988273197
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 7687.442176226389,
+						"confidence_age": 151.06795014842203,
+						"probability": 0.0002588749483001633
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 3125.4765190936955,
+						"confidence_age": 43.24010757724315,
+						"probability": 0.00009293351648954816
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 41.29208289747449,
+						"confidence_age": 0.4921230081986058,
+						"probability": 0.00006507012662144922
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 1.2452711118539412,
+						"confidence_age": 0.04519631804466134,
+						"probability": 2.8659929884293705e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 6,
+			"Finding": "early menarche",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 186484.7201078581,
+						"confidence_age": 4030.0709635427784,
+						"probability": 0.0005138616388595368
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 7687.442176226391,
+						"confidence_age": 151.06795014842206,
+						"probability": 0.0002459312008851551
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 3057.942083137443,
+						"confidence_age": 42.30578723982351,
+						"probability": 0.00008627183448125114
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 41.29208289747448,
+						"confidence_age": 0.49212300819860577,
+						"probability": 0.00006181662029037675
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 0.9187097093037097,
+						"confidence_age": 0.03334398093487534,
+						"probability": 2.0061950919005587e-7
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 7,
+			"Finding": "dyspareunia",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 85639.54366394358,
+						"confidence_age": 1682.9252196481489,
+						"probability": 0.00018444840066386635
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 27252.83739868978,
+						"confidence_age": 377.03550601179063,
+						"probability": 0.00005176310068875069
+					},
+					{
+						"disease": "primary dysmenorrhea",
+						"instance": "primary dysmenorrhea #1",
+						"confidence": 86511.8007478408,
+						"confidence_age": 1869.5831808419582,
+						"probability": 0.000025693081942976855
+					},
+					{
+						"disease": "adenomyosis",
+						"instance": "adenomyosis #1",
+						"confidence": 245.3341474894794,
+						"confidence_age": 2.9239159229661293,
+						"probability": 0.000024726648116150697
+					},
+					{
+						"disease": "uterine fibroids",
+						"instance": "uterine fibroids #1",
+						"confidence": 4.776145729841679,
+						"confidence_age": 0.17334715258286226,
+						"probability": 7.021682821651957e-8
 					}
 				],
 				"urgency": 2,
@@ -429,28 +808,39 @@
 	"Final": {
 		"diseases": [
 			{
-				"disease": "primary dysmenorrhea",
-				"instance": "primary dysmenorrhea #1",
-				"confidence": 14458.630630927626,
-				"probability": 0.0007358358800738502
-			},
-			{
 				"disease": "secondary dysmenorrhea",
 				"instance": "secondary dysmenorrhea #1",
-				"confidence": 14458.630630927626,
-				"probability": 0.0006691168927902505
-			},
-			{
-				"disease": "adenomyosis",
-				"instance": "adenomyosis #1",
-				"confidence": 266.6450687895745,
-				"probability": 0.0005810112378138666
+				"confidence": 85639.54366394358,
+				"confidence_age": 1682.9252196481489,
+				"probability": 0.00018444840066386638
 			},
 			{
 				"disease": "endometriosis",
 				"instance": "endometriosis #1",
-				"confidence": 605.8151910391949,
-				"probability": 0.0001264243527574939
+				"confidence": 27252.837398689786,
+				"confidence_age": 377.0355060117907,
+				"probability": 0.000051763100688750685
+			},
+			{
+				"disease": "primary dysmenorrhea",
+				"instance": "primary dysmenorrhea #1",
+				"confidence": 86511.80074784078,
+				"confidence_age": 1869.5831808419578,
+				"probability": 0.000025693081942976855
+			},
+			{
+				"disease": "adenomyosis",
+				"instance": "adenomyosis #1",
+				"confidence": 245.33414748947948,
+				"confidence_age": 2.9239159229661302,
+				"probability": 0.000024726648116150707
+			},
+			{
+				"disease": "uterine fibroids",
+				"instance": "uterine fibroids #1",
+				"confidence": 4.77614572984168,
+				"confidence_age": 0.1733471525828623,
+				"probability": 7.021682821651955e-8
 			}
 		],
 		"urgency": 2,
@@ -461,6 +851,7 @@
 			"dysmenorrhea"
 		],
 		"findings": {
+			"abdominal mass": false,
 			"abdominal pain": true,
 			"abdominal pain (epigastric)": false,
 			"abdominal pain (flank pain)": false,
@@ -478,7 +869,15 @@
 			"amenorrhea (not due to pregnancy)": false,
 			"decreased fetal movements": false,
 			"dysmenorrhea": true,
+			"dyspareunia": true,
+			"early menarche": false,
+			"menorrhagia": false,
+			"multiparous": false,
+			"nulliparity": true,
+			"postpartum": false,
+			"postpartum thyroiditis": false,
 			"pregnant": false,
+			"pregnant (after 20 weeks)": false,
 			"pregnant (last month of pregnancy)": false,
 			"pregnant (preeclampsia)": false,
 			"uterine contractions": false
@@ -489,6 +888,6 @@
 		},
 		"age": 32,
 		"sex": "female",
-		"question_count": 2
+		"question_count": 7
 	}
 }

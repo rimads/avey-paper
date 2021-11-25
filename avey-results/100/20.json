@@ -1,10 +1,11 @@
 {
-	"Time": "2021-11-17T10:46:09.0372845+03:00",
+	"Time": "2021-11-25T08:56:19.2656436+03:00",
 	"Age": 25,
 	"Sex": "female",
 	"ChiefSymptoms": [
 		{
 			"EntryNumber": 1,
+			"QuestionNumber": 0,
 			"Finding": "skin hyperpigmentation",
 			"Answer": true,
 			"Diagnosis": {
@@ -12,38 +13,51 @@
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 14.57851239669415,
+						"confidence": 14.641159130511264,
+						"confidence_age": 0.2274221700816372,
 						"probability": 0.013979764255613697
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 12.148760330578456,
+						"confidence": 12.200965942092719,
+						"confidence_age": 0.18163509391603136,
 						"probability": 0.011165207827279443
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 6.479338842975177,
+						"confidence": 6.5071818357827835,
+						"confidence_age": 0.17749794956631929,
 						"probability": 0.010910895318170688
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 15.388429752066045,
+						"confidence": 15.45455685998411,
+						"confidence_age": 0.24015496058483263,
 						"probability": 0.010877599010597296
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 4.859504132231383,
+						"confidence": 4.880386376837087,
+						"confidence_age": 0.1480296707109345,
 						"probability": 0.009099464219482796
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 11.338842975206559,
+						"confidence": 11.38756821261987,
+						"confidence_age": 0.06300915316969674,
 						"probability": 0.0038732068511263314
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 1.6267954589456959,
+						"confidence_age": 0.023341706024565388,
+						"probability": 0.0007363060699907779
 					}
 				],
 				"urgency": 2,
@@ -54,6 +68,7 @@
 	"AskedFindings": [
 		{
 			"EntryNumber": 1,
+			"QuestionNumber": 1,
 			"Finding": "pimples or bumps",
 			"Answer": false,
 			"Diagnosis": {
@@ -61,38 +76,51 @@
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 14.57851239669415,
+						"confidence": 14.641159130511264,
+						"confidence_age": 0.2274221700816372,
 						"probability": 0.013280776042833013
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 12.148760330578456,
+						"confidence": 12.200965942092719,
+						"confidence_age": 0.18163509391603136,
 						"probability": 0.010606947435915469
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 15.388429752066045,
+						"confidence": 15.45455685998411,
+						"confidence_age": 0.24015496058483263,
 						"probability": 0.01033371906006743
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 3.4603903795265274,
+						"confidence": 3.474070757189431,
+						"confidence_age": 0.09476305589902964,
 						"probability": 0.005455447659085344
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 11.338842975206559,
+						"confidence": 11.38756821261987,
+						"confidence_age": 0.06300915316969674,
 						"probability": 0.0036795465085700148
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 0.5190585569289791,
+						"confidence": 0.5211106135784146,
+						"confidence_age": 0.01580609127549836,
 						"probability": 0.0009099464219482794
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 1.6267954589456959,
+						"confidence_age": 0.023341706024565388,
+						"probability": 0.000699490766491239
 					}
 				],
 				"urgency": 2,
@@ -101,6 +129,7 @@
 		},
 		{
 			"EntryNumber": 2,
+			"QuestionNumber": 2,
 			"Finding": "skin hyperpigmentation (at neck)",
 			"Answer": true,
 			"Diagnosis": {
@@ -108,38 +137,51 @@
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
 						"probability": 0.01195269843854971
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.004522641789684344
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.004522641789684343
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 129.6780920778035,
-						"probability": 0.0029192476406656623
+						"confidence": 130.57083468350712,
+						"confidence_age": 1.9438006738969384,
+						"probability": 0.002919247640665662
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 20.930876267384946,
+						"confidence": 21.06775657863944,
+						"confidence_age": 0.5746702165455919,
 						"probability": 0.0020603426749653026
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 5.331761067658955,
+						"confidence": 5.355595763108223,
+						"confidence_age": 0.029633328859334177,
 						"probability": 0.00018397732542850073
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 0.831078910616755,
+						"confidence": 0.8365138641518601,
+						"confidence_age": 0.025372759919837142,
 						"probability": 0.00007762641982361967
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 0.7650851090154605,
+						"confidence_age": 0.01097765032488179,
+						"probability": 0.00003497453832456195
 					}
 				],
 				"urgency": 2,
@@ -148,6 +190,7 @@
 		},
 		{
 			"EntryNumber": 3,
+			"QuestionNumber": 3,
 			"Finding": "irregular menstruation",
 			"Answer": false,
 			"Diagnosis": {
@@ -155,38 +198,51 @@
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
 						"probability": 0.011355063516622224
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
 						"probability": 0.004296509700200126
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 129.6780920778035,
+						"confidence": 130.57083468350712,
+						"confidence_age": 1.9438006738969384,
 						"probability": 0.0027732852586323784
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 8.724815241903052,
+						"confidence": 8.81722910590713,
+						"confidence_age": 0.24050965942720104,
 						"probability": 0.0007979672867621058
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 5.331761067658955,
+						"confidence": 5.355595763108223,
+						"confidence_age": 0.029633328859334177,
 						"probability": 0.00017477845915707567
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 0.8310789106167551,
+						"confidence": 0.8365138641518601,
+						"confidence_age": 0.025372759919837142,
 						"probability": 0.00007374509883243869
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 0.261443563029343,
+						"confidence_age": 0.0037512637232223586,
+						"probability": 0.000011059920121846505
 					}
 				],
 				"urgency": 2,
@@ -195,45 +251,59 @@
 		},
 		{
 			"EntryNumber": 4,
-			"Finding": "menorrhagia",
+			"QuestionNumber": 4,
+			"Finding": "amenorrhea",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.010787310340791112
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.00834701510860079
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0040816842151901195
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.003158329438608762
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 129.6780920778035,
-						"probability": 0.0026346209957007595
+						"confidence": 130.57083468350712,
+						"confidence_age": 1.9438006738969384,
+						"probability": 0.0020386195040105167
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 3.3791064130627166,
-						"probability": 0.0003090514012447954
+						"confidence": 8.314861819582612,
+						"confidence_age": 0.22680646724630033,
+						"probability": 0.0005248340939583463
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 5.331761067658955,
-						"probability": 0.00016603953619922192
+						"confidence": 4.753371536771398,
+						"confidence_age": 0.02630113028881697,
+						"probability": 0.00010819219198509394
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 0.8310789106167551,
-						"probability": 0.00007005784389081672
+						"confidence": 0.8365138641518601,
+						"confidence_age": 0.025372759919837142,
+						"probability": 0.00005420942412506479
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.08488163458520351,
+						"confidence_age": 0.0012179049003840008,
+						"probability": 0.0000051347732163345016
 					}
 				],
 				"urgency": 2,
@@ -242,45 +312,59 @@
 		},
 		{
 			"EntryNumber": 5,
-			"Finding": "infertility",
+			"QuestionNumber": 5,
+			"Finding": "menorrhagia",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.010247944823751557
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.007929664353170749
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0038776000044306136
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0030004129666783234
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 129.6780920778035,
-						"probability": 0.002502889945915721
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 5.331761067658955,
-						"probability": 0.0001577375593892608
+						"confidence": 130.57083468350712,
+						"confidence_age": 1.9438006738969384,
+						"probability": 0.0019366885288099901
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.8974501271120335,
-						"probability": 0.00007726285031119885
+						"confidence": 3.2203321353259367,
+						"confidence_age": 0.08784176704570594,
+						"probability": 0.0002032673705422534
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 4.753371536771398,
+						"confidence_age": 0.02630113028881697,
+						"probability": 0.00010278258238583927
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 0.8310789106167551,
-						"probability": 0.00006655495169627589
+						"confidence": 0.8365138641518601,
+						"confidence_age": 0.025372759919837142,
+						"probability": 0.00005149895291881156
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.08488163458520352,
+						"confidence_age": 0.001217904900384001,
+						"probability": 0.000004878034555517775
 					}
 				],
 				"urgency": 2,
@@ -289,45 +373,59 @@
 		},
 		{
 			"EntryNumber": 6,
-			"Finding": "fatigue",
+			"QuestionNumber": 6,
+			"Finding": "infertility",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.009735547582563979
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.007533181135512213
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.003683720004209083
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0028503923183444075
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 41.57236707612716,
-						"probability": 0.0006257224864789303
-					},
-					{
-						"disease": "polycystic ovary syndrome",
-						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.8974501271120335,
-						"probability": 0.0000733997077956389
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.8310789106167551,
-						"probability": 0.00006322720411146209
+						"confidence": 130.57083468350712,
+						"confidence_age": 1.9438006738969384,
+						"probability": 0.0018398541023694908
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 1.7092627190561616,
-						"probability": 0.0000394343898473152
+						"confidence": 4.753371536771398,
+						"confidence_age": 0.02630113028881697,
+						"probability": 0.00009764345326654732
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 0.8579909931780292,
+						"confidence_age": 0.023403624776246943,
+						"probability": 0.00005081684263556335
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.83651386415186,
+						"confidence_age": 0.02537275991983714,
+						"probability": 0.000048924005272870995
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 0.04522991722589029,
+						"confidence_age": 0.0006489712185982927,
+						"probability": 0.0000024390172777588875
 					}
 				],
 				"urgency": 2,
@@ -336,45 +434,59 @@
 		},
 		{
 			"EntryNumber": 7,
-			"Finding": "thinning or loss of hair anywhere",
+			"QuestionNumber": 7,
+			"Finding": "fatigue",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.009248770203435779
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.007156522078736603
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.003499534003998628
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0027078727024271872
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 24.547203783858915,
-						"probability": 0.00034414736756341167
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.8310789106167551,
-						"probability": 0.00006006584390588898
+						"confidence": 41.91370952697599,
+						"confidence_age": 0.623967036907879,
+						"probability": 0.0004599635255923727
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355587,
-						"probability": 0.00004403982467738334
+						"confidence": 0.8579909931780292,
+						"confidence_age": 0.023403624776246943,
+						"probability": 0.00004827600050378519
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.83651386415186,
+						"confidence_age": 0.02537275991983714,
+						"probability": 0.000046477805009227446
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 1.7092627190561616,
-						"probability": 0.00003746267035494944
+						"confidence": 1.525849431451919,
+						"confidence_age": 0.008442757816695417,
+						"probability": 0.000024410863316636822
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 0.04522991722589029,
+						"confidence_age": 0.0006489712185982927,
+						"probability": 0.0000023170664138709437
 					}
 				],
 				"urgency": 2,
@@ -383,45 +495,59 @@
 		},
 		{
 			"EntryNumber": 8,
-			"Finding": "hypoglycemia",
+			"QuestionNumber": 8,
+			"Finding": "thinning or loss of hair anywhere",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.008786331693263991
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.006798695974799773
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0033245573037986977
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0025724790673058275
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 14.242134380516644,
-						"probability": 0.00018928105215987645
+						"confidence": 24.737306995332904,
+						"confidence_age": 0.36826289825347397,
+						"probability": 0.00025297993907580504
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 0.831078910616755,
-						"probability": 0.00005706255171059455
+						"confidence": 0.83651386415186,
+						"confidence_age": 0.02537275991983714,
+						"probability": 0.00004415391475876607
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355587,
-						"probability": 0.000041837833443514174
+						"confidence": 0.5524177303670309,
+						"confidence_age": 0.015068430069840287,
+						"probability": 0.000028965600302271113
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 1.7092627190561616,
-						"probability": 0.00003558953683720196
+						"confidence": 1.525849431451919,
+						"confidence_age": 0.008442757816695417,
+						"probability": 0.000023190320150804986
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 0.0000022012130931773964
 					}
 				],
 				"urgency": 2,
@@ -430,45 +556,59 @@
 		},
 		{
 			"EntryNumber": 9,
-			"Finding": "hypotensive",
+			"QuestionNumber": 9,
+			"Finding": "hypoglycemia",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.00834701510860079
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.006458761176059784
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.003158329438608762
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0024438551139405354
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 7.6503236356868145,
-						"probability": 0.00009464052607993824
+						"confidence": 14.35171253925833,
+						"confidence_age": 0.21365313757092216,
+						"probability": 0.0001391389664916928
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 0.831078910616755,
-						"probability": 0.00005420942412506479
+						"confidence": 0.8365138641518601,
+						"confidence_age": 0.025372759919837142,
+						"probability": 0.00004194621902082776
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355587,
-						"probability": 0.00003974594177133846
+						"confidence": 0.5524177303670308,
+						"confidence_age": 0.015068430069840284,
+						"probability": 0.000027517320287157555
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 1.7092627190561616,
-						"probability": 0.00003381005999534187
+						"confidence": 1.525849431451919,
+						"confidence_age": 0.008442757816695417,
+						"probability": 0.000022030804143264734
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 0.000002091152438518526
 					}
 				],
 				"urgency": 2,
@@ -477,45 +617,59 @@
 		},
 		{
 			"EntryNumber": 10,
-			"Finding": "weight loss",
+			"QuestionNumber": 10,
+			"Finding": "hypotensive",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.00792966435317075
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.006135823117256793
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0030004129666783242
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.831078910616755,
-						"probability": 0.000051498952918811574
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.002321662358243508
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 3.4125542028338103,
-						"probability": 0.000037856210431975296
+						"confidence": 7.705564541214428,
+						"confidence_age": 0.11471230603889901,
+						"probability": 0.00006956948324584639
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.8365138641518601,
+						"confidence_age": 0.025372759919837142,
+						"probability": 0.000039848908069786366
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355588,
-						"probability": 0.000037758644682771536
+						"confidence": 0.5524177303670309,
+						"confidence_age": 0.015068430069840287,
+						"probability": 0.00002614145427279967
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 1.7092627190561616,
-						"probability": 0.00003211955699557477
+						"confidence": 1.5258494314519189,
+						"confidence_age": 0.008442757816695415,
+						"probability": 0.00002092926393610149
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.04522991722589029,
+						"confidence_age": 0.0006489712185982927,
+						"probability": 0.000001983841392100129
 					}
 				],
 				"urgency": 2,
@@ -524,6 +678,7 @@
 		},
 		{
 			"EntryNumber": 11,
+			"QuestionNumber": 11,
 			"Finding": "use of steroids",
 			"Answer": false,
 			"Diagnosis": {
@@ -531,38 +686,51 @@
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.007533181135512212
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.005829031961393953
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0028503923183444066
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.8310789106167551,
-						"probability": 0.00005149895291881156
-					},
-					{
-						"disease": "polycystic ovary syndrome",
-						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355587,
-						"probability": 0.000035870712448632954
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.002205579240331334
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 3.0748407109630773,
-						"probability": 0.00003217777886717899
+						"confidence": 6.94186886718542,
+						"confidence_age": 0.1033432114824615,
+						"probability": 0.00005913406075896944
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.83651386415186,
+						"confidence_age": 0.02537275991983714,
+						"probability": 0.000039848908069786366
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 0.5524177303670308,
+						"confidence_age": 0.015068430069840284,
+						"probability": 0.00002483438155915969
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 1.7092627190561616,
-						"probability": 0.000030513579145796032
+						"confidence": 1.525849431451919,
+						"confidence_age": 0.008442757816695417,
+						"probability": 0.000019882800739296423
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 0.0000018846493224951228
 					}
 				],
 				"urgency": 2,
@@ -571,45 +739,59 @@
 		},
 		{
 			"EntryNumber": 12,
-			"Finding": "anorexia or loss of appetite",
+			"QuestionNumber": 12,
+			"Finding": "tachycardia",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.007156522078736603
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.005537580363324256
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0027078727024271872
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0020953002783147667
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 0.831078910616755,
-						"probability": 0.000048924005272870995
-					},
-					{
-						"disease": "polycystic ovary syndrome",
-						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355588,
-						"probability": 0.000034077176826201304
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 1.7092627190561616,
-						"probability": 0.00002898790018850623
+						"confidence": 0.83651386415186,
+						"confidence_age": 0.02537275991983714,
+						"probability": 0.00003785646266629704
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 1.894004690470216,
-						"probability": 0.000017697778376948457
+						"confidence": 4.2945191647285865,
+						"confidence_age": 0.06393226532323892,
+						"probability": 0.0000325237334174332
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 0.5524177303670309,
+						"confidence_age": 0.015068430069840287,
+						"probability": 0.000023592662481201702
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 1.525849431451919,
+						"confidence_age": 0.008442757816695417,
+						"probability": 0.000018888660702331593
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 0.000001790416856370367
 					}
 				],
 				"urgency": 2,
@@ -618,45 +800,59 @@
 		},
 		{
 			"EntryNumber": 13,
-			"Finding": "tachycardia",
+			"QuestionNumber": 13,
+			"Finding": "arthralgia",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.006798695974799773
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0031497762216471468
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.002572479067305827
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.001191806991652331
 					},
 					{
 						"disease": "acne vulgaris",
 						"instance": "acne vulgaris #1",
-						"confidence": 0.831078910616755,
-						"probability": 0.00004647780500922744
-					},
-					{
-						"disease": "polycystic ovary syndrome",
-						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355587,
-						"probability": 0.000032373317984891236
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 1.7092627190561616,
-						"probability": 0.00002753850517908092
+						"confidence": 0.83651386415186,
+						"confidence_age": 0.02537275991983714,
+						"probability": 0.000021532759457850113
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 1.1736232561114808,
-						"probability": 0.000009733778107321646
+						"confidence": 4.294519164728586,
+						"confidence_age": 0.06393226532323891,
+						"probability": 0.00001849950256901097
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 0.5524177303670307,
+						"confidence_age": 0.015068430069840282,
+						"probability": 0.000013419508596354894
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.9576507985342377,
+						"confidence_age": 0.0052988280483848745,
+						"probability": 0.000006220136392374445
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 0.0000010183892731167936
 					}
 				],
 				"urgency": 2,
@@ -665,45 +861,59 @@
 		},
 		{
 			"EntryNumber": 14,
-			"Finding": "arthralgia",
+			"QuestionNumber": 14,
+			"Finding": "skin hyperpigmentation (at face)",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.003867098897825704
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0029922874105647894
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0014632263308628154
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.831078910616755,
-						"probability": 0.000026436579778055866
-					},
-					{
-						"disease": "polycystic ovary syndrome",
-						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355586,
-						"probability": 0.000018413946257101306
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 1.0717891623501783,
-						"probability": 0.00000906857616616773
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0006702023230568947
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 1.1736232561114812,
-						"probability": 0.000005536573885643141
+						"confidence": 4.2945191647285865,
+						"confidence_age": 0.06393226532323892,
+						"probability": 0.000013408063250172436
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 0.5524177303670308,
+						"confidence_age": 0.015068430069840284,
+						"probability": 0.000012748533166537152
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.9576507985342377,
+						"confidence_age": 0.0052988280483848745,
+						"probability": 0.000005909129572755723
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.6724159227531061,
+						"confidence_age": 0.02039541543234132,
+						"probability": 0.000004306551891570019
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 9.674698094609535e-7
 					}
 				],
 				"urgency": 2,
@@ -712,45 +922,59 @@
 		},
 		{
 			"EntryNumber": 15,
-			"Finding": "skin hyperpigmentation (at face)",
+			"QuestionNumber": 15,
+			"Finding": "dizziness",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.003673743952934419
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0028426730400365496
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0008228326339508078
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0006366922069040503
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355587,
-						"probability": 0.000017493248944246243
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 1.0717891623501785,
-						"probability": 0.00000861514735785934
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.6681233191432725,
-						"probability": 0.0000052873159556111696
+						"confidence": 0.5524177303670308,
+						"confidence_age": 0.015068430069840284,
+						"probability": 0.000012111106508210291
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 1.173623256111481,
-						"probability": 0.000004012796158763143
+						"confidence": 3.4639278539385003,
+						"confidence_age": 0.051567299183900565,
+						"probability": 0.000009943685839081178
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.9576507985342378,
+						"confidence_age": 0.005298828048384875,
+						"probability": 0.000005613673094117938
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.6724159227531061,
+						"confidence_age": 0.02039541543234132,
+						"probability": 0.00000409122429699152
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 9.190963189879061e-7
 					}
 				],
 				"urgency": 2,
@@ -759,45 +983,59 @@
 		},
 		{
 			"EntryNumber": 16,
-			"Finding": "dizziness",
+			"QuestionNumber": 16,
+			"Finding": "syncope",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.003490056755287698
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0027005393880347216
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0007816910022532672
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0006048575965588476
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5780909345355587,
-						"probability": 0.000016618586497033935
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 1.0717891623501783,
-						"probability": 0.000008184389989966375
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.6681233191432725,
-						"probability": 0.00000502295015783061
+						"confidence": 0.5524177303670308,
+						"confidence_age": 0.015068430069840284,
+						"probability": 0.000011505551182799776
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.9472871422172273,
-						"probability": 0.000002975969280164252
+						"confidence": 2.568917650978723,
+						"confidence_age": 0.03824333261912528,
+						"probability": 0.000007374434787594843
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.9576507985342377,
+						"confidence_age": 0.0052988280483848745,
+						"probability": 0.000005332989439412039
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.6724159227531061,
+						"confidence_age": 0.02039541543234132,
+						"probability": 0.000003886663082141944
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.04522991722589029,
+						"confidence_age": 0.0006489712185982927,
+						"probability": 8.731415030385108e-7
 					}
 				],
 				"urgency": 2,
@@ -806,45 +1044,59 @@
 		},
 		{
 			"EntryNumber": 17,
-			"Finding": "amenorrhea",
+			"QuestionNumber": 17,
+			"Finding": "hyperthyroidism",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.0025655124186329866
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.00231537495781627
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0005746147167309051
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.000518589781849642
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.5444152989839754,
-						"probability": 0.000010930273623659789
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 0.94998026806967,
-						"probability": 0.000005066339967441438
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.6681233191432725,
-						"probability": 0.0000036923299280348477
+						"confidence": 0.5524177303670308,
+						"confidence_age": 0.015068430069840284,
+						"probability": 0.000009864571945352957
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.9472871422172274,
-						"probability": 0.0000021876108845978593
+						"confidence": 2.43413708167239,
+						"confidence_age": 0.03623686186261294,
+						"probability": 0.000005989884656223908
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.957650798534238,
+						"confidence_age": 0.005298828048384875,
+						"probability": 0.000004572371820615897
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.6724159227531061,
+						"confidence_age": 0.02039541543234132,
+						"probability": 0.000003332327760051449
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.04522991722589029,
+						"confidence_age": 0.0006489712185982927,
+						"probability": 7.48609696167643e-7
 					}
 				],
 				"urgency": 2,
@@ -853,45 +1105,59 @@
 		},
 		{
 			"EntryNumber": 18,
-			"Finding": "hirsutism",
+			"QuestionNumber": 18,
+			"Finding": "confusion",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 210.0785091660417,
-						"probability": 0.002437236797701336
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0021996062099254557
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 172.47186246347863,
-						"probability": 0.0005458839808943599
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 0.94998026806967,
-						"probability": 0.0000048130229690693645
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.6681233191432725,
-						"probability": 0.000003507713431633104
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0004926602927571598
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 0.17272456608052755,
-						"probability": 0.000003279082087097937
+						"confidence": 0.5524177303670308,
+						"confidence_age": 0.015068430069840284,
+						"probability": 0.000009371343348085309
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.9472871422172272,
-						"probability": 0.0000020782303403679666
+						"confidence": 2.2282715176640226,
+						"confidence_age": 0.03317215278710158,
+						"probability": 0.00000509140195779032
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.9576507985342378,
+						"confidence_age": 0.005298828048384875,
+						"probability": 0.000004343753229585102
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.6724159227531061,
+						"confidence_age": 0.02039541543234132,
+						"probability": 0.000003165711372048877
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 7.111792113592606e-7
 					}
 				],
 				"urgency": 2,
@@ -900,45 +1166,59 @@
 		},
 		{
 			"EntryNumber": 19,
-			"Finding": "hyperglycemia",
-			"Answer": true,
+			"QuestionNumber": 19,
+			"Finding": "diarrhea",
+			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 96.72981953806044,
-						"probability": 0.00012186183988506687
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0020896258994291825
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 79.41398764544466,
-						"probability": 0.000027294199044718
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0004680272781193018
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 1.4136775695957848,
-						"probability": 0.0000019674492522587626
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 0.4374146611182793,
-						"probability": 2.406511484534682e-7
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.30763474258482343,
-						"probability": 1.7538567158165507e-7
+						"confidence": 0.5524177303670308,
+						"confidence_age": 0.015068430069840284,
+						"probability": 0.000008902776180681042
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.4361746219598989,
-						"probability": 1.0391151701839833e-7
+						"confidence": 2.0841422381598353,
+						"confidence_age": 0.03102650830755452,
+						"probability": 0.000004327691664121773
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.9576507985342378,
+						"confidence_age": 0.005298828048384875,
+						"probability": 0.000004126565568105846
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.6724159227531061,
+						"confidence_age": 0.02039541543234132,
+						"probability": 0.0000030074258034464337
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 6.756202507912977e-7
 					}
 				],
 				"urgency": 2,
@@ -947,45 +1227,59 @@
 		},
 		{
 			"EntryNumber": 20,
-			"Finding": "overweight or obese",
-			"Answer": true,
+			"QuestionNumber": 20,
+			"Finding": "abdominal discomfort other than pain",
+			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 571.6231011384654,
-						"probability": 0.00006702401193678679
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0019851446044577233
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 35.6321881400523,
-						"probability": 0.0000013647099522358999
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.00044462591421333647
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 6.835174173149962,
-						"probability": 8.853521635164427e-7
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 0.19626317683189395,
-						"probability": 1.203255742267341e-8
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.13803234607912018,
-						"probability": 8.769283579082765e-9
+						"confidence": 0.5524177303670307,
+						"confidence_age": 0.015068430069840282,
+						"probability": 0.000008457637371646988
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.19570678481705509,
-						"probability": 5.195575850919918e-9
+						"confidence": 2.110536543624005,
+						"confidence_age": 0.031419438848840055,
+						"probability": 0.0000039899345694826555
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.9576507985342377,
+						"confidence_age": 0.0052988280483848745,
+						"probability": 0.000003920237289700554
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.6724159227531062,
+						"confidence_age": 0.020395415432341323,
+						"probability": 0.0000028570545132741107
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.045229917225890294,
+						"confidence_age": 0.0006489712185982928,
+						"probability": 6.418392382517327e-7
 					}
 				],
 				"urgency": 2,
@@ -994,45 +1288,59 @@
 		},
 		{
 			"EntryNumber": 21,
-			"Finding": "syncope",
+			"QuestionNumber": 21,
+			"Finding": "breast cancer",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 571.6231011384654,
-						"probability": 0.00006367281133994743
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0018858873742348377
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 35.6321881400523,
-						"probability": 0.000001296474454624105
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0004223946185026697
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 6.8351741731499605,
-						"probability": 8.410845553406206e-7
+						"confidence": 0.5524177303670309,
+						"confidence_age": 0.015068430069840287,
+						"probability": 0.00000803475550306464
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 0.19626317683189398,
-						"probability": 1.1430929551539742e-8
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.13803234607912018,
-						"probability": 8.330819400128622e-9
+						"confidence": 0.9576507985342377,
+						"confidence_age": 0.0052988280483848745,
+						"probability": 0.0000037242254252155268
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.14514003614746004,
-						"probability": 3.853142176518301e-9
+						"confidence": 2.0485679266205645,
+						"confidence_age": 0.030496915532023394,
+						"probability": 0.0000036785379145035053
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.6724159227531061,
+						"confidence_age": 0.02039541543234132,
+						"probability": 0.0000027142017876104054
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.04522991722589029,
+						"confidence_age": 0.0006489712185982927,
+						"probability": 6.097472763391461e-7
 					}
 				],
 				"urgency": 2,
@@ -1041,45 +1349,59 @@
 		},
 		{
 			"EntryNumber": 22,
-			"Finding": "polycystic ovary syndrome",
-			"Answer": null,
+			"QuestionNumber": 22,
+			"Finding": "lung cancer",
+			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 571.6231011384654,
-						"probability": 0.00006367281133994743
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0017915930055230963
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 35.6321881400523,
-						"probability": 0.0000012964744546241048
+						"confidence": 173.65921012906446,
+						"confidence_age": 2.6985646461157424,
+						"probability": 0.0004012748875775363
 					},
 					{
 						"disease": "polycystic ovary syndrome",
 						"instance": "polycystic ovary syndrome #1",
-						"confidence": 6.835174173149963,
-						"probability": 8.410845553406209e-7
+						"confidence": 0.5524177303670309,
+						"confidence_age": 0.015068430069840287,
+						"probability": 0.00000763301772791141
 					},
 					{
 						"disease": "hemochromatosis",
 						"instance": "hemochromatosis #1",
-						"confidence": 0.19626317683189398,
-						"probability": 1.1430929551539744e-8
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.13803234607912016,
-						"probability": 8.330819400128622e-9
+						"confidence": 0.9576507985342378,
+						"confidence_age": 0.005298828048384875,
+						"probability": 0.00000353801415395475
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.14514003614746002,
-						"probability": 3.8531421765183025e-9
+						"confidence": 1.8895327348167845,
+						"confidence_age": 0.028129367574236126,
+						"probability": 0.000003391444384060255
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.6724159227531061,
+						"confidence_age": 0.02039541543234132,
+						"probability": 0.0000025784916982298844
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.04522991722589029,
+						"confidence_age": 0.0006489712185982927,
+						"probability": 5.792599125221887e-7
 					}
 				],
 				"urgency": 2,
@@ -1088,45 +1410,59 @@
 		},
 		{
 			"EntryNumber": 23,
-			"Finding": "confusion",
-			"Answer": false,
+			"QuestionNumber": 23,
+			"Finding": "skin hyperpigmentation (at upper extremity)",
+			"Answer": true,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 571.6231011384654,
-						"probability": 0.00006048917077295002
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0006270575519330832
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 35.63218814005231,
-						"probability": 0.0000012316507318929
-					},
-					{
-						"disease": "polycystic ovary syndrome",
-						"instance": "polycystic ovary syndrome #1",
-						"confidence": 6.835174173149963,
-						"probability": 7.990303275735899e-7
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 0.19626317683189395,
-						"probability": 1.0859383073962754e-8
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.13803234607912016,
-						"probability": 7.914278430122189e-9
+						"confidence": 82.08010931792228,
+						"confidence_age": 1.2754778798662134,
+						"probability": 0.000020063744378876807
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.13287480766733814,
-						"probability": 3.2751708500405602e-9
+						"confidence": 2.042690536691232,
+						"confidence_age": 0.030409419158632784,
+						"probability": 9.333944639994542e-7
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 0.26110050635371196,
+						"confidence_age": 0.0071221007308667796,
+						"probability": 3.816508863955704e-7
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.7269192096116054,
+						"confidence_age": 0.022048584461051724,
+						"probability": 2.1996798300492446e-7
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.4526341112208609,
+						"confidence_age": 0.0025044936294773093,
+						"probability": 1.7690070769773743e-7
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 0.021377942163750014,
+						"confidence_age": 0.00030673655907535404,
+						"probability": 2.8962995626109454e-8
 					}
 				],
 				"urgency": 2,
@@ -1135,45 +1471,59 @@
 		},
 		{
 			"EntryNumber": 24,
-			"Finding": "hyperthyroidism",
+			"QuestionNumber": 24,
+			"Finding": "weight loss",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 571.6231011384654,
-						"probability": 0.00005186190279145805
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.0005957046743364293
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 35.63218814005231,
-						"probability": 0.0000010559865462566747
-					},
-					{
-						"disease": "polycystic ovary syndrome",
-						"instance": "polycystic ovary syndrome #1",
-						"confidence": 6.835174173149964,
-						"probability": 6.850686271034066e-7
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 0.19626317683189398,
-						"probability": 9.310563563038812e-9
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.13803234607912016,
-						"probability": 6.7855044690260114e-9
+						"confidence": 82.08010931792228,
+						"confidence_age": 1.2754778798662134,
+						"probability": 0.000019060557159932977
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.12590393593116447,
-						"probability": 2.660257522945443e-9
+						"confidence": 1.6849053741827695,
+						"confidence_age": 0.025083091562734208,
+						"probability": 6.922238611776225e-7
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 0.2611005063537119,
+						"confidence_age": 0.007122100730866778,
+						"probability": 3.625683420757919e-7
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.7269192096116054,
+						"confidence_age": 0.022048584461051724,
+						"probability": 2.0896958385467834e-7
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.4526341112208608,
+						"confidence_age": 0.002504493629477309,
+						"probability": 1.6805567231285051e-7
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 0.021377942163750014,
+						"confidence_age": 0.00030673655907535404,
+						"probability": 2.7514845844803976e-8
 					}
 				],
 				"urgency": 2,
@@ -1182,45 +1532,59 @@
 		},
 		{
 			"EntryNumber": 25,
-			"Finding": "diarrhea",
+			"QuestionNumber": 25,
+			"Finding": "anorexia or loss of appetite",
 			"Answer": false,
 			"Diagnosis": {
 				"diseases": [
 					{
 						"disease": "acanthosis nigricans",
 						"instance": "acanthosis nigricans #1",
-						"confidence": 571.6231011384654,
-						"probability": 0.00004926880765188514
+						"confidence": 211.52475218728156,
+						"confidence_age": 3.285629077561449,
+						"probability": 0.000565919440619608
 					},
 					{
 						"disease": "tinea versicolor",
 						"instance": "tinea versicolor #1",
-						"confidence": 35.63218814005231,
-						"probability": 0.0000010031872189438412
-					},
-					{
-						"disease": "polycystic ovary syndrome",
-						"instance": "polycystic ovary syndrome #1",
-						"confidence": 6.835174173149962,
-						"probability": 6.508151957482359e-7
-					},
-					{
-						"disease": "hemochromatosis",
-						"instance": "hemochromatosis #1",
-						"confidence": 0.19626317683189395,
-						"probability": 8.84503538488688e-9
-					},
-					{
-						"disease": "acne vulgaris",
-						"instance": "acne vulgaris #1",
-						"confidence": 0.13803234607912013,
-						"probability": 6.4462292455747125e-9
+						"confidence": 82.08010931792228,
+						"confidence_age": 1.2754778798662134,
+						"probability": 0.000018107529301936327
 					},
 					{
 						"disease": "adrenal insufficiency",
 						"instance": "adrenal insufficiency #1",
-						"confidence": 0.1178875103702056,
-						"probability": 2.2612188945036274e-9
+						"confidence": 1.2554706832893048,
+						"confidence_age": 0.018690121466642156,
+						"probability": 5.133669551997001e-7
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 0.261100506353712,
+						"confidence_age": 0.007122100730866781,
+						"probability": 3.444399249720023e-7
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.7269192096116053,
+						"confidence_age": 0.02204858446105172,
+						"probability": 1.985211046619444e-7
+					},
+					{
+						"disease": "hemochromatosis",
+						"instance": "hemochromatosis #1",
+						"confidence": 0.4526341112208608,
+						"confidence_age": 0.002504493629477309,
+						"probability": 1.5965288869720804e-7
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 0.021377942163750017,
+						"confidence_age": 0.0003067365590753541,
+						"probability": 2.613910355256377e-8
 					}
 				],
 				"urgency": 2,
@@ -1233,38 +1597,51 @@
 			{
 				"disease": "acanthosis nigricans",
 				"instance": "acanthosis nigricans #1",
-				"confidence": 571.6231011384654,
-				"probability": 0.00004926880765188515
+				"confidence": 211.52475218728156,
+				"confidence_age": 3.285629077561449,
+				"probability": 0.0005659194406196077
 			},
 			{
 				"disease": "tinea versicolor",
 				"instance": "tinea versicolor #1",
-				"confidence": 35.63218814005231,
-				"probability": 0.0000010031872189438408
-			},
-			{
-				"disease": "polycystic ovary syndrome",
-				"instance": "polycystic ovary syndrome #1",
-				"confidence": 6.835174173149963,
-				"probability": 6.508151957482357e-7
-			},
-			{
-				"disease": "hemochromatosis",
-				"instance": "hemochromatosis #1",
-				"confidence": 0.19626317683189398,
-				"probability": 8.845035384886871e-9
-			},
-			{
-				"disease": "acne vulgaris",
-				"instance": "acne vulgaris #1",
-				"confidence": 0.13803234607912016,
-				"probability": 6.446229245574714e-9
+				"confidence": 82.08010931792228,
+				"confidence_age": 1.2754778798662134,
+				"probability": 0.00001810752930193632
 			},
 			{
 				"disease": "adrenal insufficiency",
 				"instance": "adrenal insufficiency #1",
-				"confidence": 0.11788751037020555,
-				"probability": 2.2612188945036274e-9
+				"confidence": 1.2554706832893041,
+				"confidence_age": 0.018690121466642146,
+				"probability": 5.133669551997003e-7
+			},
+			{
+				"disease": "polycystic ovary syndrome",
+				"instance": "polycystic ovary syndrome #1",
+				"confidence": 0.2611005063537119,
+				"confidence_age": 0.007122100730866778,
+				"probability": 3.4443992497200236e-7
+			},
+			{
+				"disease": "acne vulgaris",
+				"instance": "acne vulgaris #1",
+				"confidence": 0.7269192096116054,
+				"confidence_age": 0.022048584461051724,
+				"probability": 1.985211046619444e-7
+			},
+			{
+				"disease": "hemochromatosis",
+				"instance": "hemochromatosis #1",
+				"confidence": 0.4526341112208608,
+				"confidence_age": 0.002504493629477309,
+				"probability": 1.59652888697208e-7
+			},
+			{
+				"disease": "ovarian insufficiency",
+				"instance": "primary ovarian insufficiency",
+				"confidence": 0.02137794216375002,
+				"confidence_age": 0.00030673655907535415,
+				"probability": 2.6139103552563783e-8
 			}
 		],
 		"urgency": 2,
@@ -1275,6 +1652,7 @@
 			"skin hyperpigmentation"
 		],
 		"findings": {
+			"abdominal discomfort other than pain": false,
 			"amenorrhea": false,
 			"ankle pain": false,
 			"ankle pain (migratory)": false,
@@ -1282,26 +1660,24 @@
 			"anorexia or loss of appetite": false,
 			"arthralgia": false,
 			"arthralgia (shoulder pain that doesn't radiate)": false,
+			"breast cancer": false,
 			"confusion": false,
 			"decreased fetal movements": false,
 			"diarrhea": false,
 			"dizziness": false,
 			"fatigue": false,
-			"hirsutism": false,
-			"hyperglycemia": true,
 			"hyperthyroidism": false,
 			"hypoglycemia": false,
 			"hypotensive": false,
 			"infertility": false,
 			"irregular menstruation": false,
+			"lung cancer": false,
 			"menorrhagia": false,
-			"overweight or obese": true,
 			"pain at the base of thumb": false,
 			"pain in elbow with flexion of the wrist": false,
 			"pain in inner elbow or elbow pit": false,
 			"pain in outer elbow": false,
 			"pimples or bumps": false,
-			"polycystic ovary syndrome": null,
 			"pregnant": false,
 			"pregnant (last month of pregnancy)": false,
 			"pregnant (preeclampsia)": false,
@@ -1309,6 +1685,7 @@
 			"skin hyperpigmentation": true,
 			"skin hyperpigmentation (at face)": false,
 			"skin hyperpigmentation (at neck)": true,
+			"skin hyperpigmentation (at upper extremity)": true,
 			"syncope": false,
 			"tachycardia": false,
 			"thinning or loss of hair anywhere": false,
