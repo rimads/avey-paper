@@ -1,0 +1,3808 @@
+{
+	"Time": "2021-12-01T09:04:49.0353195+03:00",
+	"Age": 65,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "chest discomfort",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 196.6446904770391,
+						"confidence_age": 4.533598510746937,
+						"probability": 0.01789956828702543
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 196.6446904770391,
+						"confidence_age": 4.533598510746937,
+						"probability": 0.01789956828702543
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 176.4899715084783,
+						"confidence_age": 2.7139598967437553,
+						"probability": 0.010514650808066128
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 196.6446904770391,
+						"confidence_age": 2.588374673486459,
+						"probability": 0.010219429248234149
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 44.122492877119576,
+						"confidence_age": 0.7138977517985873,
+						"probability": 0.0072809573385631534
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 44.122492877119576,
+						"confidence_age": 0.557937475983528,
+						"probability": 0.0032672671024438684
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 44.122492877119576,
+						"confidence_age": 0.31079136286890297,
+						"probability": 0.003169723743409134
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 78.43998733710146,
+						"confidence_age": 0.5525179784336052,
+						"probability": 0.002588920948603412
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 8.715554148566833,
+						"confidence_age": 0.10702310444368145,
+						"probability": 0.0012963868471733123
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 13.618053357135672,
+						"confidence_age": 0.09592326014472313,
+						"probability": 0.0009436943525291478
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 34.86221659426733,
+						"confidence_age": 0.02004041868838704,
+						"probability": 0.00012957228666006442
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "wheezing",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 196.6446904770391,
+						"confidence_age": 4.533598510746937,
+						"probability": 0.017004589872674156
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 196.6446904770391,
+						"confidence_age": 4.533598510746937,
+						"probability": 0.017004589872674156
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 176.4899715084783,
+						"confidence_age": 2.7139598967437553,
+						"probability": 0.009988918267662822
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 196.6446904770391,
+						"confidence_age": 2.588374673486459,
+						"probability": 0.00970845778582244
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 44.122492877119576,
+						"confidence_age": 0.31079136286890297,
+						"probability": 0.003011237556238677
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 18.736157991983774,
+						"confidence_age": 0.30314926006269544,
+						"probability": 0.002912382935425262
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 78.43998733710146,
+						"confidence_age": 0.5525179784336052,
+						"probability": 0.0024594749011732416
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 8.715554148566833,
+						"confidence_age": 0.10702310444368145,
+						"probability": 0.0012315675048146465
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 13.618053357135672,
+						"confidence_age": 0.09592326014472313,
+						"probability": 0.0008965096349026904
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 2.342019748997974,
+						"confidence_age": 0.029615293748216934,
+						"probability": 0.00016336335512219353
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 34.86221659426733,
+						"confidence_age": 0.02004041868838704,
+						"probability": 0.0001230936723270612
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "dyspnea",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 21.144099190471195,
+						"probability": 0.010202753923604493
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 12.07183448392396,
+						"probability": 0.0058250746714934645
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 411.5628517669375,
+						"confidence_age": 6.328773613243548,
+						"probability": 0.0029966754802988466
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 257.22678235433597,
+						"confidence_age": 1.811861865487272,
+						"probability": 0.002258428167179008
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 457.29205751881943,
+						"confidence_age": 3.221087760866261,
+						"probability": 0.0018446061758799312
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 64.35962291005609,
+						"confidence_age": 0.7903073662609885,
+						"probability": 0.0011699891295739143
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 83.80577486604912,
+						"confidence_age": 1.9321230347130915,
+						"probability": 0.0008502294936337078
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 21.845735903374855,
+						"confidence_age": 0.3534619358710883,
+						"probability": 0.0004368574403137893
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 42.34185717766847,
+						"confidence_age": 0.29824886674687606,
+						"probability": 0.00035860385396107615
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 17.29454092350511,
+						"confidence_age": 0.21869282268405238,
+						"probability": 0.00015519518736608386
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 216.79030874966264,
+						"confidence_age": 0.12462112221637528,
+						"probability": 0.00009847493786164896
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "dry cough or productive cough",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 21.144099190471195,
+						"probability": 0.007894696496088486
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 12.07183448392396,
+						"probability": 0.0045073317403157166
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 411.5628517669375,
+						"confidence_age": 6.328773613243548,
+						"probability": 0.002318770362528905
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 436.09030686084856,
+						"confidence_age": 3.0717462220609044,
+						"probability": 0.0012770767701863826
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 158.724045511853,
+						"confidence_age": 1.11802527935305,
+						"probability": 0.0010117271215388406
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 64.35962291005609,
+						"confidence_age": 0.7903073662609885,
+						"probability": 0.0009053152855465122
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 83.80577486604912,
+						"confidence_age": 1.9321230347130915,
+						"probability": 0.0006578913746740407
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 216.79030874966264,
+						"confidence_age": 0.12462112221637528,
+						"probability": 0.00007619802973884094
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.850794723070556,
+						"confidence_age": 0.06133923964454127,
+						"probability": 0.00001995907106519942
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 1.2254639300388774,
+						"confidence_age": 0.019827890210135573,
+						"probability": 0.000017791155774729182
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 2.3752195362791344,
+						"confidence_age": 0.016730643911007124,
+						"probability": 0.000005117197364994175
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 21.144099190471195,
+						"probability": 0.0074999616712840625
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 12.07183448392396,
+						"probability": 0.0042819651532999305
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 411.5628517669375,
+						"confidence_age": 6.328773613243548,
+						"probability": 0.002202831844402459
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 436.09030686084856,
+						"confidence_age": 3.0717462220609044,
+						"probability": 0.0012132229316770635
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 64.35962291005609,
+						"confidence_age": 0.7903073662609885,
+						"probability": 0.0008600495212691866
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 89.35575895482093,
+						"confidence_age": 0.6294068239320872,
+						"probability": 0.000811629979723381
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 83.80577486604912,
+						"confidence_age": 1.9321230347130915,
+						"probability": 0.0006249968059403385
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 216.79030874966264,
+						"confidence_age": 0.12462112221637528,
+						"probability": 0.00007238812825189889
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.850794723070556,
+						"confidence_age": 0.06133923964454127,
+						"probability": 0.000018961117511939453
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 1.1477131492512733,
+						"confidence_age": 0.018569889948014416,
+						"probability": 0.000013343366831046886
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.14830142431906546,
+						"confidence_age": 0.0010446101018789658,
+						"probability": 2.5585986824970903e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "chest pain",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 21.144099190471195,
+						"probability": 0.005822919258720652
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 12.07183448392396,
+						"probability": 0.003324488637293535
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 411.5628517669375,
+						"confidence_age": 6.328773613243548,
+						"probability": 0.0015062352513363186
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 436.0903068608485,
+						"confidence_age": 3.071746222060904,
+						"probability": 0.000727933759006238
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 83.80577486604912,
+						"confidence_age": 1.9321230347130915,
+						"probability": 0.00048524327156005434
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 842.4894005466994,
+						"confidence_age": 5.9343525699631146,
+						"probability": 0.0004173374376347718
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 64.35962291005609,
+						"confidence_age": 0.7903073662609885,
+						"probability": 0.0000907978438395656
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 216.79030874966264,
+						"confidence_age": 0.12462112221637528,
+						"probability": 0.000016316525215352693
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.850794723070555,
+						"confidence_age": 0.061339239644541264,
+						"probability": 0.000004899176411370605
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.5121812968154753,
+						"confidence_age": 0.008287044826052062,
+						"probability": 6.671683415523442e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.14830142431906543,
+						"confidence_age": 0.0010446101018789656,
+						"probability": 3.42787225365215e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 5,
+			"Finding": "chest pain (around the ribs)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 21.144099190471195,
+						"probability": 0.005531773295784619
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 12.07183448392396,
+						"probability": 0.003158264205428858
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 411.5628517669375,
+						"confidence_age": 6.328773613243548,
+						"probability": 0.0014309234887695027
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 436.0903068608485,
+						"confidence_age": 3.071746222060904,
+						"probability": 0.000691537071055926
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 83.80577486604912,
+						"confidence_age": 1.9321230347130915,
+						"probability": 0.0004609811079820517
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 842.4894005466995,
+						"confidence_age": 5.934352569963115,
+						"probability": 0.00039647056575303324
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 64.35962291005609,
+						"confidence_age": 0.7903073662609885,
+						"probability": 0.00008625795164758736
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 216.79030874966264,
+						"confidence_age": 0.12462112221637528,
+						"probability": 0.000015500698954585054
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.850794723070555,
+						"confidence_age": 0.061339239644541264,
+						"probability": 0.000004654217590802075
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.5121812968154754,
+						"confidence_age": 0.008287044826052064,
+						"probability": 6.33809924474727e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.14830142431906543,
+						"confidence_age": 0.0010446101018789656,
+						"probability": 3.256478640969542e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 5,
+			"Finding": "chest pain (around the ribs)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 21.144099190471195,
+						"probability": 0.005531773295784619
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 917.124626468299,
+						"confidence_age": 12.07183448392396,
+						"probability": 0.003158264205428858
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 411.5628517669375,
+						"confidence_age": 6.328773613243548,
+						"probability": 0.0014309234887695023
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 436.0903068608485,
+						"confidence_age": 3.071746222060904,
+						"probability": 0.000691537071055926
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 83.80577486604912,
+						"confidence_age": 1.9321230347130915,
+						"probability": 0.00046098110798205164
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 842.4894005466994,
+						"confidence_age": 5.9343525699631146,
+						"probability": 0.0003964705657530332
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 64.35962291005609,
+						"confidence_age": 0.7903073662609885,
+						"probability": 0.00008625795164758731
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 216.79030874966264,
+						"confidence_age": 0.12462112221637528,
+						"probability": 0.000015500698954585054
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.850794723070555,
+						"confidence_age": 0.061339239644541264,
+						"probability": 0.000004654217590802077
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.5121812968154753,
+						"confidence_age": 0.008287044826052062,
+						"probability": 6.338099244747272e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.14830142431906543,
+						"confidence_age": 0.0010446101018789656,
+						"probability": 3.256478640969542e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 5,
+			"Finding": "chest pain (middle chest)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 474.5734165901115,
+						"confidence_age": 10.941181933128444,
+						"probability": 0.0017493003114375707
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 363.04949745229777,
+						"confidence_age": 5.582763531531183,
+						"probability": 0.001011815702268028
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 474.5734165901115,
+						"confidence_age": 6.246666560037187,
+						"probability": 0.0009987308341737112
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 436.0903068608485,
+						"confidence_age": 3.071746222060904,
+						"probability": 0.0006569602175031297
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 544.0167037961561,
+						"confidence_age": 3.831961472964111,
+						"probability": 0.00017730702722031642
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 43.3659633165868,
+						"confidence_age": 0.9997923983212775,
+						"probability": 0.0001457750259531309
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 64.35962291005609,
+						"confidence_age": 0.7903073662609885,
+						"probability": 0.00008194505406520795
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 209.33120033766963,
+						"confidence_age": 0.1203332808160958,
+						"probability": 0.000006932123312242421
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 4.850794723070555,
+						"confidence_age": 0.061339239644541264,
+						"probability": 0.0000044215067112619714
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.5121812968154753,
+						"confidence_age": 0.008287044826052062,
+						"probability": 6.021194282509907e-7
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.14830142431906543,
+						"confidence_age": 0.0010446101018789656,
+						"probability": 3.0936547089210654e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 5,
+			"Finding": "chest pain (left side)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 7423.481953956405,
+						"confidence_age": 171.14668415084006,
+						"probability": 0.0011961229818591092
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 7423.481953956405,
+						"confidence_age": 97.71305104700049,
+						"probability": 0.0006829044136308257
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 2879.4288883430418,
+						"confidence_age": 20.28220914408691,
+						"probability": 0.0005100594470181252
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 678.3490917163298,
+						"confidence_age": 15.63918366934387,
+						"probability": 0.00009967691515492574
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 5855.5914002489135,
+						"confidence_age": 41.24579354015849,
+						"probability": 0.0000980129140697098
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 164.37373389225044,
+						"confidence_age": 2.527643457861669,
+						"probability": 0.00005059078511340139
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 29.139364202020847,
+						"confidence_age": 0.35781835156496195,
+						"probability": 0.0000040972527032604
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 452.8404865992139,
+						"confidence_age": 0.26031371028752825,
+						"probability": 0.000003831983521325411
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 2.1962383822902756,
+						"confidence_age": 0.027771860105135063,
+						"probability": 2.210753355630986e-7
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.5121812968154754,
+						"confidence_age": 0.008287044826052064,
+						"probability": 3.010597141254954e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.06714472552070322,
+						"confidence_age": 0.0004729560682836939,
+						"probability": 1.5468273544605323e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 5,
+			"Finding": "chest pain (right side)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 7423.481953956405,
+						"confidence_age": 171.14668415084006,
+						"probability": 0.0011363168327661536
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 7423.481953956405,
+						"confidence_age": 97.71305104700049,
+						"probability": 0.0006487591929492844
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 2879.4288883430418,
+						"confidence_age": 20.28220914408691,
+						"probability": 0.00011405275960984808
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 678.3490917163298,
+						"confidence_age": 15.63918366934387,
+						"probability": 0.00009469306939717945
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 5855.5914002489135,
+						"confidence_age": 41.24579354015849,
+						"probability": 0.00009311226836622432
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 164.37373389225044,
+						"confidence_age": 2.527643457861669,
+						"probability": 0.00004806124585773132
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 29.139364202020847,
+						"confidence_age": 0.35781835156496195,
+						"probability": 0.000003892390068097377
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 452.8404865992139,
+						"confidence_age": 0.26031371028752825,
+						"probability": 0.0000036403843452591393
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 2.1962383822902756,
+						"confidence_age": 0.027771860105135063,
+						"probability": 2.1002156878494365e-7
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.5121812968154753,
+						"confidence_age": 0.008287044826052062,
+						"probability": 2.860067284192205e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.06714472552070322,
+						"confidence_age": 0.0004729560682836939,
+						"probability": 1.469485986737506e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 6,
+			"Finding": "recent chest injury or trauma",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 7423.481953956405,
+						"confidence_age": 171.14668415084006,
+						"probability": 0.0010795009911278458
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 7423.481953956405,
+						"confidence_age": 97.71305104700049,
+						"probability": 0.00061632123330182
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 678.3490917163298,
+						"confidence_age": 15.63918366934387,
+						"probability": 0.00008995841592732047
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 5293.917543244323,
+						"confidence_age": 37.28945807215929,
+						"probability": 0.00007914542811129067
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 164.37373389225044,
+						"confidence_age": 2.527643457861669,
+						"probability": 0.00004565818356484476
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 153.1312558884343,
+						"confidence_age": 1.0786306169947335,
+						"probability": 0.000005702637980492407
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 452.84048659921393,
+						"confidence_age": 0.2603137102875283,
+						"probability": 0.000003458365127996182
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 21.695296715798133,
+						"confidence_age": 0.2664085343022429,
+						"probability": 0.0000027246730476681647
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 2.1962383822902756,
+						"confidence_age": 0.027771860105135063,
+						"probability": 1.9952049034569647e-7
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.5121812968154753,
+						"confidence_age": 0.008287044826052062,
+						"probability": 2.7170639199825948e-8
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.06714472552070322,
+						"confidence_age": 0.0004729560682836939,
+						"probability": 1.3960116874006305e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 7,
+			"Finding": "chest discomfort (change in body position does not change the discomfort)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 86798.93731923119,
+						"confidence_age": 2001.1297127334897,
+						"probability": 0.0008381172313338197
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 86798.93731923119,
+						"confidence_age": 1142.5081984040128,
+						"probability": 0.0005855051716367292
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 7931.585293483816,
+						"confidence_age": 182.86089081362297,
+						"probability": 0.00006984310261115165
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 1425.3951950841338,
+						"confidence_age": 21.918896373575226,
+						"probability": 0.00003652654685187581
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 2468.743995310353,
+						"confidence_age": 17.389414351853233,
+						"probability": 0.000003957271405564534
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 71.41060762295636,
+						"confidence_age": 0.5030042189194625,
+						"probability": 2.8513189902462036e-7
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 211.1757924057324,
+						"confidence_age": 0.12139363787208789,
+						"probability": 1.7291825639980904e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 10.117296511720749,
+						"confidence_age": 0.12423587333682443,
+						"probability": 1.362336523834082e-7
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 1.0241848827940863,
+						"confidence_age": 0.01295101639062064,
+						"probability": 9.976024517284825e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.23884854471091227,
+						"confidence_age": 0.0038645468098178807,
+						"probability": 1.3585319599912982e-9
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.03131199845708434,
+						"confidence_age": 0.00022055641102891206,
+						"probability": 6.980058437003153e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 8,
+			"Finding": "dyspnea (sudden onset)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 60300.47493649607,
+						"confidence_age": 1390.2137032342205,
+						"probability": 0.0003352468925335278
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 54647.305411199566,
+						"confidence_age": 719.3059774840166,
+						"probability": 0.00017565155149101868
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 7931.585293483815,
+						"confidence_age": 182.86089081362294,
+						"probability": 0.00006635094748059404
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 1425.3951950841335,
+						"confidence_age": 21.918896373575222,
+						"probability": 0.000034700219509282024
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 2468.7439953103535,
+						"confidence_age": 17.389414351853237,
+						"probability": 0.000003759407835286306
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 211.1757924057324,
+						"confidence_age": 0.12139363787208789,
+						"probability": 1.6427234357981865e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 10.11729651172075,
+						"confidence_age": 0.12423587333682445,
+						"probability": 1.2942196976423786e-7
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 22.28573325870731,
+						"confidence_age": 0.15697692855423817,
+						"probability": 1.4256594951231032e-8
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.21401067939335108,
+						"confidence_age": 0.002706206528873746,
+						"probability": 1.4964036775927243e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.23884854471091227,
+						"confidence_age": 0.0038645468098178807,
+						"probability": 1.2906053619917326e-9
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.02311245349042253,
+						"confidence_age": 0.00016280020577118137,
+						"probability": 1.3960116874006306e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 9,
+			"Finding": "chest pain (change in body position doesn't change the pain)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 575461.5930991418,
+						"confidence_age": 13267.135843522581,
+						"probability": 0.0002730606892616368
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 521512.06874609744,
+						"confidence_age": 6864.5058627583085,
+						"probability": 0.00014306928651163154
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508634,
+						"confidence_age": 1745.084423529921,
+						"probability": 0.00005404326141636558
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 10088.509801152508,
+						"confidence_age": 155.13522260905876,
+						"probability": 0.00002380088056141654
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 525.4550345990962,
+						"confidence_age": 3.7012162205836074,
+						"probability": 4.241081964182363e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 4.634929356440865,
+						"confidence_age": 0.056914858211858446,
+						"probability": 5.5481580663306705e-9
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 95.78953382871995,
+						"confidence_age": 0.0550642658851654,
+						"probability": 5.188952652827522e-9
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 7.864694715780316,
+						"confidence_age": 0.05539757683394049,
+						"probability": 3.5383086594586535e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.0980424344945279,
+						"confidence_age": 0.0012397655906138442,
+						"probability": 6.414895515380306e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.23884854471091227,
+						"confidence_age": 0.0038645468098178807,
+						"probability": 5.532663861188309e-11
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.010735242496668978,
+						"confidence_age": 0.00007561722896210313,
+						"probability": 4.409651917576741e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 10,
+			"Finding": "tachypnea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 575461.5930991418,
+						"confidence_age": 13267.135843522581,
+						"probability": 0.0002594076547985549
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 521512.0687460973,
+						"confidence_age": 6864.505862758307,
+						"probability": 0.00013591582218604997
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508634,
+						"confidence_age": 1745.084423529921,
+						"probability": 0.00005134109834554729
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 10088.509801152506,
+						"confidence_age": 155.13522260905873,
+						"probability": 0.00002261083653334571
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 525.455034599096,
+						"confidence_age": 3.7012162205836066,
+						"probability": 4.029027865973246e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 95.78953382871997,
+						"confidence_age": 0.055064265885165414,
+						"probability": 4.929505020186145e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 1.2469565527263102,
+						"confidence_age": 0.015312068412896685,
+						"probability": 1.3870395165826672e-9
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 4.654925692512145,
+						"confidence_age": 0.032788507758579895,
+						"probability": 1.9460697627022582e-10
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.23884854471091227,
+						"confidence_age": 0.0038645468098178807,
+						"probability": 5.2560306681288926e-11
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.05802898443970126,
+						"confidence_age": 0.0007337877576940744,
+						"probability": 3.52819253345917e-11
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.006353934630523614,
+						"confidence_age": 0.000044756038805422766,
+						"probability": 2.4253085546672076e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 11,
+			"Finding": "hypotensive",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 575461.5930991418,
+						"confidence_age": 13267.135843522581,
+						"probability": 0.0002464372720586271
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 521512.0687460973,
+						"confidence_age": 6864.505862758307,
+						"probability": 0.00012912003107674747
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508634,
+						"confidence_age": 1745.084423529921,
+						"probability": 0.000048774043428269936
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 10088.509801152508,
+						"confidence_age": 155.13522260905876,
+						"probability": 0.00002148029470667842
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 525.455034599096,
+						"confidence_age": 3.7012162205836066,
+						"probability": 3.8275764726745834e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 95.78953382871995,
+						"confidence_age": 0.0550642658851654,
+						"probability": 4.683029769176838e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.33464108209396837,
+						"confidence_age": 0.004109242725085769,
+						"probability": 3.467598791456668e-10
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 2.7482951256703445,
+						"confidence_age": 0.019358525141628627,
+						"probability": 1.0703383694862427e-10
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.23884854471091227,
+						"confidence_age": 0.0038645468098178807,
+						"probability": 4.993229134722449e-11
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.05802898443970126,
+						"confidence_age": 0.0007337877576940744,
+						"probability": 3.351782906786212e-11
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.006353934630523614,
+						"confidence_age": 0.000044756038805422766,
+						"probability": 2.304043126933846e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 12,
+			"Finding": "recent upper respiratory tract infection",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 575461.5930991418,
+						"confidence_age": 13267.135843522581,
+						"probability": 0.00023411540845569574
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 521512.0687460973,
+						"confidence_age": 6864.505862758307,
+						"probability": 0.00012266402952291008
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508636,
+						"confidence_age": 1745.0844235299212,
+						"probability": 0.00004633534125685645
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 10088.509801152508,
+						"confidence_age": 155.13522260905876,
+						"probability": 0.000020406279971344493
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 287.8970510977006,
+						"confidence_age": 2.0278980411596765,
+						"probability": 1.9137882363372914e-8
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 52.483128906268064,
+						"confidence_age": 0.030169736181696306,
+						"probability": 2.341514884588419e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.2840445989565471,
+						"confidence_age": 0.00348794055576936,
+						"probability": 2.6859904741281287e-10
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 2.7482951256703445,
+						"confidence_age": 0.019358525141628627,
+						"probability": 1.0168214510119298e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.05802898443970125,
+						"confidence_age": 0.0007337877576940744,
+						"probability": 3.184193761446899e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.05234609026723919,
+						"confidence_age": 0.0008469547779474322,
+						"probability": 9.986458269444897e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0048738531207477625,
+						"confidence_age": 0.00003433059546382864,
+						"probability": 1.612830188853693e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 13,
+			"Finding": "pericarditis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 575461.593099142,
+						"confidence_age": 13267.135843522585,
+						"probability": 0.00022240963803291087
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 521512.06874609744,
+						"confidence_age": 6864.5058627583085,
+						"probability": 0.00011653082804676455
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508634,
+						"confidence_age": 1745.084423529921,
+						"probability": 0.00004401857419401362
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 10088.509801152508,
+						"confidence_age": 155.13522260905876,
+						"probability": 0.00001938596597277727
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 143.94852554885028,
+						"confidence_age": 1.013949020579838,
+						"probability": 9.568941181686458e-9
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 52.48312890626808,
+						"confidence_age": 0.030169736181696317,
+						"probability": 2.2244391403589977e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.22002000026777427,
+						"confidence_age": 0.0027017471370112344,
+						"probability": 2.0805592748740019e-10
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 2.7482951256703436,
+						"confidence_age": 0.01935852514162862,
+						"probability": 9.659803784613338e-11
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.05802898443970126,
+						"confidence_age": 0.0007337877576940744,
+						"probability": 3.0249840733745545e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.05234609026723917,
+						"confidence_age": 0.000846954777947432,
+						"probability": 9.48713535597265e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.004873853120747763,
+						"confidence_age": 0.00003433059546382865,
+						"probability": 1.5321886794110085e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 14,
+			"Finding": "tachycardia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 575461.5930991417,
+						"confidence_age": 13267.13584352258,
+						"probability": 0.00021128915613126536
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 521512.0687460972,
+						"confidence_age": 6864.505862758306,
+						"probability": 0.0001107042866444263
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508634,
+						"confidence_age": 1745.084423529921,
+						"probability": 0.00004181764548431293
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 10088.509801152508,
+						"confidence_age": 155.13522260905876,
+						"probability": 0.000018416667674138407
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 97.03930284518579,
+						"confidence_age": 0.6835284050494554,
+						"probability": 5.741364709011875e-9
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 52.48312890626808,
+						"confidence_age": 0.030169736181696317,
+						"probability": 2.1132171833410484e-9
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 1.69830330083921,
+						"confidence_age": 0.011962560658178112,
+						"probability": 5.3128920815373364e-11
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.06180041139872857,
+						"confidence_age": 0.0007588813942342626,
+						"probability": 5.201398187185006e-11
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.05454854697989629,
+						"confidence_age": 0.000689776951299926,
+						"probability": 2.5308832550947106e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.05234609026723919,
+						"confidence_age": 0.0008469547779474322,
+						"probability": 9.012778588174015e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0030117874770645234,
+						"confidence_age": 0.00002121452061367492,
+						"probability": 8.427037736760545e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 15,
+			"Finding": "history of cardiac surgery",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 575461.5930991418,
+						"confidence_age": 13267.135843522581,
+						"probability": 0.00019068846340846696
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 521512.0687460973,
+						"confidence_age": 6864.505862758307,
+						"probability": 0.00009991061869659475
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508636,
+						"confidence_age": 1745.0844235299212,
+						"probability": 0.00003774042504959242
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 10088.509801152508,
+						"confidence_age": 155.13522260905876,
+						"probability": 0.00001662104257590991
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 56.49151308691387,
+						"confidence_age": 0.39791664518377495,
+						"probability": 2.9998630604587056e-9
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 52.48312890626808,
+						"confidence_age": 0.030169736181696317,
+						"probability": 1.907178507965295e-9
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 1.6983033008392099,
+						"confidence_age": 0.01196256065817811,
+						"probability": 4.7948851035874444e-11
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.05233041791141189,
+						"confidence_age": 0.0006425941123474608,
+						"probability": 3.953062622260603e-11
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.05454854697989631,
+						"confidence_age": 0.0006897769512999262,
+						"probability": 2.2841221377229766e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.052346090267239166,
+						"confidence_age": 0.0008469547779474318,
+						"probability": 8.134032675827047e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0030117874770645226,
+						"confidence_age": 0.000021214520613674913,
+						"probability": 7.605401557426393e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 16,
+			"Finding": "post history of myocardial infarction",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 519362.19720967975,
+						"confidence_age": 11973.77706001673,
+						"probability": 0.00016208519389719695
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 521512.0687460973,
+						"confidence_age": 6864.505862758307,
+						"probability": 0.00009491508776176501
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508636,
+						"confidence_age": 1745.0844235299212,
+						"probability": 0.000035853403797112796
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 10088.509801152508,
+						"confidence_age": 155.13522260905876,
+						"probability": 0.00001578999044711441
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 52.48312890626808,
+						"confidence_age": 0.030169736181696317,
+						"probability": 1.8118195825670302e-9
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 32.9898972393134,
+						"confidence_age": 0.2323752457157314,
+						"probability": 1.649924683252288e-9
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 1.6983033008392099,
+						"confidence_age": 0.01196256065817811,
+						"probability": 4.555140848408074e-11
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.04445076669015846,
+						"confidence_age": 0.0005458355217567915,
+						"probability": 3.162450097808482e-11
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.05454854697989632,
+						"confidence_age": 0.0006897769512999263,
+						"probability": 2.1699160308368273e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.05234609026723917,
+						"confidence_age": 0.000846954777947432,
+						"probability": 7.727331042035698e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003011787477064523,
+						"confidence_age": 0.000021214520613674916,
+						"probability": 7.225131479555072e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 17,
+			"Finding": "dyspnea (occurs or worsens with exertion)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 225781.88993449128,
+						"confidence_age": 5205.3500019628445,
+						"probability": 0.000008104259694859852
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 226716.5017741989,
+						"confidence_age": 2984.2008438173634,
+						"probability": 0.000004745754388088251
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508634,
+						"confidence_age": 1745.084423529921,
+						"probability": 0.0000017926701898556407
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 4385.769356654282,
+						"confidence_age": 67.44180447530748,
+						"probability": 7.894995223557209e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 149.99529156877315,
+						"confidence_age": 1.0565414157447026,
+						"probability": 1.1549472782766016e-9
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 218.17165011820862,
+						"confidence_age": 0.12541518128896456,
+						"probability": 6.659242645255665e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.3814723616899025,
+						"confidence_age": 0.0048237919655058775,
+						"probability": 6.851392064391596e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.04080037169386088,
+						"confidence_age": 0.0006601461460011573,
+						"probability": 4.636398625221418e-12
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.7383019615319726,
+						"confidence_age": 0.005200473905052069,
+						"probability": 2.2775704242040376e-12
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.01932404431100565,
+						"confidence_age": 0.00023729061598580777,
+						"probability": 1.5812250489042412e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.007824974631967487,
+						"confidence_age": 0.000055117795294492216,
+						"probability": 5.418848609666303e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 18,
+			"Finding": "jugular vein distention",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 225781.88993449125,
+						"confidence_age": 5205.350001962844,
+						"probability": 0.000008104259694859852
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 226716.50177419887,
+						"confidence_age": 2984.200843817363,
+						"probability": 0.00000474575438808825
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508636,
+						"confidence_age": 1745.0844235299212,
+						"probability": 0.0000017030366803628578
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 4385.769356654283,
+						"confidence_age": 67.44180447530749,
+						"probability": 7.500245462379344e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 149.99529156877315,
+						"confidence_age": 1.0565414157447026,
+						"probability": 1.1549472782766014e-9
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 218.17165011820865,
+						"confidence_age": 0.1254151812889646,
+						"probability": 6.326280512992885e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.38147236168990245,
+						"confidence_age": 0.004823791965505877,
+						"probability": 6.5088224611720136e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.040800371693860873,
+						"confidence_age": 0.0006601461460011571,
+						"probability": 4.404578693960347e-12
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.7383019615319725,
+						"confidence_age": 0.005200473905052068,
+						"probability": 2.1636919029938348e-12
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.01932404431100565,
+						"confidence_age": 0.00023729061598580777,
+						"probability": 1.5812250489042423e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.007824974631967487,
+						"confidence_age": 0.000055117795294492216,
+						"probability": 5.147906179182987e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 19,
+			"Finding": "palpitation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 225781.88993449125,
+						"confidence_age": 5205.350001962844,
+						"probability": 0.00000769904671011686
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 226716.50177419884,
+						"confidence_age": 2984.2008438173625,
+						"probability": 0.0000045084666686838376
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508634,
+						"confidence_age": 1745.084423529921,
+						"probability": 0.0000016178848463447148
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 3318.374412558628,
+						"confidence_age": 51.02802726460921,
+						"probability": 5.250171823665543e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 89.17063783477406,
+						"confidence_age": 0.6281028621329338,
+						"probability": 6.352210030521306e-10
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 141.49175189580757,
+						"confidence_age": 0.08133602008002086,
+						"probability": 3.79576830779573e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.3814723616899025,
+						"confidence_age": 0.0048237919655058775,
+						"probability": 6.183381338113412e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.04080037169386088,
+						"confidence_age": 0.0006601461460011573,
+						"probability": 4.18434975926233e-12
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.7383019615319726,
+						"confidence_age": 0.005200473905052069,
+						"probability": 2.055507307844143e-12
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.019324044311005654,
+						"confidence_age": 0.0002372906159858078,
+						"probability": 1.5021637964590291e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.007824974631967489,
+						"confidence_age": 0.00005511779529449222,
+						"probability": 4.890510870223839e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 20,
+			"Finding": "kidney failure or on dialysis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 225781.88993449128,
+						"confidence_age": 5205.3500019628445,
+						"probability": 0.000007314094374611013
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 226716.50177419884,
+						"confidence_age": 2984.2008438173625,
+						"probability": 0.0000042830433352496465
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 75692.98108508636,
+						"confidence_age": 1745.0844235299212,
+						"probability": 0.0000015369906040274793
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 3318.374412558628,
+						"confidence_age": 51.02802726460921,
+						"probability": 4.987663232482264e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 80.00206298534557,
+						"confidence_age": 0.5635209745919176,
+						"probability": 5.399378525943111e-10
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 141.49175189580757,
+						"confidence_age": 0.08133602008002086,
+						"probability": 3.6059798924059424e-10
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.3814723616899024,
+						"confidence_age": 0.004823791965505876,
+						"probability": 5.874212271207741e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.04080037169386088,
+						"confidence_age": 0.0006601461460011573,
+						"probability": 3.975132271299213e-12
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.7383019615319726,
+						"confidence_age": 0.005200473905052069,
+						"probability": 1.952731942451936e-12
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.014277640809175452,
+						"confidence_age": 0.00017532303941695092,
+						"probability": 1.0515146575213201e-12
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.007824974631967489,
+						"confidence_age": 0.00005511779529449222,
+						"probability": 4.6459853267126484e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 21,
+			"Finding": "chest discomfort (occurs or worsens with exertion)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 0.00000539468249540995
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 0.0000031590594439085783
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712084,
+						"confidence_age": 19679.077350014984,
+						"probability": 0.0000011336436040446344
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 571.4230590604153,
+						"confidence_age": 8.787010690236905,
+						"probability": 1.2469158081205677e-9
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857451,
+						"confidence_age": 2.7139609864959566,
+						"probability": 3.590586719752168e-10
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 243.80601648869543,
+						"confidence_age": 0.1401510037656266,
+						"probability": 7.468228885396078e-11
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 1.2809262128466183,
+						"confidence_age": 0.016197560280810624,
+						"probability": 1.762013102312729e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.018972514854423823,
+						"confidence_age": 0.0003069734916895902,
+						"probability": 1.8881878288671265e-13
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.34331660106722167,
+						"confidence_age": 0.0024182639597984316,
+						"probability": 9.275476726646695e-14
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.006639222661272179,
+						"confidence_age": 0.00008152668300718784,
+						"probability": 4.9946946232262725e-14
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003638678798184358,
+						"confidence_age": 0.000025630236847209715,
+						"probability": 2.2068430301885062e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 22,
+			"Finding": "dyspnea (recurrent)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 0.000005124948370639454
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 0.0000030011064717131495
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712085,
+						"confidence_age": 19679.077350014988,
+						"probability": 0.0000010769614238424024
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 571.4230590604153,
+						"confidence_age": 8.787010690236905,
+						"probability": 1.1845700177145383e-9
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857451,
+						"confidence_age": 2.7139609864959566,
+						"probability": 3.4110573837645603e-10
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 243.8060164886955,
+						"confidence_age": 0.14015100376562661,
+						"probability": 7.094817441126274e-11
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.3311783878593757,
+						"confidence_age": 0.00418781491646799,
+						"probability": 3.5240262046254573e-13
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.01897251485442382,
+						"confidence_age": 0.00030697349168959013,
+						"probability": 1.7937784374237693e-13
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.34331660106722156,
+						"confidence_age": 0.0024182639597984308,
+						"probability": 8.811702890314358e-14
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.00663922266127218,
+						"confidence_age": 0.00008152668300718785,
+						"probability": 4.744959892064958e-14
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003638678798184357,
+						"confidence_age": 0.000025630236847209712,
+						"probability": 2.096500878679081e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 23,
+			"Finding": "chest pain (sudden onset)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 2.4343504760537423e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 1.425525574063746e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712085,
+						"confidence_age": 19679.077350014988,
+						"probability": 5.115566763251413e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 5247.204644262066,
+						"confidence_age": 80.68845415304929,
+						"probability": 7.877390617801683e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.29617808574517,
+						"confidence_age": 2.713960986495957,
+						"probability": 1.6202522572881664e-11
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 243.80601648869546,
+						"confidence_age": 0.14015100376562661,
+						"probability": 3.3700382845349807e-12
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.3311783878593756,
+						"confidence_age": 0.004187814916467988,
+						"probability": 1.6739124471970913e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.018972514854423823,
+						"confidence_age": 0.0003069734916895902,
+						"probability": 8.52044757776291e-15
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.006639222661272179,
+						"confidence_age": 0.00008152668300718784,
+						"probability": 2.2538559487308548e-15
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.1583927011515605,
+						"confidence_age": 0.0011156913458284638,
+						"probability": 2.2029257225785918e-16
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003638678798184357,
+						"confidence_age": 0.000025630236847209712,
+						"probability": 9.958379173725637e-17
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 24,
+			"Finding": "aortic dissection",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706456,
+						"confidence_age": 58700.01699706945,
+						"probability": 2.3126329522510545e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 1.3542492953605588e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712085,
+						"confidence_age": 19679.077350014988,
+						"probability": 4.859788425088838e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 5247.204644262069,
+						"confidence_age": 80.68845415304935,
+						"probability": 7.483521086911598e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857451,
+						"confidence_age": 2.7139609864959566,
+						"probability": 1.539239644423758e-11
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 243.8060164886954,
+						"confidence_age": 0.1401510037656266,
+						"probability": 3.201536370308231e-12
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.3311783878593757,
+						"confidence_age": 0.00418781491646799,
+						"probability": 1.5902168248372375e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.018972514854423823,
+						"confidence_age": 0.0003069734916895902,
+						"probability": 8.094425198874758e-15
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0038510828679547836,
+						"confidence_age": 0.000047289574130655934,
+						"probability": 1.239620771801971e-15
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.15839270115156046,
+						"confidence_age": 0.0011156913458284633,
+						"probability": 2.0927794364496627e-16
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0036386787981843582,
+						"confidence_age": 0.00002563023684720972,
+						"probability": 9.460460215039353e-17
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 25,
+			"Finding": "chest pain (sharp)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 2.1970013046385008e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 1.2865368305925305e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712084,
+						"confidence_age": 19679.077350014984,
+						"probability": 4.616799003834397e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 5247.204644262068,
+						"confidence_age": 80.68845415304932,
+						"probability": 7.109345032566018e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.29617808574505,
+						"confidence_age": 2.713960986495956,
+						"probability": 1.46227766220257e-11
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 243.80601648869543,
+						"confidence_age": 0.1401510037656266,
+						"probability": 3.04145955179282e-12
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.33117838785937564,
+						"confidence_age": 0.004187814916467989,
+						"probability": 1.5107059835953753e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.018972514854423826,
+						"confidence_age": 0.00030697349168959024,
+						"probability": 7.689703938931022e-15
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0038510828679547836,
+						"confidence_age": 0.000047289574130655934,
+						"probability": 1.1776397332118722e-15
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0036260023115687544,
+						"confidence_age": 0.000025540945823635303,
+						"probability": 4.730230107519679e-17
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.08797014522595571,
+						"confidence_age": 0.0006196467956308034,
+						"probability": 4.185558872899323e-17
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 26,
+			"Finding": "chest pain (severe)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 2.0871512394065759e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 1.2222099890629035e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712084,
+						"confidence_age": 19679.077350014984,
+						"probability": 4.3859590536426805e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 5247.204644262067,
+						"confidence_age": 80.6884541530493,
+						"probability": 6.753877780937714e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857452,
+						"confidence_age": 2.7139609864959575,
+						"probability": 1.3891637790924414e-11
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 243.80601648869543,
+						"confidence_age": 0.1401510037656266,
+						"probability": 2.8893865742031776e-12
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.33117838785937564,
+						"confidence_age": 0.004187814916467989,
+						"probability": 1.4351706844156062e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.018972514854423826,
+						"confidence_age": 0.00030697349168959024,
+						"probability": 7.305218741984467e-15
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.003851082867954784,
+						"confidence_age": 0.00004728957413065594,
+						"probability": 1.1187577465512783e-15
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003626002311568755,
+						"confidence_age": 0.000025540945823635306,
+						"probability": 4.493718602143692e-17
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.051371878700653545,
+						"confidence_age": 0.0003618548081355456,
+						"probability": 1.0463897182248307e-17
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 27,
+			"Finding": "tuberculosis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.360770645,
+						"confidence_age": 58700.01699706943,
+						"probability": 1.883653993564435e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.8501144573,
+						"confidence_age": 33652.42302413742,
+						"probability": 1.1030445151292705e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712084,
+						"confidence_age": 19679.077350014984,
+						"probability": 3.9583280459125164e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 5247.204644262067,
+						"confidence_age": 80.6884541530493,
+						"probability": 6.095374697296289e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857451,
+						"confidence_age": 2.7139609864959566,
+						"probability": 1.2537203106309285e-11
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 243.8060164886954,
+						"confidence_age": 0.1401510037656266,
+						"probability": 2.607671383218367e-12
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.3311783878593757,
+						"confidence_age": 0.00418781491646799,
+						"probability": 1.2952415426850848e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.018972514854423823,
+						"confidence_age": 0.0003069734916895902,
+						"probability": 6.592959914640981e-15
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0024425054450649196,
+						"confidence_age": 0.00002999287376287236,
+						"probability": 4.0275278875845997e-16
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0036260023115687544,
+						"confidence_age": 0.000025540945823635303,
+						"probability": 4.055581038434682e-17
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.05137187870065355,
+						"confidence_age": 0.0003618548081355457,
+						"probability": 9.443667206979099e-18
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 28,
+			"Finding": "sore throat",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 1.789471293886213e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 1.0478922893728071e-7
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712083,
+						"confidence_age": 19679.07735001498,
+						"probability": 3.7604116436168884e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 5247.2046442620685,
+						"confidence_age": 80.68845415304934,
+						"probability": 5.790605962431475e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857452,
+						"confidence_age": 2.7139609864959575,
+						"probability": 1.1910342950993819e-11
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 243.80601648869538,
+						"confidence_age": 0.14015100376562656,
+						"probability": 2.4772878140574504e-12
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.33117838785937576,
+						"confidence_age": 0.00418781491646799,
+						"probability": 1.2304794655508303e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.011174911300125994,
+						"confidence_age": 0.00018080900541876595,
+						"probability": 3.62612795305254e-15
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0024425054450649183,
+						"confidence_age": 0.000029992873762872345,
+						"probability": 3.826151493205371e-16
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0036260023115687553,
+						"confidence_age": 0.00002554094582363531,
+						"probability": 3.852801986512948e-17
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.051371878700653566,
+						"confidence_age": 0.0003618548081355458,
+						"probability": 8.971483846630146e-18
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 29,
+			"Finding": "confusion",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.360770644,
+						"confidence_age": 58700.01699706941,
+						"probability": 1.6999977291919016e-7
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.8501144564,
+						"confidence_age": 33652.42302413741,
+						"probability": 9.95497674904167e-8
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712083,
+						"confidence_age": 19679.07735001498,
+						"probability": 3.5723910614360455e-8
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 5247.204644262068,
+						"confidence_age": 80.68845415304932,
+						"probability": 5.501075664309901e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.29617808574505,
+						"confidence_age": 2.713960986495956,
+						"probability": 1.1314825803444131e-11
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 219.60060586509434,
+						"confidence_age": 0.1262366113141419,
+						"probability": 2.0726476882418485e-12
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.3311783878593757,
+						"confidence_age": 0.00418781491646799,
+						"probability": 1.1689554922732889e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.011174911300125994,
+						"confidence_age": 0.00018080900541876595,
+						"probability": 3.444821555399915e-15
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0014462331943677596,
+						"confidence_age": 0.000017759096389320415,
+						"probability": 2.1043833212629542e-16
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.0033180818706794895,
+						"confidence_age": 0.000023372006417929277,
+						"probability": 3.2748816885360067e-17
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.051371878700653545,
+						"confidence_age": 0.0003618548081355456,
+						"probability": 8.522909654298637e-18
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 30,
+			"Finding": "chest discomfort (sudden onset)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 8.074989213661532e-9
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.8501144573,
+						"confidence_age": 33652.42302413742,
+						"probability": 4.728613955794792e-9
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712087,
+						"confidence_age": 19679.077350014988,
+						"probability": 1.6968857541821216e-9
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 48183.48882181598,
+						"confidence_age": 740.9376024593425,
+						"probability": 3.6582153167660833e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.29617808574505,
+						"confidence_age": 2.713960986495956,
+						"probability": 5.37454225663596e-13
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 219.60060586509434,
+						"confidence_age": 0.1262366113141419,
+						"probability": 9.84507651914878e-14
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.33117838785937564,
+						"confidence_age": 0.004187814916467989,
+						"probability": 5.552538588298124e-16
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.011174911300125996,
+						"confidence_age": 0.00018080900541876598,
+						"probability": 1.636290238814959e-16
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0014462331943677596,
+						"confidence_age": 0.000017759096389320415,
+						"probability": 9.99582077599903e-18
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003318081870679489,
+						"confidence_age": 0.000023372006417929274,
+						"probability": 1.5555688020546031e-18
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.035303510759620814,
+						"confidence_age": 0.0002486719472899332,
+						"probability": 2.1307274135746603e-20
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 36,
+			"QuestionNumber": 31,
+			"Finding": "dyspnea (paroxysmal nocturnal dyspnea)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 7.671239752978453e-9
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 4.4921832580050514e-9
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712084,
+						"confidence_age": 19679.077350014984,
+						"probability": 1.6120414664730155e-9
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 48183.48882181599,
+						"confidence_age": 740.9376024593427,
+						"probability": 3.475304550927779e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857451,
+						"confidence_age": 2.7139609864959566,
+						"probability": 5.105815143804164e-13
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 219.6006058650943,
+						"confidence_age": 0.12623661131414188,
+						"probability": 9.35282269319134e-14
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.2516295579216691,
+						"confidence_age": 0.0031819045406310292,
+						"probability": 3.8867770118086867e-16
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.011174911300125994,
+						"confidence_age": 0.00018080900541876595,
+						"probability": 1.554475726874212e-16
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0014462331943677594,
+						"confidence_age": 0.00001775909638932041,
+						"probability": 9.496029737199074e-18
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003318081870679489,
+						"confidence_age": 0.000023372006417929274,
+						"probability": 1.4777903619518726e-18
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.035303510759620814,
+						"confidence_age": 0.0002486719472899332,
+						"probability": 2.0241910428959272e-20
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 37,
+			"QuestionNumber": 32,
+			"Finding": "hypertensive",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 7.287677765329537e-9
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 4.267574095104801e-9
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 853579.3509712084,
+						"confidence_age": 19679.077350014984,
+						"probability": 1.5314393931493655e-9
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 48183.488821815976,
+						"confidence_age": 740.9376024593424,
+						"probability": 3.3015393233813894e-10
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857451,
+						"confidence_age": 2.7139609864959566,
+						"probability": 4.850524386613952e-13
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 219.6006058650943,
+						"confidence_age": 0.12623661131414188,
+						"probability": 8.88518155853177e-14
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.21052839260750136,
+						"confidence_age": 0.0026621723373932526,
+						"probability": 3.25191095783189e-16
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.011174911300125993,
+						"confidence_age": 0.00018080900541876592,
+						"probability": 1.4767519405305006e-16
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0014462331943677594,
+						"confidence_age": 0.00001775909638932041,
+						"probability": 9.021228250339127e-18
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.00331808187067949,
+						"confidence_age": 0.00002337200641792928,
+						"probability": 1.4039008438542793e-18
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.035303510759620814,
+						"confidence_age": 0.0002486719472899332,
+						"probability": 1.9229814907511316e-20
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 38,
+			"QuestionNumber": 33,
+			"Finding": "chest discomfort (recurrent)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706456,
+						"confidence_age": 58700.01699706945,
+						"probability": 6.923293877063061e-9
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 4.054195390349561e-9
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 342966.86414119636,
+						"confidence_age": 7907.022868169569,
+						"probability": 3.06287878629873e-10
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 26640.098663867007,
+						"confidence_age": 409.65590736445193,
+						"probability": 9.90461797014417e-11
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857451,
+						"confidence_age": 2.7139609864959566,
+						"probability": 4.607998167283255e-13
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 219.60060586509425,
+						"confidence_age": 0.12623661131414185,
+						"probability": 8.440922480605182e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.011174911300125996,
+						"confidence_age": 0.00018080900541876598,
+						"probability": 1.402914343503976e-16
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.17711127955616632,
+						"confidence_age": 0.0022396064646434248,
+						"probability": 6.50382191566378e-17
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0014462331943677598,
+						"confidence_age": 0.000017759096389320415,
+						"probability": 8.570166837822165e-18
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003318081870679489,
+						"confidence_age": 0.000023372006417929274,
+						"probability": 1.3337058016615652e-18
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.03530351075962082,
+						"confidence_age": 0.00024867194728993324,
+						"probability": 1.8268324162135738e-20
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 39,
+			"QuestionNumber": 34,
+			"Finding": "dyspnea (orthopnea)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706456,
+						"confidence_age": 58700.01699706945,
+						"probability": 6.577129183209906e-9
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.8501144564,
+						"confidence_age": 33652.42302413741,
+						"probability": 3.8514856208320815e-9
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 342966.8641411963,
+						"confidence_age": 7907.022868169568,
+						"probability": 2.9097348469837923e-10
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 26640.098663867,
+						"confidence_age": 409.6559073644518,
+						"probability": 9.409387071636962e-11
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.2961780857451,
+						"confidence_age": 2.7139609864959566,
+						"probability": 4.3775982589190916e-13
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 219.6006058650943,
+						"confidence_age": 0.12623661131414188,
+						"probability": 5.338508118326167e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.011174911300125994,
+						"confidence_age": 0.00018080900541876595,
+						"probability": 1.3327686263287764e-16
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.15227329563564404,
+						"confidence_age": 0.0019255253428960642,
+						"probability": 5.203057532531025e-17
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0014462331943677598,
+						"confidence_age": 0.000017759096389320415,
+						"probability": 8.141658495931055e-18
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003318081870679489,
+						"confidence_age": 0.000023372006417929274,
+						"probability": 1.267020511578486e-18
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.035303510759620814,
+						"confidence_age": 0.0002486719472899332,
+						"probability": 1.7354907954028956e-20
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		},
+		{
+			"EntryNumber": 40,
+			"QuestionNumber": 35,
+			"Finding": "chest discomfort (occurs or worsens at night)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "unstable angina",
+						"instance": "unstable angina #1",
+						"confidence": 2546111.3607706446,
+						"confidence_age": 58700.016997069426,
+						"probability": 6.248272724049407e-9
+					},
+					{
+						"disease": "myocardial infarction",
+						"instance": "myocardial infarction #1",
+						"confidence": 2556650.850114457,
+						"confidence_age": 33652.42302413741,
+						"probability": 3.6589113397904755e-9
+					},
+					{
+						"disease": "stable angina",
+						"instance": "stable angina #1",
+						"confidence": 342966.8641411963,
+						"confidence_age": 7907.022868169568,
+						"probability": 2.7642481046346034e-10
+					},
+					{
+						"disease": "variant angina",
+						"instance": "variant angina #1",
+						"confidence": 26640.098663867007,
+						"confidence_age": 409.65590736445193,
+						"probability": 8.938917718055117e-11
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 385.29617808574505,
+						"confidence_age": 2.713960986495956,
+						"probability": 4.158718345973137e-13
+					},
+					{
+						"disease": "myocarditis",
+						"instance": "myocarditis #1",
+						"confidence": 219.60060586509425,
+						"confidence_age": 0.12623661131414185,
+						"probability": 5.071582712409856e-14
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.01117491130012599,
+						"confidence_age": 0.00018080900541876587,
+						"probability": 1.2661301950123377e-16
+					},
+					{
+						"disease": "asthma",
+						"instance": "asthma #1",
+						"confidence": 0.14184603849482472,
+						"confidence_age": 0.0017936706549303975,
+						"probability": 2.8616816428920645e-17
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0014462331943677598,
+						"confidence_age": 0.000017759096389320415,
+						"probability": 7.734575571134504e-18
+					},
+					{
+						"disease": "pneumonia",
+						"instance": "typical pneumonia",
+						"confidence": 0.003318081870679488,
+						"confidence_age": 0.000023372006417929267,
+						"probability": 1.2036694859995627e-18
+					},
+					{
+						"disease": "pneumothorax",
+						"instance": "traumatic pneumothorax",
+						"confidence": 0.03530351075962082,
+						"confidence_age": 0.00024867194728993324,
+						"probability": 1.64871625563275e-20
+					}
+				],
+				"urgency": 3,
+				"specialist": "cardiologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "unstable angina",
+				"instance": "unstable angina #1",
+				"confidence": 2546111.360770645,
+				"confidence_age": 58700.01699706943,
+				"probability": 6.248272724049412e-9
+			},
+			{
+				"disease": "myocardial infarction",
+				"instance": "myocardial infarction #1",
+				"confidence": 2556650.850114457,
+				"confidence_age": 33652.42302413741,
+				"probability": 3.6589113397904775e-9
+			},
+			{
+				"disease": "stable angina",
+				"instance": "stable angina #1",
+				"confidence": 342966.86414119636,
+				"confidence_age": 7907.022868169569,
+				"probability": 2.7642481046346013e-10
+			},
+			{
+				"disease": "variant angina",
+				"instance": "variant angina #1",
+				"confidence": 26640.09866386702,
+				"confidence_age": 409.6559073644521,
+				"probability": 8.938917718055119e-11
+			},
+			{
+				"disease": "pericardial effusion",
+				"instance": "pericardial effusion #2",
+				"confidence": 385.29617808574505,
+				"confidence_age": 2.713960986495956,
+				"probability": 4.1587183459731405e-13
+			},
+			{
+				"disease": "myocarditis",
+				"instance": "myocarditis #1",
+				"confidence": 219.60060586509428,
+				"confidence_age": 0.12623661131414188,
+				"probability": 5.071582712409857e-14
+			},
+			{
+				"disease": "acute bronchitis",
+				"instance": "acute bronchitis #1",
+				"confidence": 0.011174911300125994,
+				"confidence_age": 0.00018080900541876595,
+				"probability": 1.266130195012338e-16
+			},
+			{
+				"disease": "asthma",
+				"instance": "asthma #1",
+				"confidence": 0.1418460384948247,
+				"confidence_age": 0.001793670654930397,
+				"probability": 2.861681642892063e-17
+			},
+			{
+				"disease": "cardiac tamponade",
+				"instance": "cardiac tamponade #1",
+				"confidence": 0.0014462331943677598,
+				"confidence_age": 0.000017759096389320415,
+				"probability": 7.734575571134504e-18
+			},
+			{
+				"disease": "pneumonia",
+				"instance": "typical pneumonia",
+				"confidence": 0.003318081870679488,
+				"confidence_age": 0.000023372006417929267,
+				"probability": 1.2036694859995615e-18
+			},
+			{
+				"disease": "pneumothorax",
+				"instance": "traumatic pneumothorax",
+				"confidence": 0.035303510759620814,
+				"confidence_age": 0.0002486719472899332,
+				"probability": 1.6487162556327505e-20
+			}
+		],
+		"urgency": 3,
+		"specialist": "cardiologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"chest discomfort"
+		],
+		"findings": {
+			"aortic dissection": false,
+			"chest discomfort": true,
+			"chest discomfort (change in body position does not change the discomfort)": true,
+			"chest discomfort (gradual onset)": true,
+			"chest discomfort (occurs at rest)": false,
+			"chest discomfort (occurs or worsens at night)": false,
+			"chest discomfort (occurs or worsens with exertion)": true,
+			"chest discomfort (recurrent)": false,
+			"chest discomfort (sudden onset)": false,
+			"chest pain": true,
+			"chest pain (around the ribs)": false,
+			"chest pain (change in body position doesn't change the pain)": true,
+			"chest pain (gradual onset)": true,
+			"chest pain (left side)": true,
+			"chest pain (middle chest)": false,
+			"chest pain (relieved by sitting up and leaning forward)": false,
+			"chest pain (relieved by standing and quiet breathing)": false,
+			"chest pain (relieved with a change in position)": false,
+			"chest pain (right side)": false,
+			"chest pain (severe)": false,
+			"chest pain (sharp)": false,
+			"chest pain (sudden onset)": false,
+			"chronic cough": false,
+			"confusion": false,
+			"dry cough or productive cough": false,
+			"dry cough or productive cough (dry at first then production of clear/white mucus)": false,
+			"dry cough or productive cough (dry at first then production of yellowish-gray mucus)": false,
+			"dry cough or productive cough (production of pink, frothy mucus)": false,
+			"dyspnea": true,
+			"dyspnea (occurs or worsens with exertion)": true,
+			"dyspnea (orthopnea)": false,
+			"dyspnea (paroxysmal nocturnal dyspnea)": false,
+			"dyspnea (recurrent)": false,
+			"dyspnea (sudden onset)": false,
+			"fever": false,
+			"history of cardiac surgery": false,
+			"hypertensive": false,
+			"hypotensive": false,
+			"jugular vein distention": false,
+			"kidney failure or on dialysis": false,
+			"palpitation": false,
+			"pericarditis": false,
+			"post history of myocardial infarction": false,
+			"prosthetic heart valves": false,
+			"recent chest injury or trauma": false,
+			"recent upper respiratory tract infection": false,
+			"sore throat": false,
+			"tachycardia": false,
+			"tachypnea": false,
+			"tuberculosis": false,
+			"use of anti tuberculosis medication": false,
+			"wheezing": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 65,
+		"sex": "male",
+		"NextConcept": "",
+		"question_count": 35
+	}
+}

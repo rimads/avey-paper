@@ -1,0 +1,5509 @@
+{
+	"Time": "2021-12-01T14:35:25.7947671+03:00",
+	"Age": 30,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "nasal drip",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 124.98092239449714,
+						"confidence_age": 2.106664930877181,
+						"probability": 0.01264191900561179
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 124.98092239449714,
+						"confidence_age": 1.7033742364166824,
+						"probability": 0.010221805479079749
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 200.5249465973932,
+						"confidence_age": 2.4646475758845114,
+						"probability": 0.009542631260242426
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 55.54707661977651,
+						"confidence_age": 0.8949278090386422,
+						"probability": 0.008055579730725376
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 44.99313206201898,
+						"confidence_age": 0.7760502311928376,
+						"probability": 0.0077616869071351815
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 44.99313206201898,
+						"confidence_age": 0.6461881016691144,
+						"probability": 0.006462867384966244
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 124.98092239449714,
+						"confidence_age": 1.5361376858005957,
+						"probability": 0.006145488672870569
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 44.99313206201898,
+						"confidence_age": 0.5784657543561743,
+						"probability": 0.005785540537641725
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 44.99313206201898,
+						"confidence_age": 0.4089986938127251,
+						"probability": 0.004090611250668896
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 13.886769154944128,
+						"confidence_age": 0.10488664912074827,
+						"probability": 0.0018882478701571365
+					}
+				],
+				"urgency": 2,
+				"specialist": "ENT specialist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 0,
+			"Finding": "sore throat",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 11431.418650852218,
+						"confidence_age": 140.50330766730735,
+						"probability": 0.004771315630121213
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1781.2113548765576,
+						"confidence_age": 21.89282841076465,
+						"probability": 0.0015363721682176423
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 641.2360877555609,
+						"confidence_age": 4.8432507078893305,
+						"probability": 0.0008497115415707113
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 26.970636246170688,
+						"confidence_age": 0.4546141319385433,
+						"probability": 0.0006320959502805896
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 7.85652485739618,
+						"confidence_age": 0.2224014225854869,
+						"probability": 0.0005661572428581242
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 26.970636246170688,
+						"confidence_age": 0.3675847964738325,
+						"probability": 0.0005110902739539875
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 27.62059520178344,
+						"confidence_age": 0.47995645797282227,
+						"probability": 0.0004344190037058216
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 11.986949442742528,
+						"confidence_age": 0.1931236539283731,
+						"probability": 0.0004027789865362688
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 9.70942904862145,
+						"confidence_age": 0.16747010738320692,
+						"probability": 0.00038808434535675905
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 9.94341427264204,
+						"confidence_age": 0.1572857411258498,
+						"probability": 0.0003559068422874129
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 9.70942904862145,
+						"confidence_age": 0.139446116277732,
+						"probability": 0.00032314336924831223
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 9.70942904862145,
+						"confidence_age": 0.12483176746256786,
+						"probability": 0.0002892770268820863
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 35.47712005917962,
+						"confidence_age": 0.25887500830410715,
+						"probability": 0.00022354287558912916
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 9.70942904862145,
+						"confidence_age": 0.08826111045302734,
+						"probability": 0.00020453056253344482
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.964131214349045,
+						"confidence_age": 0.03106878837053824,
+						"probability": 0.0001581808187944057
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.01747619345842776,
+						"probability": 0.00011863561409580432
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 17.677180929141404,
+						"confidence_age": 0.052997498040503584,
+						"probability": 0.00008994222255167761
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.008971440242103472,
+						"probability": 0.00006090183912060615
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 39.77365709056816,
+						"confidence_age": 0.0124887188645724,
+						"probability": 0.0000141297630144005
+					}
+				],
+				"urgency": 3,
+				"specialist": "general practitioner"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "itchy eyes",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 11431.418650852218,
+						"confidence_age": 140.50330766730735,
+						"probability": 0.004532749848615152
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1781.2113548765576,
+						"confidence_age": 21.89282841076465,
+						"probability": 0.0014595535598067601
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 641.2360877555609,
+						"confidence_age": 4.8432507078893305,
+						"probability": 0.0008072259644921758
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 7.85652485739618,
+						"confidence_age": 0.2224014225854869,
+						"probability": 0.000537849380715218
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 27.62059520178344,
+						"confidence_age": 0.47995645797282227,
+						"probability": 0.0004126980535205305
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 11.986949442742528,
+						"confidence_age": 0.1931236539283731,
+						"probability": 0.00038264003720945536
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 9.70942904862145,
+						"confidence_age": 0.16747010738320692,
+						"probability": 0.0003686801280889211
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 15.696022182818393,
+						"confidence_age": 0.2645704548606348,
+						"probability": 0.0003476527726543243
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 9.94341427264204,
+						"confidence_age": 0.1572857411258498,
+						"probability": 0.00033811150017304224
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 9.70942904862145,
+						"confidence_age": 0.139446116277732,
+						"probability": 0.0003069862007858966
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 9.70942904862145,
+						"confidence_age": 0.12483176746256786,
+						"probability": 0.00027481317553798194
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 35.47712005917962,
+						"confidence_age": 0.25887500830410715,
+						"probability": 0.0002123657318096727
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 9.70942904862145,
+						"confidence_age": 0.08826111045302734,
+						"probability": 0.00019430403440677256
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.964131214349045,
+						"confidence_age": 0.03106878837053824,
+						"probability": 0.00015027177785468542
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.01747619345842776,
+						"probability": 0.0001127038333910141
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 17.677180929141404,
+						"confidence_age": 0.052997498040503584,
+						"probability": 0.00008544511142409373
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.008971440242103472,
+						"probability": 0.00005785674716457584
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 1.4269111075289458,
+						"confidence_age": 0.019447477036132175,
+						"probability": 0.0000255545136976994
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 39.77365709056816,
+						"confidence_age": 0.0124887188645724,
+						"probability": 0.000013423274863680475
+					}
+				],
+				"urgency": 3,
+				"specialist": "general practitioner"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "nasal congestion",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 11431.418650852218,
+						"confidence_age": 140.50330766730735,
+						"probability": 0.0010135536786505365
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 641.2360877555609,
+						"confidence_age": 4.8432507078893305,
+						"probability": 0.0007668646662675669
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1781.2113548765576,
+						"confidence_age": 21.89282841076465,
+						"probability": 0.0007297767799033801
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 7.85652485739618,
+						"confidence_age": 0.2224014225854869,
+						"probability": 0.0005109569116794571
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 27.62059520178344,
+						"confidence_age": 0.47995645797282227,
+						"probability": 0.00039206315084450394
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 9.94341427264204,
+						"confidence_age": 0.1572857411258498,
+						"probability": 0.0003212059251643901
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 9.70942904862145,
+						"confidence_age": 0.12483176746256786,
+						"probability": 0.00026107251676108287
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 5.726212624705282,
+						"confidence_age": 0.09876682123699371,
+						"probability": 0.0002027740704489066
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 35.47712005917962,
+						"confidence_age": 0.25887500830410715,
+						"probability": 0.00020174744521918908
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.964131214349045,
+						"confidence_age": 0.03106878837053824,
+						"probability": 0.00014275818896195114
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.01747619345842776,
+						"probability": 0.00010706864172146339
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 17.677180929141404,
+						"confidence_age": 0.052997498040503584,
+						"probability": 0.00008117285585288904
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 2.570690291674648,
+						"confidence_age": 0.0414168012151736,
+						"probability": 0.00007652800744189105
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.008971440242103472,
+						"probability": 0.00005496390980634704
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 1.5616943521923494,
+						"confidence_age": 0.022428941097933162,
+						"probability": 0.0000460479301178845
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 1.4269111075289458,
+						"confidence_age": 0.019447477036132175,
+						"probability": 0.000024276788012814428
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.8415321186599061,
+						"confidence_age": 0.01418477451295923,
+						"probability": 0.00001738263863271623
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 39.77365709056816,
+						"confidence_age": 0.0124887188645724,
+						"probability": 0.00001275211112049645
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.5205647840641169,
+						"confidence_age": 0.004732062583099336,
+						"probability": 0.000009715201720338637
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "red eye",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 11431.418650852218,
+						"confidence_age": 140.50330766730735,
+						"probability": 0.0009628759947180095
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 641.2360877555609,
+						"confidence_age": 4.8432507078893305,
+						"probability": 0.0007285214329541884
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1781.2113548765576,
+						"confidence_age": 21.89282841076465,
+						"probability": 0.000693287940908211
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 7.85652485739618,
+						"confidence_age": 0.2224014225854869,
+						"probability": 0.0004854090660954842
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 27.62059520178344,
+						"confidence_age": 0.47995645797282227,
+						"probability": 0.0003724599933022787
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 9.94341427264204,
+						"confidence_age": 0.1572857411258498,
+						"probability": 0.0003051456289061706
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 35.47712005917962,
+						"confidence_age": 0.25887500830410715,
+						"probability": 0.0001916600729582296
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.964131214349045,
+						"confidence_age": 0.03106878837053824,
+						"probability": 0.00013562027951385358
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 3.3862912146164232,
+						"confidence_age": 0.05840740485385597,
+						"probability": 0.00011152573874689866
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.01747619345842776,
+						"probability": 0.00010171520963539022
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 17.677180929141404,
+						"confidence_age": 0.052997498040503584,
+						"probability": 0.00007711421306024458
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 2.570690291674648,
+						"confidence_age": 0.0414168012151736,
+						"probability": 0.00007270160706979651
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.008971440242103472,
+						"probability": 0.00005221571431602969
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 1.5616943521923494,
+						"confidence_age": 0.022428941097933162,
+						"probability": 0.00004374553361199027
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.8415321186599061,
+						"confidence_age": 0.01418477451295923,
+						"probability": 0.000016513506701080416
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.5219847812343276,
+						"confidence_age": 0.0067110313596961116,
+						"probability": 0.000013053625838054154
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 39.77365709056816,
+						"confidence_age": 0.0124887188645724,
+						"probability": 0.000012114505564471627
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.5205647840641169,
+						"confidence_age": 0.004732062583099336,
+						"probability": 0.000009229441634321704
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.07671160462417505,
+						"confidence_age": 0.0010455081339418558,
+						"probability": 0.0000012138394006407223
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "headache",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 10971.682997557353,
+						"confidence_age": 134.85270716763065,
+						"probability": 0.0007775223657347926
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 615.447591968245,
+						"confidence_age": 4.648470418909508,
+						"probability": 0.0005882810571105071
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1005.6333202095506,
+						"confidence_age": 12.36021635681803,
+						"probability": 0.00032931177193140025
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 9.94341427264204,
+						"confidence_age": 0.17278432487021603,
+						"probability": 0.00030253062955977586
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 9.94341427264204,
+						"confidence_age": 0.1572857411258498,
+						"probability": 0.00027539393008781896
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 4.879185994196463,
+						"confidence_age": 0.1381193244933122,
+						"probability": 0.0002536262370348905
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.5524682708806925,
+						"confidence_age": 0.024557070224024324,
+						"probability": 0.00009018748587671262
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 1.0603912743069015,
+						"confidence_age": 0.016773356001230897,
+						"probability": 0.0000821350317805776
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 17.677180929141404,
+						"confidence_age": 0.052997498040503584,
+						"probability": 0.00006959557728687073
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 12.017767775478218,
+						"confidence_age": 0.08769313088221674,
+						"probability": 0.000054623120793095445
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.008971440242103472,
+						"probability": 0.000047124682170216784
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 1.1610848117129335,
+						"confidence_age": 0.018706422549775593,
+						"probability": 0.000027626610686522672
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.9698686567839604,
+						"confidence_age": 0.013929183354733508,
+						"probability": 0.000022857041312264917
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.5219847812343276,
+						"confidence_age": 0.0067110313596961116,
+						"probability": 0.000011780897318843872
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.6651551095986712,
+						"confidence_age": 0.011211782695620313,
+						"probability": 0.000010981481956218477
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 39.77365709056816,
+						"confidence_age": 0.0124887188645724,
+						"probability": 0.000010933341271935643
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.5205647840641169,
+						"confidence_age": 0.004732062583099336,
+						"probability": 0.000008329571074975336
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.19118266162114989,
+						"confidence_age": 0.0032975554701691885,
+						"probability": 0.000005100580697489083
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.07671160462417505,
+						"confidence_age": 0.0010455081339418558,
+						"probability": 0.0000010954900590782518
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 8220.458905102956,
+						"confidence_age": 101.03747417421644,
+						"probability": 0.00046651341944087564
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 576.399905915287,
+						"confidence_age": 4.353543578813258,
+						"probability": 0.0004412107928328804
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 8.691708144807277,
+						"confidence_age": 0.13748615110676204,
+						"probability": 0.00019277575106147322
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.2185656465094585,
+						"confidence_age": 0.03449498833347112,
+						"probability": 0.000050725247406978096
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.7282833746716686,
+						"confidence_age": 0.01152004605199175,
+						"probability": 0.00004517426747931769
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.008971440242103472,
+						"probability": 0.000044768448061705945
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 4.868204376147517,
+						"confidence_age": 0.08459361979689299,
+						"probability": 0.00004422962420464559
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.9698686567839604,
+						"confidence_age": 0.013929183354733508,
+						"probability": 0.000021714189246651667
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 1.0149240530532435,
+						"confidence_age": 0.01635160326000271,
+						"probability": 0.000019338627480565873
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.3877254329802822,
+						"confidence_age": 0.0061330726456236525,
+						"probability": 0.00001803749717534252
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 62.78866077508579,
+						"confidence_age": 0.7717340071560047,
+						"probability": 0.00001646558859657003
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 4.414835883076712,
+						"confidence_age": 0.013236005050827261,
+						"probability": 0.000013919115457374142
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.5219847812343276,
+						"confidence_age": 0.0067110313596961116,
+						"probability": 0.000011191852452901679
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.6651551095986712,
+						"confidence_age": 0.011211782695620313,
+						"probability": 0.000010432407858407552
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.5205647840641169,
+						"confidence_age": 0.004732062583099336,
+						"probability": 0.000007913092521226571
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.1911826616211499,
+						"confidence_age": 0.003297555470169189,
+						"probability": 0.000004845551662614629
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 19.86676147384521,
+						"confidence_age": 0.00623805847753455,
+						"probability": 0.0000043733365087742576
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.750352567843538,
+						"confidence_age": 0.005475290184419661,
+						"probability": 0.000002731156039654774
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.07671160462417505,
+						"confidence_age": 0.0010455081339418558,
+						"probability": 0.000001040715556124339
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "lymphadenopathy",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 8220.458905102956,
+						"confidence_age": 101.03747417421644,
+						"probability": 0.0004431877484688319
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 576.399905915287,
+						"confidence_age": 4.353543578813258,
+						"probability": 0.00041915025319123634
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 8.691708144807277,
+						"confidence_age": 0.13748615110676204,
+						"probability": 0.00018313696350839961
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 1.1048238080713377,
+						"confidence_age": 0.008971440242103472,
+						"probability": 0.00004253002565862065
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.9698686567839604,
+						"confidence_age": 0.013929183354733508,
+						"probability": 0.00002062847978431909
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 1.0149240530532435,
+						"confidence_age": 0.01635160326000271,
+						"probability": 0.000018371696106537576
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.3877254329802822,
+						"confidence_age": 0.0061330726456236525,
+						"probability": 0.000017135622316575395
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 62.78866077508579,
+						"confidence_age": 0.7717340071560047,
+						"probability": 0.000015642309166741525
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.3957697730393361,
+						"confidence_age": 0.011203396175526802,
+						"probability": 0.000015217574222093428
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 4.414835883076712,
+						"confidence_age": 0.013236005050827261,
+						"probability": 0.000013223159684505434
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1.317592905626341,
+						"confidence_age": 0.022895495894082143,
+						"probability": 0.000011057406051161398
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.6651551095986712,
+						"confidence_age": 0.011211782695620313,
+						"probability": 0.000009910787465487174
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.15768951894536043,
+						"confidence_age": 0.002494345722207307,
+						"probability": 0.000009034853495863533
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.5205647840641169,
+						"confidence_age": 0.004732062583099336,
+						"probability": 0.000007517437895165241
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.3108085571616394,
+						"confidence_age": 0.003995990015343556,
+						"probability": 0.000006155518849095924
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.19118266162114989,
+						"confidence_age": 0.0032975554701691885,
+						"probability": 0.0000046032740794838965
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 19.86676147384521,
+						"confidence_age": 0.00623805847753455,
+						"probability": 0.000004154669683335544
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.07671160462417505,
+						"confidence_age": 0.0010455081339418558,
+						"probability": 9.886797783181224e-7
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.04061699730410807,
+						"confidence_age": 0.0002963804699155171,
+						"probability": 1.3655780198273884e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "heartburn",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 8220.458905102958,
+						"confidence_age": 101.03747417421646,
+						"probability": 0.0004210283610453902
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 576.3999059152869,
+						"confidence_age": 4.353543578813258,
+						"probability": 0.0003981927405316744
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 8.69170814480728,
+						"confidence_age": 0.13748615110676207,
+						"probability": 0.0001739801153329796
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.9698686567839604,
+						"confidence_age": 0.013929183354733508,
+						"probability": 0.000019597055795103132
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 1.0149240530532435,
+						"confidence_age": 0.01635160326000271,
+						"probability": 0.000017453111301210694
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 0.38772543298028217,
+						"confidence_age": 0.006133072645623652,
+						"probability": 0.000016278841200746625
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 62.78866077508579,
+						"confidence_age": 0.7717340071560047,
+						"probability": 0.000014860193708404448
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.395769773039336,
+						"confidence_age": 0.0112033961755268,
+						"probability": 0.00001445669551098876
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 4.414835883076711,
+						"confidence_age": 0.013236005050827258,
+						"probability": 0.000012562001700280163
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1.317592905626341,
+						"confidence_age": 0.022895495894082143,
+						"probability": 0.000010504535748603328
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.6651551095986711,
+						"confidence_age": 0.011211782695620311,
+						"probability": 0.000009415248092212815
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.15768951894536043,
+						"confidence_age": 0.002494345722207307,
+						"probability": 0.000008583110821070357
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.5205647840641169,
+						"confidence_age": 0.004732062583099336,
+						"probability": 0.000007141566000406978
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.3108085571616394,
+						"confidence_age": 0.003995990015343556,
+						"probability": 0.000005847742906641126
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.19118266162114989,
+						"confidence_age": 0.0032975554701691885,
+						"probability": 0.000004373110375509703
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 19.866761473845212,
+						"confidence_age": 0.006238058477534551,
+						"probability": 0.000003946936199168767
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.0590069752675749,
+						"confidence_age": 0.00047915110863192424,
+						"probability": 0.0000021265012829310346
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.07671160462417503,
+						"confidence_age": 0.0010455081339418556,
+						"probability": 9.392457894022163e-7
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.04061699730410807,
+						"confidence_age": 0.0002963804699155171,
+						"probability": 1.297299118836019e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "dry cough or productive cough",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 5038.698496798984,
+						"confidence_age": 38.057246819778584,
+						"probability": 0.0003782831035050908
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 49167.74434407306,
+						"confidence_age": 604.319631874194,
+						"probability": 0.00027366843467950357
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0001304850864997347
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 2.497429257188643,
+						"confidence_age": 0.03950454047832041,
+						"probability": 0.000011395188840522635
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 433.32460412788,
+						"confidence_age": 5.32598289268802,
+						"probability": 0.000011145145281303332
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 1.5307194644330018,
+						"confidence_age": 0.026598944987683733,
+						"probability": 0.000003556625713762118
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 0.000001071234900061047
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 9.798527897551566e-7
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.44558968764352963,
+						"confidence_age": 0.007178966512002938,
+						"probability": 8.726555650605349e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.173757759525773,
+						"confidence_age": 0.0049187107029158295,
+						"probability": 7.228347755494378e-7
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 1.938278372868947,
+						"confidence_age": 0.005811102159322746,
+						"probability": 6.281000850140083e-7
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.2920280159179763,
+						"confidence_age": 0.004922392699472756,
+						"probability": 4.7076240461064077e-7
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.06923160731105014,
+						"confidence_age": 0.0010951112330914677,
+						"probability": 4.2915554105351786e-7
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.13645660232995346,
+						"confidence_age": 0.0017543893431306713,
+						"probability": 2.923871453320563e-7
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.08393635190569054,
+						"confidence_age": 0.001447750408042421,
+						"probability": 2.1865551877548507e-7
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 8.722252677910266,
+						"confidence_age": 0.002738741406457604,
+						"probability": 1.9734680995843834e-7
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345587,
+						"confidence_age": 0.00021036529007964052,
+						"probability": 1.0632506414655172e-7
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.033679268749507996,
+						"confidence_age": 0.00045901724511349356,
+						"probability": 4.6962289470110807e-8
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.017832383701331136,
+						"confidence_age": 0.00013012213142057599,
+						"probability": 6.486495594180095e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "pruritus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 5038.698496798985,
+						"confidence_age": 38.05724681977859,
+						"probability": 0.00034140050091334434
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 49167.74434407305,
+						"confidence_age": 604.3196318741939,
+						"probability": 0.000246985762298252
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.00011776279056601054
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 2.4974292571886436,
+						"confidence_age": 0.039504540478320416,
+						"probability": 0.000010284157928571677
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 433.32460412788004,
+						"confidence_age": 5.325982892688021,
+						"probability": 0.000010058493616376261
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 1.5307194644330018,
+						"confidence_age": 0.026598944987683733,
+						"probability": 0.000003209854706670311
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 9.667894973050946e-7
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 8.843171427540288e-7
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.44558968764352963,
+						"confidence_age": 0.007178966512002938,
+						"probability": 7.875716474671326e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.17375775952577302,
+						"confidence_age": 0.00491871070291583,
+						"probability": 6.523583849333675e-7
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 1.9382783728689477,
+						"confidence_age": 0.005811102159322749,
+						"probability": 5.668603267251423e-7
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.06923160731105016,
+						"confidence_age": 0.001095111233091468,
+						"probability": 3.8731287580079987e-7
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.13645660232995344,
+						"confidence_age": 0.001754389343130671,
+						"probability": 2.6387939866218086e-7
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.08393635190569056,
+						"confidence_age": 0.0014477504080424213,
+						"probability": 1.9733660569487532e-7
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 9.595837039226293e-8
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.032252880515601046,
+						"confidence_age": 0.0005436510709012041,
+						"probability": 4.472242843801087e-8
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.033679268749507996,
+						"confidence_age": 0.00045901724511349356,
+						"probability": 4.238346624677498e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.9633246062478352,
+						"confidence_age": 0.0003024788531605019,
+						"probability": 1.8747946946051638e-8
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.017832383701331136,
+						"confidence_age": 0.00013012213142057599,
+						"probability": 5.854062273747535e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "fatigue",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 3394.683487388427,
+						"confidence_age": 25.64001545967519,
+						"probability": 0.0003414005009133443
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 99376.21586784492,
+						"confidence_age": 1221.430817937163,
+						"probability": 0.000246985762298252
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.00011776279056601057
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 3.9260054330693293,
+						"confidence_age": 0.0621018753994192,
+						"probability": 0.000010284157928571676
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1459.7022219592493,
+						"confidence_age": 17.941166941629138,
+						"probability": 0.000010058493616376256
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 2.750079525780138,
+						"confidence_age": 0.04778747230804743,
+						"probability": 0.000003209854706670311
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 9.667894973050948e-7
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 8.843171427540285e-7
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.20013580302598827,
+						"confidence_age": 0.003224419836497195,
+						"probability": 7.875716474671328e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.173757759525773,
+						"confidence_age": 0.0049187107029158295,
+						"probability": 6.523583849333677e-7
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 1.9382783728689474,
+						"confidence_age": 0.005811102159322748,
+						"probability": 5.668603267251423e-7
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.17102388227359053,
+						"confidence_age": 0.0027052697731434604,
+						"probability": 3.873128758007998e-7
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.13645660232995346,
+						"confidence_age": 0.0017543893431306713,
+						"probability": 2.638793986621808e-7
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.08393635190569054,
+						"confidence_age": 0.001447750408042421,
+						"probability": 1.9733660569487527e-7
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 9.59583703922629e-8
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.03225288051560104,
+						"confidence_age": 0.000543651070901204,
+						"probability": 4.472242843801086e-8
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.033679268749507996,
+						"confidence_age": 0.00045901724511349356,
+						"probability": 4.2383466246775e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.9633246062478352,
+						"confidence_age": 0.0003024788531605019,
+						"probability": 1.8747946946051638e-8
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.07608913770574356,
+						"confidence_age": 0.0005552191418742294,
+						"probability": 5.854062273747535e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "white patches on tonsils",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 3394.6834873884272,
+						"confidence_age": 25.640015459675194,
+						"probability": 0.00032433047586767714
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 99376.21586784492,
+						"confidence_age": 1221.430817937163,
+						"probability": 0.0002346364741833394
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.00011187465103771
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 3.9260054330693293,
+						"confidence_age": 0.0621018753994192,
+						"probability": 0.000009769950032143092
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1459.7022219592493,
+						"confidence_age": 17.941166941629138,
+						"probability": 0.000009555568935557443
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 9.1845002243984e-7
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 8.401012856163276e-7
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.2001358030259883,
+						"confidence_age": 0.0032244198364971954,
+						"probability": 7.48193065093776e-7
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.6511011732358292,
+						"confidence_age": 0.011314028919552016,
+						"probability": 7.177453322012467e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.173757759525773,
+						"confidence_age": 0.0049187107029158295,
+						"probability": 6.197404656866991e-7
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 1.9382783728689474,
+						"confidence_age": 0.005811102159322748,
+						"probability": 5.385173103888852e-7
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.17102388227359047,
+						"confidence_age": 0.0027052697731434596,
+						"probability": 3.6794723201075994e-7
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.13645660232995346,
+						"confidence_age": 0.0017543893431306713,
+						"probability": 2.5068542872907187e-7
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.08393635190569056,
+						"confidence_age": 0.0014477504080424213,
+						"probability": 1.8746977541013153e-7
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 9.116045187264975e-8
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.03225288051560104,
+						"confidence_age": 0.000543651070901204,
+						"probability": 4.248630701611031e-8
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.033679268749507996,
+						"confidence_age": 0.00045901724511349356,
+						"probability": 4.026429293443625e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.9633246062478352,
+						"confidence_age": 0.0003024788531605019,
+						"probability": 1.7810549598749053e-8
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.02416919246393913,
+						"confidence_age": 0.00017636155046883164,
+						"probability": 1.7562186821242609e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "no hib vaccine",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 3394.683487388427,
+						"confidence_age": 25.64001545967519,
+						"probability": 0.00030811395207429326
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 99376.21586784492,
+						"confidence_age": 1221.430817937163,
+						"probability": 0.00022290465047417244
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.00010628091848582451
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 3.9260054330693293,
+						"confidence_age": 0.0621018753994192,
+						"probability": 0.00000928145253053594
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1459.7022219592493,
+						"confidence_age": 17.941166941629138,
+						"probability": 0.000009077790488779573
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 8.72527521317848e-7
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 7.980962213355111e-7
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.2001358030259883,
+						"confidence_age": 0.0032244198364971954,
+						"probability": 7.107834118390869e-7
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.6511011732358292,
+						"confidence_age": 0.011314028919552016,
+						"probability": 6.818580655911842e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.173757759525773,
+						"confidence_age": 0.0049187107029158295,
+						"probability": 5.887534424023641e-7
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.1710238822735905,
+						"confidence_age": 0.00270526977314346,
+						"probability": 3.495498704102218e-7
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.13645660232995344,
+						"confidence_age": 0.001754389343130671,
+						"probability": 2.3815115729261816e-7
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.08393635190569054,
+						"confidence_age": 0.001447750408042421,
+						"probability": 1.7809628663962493e-7
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 1.6155519311666556e-7
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 8.66024292790173e-8
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.032252880515601046,
+						"confidence_age": 0.0005436510709012041,
+						"probability": 4.03619916653048e-8
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.033679268749507996,
+						"confidence_age": 0.00045901724511349356,
+						"probability": 3.825107828771443e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.9633246062478351,
+						"confidence_age": 0.00030247885316050184,
+						"probability": 1.6920022118811603e-8
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.024169192463939133,
+						"confidence_age": 0.00017636155046883166,
+						"probability": 1.6684077480180473e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 13,
+			"Finding": "dry cough or productive cough (lasting 3 weeks or less)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 31204.252641385337,
+						"confidence_age": 235.68545435976426,
+						"probability": 0.0002224582733976397
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 703135.8261858829,
+						"confidence_age": 8642.226510629665,
+						"probability": 0.0001810543023476465
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000007538859817927814
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 11917.055096667253,
+						"confidence_age": 146.4722542210862,
+						"probability": 0.0000073734353245112075
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.000004795926446672832
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 3.189366339886005,
+						"confidence_age": 0.05542085391304643,
+						"probability": 5.538392137764393e-7
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 3.937280439946789e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 3.6014091987764924e-8
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.20013580302598824,
+						"confidence_age": 0.0032244198364971945,
+						"probability": 3.20741014592388e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.17375775952577302,
+						"confidence_age": 0.00491871070291583,
+						"probability": 2.656749908840668e-8
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.17102388227359053,
+						"confidence_age": 0.0027052697731434604,
+						"probability": 1.577343790226126e-8
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.13645660232995344,
+						"confidence_age": 0.001754389343130671,
+						"probability": 1.0746570972829396e-8
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.08393635190569056,
+						"confidence_age": 0.0014477504080424213,
+						"probability": 8.036594934613074e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957748,
+						"confidence_age": 0.0018391973046917034,
+						"probability": 7.290178089389534e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 3.907934621215653e-9
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.032252880515601046,
+						"confidence_age": 0.0005436510709012041,
+						"probability": 1.8213348738968796e-9
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.033679268749507996,
+						"confidence_age": 0.00045901724511349356,
+						"probability": 1.726079907733114e-9
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.9633246062478352,
+						"confidence_age": 0.0003024788531605019,
+						"probability": 7.635159981113734e-10
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.024169192463939126,
+						"confidence_age": 0.00017636155046883164,
+						"probability": 7.52868996293144e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 14,
+			"Finding": "red tonsils",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 31204.25264138533,
+						"confidence_age": 235.6854543597642,
+						"probability": 0.0002113353597277577
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 703135.8261858829,
+						"confidence_age": 8642.226510629665,
+						"probability": 0.00017200158723026414
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000007161916827031423
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 11917.055096667253,
+						"confidence_age": 146.4722542210862,
+						"probability": 0.000007004763558285647
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.00000455613012433919
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.713163994113481,
+						"confidence_age": 0.012392479672065712,
+						"probability": 1.2384221306091565e-7
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 3.7404164179494495e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 3.4213387388376674e-8
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.20013580302598827,
+						"confidence_age": 0.003224419836497195,
+						"probability": 3.0470396386276863e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.17375775952577302,
+						"confidence_age": 0.00491871070291583,
+						"probability": 2.5239124133986343e-8
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.17102388227359047,
+						"confidence_age": 0.0027052697731434596,
+						"probability": 1.49847660071482e-8
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.13645660232995346,
+						"confidence_age": 0.0017543893431306713,
+						"probability": 1.0209242424187926e-8
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.08393635190569056,
+						"confidence_age": 0.0014477504080424213,
+						"probability": 7.634765187882423e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957748,
+						"confidence_age": 0.0018391973046917034,
+						"probability": 6.925669184920058e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 3.7125378901548705e-9
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.032252880515601046,
+						"confidence_age": 0.0005436510709012041,
+						"probability": 1.7302681302020347e-9
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.033679268749507996,
+						"confidence_age": 0.00045901724511349356,
+						"probability": 1.639775912346458e-9
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.9633246062478351,
+						"confidence_age": 0.00030247885316050184,
+						"probability": 7.253401982058046e-10
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.024169192463939126,
+						"confidence_age": 0.00017636155046883164,
+						"probability": 7.152255464784867e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 15,
+			"Finding": "lachrymation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 31204.25264138533,
+						"confidence_age": 235.6854543597642,
+						"probability": 0.00020076859174136987
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 417122.87468129763,
+						"confidence_age": 5126.847803098249,
+						"probability": 0.00009460087297664533
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000006803820985679852
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 11917.055096667254,
+						"confidence_age": 146.4722542210862,
+						"probability": 0.000006654525380371364
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.00000432832361812223
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.7131639941134811,
+						"confidence_age": 0.012392479672065713,
+						"probability": 1.1765010240786984e-7
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 3.553395597051977e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 3.250271801895784e-8
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.20013580302598824,
+						"confidence_age": 0.0032244198364971945,
+						"probability": 2.8946876566963013e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.17375775952577302,
+						"confidence_age": 0.00491871070291583,
+						"probability": 2.3977167927287033e-8
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.17102388227359053,
+						"confidence_age": 0.0027052697731434604,
+						"probability": 1.4235527706790781e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957748,
+						"confidence_age": 0.0018391973046917034,
+						"probability": 6.5793857256740544e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 3.5269109956471284e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 1.9086912969706056e-9
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.019133450090855333,
+						"confidence_age": 0.00032251136846201154,
+						"probability": 9.516474716111193e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.963324606247835,
+						"confidence_age": 0.00030247885316050184,
+						"probability": 6.890731882955145e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.007359132942010188,
+						"confidence_age": 0.00009461458212865456,
+						"probability": 5.104621212093966e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092108,
+						"confidence_age": 0.000024754895489025245,
+						"probability": 8.198879561732295e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.02416919246393913,
+						"confidence_age": 0.00017636155046883164,
+						"probability": 6.794642691545624e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 16,
+			"Finding": "sneezing",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677892,
+						"confidence_age": 212.1536137012448,
+						"probability": 0.00017065330298016433
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.9848178553,
+						"confidence_age": 1357.3416055961802,
+						"probability": 0.000023650218244161325
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331505988,
+						"confidence_age": 0.4732015628260859,
+						"probability": 0.000006463629936395859
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.16923933596,
+						"confidence_age": 108.58057398912152,
+						"probability": 0.0000046581677662599535
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.000004111907437216118
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.7131639941134809,
+						"confidence_age": 0.01239247967206571,
+						"probability": 1.1176759728747637e-7
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 3.3757258171993764e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 3.087758211800995e-8
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.20013580302598824,
+						"confidence_age": 0.0032244198364971945,
+						"probability": 2.749953273861487e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.173757759525773,
+						"confidence_age": 0.0049187107029158295,
+						"probability": 2.277830953092268e-8
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.17102388227359044,
+						"confidence_age": 0.002705269773143459,
+						"probability": 1.3523751321451248e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957746,
+						"confidence_age": 0.0018391973046917027,
+						"probability": 6.25041643939035e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345587,
+						"confidence_age": 0.00021036529007964052,
+						"probability": 3.350565445864771e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 1.8132567321220747e-9
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.9633246062478352,
+						"confidence_age": 0.0003024788531605019,
+						"probability": 6.546195288807386e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.007359132942010189,
+						"confidence_age": 0.00009461458212865458,
+						"probability": 4.849390151489268e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005065613192422334,
+						"confidence_age": 0.00008538542892314896,
+						"probability": 2.379118679027799e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092106,
+						"confidence_age": 0.00002475489548902524,
+						"probability": 7.788935583645685e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.02416919246393913,
+						"confidence_age": 0.00017636155046883164,
+						"probability": 6.454910556968343e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 17,
+			"Finding": "recent cat scratch or cat bite  ",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677895,
+						"confidence_age": 212.15361370124484,
+						"probability": 0.00016212063783115614
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.9848178553,
+						"confidence_age": 1357.3416055961802,
+						"probability": 0.00002246770733195325
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000006140448439576066
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.000004425259377946956
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.00000390631206535531
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.7131639941134811,
+						"confidence_age": 0.012392479672065713,
+						"probability": 1.0617921742310255e-7
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 3.206939526339408e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 2.9333703012109452e-8
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.2001358030259883,
+						"confidence_age": 0.0032244198364971954,
+						"probability": 2.612455610168412e-8
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.17375775952577302,
+						"confidence_age": 0.00491871070291583,
+						"probability": 2.163939405437654e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 5.9378956174208346e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 3.183037173571533e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974017,
+						"confidence_age": 0.00039038740294411434,
+						"probability": 1.7225938955159715e-9
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.009032327921249354,
+						"confidence_age": 0.00014287410262027954,
+						"probability": 6.761875660725628e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.9633246062478352,
+						"confidence_age": 0.0003024788531605019,
+						"probability": 6.218885524367018e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.007359132942010189,
+						"confidence_age": 0.00009461458212865458,
+						"probability": 4.6069206439148043e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005065613192422335,
+						"confidence_age": 0.00008538542892314898,
+						"probability": 2.260162745076408e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092106,
+						"confidence_age": 0.00002475489548902524,
+						"probability": 7.399488804463402e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.024169192463939133,
+						"confidence_age": 0.00017636155046883166,
+						"probability": 6.132165029119925e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 18,
+			"Finding": "recent sex",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677895,
+						"confidence_age": 212.15361370124484,
+						"probability": 0.00014631387564261838
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785528,
+						"confidence_age": 1357.34160559618,
+						"probability": 0.000020277105867087817
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.0000055417547167173985
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.000003993796588597127
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000035254466389831687
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.713163994113481,
+						"confidence_age": 0.012392479672065712,
+						"probability": 9.582674372435003e-8
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 2.8942629225213154e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 2.6473666968428775e-8
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.20013580302598824,
+						"confidence_age": 0.0032244198364971945,
+						"probability": 2.357741188176991e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 5.3589507947223026e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 2.8726910491483082e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974017,
+						"confidence_age": 0.00039038740294411434,
+						"probability": 1.554640990703164e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.009579000207152416,
+						"confidence_age": 0.00027116101733094057,
+						"probability": 1.0278712175828864e-9
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.009032327921249354,
+						"confidence_age": 0.00014287410262027954,
+						"probability": 6.102592783804884e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.9633246062478352,
+						"confidence_age": 0.0003024788531605019,
+						"probability": 5.612544185741234e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.007359132942010189,
+						"confidence_age": 0.00009461458212865458,
+						"probability": 4.157745881133111e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005065613192422334,
+						"confidence_age": 0.00008538542892314896,
+						"probability": 2.0397968774314584e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092108,
+						"confidence_age": 0.000024754895489025245,
+						"probability": 6.678038646028214e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.024169192463939122,
+						"confidence_age": 0.0001763615504688316,
+						"probability": 5.534278938780734e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 19,
+			"Finding": "oral ulcers",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677895,
+						"confidence_age": 212.15361370124484,
+						"probability": 0.00013899818186048746
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.9848178553,
+						"confidence_age": 1357.3416055961802,
+						"probability": 0.000019263250573733426
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000005264666980881529
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.16923933596,
+						"confidence_age": 108.58057398912152,
+						"probability": 0.0000037941067591672715
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000033491743070340094
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.713163994113481,
+						"confidence_age": 0.012392479672065712,
+						"probability": 9.103540653813256e-8
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 2.74954977639525e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 2.5149983620007343e-8
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.20013580302598827,
+						"confidence_age": 0.003224419836497195,
+						"probability": 2.2398541287681417e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 5.091003254986187e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 2.729056496690893e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 1.4769089411680056e-9
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.009032327921249354,
+						"confidence_age": 0.00014287410262027954,
+						"probability": 5.797463144614637e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.005075626083789853,
+						"confidence_age": 0.00014368012346886207,
+						"probability": 5.139356087914433e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.0073591329420101895,
+						"confidence_age": 0.00009461458212865459,
+						"probability": 3.949858587076454e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005065613192422334,
+						"confidence_age": 0.00008538542892314896,
+						"probability": 1.9378070335598847e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092108,
+						"confidence_age": 0.000024754895489025245,
+						"probability": 6.344136713726807e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392644,
+						"confidence_age": 0.00003205490184142462,
+						"probability": 5.6125441857412335e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.024169192463939122,
+						"confidence_age": 0.0001763615504688316,
+						"probability": 5.257564991841696e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 20,
+			"Finding": "skin erythema",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677892,
+						"confidence_age": 212.1536137012448,
+						"probability": 0.0001254458591290899
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.9848178553,
+						"confidence_age": 1357.3416055961802,
+						"probability": 0.000017385083642794416
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331505988,
+						"confidence_age": 0.4732015628260859,
+						"probability": 0.00000475136195024558
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.000003424181350148461
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000030226298120981934
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.713163994113481,
+						"confidence_age": 0.012392479672065712,
+						"probability": 8.215945440066462e-8
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 2.4814686731967125e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 2.2697860217056634e-8
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.20013580302598827,
+						"confidence_age": 0.003224419836497195,
+						"probability": 2.0214683512132473e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957746,
+						"confidence_age": 0.0018391973046917027,
+						"probability": 4.594630437625033e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345587,
+						"confidence_age": 0.00021036529007964052,
+						"probability": 2.4629734882635306e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 1.3329103194041252e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946522,
+						"confidence_age": 0.00013155720488121462,
+						"probability": 3.905910626814968e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.0073591329420101895,
+						"confidence_age": 0.00009461458212865459,
+						"probability": 3.5647473748365007e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005065613192422334,
+						"confidence_age": 0.00008538542892314896,
+						"probability": 1.748870847787796e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092106,
+						"confidence_age": 0.00002475489548902524,
+						"probability": 5.7255833841384425e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.001033778878213828,
+						"confidence_age": 0.000016352398940822555,
+						"probability": 5.5075899873839005e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392644,
+						"confidence_age": 0.00003205490184142462,
+						"probability": 5.33191697645417e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.02351305306557308,
+						"confidence_age": 0.00017157372970104325,
+						"probability": 4.24548373091217e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 21,
+			"Finding": "facial pressure",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677895,
+						"confidence_age": 212.15361370124484,
+						"probability": 0.0001191735661726354
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.9848178553,
+						"confidence_age": 1357.3416055961802,
+						"probability": 0.000016515829460654692
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000004513793852733299
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.16923933596,
+						"confidence_age": 108.58057398912152,
+						"probability": 0.0000032529722826410376
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000028714983214932833
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.7131639941134807,
+						"confidence_age": 0.012392479672065707,
+						"probability": 7.805148168063138e-8
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 2.3573952395368772e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 2.156296720620378e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 4.364898915743781e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.04224283892116048,
+						"confidence_age": 0.0006805811139631948,
+						"probability": 4.042936702426496e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 2.3398248138503537e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 1.2662648034339191e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946523,
+						"confidence_age": 0.00013155720488121464,
+						"probability": 3.71061509547422e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.00735913294201019,
+						"confidence_age": 0.0000946145821286546,
+						"probability": 3.386510006094675e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005065613192422333,
+						"confidence_age": 0.00008538542892314895,
+						"probability": 1.6614273053984065e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092106,
+						"confidence_age": 0.00002475489548902524,
+						"probability": 5.43930421493152e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138284,
+						"confidence_age": 0.00001635239894082256,
+						"probability": 5.232210488014705e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392644,
+						"confidence_age": 0.00003205490184142462,
+						"probability": 5.065321127631462e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.023513053065573084,
+						"confidence_age": 0.00017157372970104327,
+						"probability": 4.0332095443665616e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 22,
+			"Finding": "tonsillar hypertrophy",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677892,
+						"confidence_age": 212.1536137012448,
+						"probability": 0.00011321488786400365
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785528,
+						"confidence_age": 1357.34160559618,
+						"probability": 0.000015690037987621953
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000004288104160096635
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.0000030903236685089878
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.00000272792340541862
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 2.239525477560034e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 2.04848188458936e-8
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.188390199452238,
+						"confidence_age": 0.00327361131015929,
+						"probability": 1.951287042015784e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957748,
+						"confidence_age": 0.0018391973046917034,
+						"probability": 4.14665396995659e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.042242838921160486,
+						"confidence_age": 0.0006805811139631949,
+						"probability": 3.840789867305172e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 2.2228335731578367e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974017,
+						"confidence_age": 0.00039038740294411434,
+						"probability": 1.2029515632622225e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946524,
+						"confidence_age": 0.00013155720488121467,
+						"probability": 3.5250843407005095e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.007359132942010189,
+						"confidence_age": 0.00009461458212865458,
+						"probability": 3.217184505789941e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005065613192422335,
+						"confidence_age": 0.00008538542892314898,
+						"probability": 1.5783559401284854e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092108,
+						"confidence_age": 0.000024754895489025245,
+						"probability": 5.167339004184942e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.001033778878213828,
+						"confidence_age": 0.000016352398940822555,
+						"probability": 4.97059996361397e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392643,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 4.812055071249889e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.023513053065573084,
+						"confidence_age": 0.00017157372970104327,
+						"probability": 3.831549067148233e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 23,
+			"Finding": "diaphoresis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.6870116779,
+						"confidence_age": 212.15361370124486,
+						"probability": 0.00010755414347080343
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785528,
+						"confidence_age": 1357.34160559618,
+						"probability": 0.000014905536088240862
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000004073698952091802
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335964,
+						"confidence_age": 108.58057398912156,
+						"probability": 0.000002935807485083537
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.000002591527235147689
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.7185167709995343,
+						"confidence_age": 0.006531495082766626,
+						"probability": 2.127549203682031e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.4258086804933994,
+						"confidence_age": 0.006115433407547341,
+						"probability": 1.946057790359892e-8
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223798,
+						"confidence_age": 0.003273611310159289,
+						"probability": 1.853722689914996e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 3.939321271458761e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.04224283892116048,
+						"confidence_age": 0.0006805811139631948,
+						"probability": 3.6487503739399105e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 2.111691894499944e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 1.1428039850991118e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946523,
+						"confidence_age": 0.00013155720488121464,
+						"probability": 3.3488301236654833e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.00735913294201019,
+						"confidence_age": 0.0000946145821286546,
+						"probability": 3.056325280500444e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005065613192422334,
+						"confidence_age": 0.00008538542892314896,
+						"probability": 1.4994381431220618e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092108,
+						"confidence_age": 0.000024754895489025245,
+						"probability": 4.908972053975695e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138282,
+						"confidence_age": 0.000016352398940822558,
+						"probability": 4.722069965433275e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392643,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 4.571452317687394e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.002556702978338572,
+						"confidence_age": 0.000018656150883850477,
+						"probability": 3.831549067148231e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 24,
+			"Finding": "snoring",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677892,
+						"confidence_age": 212.1536137012448,
+						"probability": 0.00010217643629726326
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785531,
+						"confidence_age": 1357.3416055961804,
+						"probability": 0.000014160259283828815
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000003870014004487212
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.00000278901711082936
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.000002461950873390303
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223803,
+						"confidence_age": 0.0032736113101592902,
+						"probability": 1.7610365554192453e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.24861613504610292,
+						"confidence_age": 0.0035706069123684933,
+						"probability": 1.0703317846979404e-8
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.19069048735980706,
+						"confidence_age": 0.0017334236733101372,
+						"probability": 5.318873009205077e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 3.742355207885823e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.042242838921160486,
+						"confidence_age": 0.0006805811139631949,
+						"probability": 3.4663128552429154e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 2.006107299774947e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 1.085663785844156e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946523,
+						"confidence_age": 0.00013155720488121464,
+						"probability": 3.1813886174822103e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.007359132942010189,
+						"confidence_age": 0.00009461458212865458,
+						"probability": 2.903509016475422e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.005065613192422333,
+						"confidence_age": 0.00008538542892314895,
+						"probability": 1.424466235965958e-10
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0018163299678092108,
+						"confidence_age": 0.000024754895489025245,
+						"probability": 4.663523451276909e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138284,
+						"confidence_age": 0.00001635239894082256,
+						"probability": 4.4859664671616083e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392643,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 4.342879701803025e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385713,
+						"confidence_age": 0.00001865615088385047,
+						"probability": 3.6399716137908186e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 25,
+			"Finding": "nasal drip (occurs or worsens when exposed to allergens)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677892,
+						"confidence_age": 212.1536137012448,
+						"probability": 0.00009706761448240014
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785528,
+						"confidence_age": 1357.34160559618,
+						"probability": 0.000013452246319637373
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331505995,
+						"confidence_age": 0.473201562826086,
+						"probability": 0.000003676513304262851
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.16923933596,
+						"confidence_age": 108.58057398912152,
+						"probability": 0.000002649566255287893
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000023388533297207892
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.188390199452238,
+						"confidence_age": 0.00327361131015929,
+						"probability": 1.672984727648283e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.24861613504610292,
+						"confidence_age": 0.0035706069123684933,
+						"probability": 1.0168151954630436e-8
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.19069048735980706,
+						"confidence_age": 0.0017334236733101372,
+						"probability": 5.052929358744826e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 3.555237447491532e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.042242838921160486,
+						"confidence_age": 0.0006805811139631949,
+						"probability": 3.292997212480769e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 1.9058019347861997e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.02263352457097402,
+						"confidence_age": 0.0003903874029441144,
+						"probability": 1.0313805965519487e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946523,
+						"confidence_age": 0.00013155720488121464,
+						"probability": 3.0223191866080986e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.007359132942010189,
+						"confidence_age": 0.00009461458212865458,
+						"probability": 2.7583335656516517e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.003131803211945377,
+						"confidence_age": 0.00005278933672923775,
+						"probability": 6.370406670546277e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138282,
+						"confidence_age": 0.000016352398940822558,
+						"probability": 4.261668143803528e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392643,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 4.1257357167128735e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0011988833370748476,
+						"confidence_age": 0.000016339669684918787,
+						"probability": 2.3317617256384544e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385717,
+						"confidence_age": 0.000018656150883850474,
+						"probability": 3.457973033101278e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 26,
+			"Finding": "periorbital edema",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677895,
+						"confidence_age": 212.15361370124484,
+						"probability": 0.00009221423375828008
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785528,
+						"confidence_age": 1357.34160559618,
+						"probability": 0.000012779634003655506
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000003492687639049709
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.0000025170879425234986
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000022219106632347485
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223806,
+						"confidence_age": 0.0032736113101592907,
+						"probability": 1.5893354912658687e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.24861613504610294,
+						"confidence_age": 0.0035706069123684937,
+						"probability": 9.65974435689891e-9
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.1906904873598071,
+						"confidence_age": 0.0017334236733101375,
+						"probability": 4.800282890807583e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 3.3774755751169555e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.04224283892116049,
+						"confidence_age": 0.000680581113963195,
+						"probability": 3.1283473518567304e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.025906273084345594,
+						"confidence_age": 0.00021036529007964057,
+						"probability": 1.8105118380468894e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 9.798115667243504e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946524,
+						"confidence_age": 0.00013155720488121467,
+						"probability": 2.871203227277694e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.004338198583554957,
+						"confidence_age": 0.000055775163923326926,
+						"probability": 1.517083461108408e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.003131803211945377,
+						"confidence_age": 0.00005278933672923775,
+						"probability": 6.05188633701896e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138284,
+						"confidence_age": 0.00001635239894082256,
+						"probability": 4.048584736613352e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392642,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 3.9194489308772276e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.000899487338327052,
+						"confidence_age": 0.000012259179471032425,
+						"probability": 1.632233207946918e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385726,
+						"confidence_age": 0.00001865615088385048,
+						"probability": 3.285074381446215e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 27,
+			"Finding": "hiatus hernia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677895,
+						"confidence_age": 212.15361370124484,
+						"probability": 0.00008760352207036613
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785528,
+						"confidence_age": 1357.34160559618,
+						"probability": 0.000012140652303472724
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.0000033180532570972227
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.0000023912335453973238
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000021108151300730115
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223806,
+						"confidence_age": 0.0032736113101592907,
+						"probability": 1.5098687167025756e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.24861613504610292,
+						"confidence_age": 0.0035706069123684933,
+						"probability": 9.176757139053966e-9
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.1906904873598071,
+						"confidence_age": 0.0017334236733101375,
+						"probability": 4.5602687462672065e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957748,
+						"confidence_age": 0.0018391973046917034,
+						"probability": 3.2086017963611076e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.042242838921160486,
+						"confidence_age": 0.0006805811139631949,
+						"probability": 2.971929984263895e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974017,
+						"confidence_age": 0.00039038740294411434,
+						"probability": 9.308209883881328e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.006842153947703915,
+						"confidence_age": 0.000055559967861531197,
+						"probability": 4.526279595117223e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946523,
+						"confidence_age": 0.00013155720488121464,
+						"probability": 2.727643065913809e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.004338198583554957,
+						"confidence_age": 0.000055775163923326926,
+						"probability": 1.4412292880529882e-10
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.003131803211945377,
+						"confidence_age": 0.00005278933672923775,
+						"probability": 5.7492920201680126e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138284,
+						"confidence_age": 0.00001635239894082256,
+						"probability": 3.846155499782686e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392642,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 3.723476484333368e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0008994873383270521,
+						"confidence_age": 0.000012259179471032427,
+						"probability": 1.550621547549572e-11
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385717,
+						"confidence_age": 0.000018656150883850474,
+						"probability": 3.120820662373903e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 28,
+			"Finding": "nasal drip (occurs or worsens with weather changes)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.6870116779,
+						"confidence_age": 212.15361370124486,
+						"probability": 0.00008322334596684777
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785528,
+						"confidence_age": 1357.34160559618,
+						"probability": 0.000011533619688299088
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000003152150594242362
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.0000022716718681274562
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000020052743735693613
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223798,
+						"confidence_age": 0.003273611310159289,
+						"probability": 1.4343752808674468e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.24861613504610294,
+						"confidence_age": 0.0035706069123684937,
+						"probability": 8.71791928210127e-9
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.17885431692354742,
+						"confidence_age": 0.0016258299578625855,
+						"probability": 3.4202015597004007e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957748,
+						"confidence_age": 0.0018391973046917034,
+						"probability": 3.048171706543052e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.042242838921160486,
+						"confidence_age": 0.0006805811139631949,
+						"probability": 2.8233334850506993e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 8.842799389687264e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.006842153947703915,
+						"confidence_age": 0.000055559967861531197,
+						"probability": 4.2999656153613596e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946523,
+						"confidence_age": 0.00013155720488121464,
+						"probability": 2.5912609126181183e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.0043381985835549575,
+						"confidence_age": 0.00005577516392332694,
+						"probability": 1.3691678236503387e-10
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138287,
+						"confidence_age": 0.000016352398940822565,
+						"probability": 3.6538477247935495e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392642,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 3.5373026601166996e-11
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.002141381528259784,
+						"confidence_age": 0.00003609489578716451,
+						"probability": 2.5711615559185545e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0006300760511415354,
+						"confidence_age": 0.000008587353109060637,
+						"probability": 7.753107737747859e-12
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385717,
+						"confidence_age": 0.000018656150883850474,
+						"probability": 2.964779629255209e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 29,
+			"Finding": "otalgia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.6870116779,
+						"confidence_age": 212.15361370124486,
+						"probability": 0.00007906217866850542
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785528,
+						"confidence_age": 1357.34160559618,
+						"probability": 0.00001095693870388414
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.000002994543064530243
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.0000021580882747210836
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.000001905010654890893
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.188390199452238,
+						"confidence_age": 0.00327361131015929,
+						"probability": 1.3626565168240738e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.24861613504610292,
+						"confidence_age": 0.0035706069123684933,
+						"probability": 8.282023317996201e-9
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.17885431692354742,
+						"confidence_age": 0.0016258299578625855,
+						"probability": 3.249191481715383e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 2.895763121215899e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.04063831789811731,
+						"confidence_age": 0.0006547304199016962,
+						"probability": 2.5410001365456313e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 8.400659420202897e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.006842153947703915,
+						"confidence_age": 0.000055559967861531197,
+						"probability": 4.084967334593293e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946523,
+						"confidence_age": 0.00013155720488121464,
+						"probability": 2.46169786698721e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.004338198583554957,
+						"confidence_age": 0.000055775163923326926,
+						"probability": 1.300709432467821e-10
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138284,
+						"confidence_age": 0.00001635239894082256,
+						"probability": 3.471155338553871e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392643,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 3.3604375271108644e-11
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.0021413815282597844,
+						"confidence_age": 0.00003609489578716452,
+						"probability": 2.4426034781226262e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0006300760511415353,
+						"confidence_age": 0.000008587353109060637,
+						"probability": 7.365452350860466e-12
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.002556702978338572,
+						"confidence_age": 0.000018656150883850477,
+						"probability": 2.8165406477924476e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 30,
+			"Finding": "alcohol consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.6870116779,
+						"confidence_age": 212.15361370124486,
+						"probability": 0.0000751090697350801
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.9848178553,
+						"confidence_age": 1357.3416055961802,
+						"probability": 0.000010409091768689925
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.0000028448159113037317
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.0000020501838609850288
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000018097601221463478
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223798,
+						"confidence_age": 0.003273611310159289,
+						"probability": 1.2945236909828704e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.24861613504610292,
+						"confidence_age": 0.0035706069123684933,
+						"probability": 7.867922152096392e-9
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.16320913432663578,
+						"confidence_age": 0.0014836113801965944,
+						"probability": 2.761812759458076e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957748,
+						"confidence_age": 0.0018391973046917034,
+						"probability": 2.750974965155102e-9
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.04063831789811732,
+						"confidence_age": 0.0006547304199016963,
+						"probability": 2.4139501297183478e-9
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974017,
+						"confidence_age": 0.00039038740294411434,
+						"probability": 7.980626449192754e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946524,
+						"confidence_age": 0.00013155720488121467,
+						"probability": 2.338612973637852e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.0043381985835549575,
+						"confidence_age": 0.00005577516392332694,
+						"probability": 1.23567396084443e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.0018363647970143472,
+						"confidence_age": 0.000014911732457934976,
+						"probability": 1.0212418336483232e-10
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138282,
+						"confidence_age": 0.000016352398940822558,
+						"probability": 3.297597571626179e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392643,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 3.19241565075532e-11
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.0021413815282597844,
+						"confidence_age": 0.00003609489578716452,
+						"probability": 2.3204733042164953e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0006300760511415354,
+						"confidence_age": 0.000008587353109060637,
+						"probability": 6.9971797333174405e-12
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.002556702978338572,
+						"confidence_age": 0.000018656150883850477,
+						"probability": 2.6757136154028253e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 31,
+			"Finding": "nasal drip (lasting 4 weeks or more)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677892,
+						"confidence_age": 212.1536137012448,
+						"probability": 0.00007135361624832612
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785532,
+						"confidence_age": 1357.3416055961807,
+						"probability": 0.000009888637180255428
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.91523033150599,
+						"confidence_age": 0.47320156282608594,
+						"probability": 0.0000027025751157385448
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.0000019476746679357776
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.984254235569644,
+						"confidence_age": 0.9488358449754206,
+						"probability": 0.0000017192721160390305
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223806,
+						"confidence_age": 0.0032736113101592907,
+						"probability": 1.2297975064337265e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.2486161350461029,
+						"confidence_age": 0.003570606912368493,
+						"probability": 7.474526044491572e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.6134595918957747,
+						"confidence_age": 0.0018391973046917032,
+						"probability": 2.6134262168973488e-9
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.11860033505358343,
+						"confidence_age": 0.0010781063664517534,
+						"probability": 8.285438278374223e-10
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974024,
+						"confidence_age": 0.00039038740294411445,
+						"probability": 7.581595126733119e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946522,
+						"confidence_age": 0.00013155720488121462,
+						"probability": 2.2216823249559597e-10
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.022633197331712773,
+						"confidence_age": 0.0003646470513337062,
+						"probability": 1.2069750648591748e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.0043381985835549575,
+						"confidence_age": 0.00005577516392332694,
+						"probability": 1.173890262802209e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.0018363647970143463,
+						"confidence_age": 0.000014911732457934969,
+						"probability": 9.70179741965907e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.001033778878213828,
+						"confidence_age": 0.000016352398940822555,
+						"probability": 3.132717693044869e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392646,
+						"confidence_age": 0.00003205490184142463,
+						"probability": 3.0327948682175546e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0006300760511415353,
+						"confidence_age": 0.000008587353109060637,
+						"probability": 6.647320746651572e-12
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.0009938549214622242,
+						"confidence_age": 0.00001675231122727214,
+						"probability": 5.8011832605412375e-12
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385713,
+						"confidence_age": 0.00001865615088385047,
+						"probability": 2.5419279346326833e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 32,
+			"Finding": "stridor",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677895,
+						"confidence_age": 212.15361370124484,
+						"probability": 0.0000677859354359098
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.9848178553,
+						"confidence_age": 1357.3416055961802,
+						"probability": 0.00000939420532124266
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.0000025674463599516177
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.16923933596,
+						"confidence_age": 108.58057398912152,
+						"probability": 0.000001850290934538989
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000016333085102370789
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223803,
+						"confidence_age": 0.0032736113101592902,
+						"probability": 1.16830763111204e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.24861613504610292,
+						"confidence_age": 0.0035706069123684933,
+						"probability": 7.100799742266995e-9
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.11860033505358342,
+						"confidence_age": 0.0010781063664517534,
+						"probability": 7.871166364455514e-10
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.19479623153245293,
+						"confidence_age": 0.0005840135336240001,
+						"probability": 7.84027865069205e-10
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974017,
+						"confidence_age": 0.00039038740294411434,
+						"probability": 7.202515370396457e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946524,
+						"confidence_age": 0.00013155720488121467,
+						"probability": 2.110598208708161e-10
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.02263319733171277,
+						"confidence_age": 0.0003646470513337061,
+						"probability": 1.1466263116162164e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.0043381985835549575,
+						"confidence_age": 0.00005577516392332694,
+						"probability": 1.1151957496620978e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.001836364797014347,
+						"confidence_age": 0.000014911732457934974,
+						"probability": 9.216707548676117e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138284,
+						"confidence_age": 0.00001635239894082256,
+						"probability": 2.976081808392625e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392644,
+						"confidence_age": 0.00003205490184142462,
+						"probability": 2.8811551248066763e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0006300760511415354,
+						"confidence_age": 0.000008587353109060637,
+						"probability": 6.314954709318995e-12
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.0009938549214622246,
+						"confidence_age": 0.00001675231122727215,
+						"probability": 5.5111240975141744e-12
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385713,
+						"confidence_age": 0.00001865615088385047,
+						"probability": 2.4148315379010503e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 33,
+			"Finding": "facial pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.687011677895,
+						"confidence_age": 212.15361370124484,
+						"probability": 0.00006439663866411434
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785528,
+						"confidence_age": 1357.34160559618,
+						"probability": 0.000008924495055180533
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.0000024390740419540368
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.000001757776387812039
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000015516430847252249
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223803,
+						"confidence_age": 0.0032736113101592902,
+						"probability": 1.109892249556438e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.2235378586424497,
+						"confidence_age": 0.003210434524278851,
+						"probability": 6.035679780926947e-9
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.11860033505358342,
+						"confidence_age": 0.0010781063664517534,
+						"probability": 7.477608046232742e-10
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.19479623153245296,
+						"confidence_age": 0.0005840135336240001,
+						"probability": 7.448264718157445e-10
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974017,
+						"confidence_age": 0.00039038740294411434,
+						"probability": 6.842389601876635e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946524,
+						"confidence_age": 0.00013155720488121467,
+						"probability": 2.0050682982727523e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.004338198583554957,
+						"confidence_age": 0.000055775163923326926,
+						"probability": 1.0594359621789927e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.001836364797014347,
+						"confidence_age": 0.000014911732457934974,
+						"probability": 8.755872171242317e-11
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.009576542738348548,
+						"confidence_age": 0.00015428920714693171,
+						"probability": 4.586505246464865e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0010337788782138282,
+						"confidence_age": 0.000016352398940822558,
+						"probability": 2.8272777179729923e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392644,
+						"confidence_age": 0.00003205490184142462,
+						"probability": 2.7370973685663427e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0006300760511415354,
+						"confidence_age": 0.000008587353109060637,
+						"probability": 5.9992069738530435e-12
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.000993854921462225,
+						"confidence_age": 0.000016752311227272156,
+						"probability": 5.235567892638468e-12
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385713,
+						"confidence_age": 0.00001865615088385047,
+						"probability": 2.2940899610059962e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 34,
+			"Finding": "pimples or bumps",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.6870116779,
+						"confidence_age": 212.15361370124486,
+						"probability": 0.00006117680673090862
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.9848178553,
+						"confidence_age": 1357.3416055961802,
+						"probability": 0.000008478270302421499
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.915230331506,
+						"confidence_age": 0.47320156282608605,
+						"probability": 0.0000023171203398563355
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335964,
+						"confidence_age": 108.58057398912156,
+						"probability": 0.0000016698875684214358
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 59.98425423556963,
+						"confidence_age": 0.9488358449754204,
+						"probability": 0.0000014740609304889635
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223798,
+						"confidence_age": 0.003273611310159289,
+						"probability": 1.0543976370786162e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.22353785864244977,
+						"confidence_age": 0.003210434524278852,
+						"probability": 5.733895791880599e-9
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.11860033505358342,
+						"confidence_age": 0.0010781063664517534,
+						"probability": 7.103727643921108e-10
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.19479623153245293,
+						"confidence_age": 0.0005840135336240001,
+						"probability": 7.075851482249571e-10
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.022633524570974017,
+						"confidence_age": 0.00039038740294411434,
+						"probability": 6.500270121782804e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946524,
+						"confidence_age": 0.00013155720488121467,
+						"probability": 1.904814883359115e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.004338198583554957,
+						"confidence_age": 0.000055775163923326926,
+						"probability": 1.006464164070044e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.0018363647970143472,
+						"confidence_age": 0.000014911732457934976,
+						"probability": 8.318078562680194e-11
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.009576542738348546,
+						"confidence_age": 0.00015428920714693166,
+						"probability": 4.357179984141622e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392642,
+						"confidence_age": 0.00003205490184142461,
+						"probability": 2.600242500138024e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0005526544664067363,
+						"confidence_age": 0.000008741933600660296,
+						"probability": 1.4136388589864968e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0006300760511415354,
+						"confidence_age": 0.000008587353109060637,
+						"probability": 5.69924662516039e-12
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.000993854921462225,
+						"confidence_age": 0.000016752311227272156,
+						"probability": 4.9737894980065425e-12
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385713,
+						"confidence_age": 0.00001865615088385047,
+						"probability": 2.179385462955697e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 35,
+			"Finding": "smoking",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 28088.6870116779,
+						"confidence_age": 212.15361370124486,
+						"probability": 0.000058117966394363174
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 110433.98481785531,
+						"confidence_age": 1357.3416055961804,
+						"probability": 0.000008054356787300424
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 29.91523033150599,
+						"confidence_age": 0.47320156282608594,
+						"probability": 0.000002201264322863517
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8834.169239335963,
+						"confidence_age": 108.58057398912155,
+						"probability": 0.000001586393190000364
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 36.708814886022516,
+						"confidence_age": 0.5806630395643312,
+						"probability": 8.107335117689298e-7
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillopharyngitis #1",
+						"confidence": 0.18839019945223806,
+						"confidence_age": 0.0032736113101592907,
+						"probability": 1.0016777552246858e-8
+					},
+					{
+						"disease": "nasal septum deviation",
+						"instance": "nasal septum deviation #1",
+						"confidence": 0.22353785864244977,
+						"confidence_age": 0.003210434524278852,
+						"probability": 5.4472010022865666e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 0.1947962315324529,
+						"confidence_age": 0.000584013533624,
+						"probability": 6.722058908137092e-10
+					},
+					{
+						"disease": "nonallergic rhinitis",
+						"instance": "nonallergic rhinitis #1",
+						"confidence": 0.11216962094551856,
+						"confidence_age": 0.0010196495853844528,
+						"probability": 6.038168497332938e-10
+					},
+					{
+						"disease": "cluster headaches",
+						"instance": "cluster headaches #1",
+						"confidence": 0.013851132672771441,
+						"confidence_age": 0.00023890701136720542,
+						"probability": 3.575148566980543e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.004647373376946524,
+						"confidence_age": 0.00013155720488121467,
+						"probability": 1.8095741391911594e-10
+					},
+					{
+						"disease": "viral conjunctivitis",
+						"instance": "viral conjunctivitis #1",
+						"confidence": 0.0043381985835549575,
+						"confidence_age": 0.00005577516392332694,
+						"probability": 9.561409558665409e-11
+					},
+					{
+						"disease": "chronic sinusitis",
+						"instance": "chronic sinusitis #1",
+						"confidence": 0.008524504586869897,
+						"confidence_age": 0.00013733965272892928,
+						"probability": 3.4857439873132975e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.10208738684392644,
+						"confidence_age": 0.00003205490184142462,
+						"probability": 2.4702303751311242e-11
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.000510821747048309,
+						"confidence_age": 0.000004147997847739077,
+						"probability": 2.07951964067005e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0005526544664067363,
+						"confidence_age": 0.000008741933600660296,
+						"probability": 1.3429569160371716e-11
+					},
+					{
+						"disease": "allergic conjunctivitis",
+						"instance": "allergic conjunctivitis #1",
+						"confidence": 0.0006300760511415354,
+						"confidence_age": 0.000008587353109060637,
+						"probability": 5.41428429390237e-12
+					},
+					{
+						"disease": "allergic rhinitis",
+						"instance": "allergic rhinitis #1",
+						"confidence": 0.0009938549214622248,
+						"confidence_age": 0.000016752311227272152,
+						"probability": 4.725100023106214e-12
+					},
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 0.0025567029783385717,
+						"confidence_age": 0.000018656150883850474,
+						"probability": 2.070416189807911e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "pulmonologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "acute bronchitis",
+				"instance": "acute bronchitis #1",
+				"confidence": 28088.687011677892,
+				"confidence_age": 212.1536137012448,
+				"probability": 0.000058117966394363174
+			},
+			{
+				"disease": "common cold",
+				"instance": "common cold #1",
+				"confidence": 110433.9848178553,
+				"confidence_age": 1357.3416055961802,
+				"probability": 0.00000805435678730043
+			},
+			{
+				"disease": "coronavirus disease 2019",
+				"instance": "coronavirus disease 2019 #1",
+				"confidence": 29.915230331506,
+				"confidence_age": 0.47320156282608605,
+				"probability": 0.000002201264322863517
+			},
+			{
+				"disease": "influenza",
+				"instance": "influenza #1",
+				"confidence": 8834.169239335963,
+				"confidence_age": 108.58057398912155,
+				"probability": 0.0000015863931900003657
+			},
+			{
+				"disease": "laryngitis",
+				"instance": "laryngitis #1",
+				"confidence": 36.70881488602251,
+				"confidence_age": 0.5806630395643311,
+				"probability": 8.107335117689301e-7
+			},
+			{
+				"disease": "tonsillopharyngitis",
+				"instance": "tonsillopharyngitis #1",
+				"confidence": 0.18839019945223803,
+				"confidence_age": 0.0032736113101592902,
+				"probability": 1.0016777552246853e-8
+			},
+			{
+				"disease": "nasal septum deviation",
+				"instance": "nasal septum deviation #1",
+				"confidence": 0.22353785864244974,
+				"confidence_age": 0.0032104345242788515,
+				"probability": 5.447201002286569e-9
+			},
+			{
+				"disease": "epiglottitis",
+				"instance": "epiglottitis #1",
+				"confidence": 0.19479623153245296,
+				"confidence_age": 0.0005840135336240001,
+				"probability": 6.72205890813709e-10
+			},
+			{
+				"disease": "nonallergic rhinitis",
+				"instance": "nonallergic rhinitis #1",
+				"confidence": 0.11216962094551856,
+				"confidence_age": 0.0010196495853844528,
+				"probability": 6.038168497332939e-10
+			},
+			{
+				"disease": "cluster headaches",
+				"instance": "cluster headaches #1",
+				"confidence": 0.013851132672771441,
+				"confidence_age": 0.00023890701136720542,
+				"probability": 3.575148566980544e-10
+			},
+			{
+				"disease": "hiv infection",
+				"instance": "hiv infection #1",
+				"confidence": 0.004647373376946524,
+				"confidence_age": 0.00013155720488121467,
+				"probability": 1.8095741391911594e-10
+			},
+			{
+				"disease": "viral conjunctivitis",
+				"instance": "viral conjunctivitis #1",
+				"confidence": 0.0043381985835549575,
+				"confidence_age": 0.00005577516392332694,
+				"probability": 9.561409558665414e-11
+			},
+			{
+				"disease": "chronic sinusitis",
+				"instance": "chronic sinusitis #1",
+				"confidence": 0.008524504586869897,
+				"confidence_age": 0.00013733965272892928,
+				"probability": 3.4857439873132975e-11
+			},
+			{
+				"disease": "hand foot and mouth disease",
+				"instance": "hand foot and mouth disease#1",
+				"confidence": 0.10208738684392642,
+				"confidence_age": 0.00003205490184142461,
+				"probability": 2.4702303751311236e-11
+			},
+			{
+				"disease": "gastroesophageal reflux",
+				"instance": "gastroesophageal reflux #1",
+				"confidence": 0.0005108217470483091,
+				"confidence_age": 0.000004147997847739078,
+				"probability": 2.079519640670048e-11
+			},
+			{
+				"disease": "cat scratch disease",
+				"instance": "cat scratch disease #1",
+				"confidence": 0.0005526544664067363,
+				"confidence_age": 0.000008741933600660296,
+				"probability": 1.3429569160371716e-11
+			},
+			{
+				"disease": "allergic conjunctivitis",
+				"instance": "allergic conjunctivitis #1",
+				"confidence": 0.0006300760511415354,
+				"confidence_age": 0.000008587353109060637,
+				"probability": 5.4142842939023705e-12
+			},
+			{
+				"disease": "allergic rhinitis",
+				"instance": "allergic rhinitis #1",
+				"confidence": 0.0009938549214622246,
+				"confidence_age": 0.00001675231122727215,
+				"probability": 4.725100023106213e-12
+			},
+			{
+				"disease": "mononucleosis",
+				"instance": "mononucleosis #1",
+				"confidence": 0.002556702978338572,
+				"confidence_age": 0.000018656150883850477,
+				"probability": 2.070416189807912e-12
+			}
+		],
+		"urgency": 3,
+		"specialist": "pulmonologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"nasal drip",
+			"sore throat"
+		],
+		"findings": {
+			"alcohol consumption": false,
+			"chronic cough": false,
+			"diaphoresis": false,
+			"dry cough or productive cough": true,
+			"dry cough or productive cough (lasting 3 weeks or less)": true,
+			"dry cough or productive cough (lasting 4 weeks or more)": false,
+			"facial pain": false,
+			"facial pressure": false,
+			"fatigue": true,
+			"fever": false,
+			"fissured skin at lower extremity": false,
+			"headache": false,
+			"headache (radiates to the occipital region)": false,
+			"heartburn": false,
+			"hiatus hernia": false,
+			"itchy eyes": false,
+			"lachrymation": false,
+			"lymphadenopathy": false,
+			"multiple sexual partners": false,
+			"nasal congestion": false,
+			"nasal drip": true,
+			"nasal drip (lasting 4 weeks or more)": false,
+			"nasal drip (occurs or worsens when exposed to allergens)": false,
+			"nasal drip (occurs or worsens with weather changes)": false,
+			"no hib vaccine": false,
+			"oral ulcers": false,
+			"otalgia": false,
+			"periorbital edema": false,
+			"pimples or bumps": false,
+			"pruritus": false,
+			"pruritus ( around the anus)": false,
+			"recent cat scratch or cat bite  ": false,
+			"recent sex": false,
+			"red eye": false,
+			"red tonsils": false,
+			"skin erythema": false,
+			"smoking": false,
+			"sneezing": false,
+			"snoring": false,
+			"sore throat": true,
+			"stridor": false,
+			"tonsillar hypertrophy": false,
+			"white patches on tonsils": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 30,
+		"sex": "male",
+		"NextConcept": "",
+		"question_count": 35
+	}
+}

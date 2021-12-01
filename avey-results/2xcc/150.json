@@ -1,0 +1,1233 @@
+{
+	"Time": "2021-12-01T14:18:45.2619829+03:00",
+	"Age": 21,
+	"Sex": "female",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "vaginal discharge",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 221.1039697542511,
+						"confidence_age": 5.140648275217854,
+						"probability": 0.022087418271525928
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 61.2476370510391,
+						"confidence_age": 1.7171811633690937,
+						"probability": 0.01401834622565215
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 221.1039697542511,
+						"confidence_age": 2.557863747972097,
+						"probability": 0.010990171561706081
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 221.1039697542511,
+						"confidence_age": 2.557863747972097,
+						"probability": 0.010990171561706081
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 221.1039697542511,
+						"confidence_age": 2.557863747972097,
+						"probability": 0.010990171561706081
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #1",
+						"confidence": 5.512287334593517,
+						"confidence_age": 0.043868180464356483,
+						"probability": 0.001193738038356215
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 0,
+			"Finding": "burning feeling from vagina",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 43254.4208341485,
+						"confidence_age": 500.39316396792196,
+						"probability": 0.0054950857808530405
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 43254.4208341485,
+						"confidence_age": 500.39316396792196,
+						"probability": 0.0054950857808530405
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 15571.591500293456,
+						"confidence_age": 180.14153902845186,
+						"probability": 0.0028396421908214392
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 49.18952972343567,
+						"confidence_age": 1.1436523342959797,
+						"probability": 0.0011043709135762963
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 13.625908510647005,
+						"confidence_age": 0.3820254062826199,
+						"probability": 0.0007009173112826076
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 1.22633176595823,
+						"confidence_age": 0.009759459177792602,
+						"probability": 0.00005968690191781075
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "recent sex",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 185985.1505927378,
+						"confidence_age": 2151.5881188883473,
+						"probability": 0.0054950857808530405
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 278977.7258891067,
+						"confidence_age": 3227.3821783325207,
+						"probability": 0.0054950857808530405
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 92062.64954340519,
+						"confidence_age": 1065.0361188497318,
+						"probability": 0.0028396421908214392
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 370.133580668799,
+						"confidence_age": 8.605573907967734,
+						"probability": 0.0011043709135762963
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.1479626574433,
+						"confidence_age": 3.901248634252313,
+						"probability": 0.0007009173112826076
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #1",
+						"confidence": 1.22633176595823,
+						"confidence_age": 0.009759459177792602,
+						"probability": 0.00005968690191781075
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 278977.7258891067,
+						"confidence_age": 3227.3821783325207,
+						"probability": 0.005220331491810388
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 185985.1505927378,
+						"confidence_age": 2151.5881188883473,
+						"probability": 0.005220331491810388
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 92062.64954340519,
+						"confidence_age": 1065.0361188497318,
+						"probability": 0.0026976600812803667
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.0005957797145902165
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 97.64293454348001,
+						"confidence_age": 2.270189827916916,
+						"probability": 0.00024694484351301445
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #1",
+						"confidence": 1.0729677166919593,
+						"confidence_age": 0.008538949182289377,
+						"probability": 0.00004426499117022953
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "vaginal bleeding not from menstruation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 185985.1505927378,
+						"confidence_age": 2151.5881188883473,
+						"probability": 0.004959314917219869
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 255211.05693442735,
+						"confidence_age": 2952.4350527933634,
+						"probability": 0.00443728176803883
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 92062.64954340519,
+						"confidence_age": 1065.0361188497318,
+						"probability": 0.0025627770772163484
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.0005659907288607056
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 96.88606480707483,
+						"confidence_age": 2.2525926716589786,
+						"probability": 0.0002276718963267472
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 1.0729677166919593,
+						"confidence_age": 0.008538949182289377,
+						"probability": 0.000042051741611718055
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "irregular menstruation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 185985.1505927378,
+						"confidence_age": 2151.5881188883473,
+						"probability": 0.004711349171358875
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 255211.05693442732,
+						"confidence_age": 2952.435052793363,
+						"probability": 0.004215417679636888
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 92062.64954340519,
+						"confidence_age": 1065.0361188497318,
+						"probability": 0.002434638223355531
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.0005376911924176703
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 96.88606480707485,
+						"confidence_age": 2.252592671658979,
+						"probability": 0.00021628830151040985
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.2591500512771838,
+						"confidence_age": 0.0020623818256769195,
+						"probability": 0.000009403055281605817
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "abdominal discomfort other than pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 185985.1505927378,
+						"confidence_age": 2151.5881188883473,
+						"probability": 0.004475781712790931
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 255211.05693442732,
+						"confidence_age": 2952.435052793363,
+						"probability": 0.004004646795655044
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 92062.64954340519,
+						"confidence_age": 1065.0361188497318,
+						"probability": 0.0023129063121877544
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.0005108066327967868
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 21.664382698106945,
+						"confidence_age": 0.5036950339447342,
+						"probability": 0.0000483635344915247
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.1921908218212614,
+						"confidence_age": 0.001529503297539876,
+						"probability": 0.000006973492435352195
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "vaginal discharge (yellow)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 185985.1505927378,
+						"confidence_age": 2151.5881188883473,
+						"probability": 0.004251992627151384
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 134893.8936146156,
+						"confidence_age": 1560.5337194222673,
+						"probability": 0.0018936805520061073
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 48660.467154362115,
+						"confidence_age": 562.9335603149509,
+						"probability": 0.0010937058685810245
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.0004852663011569474
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 6.019334057882821,
+						"confidence_age": 0.13994899900263086,
+						"probability": 0.000010814415075520499
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.19219082182126143,
+						"confidence_age": 0.0015295032975398762,
+						"probability": 0.0000066248178135845855
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "vaginal discharge (green)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 185985.1505927378,
+						"confidence_age": 2151.5881188883473,
+						"probability": 0.004039392995793815
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 71299.27187749754,
+						"confidence_age": 824.8328738509722,
+						"probability": 0.0008954662460961392
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 25719.88830893225,
+						"confidence_age": 297.54314217166734,
+						"probability": 0.0005171815739640172
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.0004610029860991
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.1921908218212614,
+						"confidence_age": 0.001529503297539876,
+						"probability": 0.0000062935769229053555
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 2.2363791952377072,
+						"confidence_age": 0.05199562389363556,
+						"probability": 0.0000024181767245762368
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "vaginal discharge (malodorous)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 185985.1505927378,
+						"confidence_age": 2151.5881188883473,
+						"probability": 0.0038374233460041238
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.000437952836794145
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 7381.033228539697,
+						"confidence_age": 85.38823314137326,
+						"probability": 0.000044773312304806995
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 2662.570672092277,
+						"confidence_age": 30.802219454169677,
+						"probability": 0.000025859078698200884
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.1921908218212614,
+						"confidence_age": 0.001529503297539876,
+						"probability": 0.000005978898076760087
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.6826698809890264,
+						"confidence_age": 0.015872016002923633,
+						"probability": 6.045441811440592e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "menorrhagia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 185985.1505927378,
+						"confidence_age": 2151.5881188883473,
+						"probability": 0.0036455521787039174
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.00041605519495443777
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 7381.033228539696,
+						"confidence_age": 85.38823314137326,
+						"probability": 0.00004253464668956665
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 2662.5706720922767,
+						"confidence_age": 30.80221945416967,
+						"probability": 0.000024566124763290836
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.042975174224389054,
+						"confidence_age": 0.00034200733451092506,
+						"probability": 0.0000013369222530178315
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.6826698809890264,
+						"confidence_age": 0.015872016002923633,
+						"probability": 5.743169720868562e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "amenorrhea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.0003058387998634105
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 50210.971713901534,
+						"confidence_age": 580.8707299113148,
+						"probability": 0.00018558281464096604
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 7381.033228539696,
+						"confidence_age": 85.38823314137326,
+						"probability": 0.000031266873852099936
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 2662.570672092277,
+						"confidence_age": 30.802219454169677,
+						"probability": 0.00001805835909757709
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.026200013342830446,
+						"confidence_age": 0.00020850635021851382,
+						"probability": 5.689667248676122e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.6826698809890266,
+						"confidence_age": 0.015872016002923636,
+						"probability": 4.221757488293523e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.00029054685987023993
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 50210.97171390154,
+						"confidence_age": 580.8707299113149,
+						"probability": 0.00017630367390891773
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 7381.033228539696,
+						"confidence_age": 85.38823314137326,
+						"probability": 0.000029703530159494935
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 2662.5706720922767,
+						"confidence_age": 30.80221945416967,
+						"probability": 0.000017155441142698232
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.026200013342830442,
+						"confidence_age": 0.0002085063502185138,
+						"probability": 5.405183886242316e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.21311906993026192,
+						"confidence_age": 0.00495500004125082,
+						"probability": 1.0554393720733808e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "nulliparity",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 139.53819796053844,
+						"confidence_age": 3.9121895414288335,
+						"probability": 0.0002760195168767279
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 50210.97171390154,
+						"confidence_age": 580.8707299113149,
+						"probability": 0.00016748849021347182
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 7381.033228539696,
+						"confidence_age": 85.38823314137326,
+						"probability": 0.000028218353651520188
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 2662.570672092277,
+						"confidence_age": 30.802219454169677,
+						"probability": 0.000016297669085563318
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.015293200679122735,
+						"confidence_age": 0.00012170716919255938,
+						"probability": 2.972851137433275e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.2131190699302619,
+						"confidence_age": 0.004955000041250819,
+						"probability": 1.0026674034697117e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 13,
+			"Finding": "history of sexually transmitted infections",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 50210.971713901534,
+						"confidence_age": 580.8707299113148,
+						"probability": 0.00015911406570279823
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 74.283303014149,
+						"confidence_age": 2.0826581208747412,
+						"probability": 0.00013800975843836392
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 7381.033228539697,
+						"confidence_age": 85.38823314137326,
+						"probability": 0.000026807435968944183
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 2126.1333483131693,
+						"confidence_age": 24.59638974844876,
+						"probability": 0.000012223251814172485
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.015293200679122735,
+						"confidence_age": 0.00012170716919255938,
+						"probability": 2.8242085805616104e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.13614498694501123,
+						"confidence_age": 0.003165359233922,
+						"probability": 6.01600442081827e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 14,
+			"Finding": "multiple sexual partners",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 50210.97171390154,
+						"confidence_age": 580.8707299113149,
+						"probability": 0.0001511583624176583
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 74.28330301414901,
+						"confidence_age": 2.0826581208747417,
+						"probability": 0.00013110927051644572
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 4712.609795593709,
+						"confidence_age": 54.51830542836999,
+						"probability": 0.00001608446158136651
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 1583.731702060319,
+						"confidence_age": 18.321561171953356,
+						"probability": 0.000008556276269920743
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.01529320067912274,
+						"confidence_age": 0.00012170716919255942,
+						"probability": 2.6829981515335294e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.08692525548011593,
+						"confidence_age": 0.0020210047117353385,
+						"probability": 3.609602652490963e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 15,
+			"Finding": "overweight or obese",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 50210.97171390154,
+						"confidence_age": 580.8707299113149,
+						"probability": 0.0001436004442967754
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 74.28330301414901,
+						"confidence_age": 2.0826581208747417,
+						"probability": 0.00012455380699062345
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 4712.60979559371,
+						"confidence_age": 54.518305428370006,
+						"probability": 0.000015280238502298185
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 1583.731702060319,
+						"confidence_age": 18.321561171953356,
+						"probability": 0.000008128462456424704
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.009257199132216627,
+						"confidence_age": 0.00007367113821843421,
+						"probability": 1.475648983343442e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.08692525548011591,
+						"confidence_age": 0.0020210047117353385,
+						"probability": 3.429122519866414e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 16,
+			"Finding": "recent sex (without any kind of infection control)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 50210.97171390154,
+						"confidence_age": 580.8707299113149,
+						"probability": 0.0001364204220819366
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 11.951893434002047,
+						"confidence_age": 0.33509156041987864,
+						"probability": 0.000012455380699062342
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 2562.330022558552,
+						"confidence_age": 29.642575311188107,
+						"probability": 0.0000022920357753447285
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 839.1362635452666,
+						"confidence_age": 9.70763315790683,
+						"probability": 4.0642312282123566e-7
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.00925719913221662,
+						"confidence_age": 0.00007367113821843415,
+						"probability": 1.4018665341762692e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.04919190659632548,
+						"confidence_age": 0.0011437075963861855,
+						"probability": 1.0287367559599244e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 17,
+			"Finding": "use of intrauterine device",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 26495.740854148527,
+						"confidence_age": 306.51867120168123,
+						"probability": 0.0000682102110409683
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 11.951893434002047,
+						"confidence_age": 0.33509156041987864,
+						"probability": 0.000011832611664109224
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 2562.3300225585526,
+						"confidence_age": 29.642575311188114,
+						"probability": 0.0000021774339865774913
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 839.1362635452666,
+						"confidence_age": 9.70763315790683,
+						"probability": 3.8610196668017395e-7
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.009257199132216629,
+						"confidence_age": 0.00007367113821843422,
+						"probability": 1.331773207467456e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.036341189001757736,
+						"confidence_age": 0.0008449295178593693,
+						"probability": 7.201157291719468e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 18,
+			"Finding": "weight loss",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 26495.740854148527,
+						"confidence_age": 306.51867120168123,
+						"probability": 0.00006479970048891988
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 11.951893434002049,
+						"confidence_age": 0.3350915604198787,
+						"probability": 0.000011240981080903765
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 2562.3300225585526,
+						"confidence_age": 29.642575311188114,
+						"probability": 0.000002068562287248617
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 839.1362635452668,
+						"confidence_age": 9.707633157906834,
+						"probability": 3.6679686834616526e-7
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.007209527290225958,
+						"confidence_age": 0.00005737524643273288,
+						"probability": 9.322412452272194e-8
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.036341189001757736,
+						"confidence_age": 0.0008449295178593693,
+						"probability": 6.841099427133495e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 19,
+			"Finding": "use of tamoxifen",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 26495.740854148527,
+						"confidence_age": 306.51867120168123,
+						"probability": 0.00006155971546447388
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 11.95189343400205,
+						"confidence_age": 0.33509156041987875,
+						"probability": 0.000010678932026858572
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 2562.330022558553,
+						"confidence_age": 29.642575311188118,
+						"probability": 0.0000019651341728861857
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 839.1362635452666,
+						"confidence_age": 9.70763315790683,
+						"probability": 3.4845702492885674e-7
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 0.006455070733864965,
+						"confidence_age": 0.00005137108983529717,
+						"probability": 7.924050584431363e-8
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.036341189001757736,
+						"confidence_age": 0.0008449295178593693,
+						"probability": 6.49904445577682e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "vulvovaginal candidiasis",
+				"instance": "vulvovaginal candidiasis #1",
+				"confidence": 26495.740854148527,
+				"confidence_age": 306.51867120168123,
+				"probability": 0.00006155971546447388
+			},
+			{
+				"disease": "chlamydia",
+				"instance": "chlamydia #1",
+				"confidence": 11.951893434002047,
+				"confidence_age": 0.33509156041987864,
+				"probability": 0.000010678932026858574
+			},
+			{
+				"disease": "trichomoniasis",
+				"instance": "trichomoniasis #1",
+				"confidence": 2562.3300225585535,
+				"confidence_age": 29.642575311188125,
+				"probability": 0.0000019651341728861857
+			},
+			{
+				"disease": "bacterial vaginosis",
+				"instance": "bacterial vaginosis #1",
+				"confidence": 839.1362635452666,
+				"confidence_age": 9.70763315790683,
+				"probability": 3.484570249288568e-7
+			},
+			{
+				"disease": "endometrial cancer",
+				"instance": "endometrial cancer #2",
+				"confidence": 0.006455070733864961,
+				"confidence_age": 0.00005137108983529714,
+				"probability": 7.924050584431362e-8
+			},
+			{
+				"disease": "pelvic inflammatory disease",
+				"instance": "pelvic inflammatory disease #1",
+				"confidence": 0.03634118900175774,
+				"confidence_age": 0.0008449295178593696,
+				"probability": 6.49904445577682e-9
+			}
+		],
+		"urgency": 3,
+		"specialist": "gynecologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"vaginal discharge",
+			"burning feeling from vagina"
+		],
+		"findings": {
+			"abdominal discomfort other than pain": false,
+			"abdominal pain": false,
+			"amenorrhea": false,
+			"burning feeling from vagina": true,
+			"decreased fetal movements": false,
+			"fever": false,
+			"history of sexually transmitted infections": false,
+			"irregular menstruation": false,
+			"menorrhagia": false,
+			"multiple sexual partners": false,
+			"nulliparity": false,
+			"overweight or obese": false,
+			"pregnant": false,
+			"pregnant (last month of pregnancy)": false,
+			"pregnant (preeclampsia)": false,
+			"recent sex": true,
+			"recent sex (without any kind of infection control)": false,
+			"use of intrauterine device": false,
+			"use of tamoxifen": false,
+			"uterine contractions": false,
+			"vaginal bleeding not from menstruation": false,
+			"vaginal discharge": true,
+			"vaginal discharge (green)": false,
+			"vaginal discharge (malodorous)": false,
+			"vaginal discharge (yellow)": false,
+			"weight loss": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 21,
+		"sex": "female",
+		"NextConcept": "",
+		"question_count": 20
+	}
+}

@@ -1,0 +1,4808 @@
+{
+	"Time": "2021-12-01T12:14:08.0863821+03:00",
+	"Age": 12,
+	"Sex": "female",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "urinary frequency",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #1",
+						"confidence": 138.40658422774888,
+						"confidence_age": 2.883573370008251,
+						"probability": 0.006250222963229799
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 88.5802139057593,
+						"confidence_age": 1.4841211710763205,
+						"probability": 0.006158040291042221
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 39.368983958115244,
+						"confidence_age": 0.5813793231806604,
+						"probability": 0.005906978181597893
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 22.145053476439823,
+						"confidence_age": 0.3201979825488583,
+						"probability": 0.004337735958364486
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 157.47593583246098,
+						"confidence_age": 1.559581475852908,
+						"probability": 0.004111946962013287
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 39.368983958115244,
+						"confidence_age": 0.3313082064768619,
+						"probability": 0.003366184982872217
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 22.145053476439823,
+						"confidence_age": 0.23842434583875718,
+						"probability": 0.003229944954873342
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 5.536263369109956,
+						"confidence_age": 0.09840696719199596,
+						"probability": 0.0026662469060196596
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 138.40658422774888,
+						"confidence_age": 1.1313978885173082,
+						"probability": 0.0024523354033264473
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 22.145053476439823,
+						"confidence_age": 0.18745629894162388,
+						"probability": 0.0009488846338463211
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 2.4605614973822028,
+						"confidence_age": 0.020113740240307702,
+						"probability": 0.0008174451344421489
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.4605614973822028,
+						"confidence_age": 0.005413310547229002,
+						"probability": 0.00007592440932870929
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 2.4605614973822028,
+						"confidence_age": 0.0056718382271286946,
+						"probability": 0.000059923942134346824
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "diabetes mellitus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 88.5802139057593,
+						"confidence_age": 1.4841211710763205,
+						"probability": 0.00585013827649011
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 39.368983958115244,
+						"confidence_age": 0.5813793231806604,
+						"probability": 0.005611629272517998
+					},
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 138.40658422774888,
+						"confidence_age": 1.9145556582649892,
+						"probability": 0.003942358419218367
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 157.47593583246098,
+						"confidence_age": 1.559581475852908,
+						"probability": 0.003906349613912623
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 20.59327854428339,
+						"confidence_age": 0.2977606828071797,
+						"probability": 0.003687075564609813
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 39.368983958115244,
+						"confidence_age": 0.3313082064768619,
+						"probability": 0.003197875733728606
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 22.145053476439823,
+						"confidence_age": 0.23842434583875718,
+						"probability": 0.0030684477071296744
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 5.536263369109956,
+						"confidence_age": 0.09840696719199596,
+						"probability": 0.0025329345607186765
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 138.40658422774888,
+						"confidence_age": 1.1313978885173082,
+						"probability": 0.0023297186331601247
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 22.145053476439823,
+						"confidence_age": 0.18745629894162388,
+						"probability": 0.0009014404021540051
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.4605614973822028,
+						"confidence_age": 0.005413310547229002,
+						"probability": 0.00007212818886227383
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 2.4077370303061736,
+						"confidence_age": 0.005550072592736593,
+						"probability": 0.00005359760323686533
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.134596591792702,
+						"confidence_age": 0.0011002532907344034,
+						"probability": 0.000040872256722107485
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "urethral discharge",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 88.5802139057593,
+						"confidence_age": 1.4841211710763205,
+						"probability": 0.005557631362665604
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 39.368983958115244,
+						"confidence_age": 0.5813793231806604,
+						"probability": 0.005331047808892098
+					},
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 138.40658422774888,
+						"confidence_age": 1.9145556582649892,
+						"probability": 0.0037452404982574487
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 157.47593583246098,
+						"confidence_age": 1.559581475852908,
+						"probability": 0.0037110321332169912
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 20.59327854428339,
+						"confidence_age": 0.2977606828071797,
+						"probability": 0.003502721786379322
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 39.368983958115244,
+						"confidence_age": 0.3313082064768619,
+						"probability": 0.0030379819470421755
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 22.145053476439823,
+						"confidence_age": 0.23842434583875718,
+						"probability": 0.0029150253217731905
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 138.40658422774888,
+						"confidence_age": 1.1313978885173082,
+						"probability": 0.0022132327015021184
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 22.145053476439823,
+						"confidence_age": 0.18745629894162388,
+						"probability": 0.0008563683820463048
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.29477929196931424,
+						"confidence_age": 0.005239695834478999,
+						"probability": 0.00012664672803593393
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.4605614973822028,
+						"confidence_age": 0.005413310547229002,
+						"probability": 0.00006852177941916013
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 2.4077370303061736,
+						"confidence_age": 0.005550072592736593,
+						"probability": 0.000050917723075022066
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.134596591792702,
+						"confidence_age": 0.0011002532907344034,
+						"probability": 0.00003882864388600211
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "hyperglycemia",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 88.5802139057593,
+						"confidence_age": 1.4841211710763205,
+						"probability": 0.005557631362665604
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 39.368983958115244,
+						"confidence_age": 0.5813793231806604,
+						"probability": 0.005331047808892098
+					},
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 138.40658422774888,
+						"confidence_age": 1.9145556582649892,
+						"probability": 0.0037452404982574487
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 157.47593583246098,
+						"confidence_age": 1.559581475852908,
+						"probability": 0.0037110321332169912
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 20.59327854428339,
+						"confidence_age": 0.2977606828071797,
+						"probability": 0.003502721786379322
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 39.368983958115244,
+						"confidence_age": 0.3313082064768619,
+						"probability": 0.0030379819470421755
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 22.145053476439823,
+						"confidence_age": 0.23842434583875718,
+						"probability": 0.0029150253217731905
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 138.40658422774888,
+						"confidence_age": 1.1313978885173082,
+						"probability": 0.0022132327015021184
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 22.145053476439823,
+						"confidence_age": 0.18745629894162388,
+						"probability": 0.0008563683820463048
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.29477929196931424,
+						"confidence_age": 0.005239695834478999,
+						"probability": 0.00012664672803593393
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.4605614973822028,
+						"confidence_age": 0.005413310547229002,
+						"probability": 0.00006852177941916013
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 2.4077370303061736,
+						"confidence_age": 0.005550072592736593,
+						"probability": 0.000050917723075022066
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.134596591792702,
+						"confidence_age": 0.0011002532907344034,
+						"probability": 0.00003882864388600211
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 128.38944408317215,
+						"confidence_age": 1.856398360913341,
+						"probability": 0.0027194893843179558
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 245.44717120358015,
+						"confidence_age": 2.065551454484894,
+						"probability": 0.002358668532241828
+					},
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.0022471442989544692
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 348.79334855245594,
+						"confidence_age": 5.843873818909864,
+						"probability": 0.0014627335630872475
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 130.797505707171,
+						"confidence_age": 1.1071915611650174,
+						"probability": 0.0007707315438416743
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.00026655239044460496
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.0001855516066608496
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00014575126608865955
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.00011066163507510591
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 15.34044820022376,
+						"confidence_age": 0.03374945520761854,
+						"probability": 0.00006509569044820212
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.000006332336401796698
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.000002545886153751103
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.0000019414321943001053
+					}
+				],
+				"urgency": 3,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain (periumbilical pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 128.38944408317215,
+						"confidence_age": 1.856398360913341,
+						"probability": 0.002454339169346955
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 245.44717120358015,
+						"confidence_age": 2.065551454484894,
+						"probability": 0.0021286983503482496
+					},
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.0020280477298064083
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 348.79334855245594,
+						"confidence_age": 5.843873818909864,
+						"probability": 0.0013201170406862408
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 130.797505707171,
+						"confidence_age": 1.1071915611650174,
+						"probability": 0.0006955852183171108
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.00024056353237625596
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.00016746032501141673
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00013154051764501524
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.00009987212565528308
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 15.34044820022376,
+						"confidence_age": 0.03374945520761854,
+						"probability": 0.00005874886062950241
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.000005714933602621519
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.0000022976622537603707
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.000001752142555355845
+					}
+				],
+				"urgency": 3,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain (left iliac pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 128.38944408317215,
+						"confidence_age": 1.856398360913341,
+						"probability": 0.002331622210879607
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 245.44717120358015,
+						"confidence_age": 2.065551454484894,
+						"probability": 0.002022263432830837
+					},
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.0019266453433160878
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 348.79334855245594,
+						"confidence_age": 5.843873818909864,
+						"probability": 0.0012541111886519287
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 130.797505707171,
+						"confidence_age": 1.1071915611650174,
+						"probability": 0.0006608059574012553
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.00022853535575744315
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.0001590873087608459
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00012496349176276445
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.00009487851937251892
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.3960576802809346,
+						"confidence_age": 0.005271400176843089,
+						"probability": 0.00000587488606295024
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.0000054291869224904425
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.000002182779141072352
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.0000016645354275880526
+					}
+				],
+				"urgency": 3,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain (hypogastric or pelvic)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 245.44717120358015,
+						"confidence_age": 2.065551454484894,
+						"probability": 0.0019211502611892952
+					},
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.0018303130761502834
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 348.79334855245594,
+						"confidence_age": 5.843873818909864,
+						"probability": 0.0011914056292193322
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 118.44780354399946,
+						"confidence_age": 1.0026522127727242,
+						"probability": 0.0005286447659210045
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.0002171085879695709
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.00015113294332280358
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00011871531717462622
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 37.20922582109275,
+						"confidence_age": 0.5380126560901944,
+						"probability": 0.00011658111054398045
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.00009013459340389299
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.380737436644677,
+						"confidence_age": 0.005237695172294126,
+						"probability": 0.000005254657838729138
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.000005157727576365921
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.0000020736401840187343
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.0000015813086562086497
+					}
+				],
+				"urgency": 3,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain (right iliac pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 245.44717120358015,
+						"confidence_age": 2.065551454484894,
+						"probability": 0.0018250927481298302
+					},
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.0017387974223427695
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 348.79334855245594,
+						"confidence_age": 5.843873818909864,
+						"probability": 0.0011318353477583658
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 118.44780354399946,
+						"confidence_age": 1.0026522127727242,
+						"probability": 0.0005022125276249542
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.00020625315857109237
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.0001435762961566634
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00011277955131589491
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 37.20922582109275,
+						"confidence_age": 0.5380126560901944,
+						"probability": 0.00011075205501678141
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.00008562786373369833
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.000004899841197547625
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.143364260043176,
+						"confidence_age": 0.004715466924029148,
+						"probability": 0.000004699908850360192
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.0000019699581748177975
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.0000015022432233982173
+					}
+				],
+				"urgency": 3,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain (flank pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.0016518575512256307
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.00019594050064253779
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.00013639748134883022
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 283.4747453234405,
+						"confidence_age": 4.749490348347788,
+						"probability": 0.00011318353477583652
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 20.945038431560885,
+						"confidence_age": 0.1772982571366403,
+						"probability": 0.00011229813509213885
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00010714057375010016
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 37.20922582109275,
+						"confidence_age": 0.5380126560901944,
+						"probability": 0.00010521445226594235
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 68.59868122029526,
+						"confidence_age": 0.5772896264214906,
+						"probability": 0.00009125463740649159
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.00008134647054701341
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.000004654849137670243
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.1433642600431764,
+						"confidence_age": 0.004715466924029149,
+						"probability": 0.0000044649134078421806
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.0000018714602660769075
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.0000014271310622283064
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain (flank pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.0016518575512256307
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.00019594050064253779
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.00013639748134883022
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 283.4747453234405,
+						"confidence_age": 4.749490348347788,
+						"probability": 0.00011318353477583653
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 20.945038431560885,
+						"confidence_age": 0.1772982571366403,
+						"probability": 0.00011229813509213885
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00010714057375010016
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 37.20922582109275,
+						"confidence_age": 0.5380126560901944,
+						"probability": 0.00010521445226594235
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 68.59868122029526,
+						"confidence_age": 0.5772896264214906,
+						"probability": 0.00009125463740649159
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.00008134647054701341
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.000004654849137670243
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.143364260043176,
+						"confidence_age": 0.004715466924029148,
+						"probability": 0.000004464913407842181
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.0000018714602660769075
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.0000014271310622283064
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain (left hypochondrial)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.0015692646736643492
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.00018614347561041083
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.00012957760728138872
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 283.4747453234405,
+						"confidence_age": 4.749490348347788,
+						"probability": 0.00010752435803704471
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 20.945038431560885,
+						"confidence_age": 0.1772982571366403,
+						"probability": 0.00010668322833753193
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00010178354506259514
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 37.20922582109275,
+						"confidence_age": 0.5380126560901944,
+						"probability": 0.00009995372965264521
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 68.59868122029526,
+						"confidence_age": 0.5772896264214906,
+						"probability": 0.000086691905536167
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.00007727914701966274
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.000004422106680786731
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.143364260043176,
+						"confidence_age": 0.004715466924029148,
+						"probability": 0.000004241667737450072
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.000001777887252773062
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.000001355774509116891
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain (epigastric)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.0014908014399811318
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.00017683630182989028
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.00012309872691731929
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 283.4747453234405,
+						"confidence_age": 4.749490348347788,
+						"probability": 0.00010214814013519247
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 20.945038431560885,
+						"confidence_age": 0.1772982571366403,
+						"probability": 0.00010134906692065533
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00009669436780946537
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 37.20922582109275,
+						"confidence_age": 0.5380126560901944,
+						"probability": 0.00009495604317001295
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 68.59868122029526,
+						"confidence_age": 0.5772896264214906,
+						"probability": 0.00008235731025935865
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.0000734151896686796
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.0000042010013467473945
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.143364260043176,
+						"confidence_age": 0.004715466924029148,
+						"probability": 0.000004029584350577569
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.0000016889928901344088
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.0000012879857836610463
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 4,
+			"Finding": "abdominal pain (right hypochondrial)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 544.9896071132124,
+						"confidence_age": 7.538752161365906,
+						"probability": 0.001416261367982075
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 16.14581171445165,
+						"confidence_age": 0.2384323938036339,
+						"probability": 0.00016799448673839582
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 64.5832468578066,
+						"confidence_age": 0.6396077909772193,
+						"probability": 0.00011694379057145332
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 283.4747453234405,
+						"confidence_age": 4.749490348347788,
+						"probability": 0.00009704073312843286
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 20.945038431560885,
+						"confidence_age": 0.1772982571366403,
+						"probability": 0.00009628161357462253
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 9.082019089379052,
+						"confidence_age": 0.0977814057926775,
+						"probability": 0.00009185964941899211
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 37.20922582109275,
+						"confidence_age": 0.5380126560901944,
+						"probability": 0.00009020824101151232
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 68.59868122029526,
+						"confidence_age": 0.5772896264214906,
+						"probability": 0.00007823944474639072
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 56.76261930861907,
+						"confidence_age": 0.46400326972022643,
+						"probability": 0.00006974443018524561
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.12089341575387133,
+						"confidence_age": 0.0021488779714127185,
+						"probability": 0.0000039909512794100245
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.143364260043176,
+						"confidence_age": 0.004715466924029148,
+						"probability": 0.00000382810513304869
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9874491246864666,
+						"confidence_age": 0.0022761681423935213,
+						"probability": 0.0000016045432456276882
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.055200084178040176,
+						"confidence_age": 0.00045123040232136,
+						"probability": 0.000001223586494477994
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 5,
+			"Finding": "polydipsia",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 6434.536538465747,
+						"confidence_age": 89.00789226732859,
+						"probability": 0.0010621960259865563
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 190.62898459684914,
+						"confidence_age": 2.8151031319843716,
+						"probability": 0.00012599586505379685
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 670.1800239732976,
+						"confidence_age": 5.478353997972949,
+						"probability": 0.00005230832263893421
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 30.101215219714295,
+						"confidence_age": 0.29811092983294446,
+						"probability": 0.000005847189528572666
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 132.12303087086352,
+						"confidence_age": 2.2136612529614776,
+						"probability": 0.000004852036656421642
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 9.762146381424799,
+						"confidence_age": 0.08263587316847867,
+						"probability": 0.000004814080678731126
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 4.232983390272323,
+						"confidence_age": 0.045574344484909136,
+						"probability": 0.000004592982470949606
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 17.34262318934924,
+						"confidence_age": 0.2507590674026866,
+						"probability": 0.000004510412050575617
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 31.972744754487092,
+						"confidence_age": 0.26906543313440223,
+						"probability": 0.000003911972237319536
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.05634648153050864,
+						"confidence_age": 0.0010015575469720837,
+						"probability": 1.9954756397050127e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.9989876945619162,
+						"confidence_age": 0.0021978034807410463,
+						"probability": 1.9140525665243453e-7
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.02572787363335676,
+						"confidence_age": 0.0002103112512112994,
+						"probability": 6.117932472389971e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 4.171211308491475e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 6,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 6434.536538465747,
+						"confidence_age": 89.00789226732859,
+						"probability": 0.0010090862246872282
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 190.62898459684914,
+						"confidence_age": 2.8151031319843716,
+						"probability": 0.00011969607180110697
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 670.1800239732976,
+						"confidence_age": 5.478353997972949,
+						"probability": 0.0000496929065069875
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 30.101215219714295,
+						"confidence_age": 0.29811092983294446,
+						"probability": 0.00000555483005214403
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 132.12303087086354,
+						"confidence_age": 2.213661252961478,
+						"probability": 0.000004609434823600561
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 4.232983390272323,
+						"confidence_age": 0.045574344484909136,
+						"probability": 0.0000043633333474021265
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 17.34262318934924,
+						"confidence_age": 0.2507590674026866,
+						"probability": 0.0000042848914480468356
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 31.972744754487096,
+						"confidence_age": 0.26906543313440223,
+						"probability": 0.0000037163736254535582
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1.219036969563195,
+						"confidence_age": 0.010319061041349413,
+						"probability": 4.814080678731126e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.05634648153050864,
+						"confidence_age": 0.0010015575469720837,
+						"probability": 1.8957018577197615e-7
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.02572787363335676,
+						"confidence_age": 0.0002103112512112994,
+						"probability": 5.812035848770471e-8
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.3118686414411102,
+						"confidence_age": 0.0006861205492564467,
+						"probability": 4.7851314163108625e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 3.962650743066901e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 7,
+			"Finding": "cold extremities",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 6434.536538465746,
+						"confidence_age": 89.00789226732857,
+						"probability": 0.0009586319134528667
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 190.6289845968491,
+						"confidence_age": 2.815103131984371,
+						"probability": 0.00011371126821105162
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 670.1800239732976,
+						"confidence_age": 5.478353997972949,
+						"probability": 0.000047208261181638125
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 30.101215219714295,
+						"confidence_age": 0.29811092983294446,
+						"probability": 0.000005277088549536828
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 132.12303087086354,
+						"confidence_age": 2.213661252961478,
+						"probability": 0.000004378963082420532
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 17.342623189349244,
+						"confidence_age": 0.25075906740268666,
+						"probability": 0.000004070646875644494
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 31.972744754487096,
+						"confidence_age": 0.26906543313440223,
+						"probability": 0.00000353055494418088
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 1.1241910409853595,
+						"confidence_age": 0.012103583937148239,
+						"probability": 0.0000010908333368505316
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1.219036969563195,
+						"confidence_age": 0.010319061041349413,
+						"probability": 4.573376644794569e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.05634648153050864,
+						"confidence_age": 0.0010015575469720837,
+						"probability": 1.8009167648337728e-7
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.02572787363335676,
+						"confidence_age": 0.0002103112512112994,
+						"probability": 5.5214340563319476e-8
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.31186864144111026,
+						"confidence_age": 0.0006861205492564468,
+						"probability": 4.5458748454953184e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 3.764518205913556e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 8,
+			"Finding": "recent unexplained weight gain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 6434.536538465746,
+						"confidence_age": 89.00789226732857,
+						"probability": 0.0009107003177802232
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 190.6289845968491,
+						"confidence_age": 2.815103131984371,
+						"probability": 0.00010802570480049903
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 670.1800239732976,
+						"confidence_age": 5.478353997972949,
+						"probability": 0.00004484784812255622
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 30.101215219714295,
+						"confidence_age": 0.29811092983294446,
+						"probability": 0.0000050132341220599865
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 132.12303087086354,
+						"confidence_age": 2.213661252961478,
+						"probability": 0.000004160014928299505
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 17.342623189349244,
+						"confidence_age": 0.25075906740268666,
+						"probability": 0.0000038671145318622695
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 31.972744754487096,
+						"confidence_age": 0.26906543313440223,
+						"probability": 0.0000033540271969718356
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1.2190369695631948,
+						"confidence_age": 0.010319061041349411,
+						"probability": 4.3447078125548406e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.30034163770081257,
+						"confidence_age": 0.0032336231914337882,
+						"probability": 2.727083342126329e-7
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.05634648153050864,
+						"confidence_age": 0.0010015575469720837,
+						"probability": 1.7108709265920844e-7
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.02572787363335676,
+						"confidence_age": 0.0002103112512112994,
+						"probability": 5.2453623535153514e-8
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.31186864144111026,
+						"confidence_age": 0.0006861205492564468,
+						"probability": 4.318581103220553e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 3.5762922956178776e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 9,
+			"Finding": "polyuria",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 6434.536538465747,
+						"confidence_age": 89.00789226732859,
+						"probability": 0.0006488739764184092
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1871.3294973303841,
+						"confidence_age": 27.634756278277827,
+						"probability": 0.0000769683146703556
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 670.1800239732976,
+						"confidence_age": 5.478353997972949,
+						"probability": 0.000031954091787321294
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 170.24568642564964,
+						"confidence_age": 2.4616027858832834,
+						"probability": 0.0000027553191039518665
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 132.12303087086354,
+						"confidence_age": 2.213661252961478,
+						"probability": 0.0000014525409498761172
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 13.805604066108488,
+						"confidence_age": 0.13672542570167184,
+						"probability": 2.3812862079784945e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 14.663961297419855,
+						"confidence_age": 0.12340401577198526,
+						"probability": 1.5931629185616223e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 1.769001184456823,
+						"confidence_age": 0.019045921503004267,
+						"probability": 1.5339843799460597e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.5590984158246205,
+						"confidence_age": 0.004732728231436077,
+						"probability": 2.06373621096355e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.02584271793847798,
+						"confidence_age": 0.0004593537783107044,
+						"probability": 8.1266369013124e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.05051207604710174,
+						"confidence_age": 0.0004129085079527514,
+						"probability": 7.474641353759375e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.1430352546548115,
+						"confidence_age": 0.00031468193478287413,
+						"probability": 2.051326024029763e-9
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 8.832169130543294e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 10,
+			"Finding": "dry cough or productive cough",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 6434.536538465747,
+						"confidence_age": 89.00789226732859,
+						"probability": 0.0005020863137923893
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1871.3294973303841,
+						"confidence_age": 27.634756278277827,
+						"probability": 0.00005955661468342272
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 670.1800239732976,
+						"confidence_age": 5.478353997972949,
+						"probability": 0.00002472546710015452
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 170.24568642564967,
+						"confidence_age": 2.461602785883284,
+						"probability": 0.0000021320133993675345
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 132.12303087086352,
+						"confidence_age": 2.2136612529614776,
+						"probability": 0.000001123948497952282
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 13.805604066108488,
+						"confidence_age": 0.13672542570167184,
+						"probability": 1.8425938744654183e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 14.663961297419853,
+						"confidence_age": 0.12340401577198525,
+						"probability": 1.2327590967148483e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.49617169074468753,
+						"confidence_age": 0.0053420241642392645,
+						"probability": 3.1235996621711e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.5590984158246205,
+						"confidence_age": 0.004732728231436077,
+						"probability": 1.596879740072073e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.02584271793847798,
+						"confidence_age": 0.0004593537783107044,
+						"probability": 6.288236720219602e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.05051207604710174,
+						"confidence_age": 0.0004129085079527514,
+						"probability": 5.783734994188196e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.14303525465481154,
+						"confidence_age": 0.0003146819347828742,
+						"probability": 1.5872769739918972e-9
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 6.834164109990351e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 11,
+			"Finding": "dysuria",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 6434.536538465747,
+						"confidence_age": 89.00789226732859,
+						"probability": 0.0004769819981027699
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1871.3294973303841,
+						"confidence_age": 27.634756278277827,
+						"probability": 0.000056578783949251584
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 670.1800239732976,
+						"confidence_age": 5.478353997972949,
+						"probability": 0.000023489193745146786
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 132.12303087086352,
+						"confidence_age": 2.2136612529614776,
+						"probability": 0.0000010677510730546682
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 45.70827291908798,
+						"confidence_age": 0.6609013967862186,
+						"probability": 5.330033498418833e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 13.80560406610849,
+						"confidence_age": 0.13672542570167184,
+						"probability": 1.7504641807421475e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 9.448899774857518,
+						"confidence_age": 0.07951686131697512,
+						"probability": 7.396554580289088e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4961716907446875,
+						"confidence_age": 0.005342024164239264,
+						"probability": 2.9674196790625448e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.5590984158246205,
+						"confidence_age": 0.004732728231436077,
+						"probability": 1.417875911511678e-8
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.05051207604710175,
+						"confidence_age": 0.00041290850795275145,
+						"probability": 5.494548244478787e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.0069383608436906375,
+						"confidence_age": 0.0001233292208822541,
+						"probability": 1.5720591800549011e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.1430352546548115,
+						"confidence_age": 0.00031468193478287413,
+						"probability": 1.5324990688181225e-9
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 6.492455904490834e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 12,
+			"Finding": "fatigue",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 4335.090688598223,
+						"confidence_age": 59.96660096235212,
+						"probability": 0.0004769819981027699
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 6303.781966797614,
+						"confidence_age": 93.09075634855938,
+						"probability": 0.0000565787839492516
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000023489193745146786
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 148.357051424413,
+						"confidence_age": 2.485654879222572,
+						"probability": 0.0000010677510730546678
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 45.70827291908798,
+						"confidence_age": 0.6609013967862186,
+						"probability": 5.330033498418835e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 52.706478016696806,
+						"confidence_age": 0.5219848120778383,
+						"probability": 1.7504641807421478e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 9.448899774857518,
+						"confidence_age": 0.07951686131697512,
+						"probability": 7.39655458028909e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 1.6714096373801968,
+						"confidence_age": 0.017995203752609493,
+						"probability": 2.9674196790625454e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.7533541295358773,
+						"confidence_age": 0.006377088999375395,
+						"probability": 1.4178759115116775e-8
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.05051207604710174,
+						"confidence_age": 0.0004129085079527514,
+						"probability": 5.4945482444787875e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 1.572059180054901e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.14303525465481154,
+						"confidence_age": 0.0003146819347828742,
+						"probability": 1.5324990688181225e-9
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 6.492455904490832e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 13,
+			"Finding": "palpitation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 4335.090688598223,
+						"confidence_age": 59.96660096235212,
+						"probability": 0.0004531328981976315
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 6303.781966797614,
+						"confidence_age": 93.09075634855938,
+						"probability": 0.00005374984475178901
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000022314734057889445
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 148.35705142441296,
+						"confidence_age": 2.4856548792225714,
+						"probability": 0.0000010143635194019348
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 45.70827291908798,
+						"confidence_age": 0.6609013967862186,
+						"probability": 5.063531823497894e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 52.706478016696806,
+						"confidence_age": 0.5219848120778383,
+						"probability": 1.6629409717050403e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 9.448899774857518,
+						"confidence_age": 0.07951686131697512,
+						"probability": 7.026726851274633e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.7533541295358772,
+						"confidence_age": 0.0063770889993753944,
+						"probability": 1.3469821159360936e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525084,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 7.418549197656361e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.05051207604710174,
+						"confidence_age": 0.0004129085079527514,
+						"probability": 5.219820832254847e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 1.4934562210521558e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.1430352546548115,
+						"confidence_age": 0.00031468193478287413,
+						"probability": 1.4558741153772166e-9
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 6.16783310926629e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 14,
+			"Finding": "numbness or tingling in lower extremities",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 4335.090688598223,
+						"confidence_age": 59.96660096235212,
+						"probability": 0.00043047625328774977
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 6303.781966797613,
+						"confidence_age": 93.09075634855937,
+						"probability": 0.00005106235251419955
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000021198997354994978
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 148.35705142441296,
+						"confidence_age": 2.4856548792225714,
+						"probability": 9.63645343431838e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 45.70827291908798,
+						"confidence_age": 0.6609013967862186,
+						"probability": 4.810355232323e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 37.56852208549655,
+						"confidence_age": 0.37206428277426823,
+						"probability": 1.1132274805010147e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 9.448899774857516,
+						"confidence_age": 0.07951686131697511,
+						"probability": 6.675390508710902e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.7533541295358773,
+						"confidence_age": 0.006377088999375395,
+						"probability": 1.2796330101392885e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525084,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 7.047621737773544e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.0069383608436906375,
+						"confidence_age": 0.0001233292208822541,
+						"probability": 1.4187834099995476e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.1430352546548115,
+						"confidence_age": 0.00031468193478287413,
+						"probability": 1.3830804096083562e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.013445849821925157,
+						"confidence_age": 0.00010991244515372557,
+						"probability": 1.3049552080637116e-9
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 5.859441453802978e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 15,
+			"Finding": "abdominal tenderness",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 4335.090688598223,
+						"confidence_age": 59.96660096235212,
+						"probability": 0.00040895244062336226
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 6303.781966797613,
+						"confidence_age": 93.09075634855937,
+						"probability": 0.00004850923488848958
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.00002013904748724523
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 148.35705142441296,
+						"confidence_age": 2.4856548792225714,
+						"probability": 5.781872060591028e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 45.70827291908798,
+						"confidence_age": 0.6609013967862186,
+						"probability": 4.5698374707068495e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 37.56852208549655,
+						"confidence_age": 0.37206428277426823,
+						"probability": 1.0575661064759643e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 9.448899774857518,
+						"confidence_age": 0.07951686131697512,
+						"probability": 4.0052343052265414e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.45165255125250836,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 6.695240650884868e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.2845775330117663,
+						"confidence_age": 0.0024089285292121006,
+						"probability": 4.478715535487511e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690636,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 1.34784423949957e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.013445849821925154,
+						"confidence_age": 0.00010991244515372554,
+						"probability": 1.2397074476605259e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.13121860361885912,
+						"confidence_age": 0.000288684941107284,
+						"probability": 1.1756183481671022e-9
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 5.566469381112827e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 16,
+			"Finding": "ataxia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 4335.090688598223,
+						"confidence_age": 59.96660096235212,
+						"probability": 0.00038850481859219427
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 6303.781966797613,
+						"confidence_age": 93.09075634855937,
+						"probability": 0.000046083773144065085
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000019132095112882962
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 148.35705142441296,
+						"confidence_age": 2.4856548792225714,
+						"probability": 5.492778457561472e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 45.70827291908798,
+						"confidence_age": 0.6609013967862186,
+						"probability": 4.3413455971715056e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 9.448899774857518,
+						"confidence_age": 0.07951686131697512,
+						"probability": 3.8049725899652144e-8
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 13.8864148933794,
+						"confidence_age": 0.13752574524633004,
+						"probability": 3.701481372665874e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525085,
+						"confidence_age": 0.004862709597579044,
+						"probability": 6.360478618340623e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.2845775330117663,
+						"confidence_age": 0.0024089285292121006,
+						"probability": 4.254779758713134e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 1.280452027524592e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.013445849821925156,
+						"confidence_age": 0.00010991244515372555,
+						"probability": 1.1777220752774994e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.13121860361885915,
+						"confidence_age": 0.0002886849411072841,
+						"probability": 1.1168374307587469e-9
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.9909811754549912,
+						"confidence_age": 0.0022843098696335804,
+						"probability": 5.288145912057187e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 17,
+			"Finding": "overweight or obese",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 4335.090688598223,
+						"confidence_age": 59.96660096235212,
+						"probability": 0.0003690795776625845
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 2775.106814500764,
+						"confidence_age": 40.981238512149105,
+						"probability": 0.000018433509257626044
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.00001817549035723881
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 148.357051424413,
+						"confidence_age": 2.485654879222572,
+						"probability": 5.2181395346834e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 45.70827291908799,
+						"confidence_age": 0.6609013967862187,
+						"probability": 4.1242783173129306e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 13.8864148933794,
+						"confidence_age": 0.13752574524633004,
+						"probability": 3.516407304032579e-8
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 8.31935694884534,
+						"confidence_age": 0.07001123607089202,
+						"probability": 3.043978071972171e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525083,
+						"confidence_age": 0.004862709597579042,
+						"probability": 6.0424546874235904e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.28457753301176636,
+						"confidence_age": 0.002408928529212101,
+						"probability": 4.042040770777477e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.0069383608436906375,
+						"confidence_age": 0.0001233292208822541,
+						"probability": 1.2164294261483624e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.013445849821925156,
+						"confidence_age": 0.00010991244515372555,
+						"probability": 1.1188359715136242e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.07942854926434273,
+						"confidence_age": 0.0001747452375976835,
+						"probability": 6.142605869173109e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 1.5864437736171563e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 18,
+			"Finding": "hematuria",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 4335.090688598223,
+						"confidence_age": 59.96660096235212,
+						"probability": 0.0003506255987794551
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 2775.106814500764,
+						"confidence_age": 40.981238512149105,
+						"probability": 0.00001751183379474474
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000017266715839376877
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969915,
+						"confidence_age": 1.9909469599055893,
+						"probability": 3.9136046510125503e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 2.2683530745221126e-7
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 13.8864148933794,
+						"confidence_age": 0.13752574524633004,
+						"probability": 3.340586938830951e-8
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.886636628583743,
+						"confidence_age": 0.041123307089729784,
+						"probability": 1.6741879395846934e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525084,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 5.740331953052412e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834328,
+						"confidence_age": 0.0015435928686494777,
+						"probability": 2.425224462466486e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 1.155607954840944e-9
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.013445849821925154,
+						"confidence_age": 0.00010991244515372554,
+						"probability": 1.062894172937944e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.07942854926434274,
+						"confidence_age": 0.00017474523759768352,
+						"probability": 5.835475575714455e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 1.5071215849362976e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 19,
+			"Finding": "constipation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 4335.090688598223,
+						"confidence_age": 59.96660096235212,
+						"probability": 0.0003006176227535354
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 2775.106814500764,
+						"confidence_age": 40.981238512149105,
+						"probability": 0.000015014208499769262
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000014804050492785743
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 3.355426787661886e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234123,
+						"confidence_age": 0.38820127484323597,
+						"probability": 1.9448292172683954e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.886636628583743,
+						"confidence_age": 0.041123307089729784,
+						"probability": 1.4354068847014274e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.45165255125250836,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 4.921617108248312e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834328,
+						"confidence_age": 0.0015435928686494777,
+						"probability": 2.079326823507204e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690636,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 9.907893702817538e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 1.292168368884758e-10
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.0275773015486755,
+						"confidence_age": 0.00006067090682203388,
+						"probability": 1.0503856036286016e-10
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 11.088975019682225,
+						"confidence_age": 0.10982097001342055,
+						"probability": 6.19361395044242e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.013714537144800977,
+						"confidence_age": 0.00011210881660143683,
+						"probability": 4.027383558056401e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 20,
+			"Finding": "abdominal pain (sudden onset)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.000060123524550707084
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 2775.106814500764,
+						"confidence_age": 40.981238512149105,
+						"probability": 0.000014263498074780801
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000014063847968146452
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969917,
+						"confidence_age": 1.9909469599055898,
+						"probability": 3.1876554482787907e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234123,
+						"confidence_age": 0.38820127484323597,
+						"probability": 1.8475877564049754e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.45165255125250836,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 4.6755362528358955e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.2351742966348733,
+						"confidence_age": 0.018810025378585702,
+						"probability": 3.588517211753567e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834328,
+						"confidence_age": 0.0015435928686494777,
+						"probability": 1.9753604823318442e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.0069383608436906375,
+						"confidence_age": 0.0001233292208822541,
+						"probability": 9.412499017676662e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 1.2275599504405194e-10
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.027577301548675492,
+						"confidence_age": 0.00006067090682203386,
+						"probability": 9.978663234471719e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 11.088975019682223,
+						"confidence_age": 0.10982097001342053,
+						"probability": 5.883933252920298e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.013714537144800977,
+						"confidence_age": 0.00011210881660143683,
+						"probability": 3.8260143801535814e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 21,
+			"Finding": "low fluid consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.0000571173483231717
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 2775.1068145007634,
+						"confidence_age": 40.9812385121491,
+						"probability": 0.00001355032317104176
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000013360655569739132
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 3.028272675864851e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 1.7552083685847262e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525084,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 4.441759440194101e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.4146805651713343,
+						"confidence_age": 0.011905191185102314,
+						"probability": 2.153110327052141e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834325,
+						"confidence_age": 0.0015435928686494775,
+						"probability": 1.876592458215251e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690636,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 8.94187406679283e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 1.1661819529184944e-10
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.027577301548675485,
+						"confidence_age": 0.000060670906822033846,
+						"probability": 9.479730072748131e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 11.088975019682227,
+						"confidence_age": 0.10982097001342056,
+						"probability": 5.589736590274281e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.013714537144800976,
+						"confidence_age": 0.00011210881660143681,
+						"probability": 3.6347136611459014e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 22,
+			"Finding": "diarrhea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.00005426148090701312
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 2775.106814500764,
+						"confidence_age": 40.981238512149105,
+						"probability": 0.00001287280701248967
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000012692622791252171
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 2.8768590420716093e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 1.6674479501554898e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525084,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 4.219671468184395e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.4146805651713341,
+						"confidence_age": 0.011905191185102313,
+						"probability": 2.045454810699533e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.1823515497483433,
+						"confidence_age": 0.001543592868649478,
+						"probability": 1.7827628353044884e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 8.494780363453189e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 1.1078728552725694e-10
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.022783088607593347,
+						"confidence_age": 0.00005012349172705138,
+						"probability": 7.109797554561099e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 8.413029158277652,
+						"confidence_age": 0.08331942503913402,
+						"probability": 4.145459604405538e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369927,
+						"confidence_age": 0.00011698018701133312,
+						"probability": 3.4430488024692215e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 23,
+			"Finding": "abdominal pain (severe)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.00005154840686166247
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 2775.106814500764,
+						"confidence_age": 40.981238512149105,
+						"probability": 0.000012229166661865186
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1354.5456603952623,
+						"confidence_age": 11.072667594698348,
+						"probability": 0.000012057991651689566
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 2.733016089968029e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 1.5840755526477154e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525084,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 4.008687894775175e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.1823515497483433,
+						"confidence_age": 0.001543592868649478,
+						"probability": 1.693624693539265e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077689,
+						"confidence_age": 0.007854776204329382,
+						"probability": 1.0227274053497665e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 8.070041345280527e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 1.0524792125089414e-10
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.019901379179834672,
+						"confidence_age": 0.000043783642852746984,
+						"probability": 5.6878380436488776e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 8.413029158277652,
+						"confidence_age": 0.08331942503913402,
+						"probability": 3.938186624185264e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369929,
+						"confidence_age": 0.00011698018701133313,
+						"probability": 3.270896362345763e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 24,
+			"Finding": "blurred vision",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.499839863464,
+						"confidence_age": 34.14635482991199,
+						"probability": 0.00004897098651857933
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473565,
+						"confidence_age": 9.981274203855909,
+						"probability": 0.000010139521955064972
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613547,
+						"confidence_age": 24.162340036299355,
+						"probability": 0.000006726041664025854
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969917,
+						"confidence_age": 1.9909469599055898,
+						"probability": 2.5963652854696265e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234123,
+						"confidence_age": 0.38820127484323597,
+						"probability": 1.5048717750153302e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525084,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 3.8082535000364165e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.1823515497483433,
+						"confidence_age": 0.001543592868649478,
+						"probability": 1.6089434588623007e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077688,
+						"confidence_age": 0.00785477620432938,
+						"probability": 9.715910350822781e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 7.666539278016501e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 9.998552518834943e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.019901379179834682,
+						"confidence_age": 0.000043783642852747005,
+						"probability": 5.403446141466432e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369927,
+						"confidence_age": 0.00011698018701133312,
+						"probability": 3.107351544228473e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 6.037410449832178,
+						"confidence_age": 0.05979220539255322,
+						"probability": 2.6363518898024808e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 25,
+			"Finding": "shapes floating in your field of vision",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.00004652243719265036
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473565,
+						"confidence_age": 9.981274203855909,
+						"probability": 0.00000963254585731172
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613544,
+						"confidence_age": 24.16234003629935,
+						"probability": 0.000006389739580824561
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 2.466547021196145e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 1.429628186264563e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.45165255125250825,
+						"confidence_age": 0.004862709597579041,
+						"probability": 3.6178408250345975e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834325,
+						"confidence_age": 0.0015435928686494775,
+						"probability": 1.5284962859191858e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077687,
+						"confidence_age": 0.00785477620432938,
+						"probability": 9.230114833281645e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.0069383608436906375,
+						"confidence_age": 0.0001233292208822541,
+						"probability": 7.283212314115676e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 9.498624892893196e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.019901379179834682,
+						"confidence_age": 0.000043783642852747005,
+						"probability": 5.133273834393112e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.01431046342836993,
+						"confidence_age": 0.00011698018701133316,
+						"probability": 2.951983967017047e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 4.262034058857731,
+						"confidence_age": 0.04220955622527907,
+						"probability": 1.7648608230451775e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 26,
+			"Finding": "diplopia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.000044196315333017844
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473568,
+						"confidence_age": 9.98127420385591,
+						"probability": 0.000009150918564446139
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613542,
+						"confidence_age": 24.162340036299348,
+						"probability": 0.000006070252601783333
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969917,
+						"confidence_age": 1.9909469599055898,
+						"probability": 2.3432196701363364e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234123,
+						"confidence_age": 0.38820127484323597,
+						"probability": 1.358146776951335e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525083,
+						"confidence_age": 0.004862709597579042,
+						"probability": 3.436948783782865e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.1823515497483433,
+						"confidence_age": 0.001543592868649478,
+						"probability": 1.4520714716232264e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077692,
+						"confidence_age": 0.007854776204329384,
+						"probability": 8.768609091617558e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 6.919051698409892e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 9.023693648248534e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.01990137917983468,
+						"confidence_age": 0.000043783642852747,
+						"probability": 4.8766101426734557e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369927,
+						"confidence_age": 0.00011698018701133312,
+						"probability": 2.804384768666195e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 2.7056079846791747,
+						"confidence_age": 0.026795307305330886,
+						"probability": 1.1814559872555787e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 36,
+			"QuestionNumber": 27,
+			"Finding": "sudden numbness or tingling on one side of face",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.00004198649956636695
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473565,
+						"confidence_age": 9.981274203855909,
+						"probability": 0.00000869337263622383
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613544,
+						"confidence_age": 24.16234003629935,
+						"probability": 0.000005766739971694164
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 2.2260586866295204e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 1.2902394381037684e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.45165255125250836,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 3.2651013445937202e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834328,
+						"confidence_age": 0.0015435928686494777,
+						"probability": 1.379467898042065e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077692,
+						"confidence_age": 0.007854776204329384,
+						"probability": 8.330178637036685e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.0069383608436906375,
+						"confidence_age": 0.0001233292208822541,
+						"probability": 6.573099113489397e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 8.572508965836109e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.019901379179834672,
+						"confidence_age": 0.000043783642852746984,
+						"probability": 4.632779635539784e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.01431046342836993,
+						"confidence_age": 0.00011698018701133316,
+						"probability": 2.6641655302328863e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 1.9102876411368346,
+						"confidence_age": 0.01891875862123712,
+						"probability": 7.909055669407442e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 37,
+			"QuestionNumber": 28,
+			"Finding": "numbness or tingling in upper extremities",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.499839863464,
+						"confidence_age": 34.14635482991199,
+						"probability": 0.0000398871745880486
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473565,
+						"confidence_age": 9.981274203855909,
+						"probability": 0.000008258704004412634
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613547,
+						"confidence_age": 24.162340036299355,
+						"probability": 0.0000054784029731094574
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969917,
+						"confidence_age": 1.9909469599055898,
+						"probability": 2.1147557522980443e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.84819536523412,
+						"confidence_age": 0.3882012748432359,
+						"probability": 1.22572746619858e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525086,
+						"confidence_age": 0.004862709597579044,
+						"probability": 3.1018462773640355e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834325,
+						"confidence_age": 0.0015435928686494775,
+						"probability": 1.3104945031399616e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.933374279107769,
+						"confidence_age": 0.007854776204329382,
+						"probability": 7.913669705184846e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.0069383608436906375,
+						"confidence_age": 0.0001233292208822541,
+						"probability": 6.244444157814926e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 8.143883517544298e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.01990137917983468,
+						"confidence_age": 0.000043783642852747,
+						"probability": 4.40114065376279e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369934,
+						"confidence_age": 0.00011698018701133319,
+						"probability": 2.5309572537212422e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 1.2143585129547307,
+						"confidence_age": 0.012026542543385149,
+						"probability": 5.2945824691355335e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 38,
+			"QuestionNumber": 29,
+			"Finding": "poor memory",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.00003789281585864616
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473565,
+						"confidence_age": 9.981274203855909,
+						"probability": 0.000007845768804192004
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613544,
+						"confidence_age": 24.16234003629935,
+						"probability": 0.000005204482824453988
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 2.0090179646831426e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234123,
+						"confidence_age": 0.38820127484323597,
+						"probability": 1.1644410928886507e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4516525512525084,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 2.946753963495834e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.1823515497483433,
+						"confidence_age": 0.001543592868649478,
+						"probability": 1.2449697779829637e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077689,
+						"confidence_age": 0.007854776204329382,
+						"probability": 7.517986219925605e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 5.932221949924181e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 7.736689341667085e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.019901379179834675,
+						"confidence_age": 0.00004378364285274699,
+						"probability": 4.181083621074653e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369927,
+						"confidence_age": 0.00011698018701133312,
+						"probability": 2.4044093910351803e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 1.0257793810089004,
+						"confidence_age": 0.010158926901919543,
+						"probability": 4.202312890619067e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 39,
+			"QuestionNumber": 30,
+			"Finding": "poor concentration",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.499839863464,
+						"confidence_age": 34.14635482991199,
+						"probability": 0.00003599817506571385
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473568,
+						"confidence_age": 9.98127420385591,
+						"probability": 0.000007453480363982409
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613544,
+						"confidence_age": 24.16234003629935,
+						"probability": 0.0000049442586832312844
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 1.9085670664489856e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 1.1062190382442185e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.45165255125250836,
+						"confidence_age": 0.0048627095975790425,
+						"probability": 2.7994162653210433e-9
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834333,
+						"confidence_age": 0.0015435928686494782,
+						"probability": 1.1827212890838158e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077687,
+						"confidence_age": 0.00785477620432938,
+						"probability": 7.142086908929324e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.0069383608436906375,
+						"confidence_age": 0.0001233292208822541,
+						"probability": 5.635610852427972e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 7.349854874583733e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.019901379179834675,
+						"confidence_age": 0.00004378364285274699,
+						"probability": 3.972029440020921e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369927,
+						"confidence_age": 0.00011698018701133312,
+						"probability": 2.2841889214834215e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.8701013960289341,
+						"confidence_age": 0.008617151644072082,
+						"probability": 3.3353779516341146e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 40,
+			"QuestionNumber": 31,
+			"Finding": "dyspnea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.000034198266312428144
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473565,
+						"confidence_age": 9.981274203855909,
+						"probability": 0.000007080806345783282
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613542,
+						"confidence_age": 24.162340036299348,
+						"probability": 0.0000046970457490697175
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 1.8131387131265359e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.84819536523413,
+						"confidence_age": 0.3882012748432361,
+						"probability": 1.050908086332007e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.1823515497483433,
+						"confidence_age": 0.001543592868649478,
+						"probability": 1.1235852246296247e-9
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.12958393128397452,
+						"confidence_age": 0.0013951632169444243,
+						"probability": 6.998540663302602e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077688,
+						"confidence_age": 0.00785477620432938,
+						"probability": 6.784982563482862e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690636,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 5.353830309806572e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 6.982362130854543e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.019901379179834675,
+						"confidence_age": 0.00004378364285274699,
+						"probability": 3.773427968019877e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.01431046342836993,
+						"confidence_age": 0.00011698018701133316,
+						"probability": 2.16997947540925e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.8701013960289343,
+						"confidence_age": 0.008617151644072084,
+						"probability": 3.16860905405241e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 41,
+			"QuestionNumber": 32,
+			"Finding": "jugular vein distention",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.499839863464,
+						"confidence_age": 34.14635482991199,
+						"probability": 0.000032488352996806744
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473565,
+						"confidence_age": 9.981274203855909,
+						"probability": 0.0000067267660284941215
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613544,
+						"confidence_age": 24.16234003629935,
+						"probability": 0.000004462193461616234
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 1.722481777470209e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 9.983626820154076e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.1823515497483433,
+						"confidence_age": 0.001543592868649478,
+						"probability": 1.0674059633981429e-9
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.1295839312839744,
+						"confidence_age": 0.001395163216944423,
+						"probability": 6.998540663302603e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077689,
+						"confidence_age": 0.007854776204329382,
+						"probability": 6.445733435308718e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.0069383608436906375,
+						"confidence_age": 0.0001233292208822541,
+						"probability": 5.086138794316244e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 6.633244024311821e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.01990137917983468,
+						"confidence_age": 0.000043783642852747,
+						"probability": 3.58475656961888e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369929,
+						"confidence_age": 0.00011698018701133313,
+						"probability": 2.061480501638788e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.8701013960289344,
+						"confidence_age": 0.008617151644072086,
+						"probability": 3.0101786013497895e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 42,
+			"QuestionNumber": 33,
+			"Finding": "swelling in feet or ankle region",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.00003086393534696639
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473568,
+						"confidence_age": 9.98127420385591,
+						"probability": 0.000006390427727069415
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613547,
+						"confidence_age": 24.162340036299355,
+						"probability": 0.000004239083788535423
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969918,
+						"confidence_age": 1.99094695990559,
+						"probability": 1.636357688596699e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 9.484445479146362e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834325,
+						"confidence_age": 0.0015435928686494775,
+						"probability": 1.0140356652282365e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.933374279107769,
+						"confidence_age": 0.007854776204329382,
+						"probability": 6.123446763543278e-10
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.1033280771237026,
+						"confidence_age": 0.001112480004674889,
+						"probability": 5.190256667906225e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 4.831831854600432e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 6.301581823096225e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.01990137917983468,
+						"confidence_age": 0.000043783642852747,
+						"probability": 3.405518741137936e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.01431046342836993,
+						"confidence_age": 0.00011698018701133316,
+						"probability": 1.9584064765568464e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.8701013960289342,
+						"confidence_age": 0.008617151644072082,
+						"probability": 2.8596696712823e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 43,
+			"QuestionNumber": 34,
+			"Finding": "ascites",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.00002932073857961809
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473568,
+						"confidence_age": 9.98127420385591,
+						"probability": 0.0000060709063407159405
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613544,
+						"confidence_age": 24.16234003629935,
+						"probability": 0.000004027129599108653
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969917,
+						"confidence_age": 1.9909469599055898,
+						"probability": 1.554539804166864e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234123,
+						"confidence_age": 0.38820127484323597,
+						"probability": 9.010223205189045e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834333,
+						"confidence_age": 0.0015435928686494782,
+						"probability": 9.63333881966824e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077689,
+						"confidence_age": 0.007854776204329382,
+						"probability": 5.817274425366115e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 4.5902402618704086e-10
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.06044194220851493,
+						"confidence_age": 0.0006507471543304629,
+						"probability": 2.854641167348424e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 5.98650273194141e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.01990137917983468,
+						"confidence_age": 0.000043783642852747,
+						"probability": 3.235242804081041e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369927,
+						"confidence_age": 0.00011698018701133312,
+						"probability": 1.860486152729005e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.8701013960289343,
+						"confidence_age": 0.008617151644072084,
+						"probability": 2.7166861877181855e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 44,
+			"QuestionNumber": 35,
+			"Finding": "swelling in the area below the knee and above the ankle region",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "diabetic ketoacidosis",
+						"instance": "diabetic ketoacidosis #2",
+						"confidence": 2468.4998398634643,
+						"confidence_age": 34.146354829912,
+						"probability": 0.000027854701650637187
+					},
+					{
+						"disease": "hyperosmolar hyperglycemic nonketotic state",
+						"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+						"confidence": 1221.0329211473568,
+						"confidence_age": 9.98127420385591,
+						"probability": 0.000005767361023680145
+					},
+					{
+						"disease": "diabetes mellitus",
+						"instance": "diabetes mellitus #1",
+						"confidence": 1636.1895570613547,
+						"confidence_age": 24.162340036299355,
+						"probability": 0.000003825773119153221
+					},
+					{
+						"disease": "polycystic kidney disease",
+						"instance": "autosomal dominant polycystic kidney disease",
+						"confidence": 118.83026198969917,
+						"confidence_age": 1.9909469599055898,
+						"probability": 1.4768128139585206e-7
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 26.848195365234126,
+						"confidence_age": 0.388201274843236,
+						"probability": 8.559712044929589e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 0.18235154974834328,
+						"confidence_age": 0.0015435928686494777,
+						"probability": 9.151671878684825e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9333742791077688,
+						"confidence_age": 0.00785477620432938,
+						"probability": 5.526410704097808e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.006938360843690637,
+						"confidence_age": 0.00012332922088225407,
+						"probability": 4.3607282487768883e-10
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.0448249440363912,
+						"confidence_age": 0.0004826070061427388,
+						"probability": 2.1170585506490385e-10
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 0.3271938925947884,
+						"confidence_age": 0.0007542143651668701,
+						"probability": 5.687177595344342e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.019901379179834682,
+						"confidence_age": 0.000043783642852747005,
+						"probability": 3.073480663876987e-11
+					},
+					{
+						"disease": "diabetic neuropathy",
+						"instance": "diabetic neuropathy #1",
+						"confidence": 0.014310463428369932,
+						"confidence_age": 0.00011698018701133317,
+						"probability": 1.767461845092555e-11
+					},
+					{
+						"disease": "multiple sclerosis",
+						"instance": "multiple sclerosis #1",
+						"confidence": 0.8701013960289344,
+						"confidence_age": 0.008617151644072086,
+						"probability": 2.5808518783322746e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "diabetic ketoacidosis",
+				"instance": "diabetic ketoacidosis #2",
+				"confidence": 2468.4998398634643,
+				"confidence_age": 34.146354829912,
+				"probability": 0.00002785470165063718
+			},
+			{
+				"disease": "hyperosmolar hyperglycemic nonketotic state",
+				"instance": "hyperosmolar hyperglycemic nonketotic state #2",
+				"confidence": 1221.0329211473565,
+				"confidence_age": 9.981274203855909,
+				"probability": 0.000005767361023680146
+			},
+			{
+				"disease": "diabetes mellitus",
+				"instance": "diabetes mellitus #1",
+				"confidence": 1636.1895570613544,
+				"confidence_age": 24.16234003629935,
+				"probability": 0.00000382577311915322
+			},
+			{
+				"disease": "polycystic kidney disease",
+				"instance": "autosomal dominant polycystic kidney disease",
+				"confidence": 118.83026198969917,
+				"confidence_age": 1.9909469599055898,
+				"probability": 1.4768128139585195e-7
+			},
+			{
+				"disease": "cystitis",
+				"instance": "cystitis #1",
+				"confidence": 26.848195365234126,
+				"confidence_age": 0.388201274843236,
+				"probability": 8.559712044929593e-8
+			},
+			{
+				"disease": "pyelonephritis",
+				"instance": "pyelonephritis #1",
+				"confidence": 0.1823515497483433,
+				"confidence_age": 0.001543592868649478,
+				"probability": 9.151671878684833e-10
+			},
+			{
+				"disease": "nephrolithiasis",
+				"instance": "nephrolithiasis #1",
+				"confidence": 0.9333742791077688,
+				"confidence_age": 0.00785477620432938,
+				"probability": 5.526410704097811e-10
+			},
+			{
+				"disease": "urethritis",
+				"instance": "urethritis #2",
+				"confidence": 0.006938360843690637,
+				"confidence_age": 0.00012332922088225407,
+				"probability": 4.3607282487768883e-10
+			},
+			{
+				"disease": "heart failure",
+				"instance": "dilated cardiomyopathy",
+				"confidence": 0.044824944036391194,
+				"confidence_age": 0.0004826070061427387,
+				"probability": 2.1170585506490383e-10
+			},
+			{
+				"disease": "metabolic syndrome",
+				"instance": "metabolic syndrome #1",
+				"confidence": 0.3271938925947884,
+				"confidence_age": 0.0007542143651668701,
+				"probability": 5.687177595344341e-11
+			},
+			{
+				"disease": "diverticulitis",
+				"instance": "diverticulitis #1",
+				"confidence": 0.019901379179834682,
+				"confidence_age": 0.000043783642852747005,
+				"probability": 3.073480663876987e-11
+			},
+			{
+				"disease": "diabetic neuropathy",
+				"instance": "diabetic neuropathy #1",
+				"confidence": 0.014310463428369929,
+				"confidence_age": 0.00011698018701133313,
+				"probability": 1.7674618450925555e-11
+			},
+			{
+				"disease": "multiple sclerosis",
+				"instance": "multiple sclerosis #1",
+				"confidence": 0.8701013960289347,
+				"confidence_age": 0.008617151644072087,
+				"probability": 2.5808518783322746e-12
+			}
+		],
+		"urgency": 3,
+		"specialist": "endocrinologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"urinary frequency"
+		],
+		"findings": {
+			"abdominal pain": true,
+			"abdominal pain (epigastric)": false,
+			"abdominal pain (flank pain)": false,
+			"abdominal pain (hypogastric or pelvic)": false,
+			"abdominal pain (left hypochondrial)": false,
+			"abdominal pain (left iliac pain)": false,
+			"abdominal pain (nonspecific, non-focal)": false,
+			"abdominal pain (periumbilical pain)": false,
+			"abdominal pain (right hypochondrial)": false,
+			"abdominal pain (right iliac pain)": false,
+			"abdominal pain (severe)": false,
+			"abdominal pain (sudden onset)": false,
+			"abdominal tenderness": false,
+			"ascites": false,
+			"ataxia": false,
+			"blurred vision": false,
+			"chronic constipation": false,
+			"chronic cough": false,
+			"cold extremities": false,
+			"constipation": false,
+			"constipation (chronic)": false,
+			"diabetes mellitus": false,
+			"diarrhea": false,
+			"diplopia": false,
+			"dry cough or productive cough": false,
+			"dry cough or productive cough (dry at first then production of clear/white mucus)": false,
+			"dry cough or productive cough (dry at first then production of yellowish-gray mucus)": false,
+			"dry cough or productive cough (production of pink, frothy mucus)": false,
+			"dyspnea": false,
+			"dysuria": false,
+			"fatigue": true,
+			"fever": false,
+			"hematuria": false,
+			"hyperglycemia": null,
+			"jugular vein distention": false,
+			"low fluid consumption": false,
+			"numbness or tingling in lower extremities": false,
+			"numbness or tingling in upper extremities": false,
+			"oliguria": false,
+			"overweight or obese": false,
+			"palpitation": false,
+			"polydipsia": true,
+			"polyuria": true,
+			"poor concentration": false,
+			"poor memory": false,
+			"recent unexplained weight gain": false,
+			"shapes floating in your field of vision": false,
+			"sudden numbness or tingling on one side of face": false,
+			"swelling in feet or ankle region": false,
+			"swelling in the area below the knee and above the ankle region": false,
+			"urethral discharge": false,
+			"urinary frequency": true
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 12,
+		"sex": "female",
+		"NextConcept": "",
+		"question_count": 35
+	}
+}

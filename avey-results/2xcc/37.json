@@ -1,0 +1,4454 @@
+{
+	"Time": "2021-12-01T12:42:18.648876+03:00",
+	"Age": 34,
+	"Sex": "female",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "recent unexplained weight gain",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 218.6952085921311,
+						"confidence_age": 5.909042926518799,
+						"probability": 0.019928894418914787
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 60.580390191726075,
+						"confidence_age": 1.7512754710273044,
+						"probability": 0.013731437617111658
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 136.30587793138366,
+						"confidence_age": 1.6038230531474065,
+						"probability": 0.008383526394531377
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 136.30587793138366,
+						"confidence_age": 1.2716265067829091,
+						"probability": 0.006647063940550824
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 9.692862430676172,
+						"confidence_age": 0.2802040753643687,
+						"probability": 0.0027297285948935423
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 2.423215607669043,
+						"confidence_age": 0.05870188432234284,
+						"probability": 0.002301354857971936
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 5.452235117255346,
+						"confidence_age": 0.07813863187662326,
+						"probability": 0.0020422367713342575
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 0,
+			"Finding": "irregular menstruation",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 25426.748901912535,
+						"confidence_age": 687.0189416149009,
+						"probability": 0.01594311553513183
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.008238862570266995
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 13928.639663687263,
+						"confidence_age": 129.94323992901272,
+						"probability": 0.004985297955413117
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 31.909693128160846,
+						"confidence_age": 1.8890876232505704,
+						"probability": 0.0019228019150708017
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0013648642974467711
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 715.6225533876656,
+						"confidence_age": 10.255934687188796,
+						"probability": 0.001251281870895259
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 22.159509116778374,
+						"confidence_age": 0.8792288507244447,
+						"probability": 0.0009423351886840629
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0006590729460099846
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 22.159509116778374,
+						"confidence_age": 0.4458456714328087,
+						"probability": 0.00047784608588245873
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 9.848670718568163,
+						"confidence_age": 0.1851730286118695,
+						"probability": 0.00044654345293933
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 28.833609877063424,
+						"confidence_age": 0.3392664273038342,
+						"probability": 0.00041917631972656895
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 21.564489805581612,
+						"confidence_age": 0.2258988384309967,
+						"probability": 0.0002846587767544216
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.512597508925572,
+						"confidence_age": 0.012417565972107138,
+						"probability": 0.0001150677428985968
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.3318973570902593,
+						"confidence_age": 0.007059343024682842,
+						"probability": 0.00008773733612135279
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.2483485533899927,
+						"confidence_age": 0.020039589404142372,
+						"probability": 0.00007236745196620786
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "abdominal pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 25426.748901912535,
+						"confidence_age": 687.0189416149009,
+						"probability": 0.015145959758375238
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.007826919441753646
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 13928.639663687263,
+						"confidence_age": 129.94323992901272,
+						"probability": 0.004736033057642462
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.0018266618193172614
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0012966210825744325
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 715.6225533876657,
+						"confidence_age": 10.255934687188798,
+						"probability": 0.001188717777350496
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 22.159509116778374,
+						"confidence_age": 0.8792288507244447,
+						"probability": 0.0008952184292498598
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0006261192987094854
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 9.848670718568163,
+						"confidence_age": 0.1851730286118695,
+						"probability": 0.0004242162802923635
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 28.833609877063424,
+						"confidence_age": 0.3392664273038342,
+						"probability": 0.00039821750374024046
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00021110859895046434
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.5575493149565403,
+						"confidence_age": 0.013506513942464833,
+						"probability": 0.0001060872171253961
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.3318973570902593,
+						"confidence_age": 0.007059343024682842,
+						"probability": 0.00008335046931528515
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.00005427558897465589
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 1.307156155214667,
+						"confidence_age": 0.02629976641711547,
+						"probability": 0.000023892304294122957
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "skin erythema",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.007063794796182663
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 13928.639663687263,
+						"confidence_age": 129.94323992901272,
+						"probability": 0.004274269834522321
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.0016485622919338286
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 2910.1729017836624,
+						"confidence_age": 78.6315196886768,
+						"probability": 0.0014388661770456473
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0011702005270234253
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 715.6225533876657,
+						"confidence_age": 10.255934687188798,
+						"probability": 0.0010728177940588226
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 22.159509116778374,
+						"confidence_age": 0.8792288507244447,
+						"probability": 0.0008079346323979983
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0005650726670853105
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 9.848670718568163,
+						"confidence_age": 0.1851730286118695,
+						"probability": 0.000382855192963858
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 28.833609877063424,
+						"confidence_age": 0.3392664273038342,
+						"probability": 0.00035939129712556696
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.0001905255105527941
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.5575493149565403,
+						"confidence_age": 0.013506513942464833,
+						"probability": 0.00009574371345566997
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.3318973570902593,
+						"confidence_age": 0.007059343024682842,
+						"probability": 0.00007522379855704484
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.00004898371904962694
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 1.307156155214667,
+						"confidence_age": 0.02629976641711547,
+						"probability": 0.000021562804625445968
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "dysmenorrhea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.00671060505637353
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 13928.639663687263,
+						"confidence_age": 129.94323992901272,
+						"probability": 0.0040605563427962045
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.001566134177337137
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 2910.1729017836624,
+						"confidence_age": 78.6315196886768,
+						"probability": 0.0013669228681933649
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.001111690500672254
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 715.6225533876657,
+						"confidence_age": 10.255934687188798,
+						"probability": 0.0010191769043558813
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 22.159509116778374,
+						"confidence_age": 0.8792288507244447,
+						"probability": 0.0007675379007780984
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0005368190337310449
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 9.848670718568163,
+						"confidence_age": 0.1851730286118695,
+						"probability": 0.0003637124333156651
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 28.833609877063424,
+						"confidence_age": 0.3392664273038342,
+						"probability": 0.00034142173226928856
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00018099923502515436
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.5575493149565403,
+						"confidence_age": 0.013506513942464833,
+						"probability": 0.00009095652778288646
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.3318973570902593,
+						"confidence_age": 0.007059343024682842,
+						"probability": 0.00007146260862919259
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.00004653453309714559
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322563,
+						"confidence_age": 0.0014009288126969161,
+						"probability": 0.0000010781402312722993
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "postpartum",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.00605632106337711
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.00198967260797014
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.001413436095046766
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 2910.1729017836624,
+						"confidence_age": 78.6315196886768,
+						"probability": 0.0012336478885445117
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.001003300676856709
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 22.159509116778374,
+						"confidence_age": 0.8792288507244447,
+						"probability": 0.0006927029554522337
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.00048447917794226797
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 9.848670718568163,
+						"confidence_age": 0.1851730286118695,
+						"probability": 0.0003282504710673877
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 26.317513410743864,
+						"confidence_age": 0.30966114851565574,
+						"probability": 0.0002756980488074506
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00016335180961020177
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.5575493149565403,
+						"confidence_age": 0.013506513942464833,
+						"probability": 0.00008208826632405503
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.0000484109029569044
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.000041997416120173886
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.24497730492327208,
+						"confidence_age": 0.005210583307674242,
+						"probability": 0.00003501667822830437
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322563,
+						"confidence_age": 0.0014009288126969161,
+						"probability": 9.730215587232502e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "mood swings",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.00605632106337711
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0019896726079701404
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.001413436095046766
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0012336478885445114
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.001003300676856709
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 234.64260515716484,
+						"confidence_age": 9.30997825701461,
+						"probability": 0.0006927029554522337
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.00048447917794226797
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 9.848670718568163,
+						"confidence_age": 0.1851730286118695,
+						"probability": 0.0003282504710673877
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 26.317513410743864,
+						"confidence_age": 0.30966114851565574,
+						"probability": 0.00027569804880745054
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.0001633518096102018
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 5.9037780609471815,
+						"confidence_age": 0.14301777179946248,
+						"probability": 0.00008208826632405503
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.0000484109029569044
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.00004199741612017389
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 3.1128187575989763,
+						"confidence_age": 0.0662085880291668,
+						"probability": 0.00003501667822830437
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322563,
+						"confidence_age": 0.0014009288126969161,
+						"probability": 9.730215587232502e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "symptoms appear before every period",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.005753505010208254
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0018901889775716327
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.0013427642902944276
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0011719654941172858
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0009531356430138736
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 234.64260515716484,
+						"confidence_age": 9.30997825701461,
+						"probability": 0.0006580678076796219
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0004602552190451546
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 9.848670718568163,
+						"confidence_age": 0.1851730286118695,
+						"probability": 0.0003118379475140183
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 26.317513410743864,
+						"confidence_age": 0.30966114851565574,
+						"probability": 0.00026191314636707803
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00015518421912969168
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.00004599035780905918
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.00003989754531416518
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 3.1128187575989767,
+						"confidence_age": 0.06620858802916682,
+						"probability": 0.000033265844316889143
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.31169014607485157,
+						"confidence_age": 0.007550627703698338,
+						"probability": 0.0000041044133162027565
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322565,
+						"confidence_age": 0.0014009288126969166,
+						"probability": 9.243704807870875e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "enlarged facial features",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.005465829759697841
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0017956795286930517
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.0012756260757797063
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0011133672194114216
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0009054788608631799
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 234.64260515716484,
+						"confidence_age": 9.30997825701461,
+						"probability": 0.0006251644172956407
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0004372424580928968
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 26.317513410743864,
+						"confidence_age": 0.30966114851565574,
+						"probability": 0.00024881748904872407
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00014742500817320706
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.00004369083991860622
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.00003790266804845693
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 3.1128187575989767,
+						"confidence_age": 0.06620858802916682,
+						"probability": 0.00003160255210104469
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 1.039742363250598,
+						"confidence_age": 0.019549058739082997,
+						"probability": 0.000031183794751401824
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.31169014607485157,
+						"confidence_age": 0.007550627703698338,
+						"probability": 0.000003899192650392618
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322565,
+						"confidence_age": 0.0014009288126969166,
+						"probability": 8.781519567477331e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "progressive growth of hands and feet",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.005192538271712949
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0017058955522583988
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.0012118447719907208
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0010576988584408507
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0008602049178200209
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 234.64260515716484,
+						"confidence_age": 9.30997825701461,
+						"probability": 0.0005939061964308587
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.00041538033518825196
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 26.317513410743864,
+						"confidence_age": 0.30966114851565574,
+						"probability": 0.00023637661459628784
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.0001400537577645467
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.00004150629792267591
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.00003600753464603409
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 3.1128187575989767,
+						"confidence_age": 0.06620858802916682,
+						"probability": 0.000030022424495992446
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.31169014607485157,
+						"confidence_age": 0.007550627703698338,
+						"probability": 0.000003704233017872987
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.1097675222200045,
+						"confidence_age": 0.002063830248114334,
+						"probability": 0.000003118379475140182
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322563,
+						"confidence_age": 0.0014009288126969161,
+						"probability": 8.342443589103464e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "cold extremities",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.004932911358127301
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0016206007746454789
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.0011512525333911847
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.001004813915518808
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0008171946719290197
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 234.64260515716484,
+						"confidence_age": 9.30997825701461,
+						"probability": 0.0005642108866093158
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.00039461131842883935
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.0001330510698763194
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 6.989376066383983,
+						"confidence_age": 0.08223946488959441,
+						"probability": 0.00005909415364907196
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.00003943098302654211
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.000034207157913732376
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 3.1128187575989763,
+						"confidence_age": 0.0662085880291668,
+						"probability": 0.000028521303271192827
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.3116901460748515,
+						"confidence_age": 0.007550627703698337,
+						"probability": 0.0000035190213669793373
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.10976752222000448,
+						"confidence_age": 0.0020638302481143338,
+						"probability": 0.000002962460501383172
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322563,
+						"confidence_age": 0.0014009288126969161,
+						"probability": 7.92532140964829e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "palpitation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.004686265790220937
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0015395707359132048
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.0010936899067216254
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0009545732197428675
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0007763349383325687
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 234.64260515716484,
+						"confidence_age": 9.30997825701461,
+						"probability": 0.00053600034227885
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0003748807525073974
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00012639851638250339
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.00003745943387521501
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.000032496800018045756
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 1.8886869271578062,
+						"confidence_age": 0.02222295677871415,
+						"probability": 0.00001477353841226799
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 1.3458460470862412,
+						"confidence_age": 0.02862568412140594,
+						"probability": 0.00001140852130847713
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.31169014607485157,
+						"confidence_age": 0.007550627703698338,
+						"probability": 0.0000033430702986303702
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.1097675222200045,
+						"confidence_age": 0.002063830248114334,
+						"probability": 0.0000028143374763140136
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322565,
+						"confidence_age": 0.0014009288126969166,
+						"probability": 7.529055339165876e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "dry cough or productive cough",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.0036261431365313336
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0011912904873824844
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 31.909693128160843,
+						"confidence_age": 1.8890876232505702,
+						"probability": 0.0008462764013573465
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0007386305608850294
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0006007131763969796
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 234.64260515716484,
+						"confidence_age": 9.30997825701461,
+						"probability": 0.00041474684734884936
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0002900755801258794
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.00009780476250506259
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.000028985395862183112
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.000025145404383713453
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 1.3458460470862412,
+						"confidence_age": 0.02862568412140594,
+						"probability": 0.000008827696313562159
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.5297412993101078,
+						"confidence_age": 0.006233123038652121,
+						"probability": 0.0000030082848428518398
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.31169014607485157,
+						"confidence_age": 0.007550627703698338,
+						"probability": 0.000002586804069802612
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.1097675222200045,
+						"confidence_age": 0.002063830248114334,
+						"probability": 0.000002177680690863641
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322563,
+						"confidence_age": 0.0014009288126969161,
+						"probability": 5.825839498829151e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "hot flashes",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.003444835979704767
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0011317259630133601
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0007016990328407779
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 23.741077693824433,
+						"confidence_age": 1.4054969395632937,
+						"probability": 0.0005923934809501424
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0005706775175771306
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0002755718011195854
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 62.3485908111258,
+						"confidence_age": 2.4738219404710597,
+						"probability": 0.00010368671183721234
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00009291452437980946
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.000027536126069073955
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 1.1045730887929668,
+						"confidence_age": 0.017731579138027136,
+						"probability": 0.000023888134164527777
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 1.0728435839051493,
+						"confidence_age": 0.022819015303447952,
+						"probability": 0.0000066207722351716194
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.5297412993101078,
+						"confidence_age": 0.006233123038652121,
+						"probability": 0.000002857870600709247
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.10976752222000448,
+						"confidence_age": 0.0020638302481143338,
+						"probability": 0.000002068796656320459
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.21533577649978464,
+						"confidence_age": 0.005216463529925669,
+						"probability": 0.000001681422645371698
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322565,
+						"confidence_age": 0.0014009288126969166,
+						"probability": 5.534547523887693e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 13,
+			"Finding": "swelling in feet or ankle region",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.003272594180719528
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.001075139664862692
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.000666614081198739
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 23.741077693824433,
+						"confidence_age": 1.4054969395632937,
+						"probability": 0.0005627738069026353
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.000542143641698274
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0002617932110636061
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 62.3485908111258,
+						"confidence_age": 2.4738219404710597,
+						"probability": 0.00009850237624535171
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.00008826879816081899
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.000026159319765620258
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363757,
+						"confidence_age": 0.014767565007296334,
+						"probability": 0.00001850366915823691
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 1.0728435839051493,
+						"confidence_age": 0.022819015303447952,
+						"probability": 0.0000062897336234130385
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4224069241329967,
+						"confidence_age": 0.004970188909055146,
+						"probability": 0.0000021194535625295088
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.10976752222000448,
+						"confidence_age": 0.0020638302481143338,
+						"probability": 0.000001965356823504436
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.21345754243106682,
+						"confidence_age": 0.005170963707836699,
+						"probability": 0.0000015501950830503386
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322565,
+						"confidence_age": 0.0014009288126969166,
+						"probability": 5.257820147693309e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 14,
+			"Finding": "insomnia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.0031089644716835517
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0010213826816195572
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0006332833771388021
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 23.741077693824437,
+						"confidence_age": 1.405496939563294,
+						"probability": 0.0005346351165575036
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0005150364596133602
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0002487035505104258
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00008385535825277799
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.000024851353777339244
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 16.60862754219287,
+						"confidence_age": 0.6589850176318165,
+						"probability": 0.00002462559406133793
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363757,
+						"confidence_age": 0.014767565007296334,
+						"probability": 0.00001757848570032506
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.9716781325548418,
+						"confidence_age": 0.020667260828541218,
+						"probability": 0.000005346273579901082
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4224069241329968,
+						"confidence_age": 0.004970188909055147,
+						"probability": 0.0000020134808844030335
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.10976752222000448,
+						"confidence_age": 0.0020638302481143338,
+						"probability": 0.0000018670889823292143
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.12509538545799717,
+						"confidence_age": 0.0030304091898277234,
+						"probability": 8.526072956776861e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322563,
+						"confidence_age": 0.0014009288126969161,
+						"probability": 4.994929140308644e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 15,
+			"Finding": "infertility",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.0031089644716835517
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0010213826816195572
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.000633283377138802
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 23.741077693824433,
+						"confidence_age": 1.4054969395632937,
+						"probability": 0.0005346351165575036
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0005150364596133606
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0002487035505104258
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.00008385535825277802
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.000024851353777339244
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 16.60862754219287,
+						"confidence_age": 0.6589850176318165,
+						"probability": 0.00002462559406133793
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363757,
+						"confidence_age": 0.014767565007296334,
+						"probability": 0.000017578485700325055
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.9716781325548418,
+						"confidence_age": 0.020667260828541218,
+						"probability": 0.000005346273579901081
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4224069241329967,
+						"confidence_age": 0.004970188909055146,
+						"probability": 0.000002013480884403033
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.1097675222200045,
+						"confidence_age": 0.002063830248114334,
+						"probability": 0.0000018670889823292143
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.12509538545799717,
+						"confidence_age": 0.0030304091898277234,
+						"probability": 8.526072956776864e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322563,
+						"confidence_age": 0.0014009288126969161,
+						"probability": 4.994929140308644e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 16,
+			"Finding": "heat intolerance",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.002953516248099374
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0009703135475385794
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0006016192082818619
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 23.741077693824437,
+						"confidence_age": 1.405496939563294,
+						"probability": 0.0005079033607296283
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0004892846366326924
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.00023626837298490453
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.00007966259034013914
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.00002360878608847228
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 16.608627542192867,
+						"confidence_age": 0.6589850176318164,
+						"probability": 0.000023394314358271036
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363757,
+						"confidence_age": 0.014767565007296334,
+						"probability": 0.000016699561415308808
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.42240692413299674,
+						"confidence_age": 0.004970188909055147,
+						"probability": 0.000001912806840182882
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.35967872254518557,
+						"confidence_age": 0.007650243145611086,
+						"probability": 0.0000018711957529653787
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.10976752222000448,
+						"confidence_age": 0.0020638302481143338,
+						"probability": 0.0000017737345332127534
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.12509538545799717,
+						"confidence_age": 0.0030304091898277234,
+						"probability": 8.099769308938019e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322565,
+						"confidence_age": 0.0014009288126969166,
+						"probability": 4.745182683293211e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 17,
+			"Finding": "poor memory",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.002805840435694405
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0009217978701616501
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0005715382478677688
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 23.741077693824437,
+						"confidence_age": 1.405496939563294,
+						"probability": 0.0004825081926931469
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.00046482040480105754
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0002244549543356593
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00007567946082313215
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.000022428346784048664
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363756,
+						"confidence_age": 0.014767565007296332,
+						"probability": 0.000015864583344543357
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 4.419001306281798,
+						"confidence_age": 0.17533391283158647,
+						"probability": 0.000005848578589567759
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4224069241329967,
+						"confidence_age": 0.004970188909055146,
+						"probability": 0.000001817166498173737
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.3596787225451856,
+						"confidence_age": 0.007650243145611087,
+						"probability": 0.0000017776359653171095
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.10976752222000448,
+						"confidence_age": 0.0020638302481143338,
+						"probability": 0.000001685047806552115
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.09873542724176353,
+						"confidence_age": 0.0023918447909133385,
+						"probability": 6.006949689477e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.06962923896322563,
+						"confidence_age": 0.0014009288126969161,
+						"probability": 4.50792354912855e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 18,
+			"Finding": "dyspareunia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.0026655484139096845
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.000875707976653568
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 28760.888957339615,
+						"confidence_age": 777.105856812426,
+						"probability": 0.0005429613354743804
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.00044157938456100467
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 19.085301292772986,
+						"confidence_age": 1.12987004648965,
+						"probability": 0.0002895049156158881
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 28.46265837666199,
+						"confidence_age": 0.644564339686753,
+						"probability": 0.0002132322066188763
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00007189548778197554
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.000021306929444846237
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363756,
+						"confidence_age": 0.014767565007296332,
+						"probability": 0.000015071354177316194
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 4.026061302777961,
+						"confidence_age": 0.1597431257855526,
+						"probability": 0.000004971291801132593
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4224069241329967,
+						"confidence_age": 0.004970188909055146,
+						"probability": 0.00000172630817326505
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.35967872254518557,
+						"confidence_age": 0.007650243145611086,
+						"probability": 0.0000016887541670512543
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.10976752222000448,
+						"confidence_age": 0.0020638302481143338,
+						"probability": 0.0000016007954162245091
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.09873542724176351,
+						"confidence_age": 0.002391844790913338,
+						"probability": 5.706602205003153e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.018658167383099656,
+						"confidence_age": 0.0003753992527896391,
+						"probability": 1.126980887282137e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 19,
+			"Finding": "hirsutism",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.0025322709932142
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0008319225778208891
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.00041950041533295456
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 19.085301292772986,
+						"confidence_age": 1.12987004648965,
+						"probability": 0.0002750296698350938
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 9123.184541409044,
+						"confidence_age": 246.504207516865,
+						"probability": 0.00016288840064231406
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.00006830071339287676
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 9.028583410426993,
+						"confidence_age": 0.20446097575412558,
+						"probability": 0.00006396966198566287
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.00002024158297260392
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363756,
+						"confidence_age": 0.014767565007296332,
+						"probability": 0.000014317786468450383
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 4.02606130277796,
+						"confidence_age": 0.15974312578555255,
+						"probability": 0.000004722727211075962
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4224069241329967,
+						"confidence_age": 0.004970188909055146,
+						"probability": 0.000001639992764601798
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.35967872254518557,
+						"confidence_age": 0.007650243145611086,
+						"probability": 0.0000016043164586986908
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.1097675222200045,
+						"confidence_age": 0.002063830248114334,
+						"probability": 0.0000015207556454132837
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.09873542724176353,
+						"confidence_age": 0.0023918447909133385,
+						"probability": 5.421272094752995e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.018658167383099656,
+						"confidence_age": 0.0003753992527896391,
+						"probability": 1.0706318429180305e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 20,
+			"Finding": "decreased libido",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.0025322709932142
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 10280.8911645824,
+						"confidence_age": 95.91261885869928,
+						"probability": 0.0008319225778208892
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.00041950041533295456
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 19.085301292772986,
+						"confidence_age": 1.12987004648965,
+						"probability": 0.00027502966983509374
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 9123.184541409046,
+						"confidence_age": 246.50420751686505,
+						"probability": 0.00016288840064231414
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.00006830071339287676
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 9.028583410426993,
+						"confidence_age": 0.20446097575412558,
+						"probability": 0.00006396966198566288
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 38.422085374161746,
+						"confidence_age": 0.5506455830347879,
+						"probability": 0.00002024158297260392
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363757,
+						"confidence_age": 0.014767565007296334,
+						"probability": 0.000014317786468450386
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 4.02606130277796,
+						"confidence_age": 0.15974312578555255,
+						"probability": 0.000004722727211075965
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.42240692413299674,
+						"confidence_age": 0.004970188909055147,
+						"probability": 0.0000016399927646017974
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.3596787225451855,
+						"confidence_age": 0.007650243145611084,
+						"probability": 0.000001604316458698692
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.1097675222200045,
+						"confidence_age": 0.002063830248114334,
+						"probability": 0.0000015207556454132837
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.09873542724176353,
+						"confidence_age": 0.0023918447909133385,
+						"probability": 5.421272094752995e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.018658167383099653,
+						"confidence_age": 0.00037539925278963905,
+						"probability": 1.0706318429180305e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 21,
+			"Finding": "poor concentration",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 3961.924171004377,
+						"confidence_age": 114.53245178499668,
+						"probability": 0.0024056574435534902
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 6043.001239708817,
+						"confidence_age": 56.37644299392618,
+						"probability": 0.00045755741780148924
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0003985253945663067
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 19.085301292772986,
+						"confidence_age": 1.12987004648965,
+						"probability": 0.000261278186343339
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 9123.184541409044,
+						"confidence_age": 246.504207516865,
+						"probability": 0.00015474398061019842
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.867652319388778,
+						"confidence_age": 0.1976481141587978,
+						"probability": 0.00006488567772323292
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 9.028583410426993,
+						"confidence_age": 0.20446097575412558,
+						"probability": 0.000060771178886379754
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 34.90270532116592,
+						"confidence_age": 0.5002076366731852,
+						"probability": 0.000017205345526713326
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363757,
+						"confidence_age": 0.014767565007296334,
+						"probability": 0.000013601897145027863
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 2.3664770937023283,
+						"confidence_age": 0.09389535320465248,
+						"probability": 0.00000259749996609178
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.42240692413299674,
+						"confidence_age": 0.004970188909055147,
+						"probability": 0.0000015579931263717081
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.35967872254518557,
+						"confidence_age": 0.007650243145611086,
+						"probability": 0.0000015241006357637563
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.1097675222200045,
+						"confidence_age": 0.002063830248114334,
+						"probability": 0.0000014447178631426192
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.07352977064953058,
+						"confidence_age": 0.0017812431041037842,
+						"probability": 4.020522990724108e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.018658167383099653,
+						"confidence_age": 0.00037539925278963905,
+						"probability": 1.0171002507721289e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 22,
+			"Finding": "thinning or loss of hair anywhere",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 2125.063621958527,
+						"confidence_age": 61.4319548575092,
+						"probability": 0.0012028287217767451
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.0003785991248379916
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 19.085301292772986,
+						"confidence_age": 1.12987004648965,
+						"probability": 0.0002482142770261721
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 9123.184541409044,
+						"confidence_age": 246.504207516865,
+						"probability": 0.00014700678157968848
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 1620.6471335240126,
+						"confidence_age": 15.119361574181784,
+						"probability": 0.00011438935445037226
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.00006164139383707127
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 5.811210917280969,
+						"confidence_age": 0.1316004737895091,
+						"probability": 0.00003646270733182785
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363757,
+						"confidence_age": 0.014767565007296334,
+						"probability": 0.00001292180228777647
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 20.59290203524006,
+						"confidence_age": 0.295126889577904,
+						"probability": 0.000009462940039692333
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 2.1578288942049992,
+						"confidence_age": 0.08561676202815119,
+						"probability": 0.0000022078749711780125
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.4224069241329967,
+						"confidence_age": 0.004970188909055146,
+						"probability": 0.0000014800934700531224
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.1097675222200045,
+						"confidence_age": 0.002063830248114334,
+						"probability": 0.0000013724819699854884
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.21221359861298777,
+						"confidence_age": 0.004513710504492011,
+						"probability": 8.382553496700662e-7
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.07352977064953059,
+						"confidence_age": 0.0017812431041037845,
+						"probability": 3.819496841187903e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.018658167383099653,
+						"confidence_age": 0.00037539925278963905,
+						"probability": 9.662452382335225e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 23,
+			"Finding": "pimples or bumps",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 2125.063621958527,
+						"confidence_age": 61.4319548575092,
+						"probability": 0.0011426872856879077
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.00035966916859609186
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 19.085301292772986,
+						"confidence_age": 1.12987004648965,
+						"probability": 0.00023580356317486355
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 1620.6471335240126,
+						"confidence_age": 15.119361574181784,
+						"probability": 0.00010866988672785365
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 6340.3880928447725,
+						"confidence_age": 171.31434041283552,
+						"probability": 0.00009555440802679752
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.000058559324145217706
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 3.1066524344315583,
+						"confidence_age": 0.07035313949021442,
+						"probability": 0.00001823135366591392
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363756,
+						"confidence_age": 0.014767565007296332,
+						"probability": 0.000012275712173387646
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 20.59290203524006,
+						"confidence_age": 0.295126889577904,
+						"probability": 0.000008989793037707717
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 2.157828894204999,
+						"confidence_age": 0.08561676202815117,
+						"probability": 0.0000020974812226191126
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.42240692413299674,
+						"confidence_age": 0.004970188909055147,
+						"probability": 0.0000014060887965504662
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.1097675222200045,
+						"confidence_age": 0.002063830248114334,
+						"probability": 0.0000013038578714862142
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.21221359861298777,
+						"confidence_age": 0.004513710504492011,
+						"probability": 7.96342582186563e-7
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.06682487612536152,
+						"confidence_age": 0.0016188184558365642,
+						"probability": 3.246572315009717e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.018658167383099656,
+						"confidence_age": 0.0003753992527896391,
+						"probability": 9.179329763218463e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 24,
+			"Finding": "diaphoresis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 2125.063621958527,
+						"confidence_age": 61.4319548575092,
+						"probability": 0.0010855529214035123
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 990.4810427510945,
+						"confidence_age": 28.633112946249177,
+						"probability": 0.00034168571016628726
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 19.085301292772986,
+						"confidence_age": 1.12987004648965,
+						"probability": 0.00022401338501612026
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 1620.6471335240126,
+						"confidence_age": 15.119361574181784,
+						"probability": 0.00010323639239146094
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 6340.3880928447725,
+						"confidence_age": 171.31434041283552,
+						"probability": 0.00009077668762545762
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 18.86765231938878,
+						"confidence_age": 0.19764811415879782,
+						"probability": 0.00005563135793795681
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 3.106652434431558,
+						"confidence_age": 0.0703531394902144,
+						"probability": 0.00001731978598261822
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.9199324418363757,
+						"confidence_age": 0.014767565007296334,
+						"probability": 0.00001166192656471826
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 20.59290203524006,
+						"confidence_age": 0.295126889577904,
+						"probability": 0.000008540303385822332
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.42240692413299674,
+						"confidence_age": 0.004970188909055147,
+						"probability": 0.0000013357843567229428
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 1.2904790159939474,
+						"confidence_age": 0.051202685769662325,
+						"probability": 0.0000011536146724405121
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.07161374157632579,
+						"confidence_age": 0.0013464693659535737,
+						"probability": 7.823147228917284e-7
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.16152602415061304,
+						"confidence_age": 0.0034356031692722618,
+						"probability": 5.57439807530594e-7
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.0668248761253615,
+						"confidence_age": 0.001618818455836564,
+						"probability": 3.084243699259232e-7
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.018658167383099656,
+						"confidence_age": 0.0003753992527896391,
+						"probability": 8.720363275057541e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 25,
+			"Finding": "hyperglycemia",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.71124574755,
+						"confidence_age": 1656.4788536837186,
+						"probability": 0.00006036649727092929
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 979.6069960100659,
+						"confidence_age": 28.318762852628147,
+						"probability": 0.00005156376376666684
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 456.58969871220796,
+						"confidence_age": 13.199227293647349,
+						"probability": 0.000016230071232898637
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 8.797898789556921,
+						"confidence_age": 0.5208449246820153,
+						"probability": 0.000010640635788265715
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.747677219614154,
+						"confidence_age": 0.5830809738817719,
+						"probability": 0.000009872278010092386
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 747.0822302254657,
+						"confidence_age": 6.969688916712957,
+						"probability": 0.000004903728638594397
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744716,
+						"confidence_age": 0.09111137820886059,
+						"probability": 0.0000026424895020529484
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.42406836509157647,
+						"confidence_age": 0.006807518535303059,
+						"probability": 5.539415118241174e-7
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 8.511186715980354,
+						"confidence_age": 0.12197795423906485,
+						"probability": 3.6296289389744896e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.1947201833243995,
+						"confidence_age": 0.002291146380979778,
+						"probability": 6.344975694433979e-8
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158558,
+						"confidence_age": 0.023603297650090387,
+						"probability": 5.479669694092432e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.03301233974066626,
+						"confidence_age": 0.0006206923864169843,
+						"probability": 3.71599493373571e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.07445989929929707,
+						"confidence_age": 0.0015837365363356379,
+						"probability": 2.647839085770321e-8
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.030804779435063764,
+						"confidence_age": 0.0007462392505435579,
+						"probability": 1.4650157571481346e-8
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187404,
+						"confidence_age": 0.00017305069388499398,
+						"probability": 4.1421725556523315e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 26,
+			"Finding": "amenorrhea",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.711245747545,
+						"confidence_age": 1656.4788536837184,
+						"probability": 0.0000603664972709293
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 979.6069960100659,
+						"confidence_age": 28.318762852628147,
+						"probability": 0.00005156376376666684
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 456.58969871220796,
+						"confidence_age": 13.199227293647349,
+						"probability": 0.000016230071232898637
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 8.797898789556923,
+						"confidence_age": 0.5208449246820154,
+						"probability": 0.000010640635788265715
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.747677219614154,
+						"confidence_age": 0.5830809738817719,
+						"probability": 0.000009872278010092384
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 747.0822302254655,
+						"confidence_age": 6.969688916712956,
+						"probability": 0.000004903728638594397
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744715,
+						"confidence_age": 0.09111137820886057,
+						"probability": 0.0000026424895020529484
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.42406836509157647,
+						"confidence_age": 0.006807518535303059,
+						"probability": 5.539415118241176e-7
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 8.511186715980353,
+						"confidence_age": 0.12197795423906482,
+						"probability": 3.6296289389744896e-7
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.19472018332439944,
+						"confidence_age": 0.0022911463809797777,
+						"probability": 6.344975694433977e-8
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158558,
+						"confidence_age": 0.023603297650090387,
+						"probability": 5.479669694092433e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.03301233974066626,
+						"confidence_age": 0.0006206923864169843,
+						"probability": 3.715994933735711e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.07445989929929706,
+						"confidence_age": 0.0015837365363356374,
+						"probability": 2.647839085770322e-8
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.030804779435063767,
+						"confidence_age": 0.0007462392505435579,
+						"probability": 1.4650157571481341e-8
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187404,
+						"confidence_age": 0.00017305069388499398,
+						"probability": 4.142172555652331e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 27,
+			"Finding": "dyspnea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.711245747545,
+						"confidence_age": 1656.4788536837184,
+						"probability": 0.00005734817240738284
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 979.6069960100659,
+						"confidence_age": 28.318762852628147,
+						"probability": 0.00004898557557833349
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 456.58969871220796,
+						"confidence_age": 13.199227293647349,
+						"probability": 0.00001541856767125371
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 8.797898789556921,
+						"confidence_age": 0.5208449246820153,
+						"probability": 0.000010108603998852429
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.747677219614154,
+						"confidence_age": 0.5830809738817719,
+						"probability": 0.000009378664109587764
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 747.0822302254655,
+						"confidence_age": 6.969688916712956,
+						"probability": 0.0000046585422066646764
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744716,
+						"confidence_age": 0.09111137820886059,
+						"probability": 0.000002510365026950302
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.4240683650915765,
+						"confidence_age": 0.00680751853530306,
+						"probability": 5.262444362329116e-7
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 8.511186715980354,
+						"confidence_age": 0.12197795423906485,
+						"probability": 3.448147492025765e-7
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158558,
+						"confidence_age": 0.023603297650090387,
+						"probability": 5.2056862093878094e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.03301233974066626,
+						"confidence_age": 0.0006206923864169843,
+						"probability": 3.530195187048924e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.07445989929929704,
+						"confidence_age": 0.0015837365363356372,
+						"probability": 2.5154471314818062e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.055867296189377504,
+						"confidence_age": 0.0006573543188698227,
+						"probability": 1.5862439236084945e-8
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.03080477943506377,
+						"confidence_age": 0.000746239250543558,
+						"probability": 1.391764969290728e-8
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187406,
+						"confidence_age": 0.00017305069388499404,
+						"probability": 3.935063927869715e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 28,
+			"Finding": "jugular vein distention",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.71124574754,
+						"confidence_age": 1656.4788536837182,
+						"probability": 0.0000544807637870137
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 979.6069960100659,
+						"confidence_age": 28.318762852628147,
+						"probability": 0.00004653629679941682
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 456.58969871220796,
+						"confidence_age": 13.199227293647349,
+						"probability": 0.000014647639287691019
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 8.797898789556921,
+						"confidence_age": 0.5208449246820153,
+						"probability": 0.000009603173798909803
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.74767721961415,
+						"confidence_age": 0.5830809738817718,
+						"probability": 0.000008909730904108381
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 747.0822302254655,
+						"confidence_age": 6.969688916712956,
+						"probability": 0.000004425615096331439
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744715,
+						"confidence_age": 0.09111137820886057,
+						"probability": 0.0000023848467756027863
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.42406836509157647,
+						"confidence_age": 0.006807518535303059,
+						"probability": 4.999322144212663e-7
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 8.511186715980354,
+						"confidence_age": 0.12197795423906485,
+						"probability": 3.2757401174244784e-7
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158558,
+						"confidence_age": 0.023603297650090387,
+						"probability": 4.945401898918419e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.03301233974066626,
+						"confidence_age": 0.0006206923864169843,
+						"probability": 3.3536854276964776e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.07445989929929706,
+						"confidence_age": 0.0015837365363356374,
+						"probability": 2.3896747749077148e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.055867296189377504,
+						"confidence_age": 0.0006573543188698227,
+						"probability": 1.5862439236084945e-8
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.030804779435063778,
+						"confidence_age": 0.0007462392505435582,
+						"probability": 1.3221767208261922e-8
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187406,
+						"confidence_age": 0.00017305069388499404,
+						"probability": 3.738310731476227e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 29,
+			"Finding": "ascites",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.71124574754,
+						"confidence_age": 1656.4788536837182,
+						"probability": 0.000051756725597663
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 979.6069960100659,
+						"confidence_age": 28.318762852628147,
+						"probability": 0.000044209481959445975
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 456.58969871220796,
+						"confidence_age": 13.199227293647349,
+						"probability": 0.000013915257323306465
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 8.797898789556921,
+						"confidence_age": 0.5208449246820153,
+						"probability": 0.000009123015108964314
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.747677219614154,
+						"confidence_age": 0.5830809738817719,
+						"probability": 0.000008464244358902957
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 747.0822302254657,
+						"confidence_age": 6.969688916712957,
+						"probability": 0.000004204334341514869
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744715,
+						"confidence_age": 0.09111137820886057,
+						"probability": 0.000002265604436822646
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.42406836509157647,
+						"confidence_age": 0.006807518535303059,
+						"probability": 4.99932214421266e-7
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 8.511186715980353,
+						"confidence_age": 0.12197795423906482,
+						"probability": 3.111953111553253e-7
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158556,
+						"confidence_age": 0.02360329765009038,
+						"probability": 4.698131803972497e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.03301233974066626,
+						"confidence_age": 0.0006206923864169843,
+						"probability": 3.186001156311653e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.07445989929929706,
+						"confidence_age": 0.0015837365363356374,
+						"probability": 2.270191036162329e-8
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.030804779435063764,
+						"confidence_age": 0.0007462392505435579,
+						"probability": 1.256067884784882e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.03267967411782744,
+						"confidence_age": 0.0003845205761845478,
+						"probability": 8.72434157984672e-9
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187404,
+						"confidence_age": 0.00017305069388499398,
+						"probability": 3.5513951949024156e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 30,
+			"Finding": "polyphagia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.711245747545,
+						"confidence_age": 1656.4788536837184,
+						"probability": 0.00004916888931777986
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 979.6069960100659,
+						"confidence_age": 28.318762852628147,
+						"probability": 0.000041999007861473675
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 456.58969871220796,
+						"confidence_age": 13.199227293647349,
+						"probability": 0.00001321949445714115
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 8.797898789556921,
+						"confidence_age": 0.5208449246820153,
+						"probability": 0.000008666864353516099
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.747677219614154,
+						"confidence_age": 0.5830809738817719,
+						"probability": 0.00000804103214095781
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 747.0822302254657,
+						"confidence_age": 6.969688916712957,
+						"probability": 0.000003994117624439126
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744715,
+						"confidence_age": 0.09111137820886057,
+						"probability": 0.0000021523242149815143
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.42406836509157647,
+						"confidence_age": 0.006807518535303059,
+						"probability": 4.7493560370020257e-7
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 8.511186715980351,
+						"confidence_age": 0.1219779542390648,
+						"probability": 2.95635545597559e-7
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158558,
+						"confidence_age": 0.023603297650090387,
+						"probability": 4.4632252137738734e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.03301233974066626,
+						"confidence_age": 0.0006206923864169843,
+						"probability": 3.02670109849607e-8
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.03267967411782744,
+						"confidence_age": 0.0003845205761845478,
+						"probability": 8.288124500854384e-9
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.02759167097398342,
+						"confidence_age": 0.0005868653843379772,
+						"probability": 7.945668626568152e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.017937764032463534,
+						"confidence_age": 0.00043453853049751814,
+						"probability": 6.908373366316849e-9
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187406,
+						"confidence_age": 0.00017305069388499404,
+						"probability": 3.3738254351572956e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 31,
+			"Finding": "swelling in the area below the knee and above the ankle region",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.711245747545,
+						"confidence_age": 1656.4788536837184,
+						"probability": 0.00004671044485189085
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 979.6069960100659,
+						"confidence_age": 28.318762852628147,
+						"probability": 0.00003989905746839999
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 456.58969871220796,
+						"confidence_age": 13.199227293647349,
+						"probability": 0.000012558519734284087
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 8.797898789556921,
+						"confidence_age": 0.5208449246820153,
+						"probability": 0.000008233521135840287
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.747677219614154,
+						"confidence_age": 0.5830809738817719,
+						"probability": 0.00000763898053390992
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 747.0822302254655,
+						"confidence_age": 6.969688916712956,
+						"probability": 0.0000037944117432171703
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744715,
+						"confidence_age": 0.09111137820886057,
+						"probability": 0.000002044708004232438
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.32848194313061646,
+						"confidence_age": 0.005273081183245411,
+						"probability": 3.6788353673037004e-7
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 8.511186715980354,
+						"confidence_age": 0.12197795423906485,
+						"probability": 2.8085376831768096e-7
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158558,
+						"confidence_age": 0.023603297650090387,
+						"probability": 4.240063953085179e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.03301233974066626,
+						"confidence_age": 0.0006206923864169843,
+						"probability": 2.875366043571267e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.027591670973983424,
+						"confidence_age": 0.0005868653843379774,
+						"probability": 7.548385195239742e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.01653780129617269,
+						"confidence_age": 0.000400624730032859,
+						"probability": 6.369205537833632e-9
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.024235894975141118,
+						"confidence_age": 0.0002851680915356996,
+						"probability": 6.146637638409677e-9
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187406,
+						"confidence_age": 0.00017305069388499404,
+						"probability": 3.2051341633994307e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 32,
+			"Finding": "fatigue",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.71124574754,
+						"confidence_age": 1656.4788536837182,
+						"probability": 0.000046710444851890843
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 2199.9435605564718,
+						"confidence_age": 63.59660581673199,
+						"probability": 0.00003989905746839999
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 615.2293143615033,
+						"confidence_age": 17.785227263943916,
+						"probability": 0.00001255851973428409
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 8.797898789556921,
+						"confidence_age": 0.5208449246820153,
+						"probability": 0.000008233521135840292
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.747677219614147,
+						"confidence_age": 0.5830809738817718,
+						"probability": 0.000007638980533909921
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 2516.6297529797225,
+						"confidence_age": 23.47817387052469,
+						"probability": 0.000003794411743217169
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744716,
+						"confidence_age": 0.09111137820886059,
+						"probability": 0.0000020447080042324384
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.6639168203609545,
+						"confidence_age": 0.010657776982564279,
+						"probability": 3.6788353673037025e-7
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 28.67088100347084,
+						"confidence_age": 0.4108963329953472,
+						"probability": 2.80853768317681e-7
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158557,
+						"confidence_age": 0.023603297650090383,
+						"probability": 4.240063953085177e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.044482298223992044,
+						"confidence_age": 0.0008363485913102499,
+						"probability": 2.875366043571268e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.024785498319811517,
+						"confidence_age": 0.0005271790538231581,
+						"probability": 7.548385195239742e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.03342565605790483,
+						"confidence_age": 0.0008097294310500881,
+						"probability": 6.369205537833633e-9
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.08164131325426463,
+						"confidence_age": 0.0009606204976159046,
+						"probability": 6.146637638409678e-9
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187406,
+						"confidence_age": 0.00017305069388499404,
+						"probability": 3.2051341633994302e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 33,
+			"Finding": "oliguria",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.71124574755,
+						"confidence_age": 1656.4788536837186,
+						"probability": 0.00004437492260929632
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 2199.9435605564713,
+						"confidence_age": 63.59660581673198,
+						"probability": 0.00003790410459497999
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 615.2293143615033,
+						"confidence_age": 17.785227263943916,
+						"probability": 0.000011930593747569883
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 8.79789878955692,
+						"confidence_age": 0.5208449246820152,
+						"probability": 0.000007821845079048277
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.747677219614154,
+						"confidence_age": 0.5830809738817719,
+						"probability": 0.000007257031507214422
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 2516.629752979722,
+						"confidence_age": 23.478173870524685,
+						"probability": 0.000003604691156056311
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744715,
+						"confidence_age": 0.09111137820886057,
+						"probability": 0.0000019424726040208164
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.6639168203609545,
+						"confidence_age": 0.010657776982564279,
+						"probability": 3.494893598938516e-7
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 28.670881003470846,
+						"confidence_age": 0.41089633299534734,
+						"probability": 2.668110799017969e-7
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158557,
+						"confidence_age": 0.023603297650090383,
+						"probability": 4.02806075543092e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.04448229822399204,
+						"confidence_age": 0.0008363485913102497,
+						"probability": 2.731597741392704e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.024785498319811514,
+						"confidence_age": 0.0005271790538231581,
+						"probability": 7.170965935477755e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.03342565605790483,
+						"confidence_age": 0.0008097294310500881,
+						"probability": 6.050745260941953e-9
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.06518764429529206,
+						"confidence_age": 0.0007670208232237246,
+						"probability": 4.60997822880726e-9
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187404,
+						"confidence_age": 0.00017305069388499398,
+						"probability": 3.0448774552294594e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 34,
+			"Finding": "confusion",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.71124574754,
+						"confidence_age": 1656.4788536837182,
+						"probability": 0.00004215617647883148
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 2199.9435605564713,
+						"confidence_age": 63.59660581673198,
+						"probability": 0.00003600889936523099
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 615.2293143615033,
+						"confidence_age": 17.785227263943916,
+						"probability": 0.000011334064060191391
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "secondary ovarian insufficiency",
+						"confidence": 8.797898789556921,
+						"confidence_age": 0.5208449246820153,
+						"probability": 0.000007430752825095863
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.74767721961415,
+						"confidence_age": 0.5830809738817718,
+						"probability": 0.0000068941799318537035
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 2516.6297529797225,
+						"confidence_age": 23.47817387052469,
+						"probability": 0.0000034244565982534953
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744716,
+						"confidence_age": 0.09111137820886059,
+						"probability": 0.000001845348973819776
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 28.670881003470843,
+						"confidence_age": 0.4108963329953473,
+						"probability": 2.53470525906707e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.5003245425653954,
+						"confidence_age": 0.008031649794120915,
+						"probability": 2.446425519256961e-7
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158558,
+						"confidence_age": 0.023603297650090387,
+						"probability": 3.826657717659373e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.04448229822399204,
+						"confidence_age": 0.0008363485913102497,
+						"probability": 2.5950178543230695e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.024785498319811514,
+						"confidence_age": 0.0005271790538231581,
+						"probability": 6.812417638703864e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.03342565605790483,
+						"confidence_age": 0.0008097294310500881,
+						"probability": 5.748207997894853e-9
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187406,
+						"confidence_age": 0.00017305069388499404,
+						"probability": 2.8926335824679872e-9
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.038598290633486666,
+						"confidence_age": 0.0004541611063994789,
+						"probability": 2.535488025843994e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 35,
+			"Finding": "history of coronary artery disease",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 61306.711245747545,
+						"confidence_age": 1656.4788536837184,
+						"probability": 0.000038045949272145426
+					},
+					{
+						"disease": "thyroiditis",
+						"instance": "hashimoto's thyroiditis",
+						"confidence": 2199.9435605564718,
+						"confidence_age": 63.59660581673199,
+						"probability": 0.00003249803167712097
+					},
+					{
+						"disease": "brain tumor",
+						"instance": "pituitary adenoma",
+						"confidence": 615.2293143615033,
+						"confidence_age": 17.785227263943916,
+						"probability": 0.000010228992814322728
+					},
+					{
+						"disease": "ovarian insufficiency",
+						"instance": "primary ovarian insufficiency",
+						"confidence": 8.797898789556921,
+						"confidence_age": 0.5208449246820153,
+						"probability": 0.0000067062544246490165
+					},
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 25.747677219614154,
+						"confidence_age": 0.5830809738817719,
+						"probability": 0.000006221997388497968
+					},
+					{
+						"disease": "hypothyroidism",
+						"instance": "hypothyroidism #1",
+						"confidence": 2516.6297529797225,
+						"confidence_age": 23.47817387052469,
+						"probability": 0.0000030905720799237785
+					},
+					{
+						"disease": "endometrial cancer",
+						"instance": "endometrial cancer #2",
+						"confidence": 8.697567460744715,
+						"confidence_age": 0.09111137820886057,
+						"probability": 0.0000016654274488723472
+					},
+					{
+						"disease": "sheehan syndrome",
+						"instance": "sheehan syndrome #1",
+						"confidence": 28.67088100347084,
+						"confidence_age": 0.4108963329953472,
+						"probability": 2.2875714963080314e-7
+					},
+					{
+						"disease": "liver cirrhosis",
+						"instance": "liver cirrhosis #1",
+						"confidence": 0.5003245425653955,
+						"confidence_age": 0.008031649794120917,
+						"probability": 2.207899031129408e-7
+					},
+					{
+						"disease": "menopause",
+						"instance": "premature menopause",
+						"confidence": 0.5948820822158557,
+						"confidence_age": 0.023603297650090383,
+						"probability": 3.453558590187584e-8
+					},
+					{
+						"disease": "acromegaly",
+						"instance": "acromegaly#1",
+						"confidence": 0.04448229822399204,
+						"confidence_age": 0.0008363485913102497,
+						"probability": 2.342003613526569e-8
+					},
+					{
+						"disease": "hyperthyroidism",
+						"instance": "hyperthyroidism #1",
+						"confidence": 0.02478549831981151,
+						"confidence_age": 0.000527179053823158,
+						"probability": 6.1482069189302405e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.03342565605790484,
+						"confidence_age": 0.0008097294310500883,
+						"probability": 5.187757718100105e-9
+					},
+					{
+						"disease": "secondary dysmenorrhea",
+						"instance": "secondary dysmenorrhea #1",
+						"confidence": 0.008600999571187406,
+						"confidence_age": 0.00017305069388499404,
+						"probability": 2.6106018081773564e-9
+					},
+					{
+						"disease": "heart failure",
+						"instance": "dilated cardiomyopathy",
+						"confidence": 0.03859829063348667,
+						"confidence_age": 0.00045416110639947903,
+						"probability": 2.2882779433242033e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "endocrinologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "cushing syndrome",
+				"instance": "cushing syndrom #1",
+				"confidence": 61306.71124574755,
+				"confidence_age": 1656.4788536837186,
+				"probability": 0.000038045949272145426
+			},
+			{
+				"disease": "thyroiditis",
+				"instance": "hashimoto's thyroiditis",
+				"confidence": 2199.9435605564713,
+				"confidence_age": 63.59660581673198,
+				"probability": 0.00003249803167712097
+			},
+			{
+				"disease": "brain tumor",
+				"instance": "pituitary adenoma",
+				"confidence": 615.2293143615033,
+				"confidence_age": 17.785227263943916,
+				"probability": 0.000010228992814322727
+			},
+			{
+				"disease": "ovarian insufficiency",
+				"instance": "secondary ovarian insufficiency",
+				"confidence": 8.797898789556921,
+				"confidence_age": 0.5208449246820153,
+				"probability": 0.0000067062544246490165
+			},
+			{
+				"disease": "polycystic ovary syndrome",
+				"instance": "polycystic ovary syndrome #1",
+				"confidence": 25.747677219614154,
+				"confidence_age": 0.5830809738817719,
+				"probability": 0.000006221997388497968
+			},
+			{
+				"disease": "hypothyroidism",
+				"instance": "hypothyroidism #1",
+				"confidence": 2516.6297529797225,
+				"confidence_age": 23.47817387052469,
+				"probability": 0.0000030905720799237794
+			},
+			{
+				"disease": "endometrial cancer",
+				"instance": "endometrial cancer #2",
+				"confidence": 8.697567460744715,
+				"confidence_age": 0.09111137820886057,
+				"probability": 0.0000016654274488723476
+			},
+			{
+				"disease": "sheehan syndrome",
+				"instance": "sheehan syndrome #1",
+				"confidence": 28.670881003470836,
+				"confidence_age": 0.4108963329953472,
+				"probability": 2.2875714963080314e-7
+			},
+			{
+				"disease": "liver cirrhosis",
+				"instance": "liver cirrhosis #1",
+				"confidence": 0.5003245425653953,
+				"confidence_age": 0.008031649794120913,
+				"probability": 2.2078990311294065e-7
+			},
+			{
+				"disease": "menopause",
+				"instance": "premature menopause",
+				"confidence": 0.5948820822158557,
+				"confidence_age": 0.023603297650090383,
+				"probability": 3.453558590187585e-8
+			},
+			{
+				"disease": "acromegaly",
+				"instance": "acromegaly#1",
+				"confidence": 0.044482298223992044,
+				"confidence_age": 0.0008363485913102499,
+				"probability": 2.342003613526568e-8
+			},
+			{
+				"disease": "hyperthyroidism",
+				"instance": "hyperthyroidism #1",
+				"confidence": 0.024785498319811514,
+				"confidence_age": 0.0005271790538231581,
+				"probability": 6.1482069189302356e-9
+			},
+			{
+				"disease": "premenstrual syndrome",
+				"instance": "premenstrual syndrome #1",
+				"confidence": 0.03342565605790484,
+				"confidence_age": 0.0008097294310500883,
+				"probability": 5.187757718100104e-9
+			},
+			{
+				"disease": "secondary dysmenorrhea",
+				"instance": "secondary dysmenorrhea #1",
+				"confidence": 0.008600999571187404,
+				"confidence_age": 0.00017305069388499398,
+				"probability": 2.610601808177357e-9
+			},
+			{
+				"disease": "heart failure",
+				"instance": "dilated cardiomyopathy",
+				"confidence": 0.03859829063348667,
+				"confidence_age": 0.00045416110639947903,
+				"probability": 2.2882779433242033e-9
+			}
+		],
+		"urgency": 3,
+		"specialist": "endocrinologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"recent unexplained weight gain",
+			"irregular menstruation"
+		],
+		"findings": {
+			"abdominal pain": false,
+			"amenorrhea": null,
+			"ascites": false,
+			"chronic cough": false,
+			"cold extremities": false,
+			"confusion": false,
+			"decreased libido": null,
+			"diaphoresis": false,
+			"dry cough or productive cough": false,
+			"dry cough or productive cough (dry at first then production of clear/white mucus)": false,
+			"dry cough or productive cough (dry at first then production of yellowish-gray mucus)": false,
+			"dry cough or productive cough (production of pink, frothy mucus)": false,
+			"dysmenorrhea": false,
+			"dyspareunia": false,
+			"dyspnea": false,
+			"enlarged facial features": false,
+			"fatigue": true,
+			"fissured skin at lower extremity": false,
+			"heat intolerance": false,
+			"hirsutism": false,
+			"history of coronary artery disease": false,
+			"hot flashes": false,
+			"hyperglycemia": true,
+			"hypoglycemia": false,
+			"infertility": null,
+			"insomnia": false,
+			"irregular menstruation": true,
+			"jugular vein distention": false,
+			"mood swings": true,
+			"oliguria": false,
+			"palpitation": false,
+			"pimples or bumps": false,
+			"polyphagia": false,
+			"poor concentration": false,
+			"poor memory": false,
+			"postpartum": false,
+			"postpartum thyroiditis": false,
+			"progressive growth of hands and feet": false,
+			"recent unexplained weight gain": true,
+			"skin erythema": false,
+			"swelling in feet or ankle region": false,
+			"swelling in the area below the knee and above the ankle region": false,
+			"symptoms appear before every period": false,
+			"thinning or loss of hair anywhere": false,
+			"weight loss": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 34,
+		"sex": "female",
+		"NextConcept": "",
+		"question_count": 35
+	}
+}
