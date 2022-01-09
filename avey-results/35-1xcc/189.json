@@ -1,0 +1,126 @@
+{
+	"Time": "2021-12-02T13:18:49.1574248+03:00",
+	"Age": 22,
+	"Sex": "female",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "swelling of the vagina ball-shaped",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "bartholin gland abscess",
+						"instance": "bartholin gland abscess #1",
+						"confidence": 16.999999999999922,
+						"confidence_age": 0.24029499722120837,
+						"probability": 0.012756837352478914
+					},
+					{
+						"disease": "bartholin gland cyst",
+						"instance": "bartholin gland cyst #1",
+						"confidence": 16.999999999999922,
+						"confidence_age": 0.24029499722120837,
+						"probability": 0.012756837352478914
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "swelling of the vagina ball-shaped (unilateral)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "bartholin gland cyst",
+						"instance": "bartholin gland cyst #1",
+						"confidence": 274.5499999999972,
+						"confidence_age": 3.8807642051224938,
+						"probability": 0.012118995484854967
+					},
+					{
+						"disease": "bartholin gland abscess",
+						"instance": "bartholin gland abscess #1",
+						"confidence": 274.5499999999972,
+						"confidence_age": 3.8807642051224938,
+						"probability": 0.012118995484854967
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "swelling of the vagina ball-shaped (warm)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "bartholin gland abscess",
+						"instance": "bartholin gland abscess #1",
+						"confidence": 4680.314861111035,
+						"confidence_age": 66.15624979676832,
+						"probability": 0.01151304571061222
+					},
+					{
+						"disease": "bartholin gland cyst",
+						"instance": "bartholin gland cyst #1",
+						"confidence": 129.60124223602347,
+						"confidence_age": 1.8319135378217974,
+						"probability": 0.0006059497742427484
+					}
+				],
+				"urgency": 2,
+				"specialist": "gynecologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "bartholin gland abscess",
+				"instance": "bartholin gland abscess #1",
+				"confidence": 4680.3148611110355,
+				"confidence_age": 66.15624979676834,
+				"probability": 0.01151304571061222
+			},
+			{
+				"disease": "bartholin gland cyst",
+				"instance": "bartholin gland cyst #1",
+				"confidence": 129.60124223602347,
+				"confidence_age": 1.8319135378217974,
+				"probability": 0.0006059497742427484
+			}
+		],
+		"urgency": 2,
+		"specialist": "gynecologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"swelling of the vagina ball-shaped"
+		],
+		"findings": {
+			"swelling of the vagina ball-shaped": true,
+			"swelling of the vagina ball-shaped (unilateral)": true,
+			"swelling of the vagina ball-shaped (warm)": true,
+			"swelling of the vagina not ball-shaped": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 22,
+		"sex": "female",
+		"next_concept": "",
+		"question_count": 3
+	}
+}

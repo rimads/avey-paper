@@ -1,0 +1,125 @@
+{
+	"Time": "2021-12-02T09:01:22.8655878+03:00",
+	"Age": 28,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "anal pain",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 8.86304241462118,
+						"confidence_age": 0.10999864385788553,
+						"probability": 0.003206739278924885
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 2.9543474715403932,
+						"confidence_age": 0.030500909109718248,
+						"probability": 0.0008057482676495657
+					}
+				],
+				"urgency": 1,
+				"specialist": "surgeon"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "dyschezia",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 149.93718462090771,
+						"confidence_age": 1.8608606616799306,
+						"probability": 0.003046402314978641
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 47.348584617128765,
+						"confidence_age": 0.48883040664402855,
+						"probability": 0.0005509482929988064
+					}
+				],
+				"urgency": 1,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "straining",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 1698.6498489020885,
+						"confidence_age": 21.081832967468443,
+						"probability": 0.0008017938977961794
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 670.5196771981931,
+						"confidence_age": 6.9224963981086285,
+						"probability": 0.0002754741464994032
+					}
+				],
+				"urgency": 1,
+				"specialist": "surgeon"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "anal fissure",
+				"instance": "anal fissure #1",
+				"confidence": 1698.6498489020885,
+				"confidence_age": 21.081832967468443,
+				"probability": 0.0008017938977961794
+			},
+			{
+				"disease": "hemorrhoids",
+				"instance": "hemorrhoids #1",
+				"confidence": 670.5196771981931,
+				"confidence_age": 6.9224963981086285,
+				"probability": 0.0002754741464994032
+			}
+		],
+		"urgency": 1,
+		"specialist": "surgeon"
+	},
+	"Case": {
+		"chief_findings": [
+			"anal pain"
+		],
+		"findings": {
+			"anal pain": true,
+			"dyschezia": true,
+			"straining": true
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 28,
+		"sex": "male",
+		"next_concept": "",
+		"question_count": 3
+	}
+}

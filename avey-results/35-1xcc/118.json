@@ -1,0 +1,3615 @@
+{
+	"Time": "2021-12-02T10:03:44.5518378+03:00",
+	"Age": 62,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "syncope",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.006278017997193963
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.14459809633409207,
+						"probability": 0.006067878907495827
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.10017942314055718,
+						"probability": 0.0042039046436351075
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 7.1490267952842235,
+						"confidence_age": 0.09015054350336701,
+						"probability": 0.0032582212567282354
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 7.1490267952842235,
+						"confidence_age": 0.08607711250723883,
+						"probability": 0.0031109992995039305
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 7.1490267952842235,
+						"confidence_age": 0.08306842202940498,
+						"probability": 0.00300225919779364
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.17048166293502331,
+						"probability": 0.002861620209018878
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 1.5886726211742719,
+						"confidence_age": 0.02019787077926558,
+						"probability": 0.002542735427055609
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 6.3546904846970875,
+						"confidence_age": 0.03005979344596837,
+						"probability": 0.0018921326549802054
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 2.3830089317614074,
+						"confidence_age": 0.045392140412095994,
+						"probability": 0.0014866309189103292
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 2.3830089317614074,
+						"confidence_age": 0.033878953346523306,
+						"probability": 0.0011095643229866471
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 2.3830089317614074,
+						"confidence_age": 0.020035884628111435,
+						"probability": 0.0006561921360274376
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "dyspnea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.0059641170973342645
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 7.1490267952842235,
+						"confidence_age": 0.09015054350336701,
+						"probability": 0.0030953101938918236
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 7.1490267952842235,
+						"confidence_age": 0.08306842202940498,
+						"probability": 0.002852146237903958
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.17048166293502331,
+						"probability": 0.002718539198567934
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 1.5886726211742719,
+						"confidence_age": 0.02019787077926558,
+						"probability": 0.0024155986557028285
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 6.3546904846970875,
+						"confidence_age": 0.03005979344596837,
+						"probability": 0.001797526022231195
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 2.0511319916567334,
+						"confidence_age": 0.039070466806939555,
+						"probability": 0.001114973189182747
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 2.3830089317614074,
+						"confidence_age": 0.033878953346523306,
+						"probability": 0.001054086106837315
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 3.418553319427889,
+						"confidence_age": 0.02874254434811423,
+						"probability": 0.0010509761609087769
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.6837106638855784,
+						"confidence_age": 0.008297347032442542,
+						"probability": 0.00030339394537479163
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.6837106638855778,
+						"confidence_age": 0.005748508869622845,
+						"probability": 0.0001640480340068594
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.41022639833134716,
+						"confidence_age": 0.004939288221146313,
+						"probability": 0.00015554996497519667
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "back pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.005665911242467551
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 7.1490267952842235,
+						"confidence_age": 0.08306842202940498,
+						"probability": 0.00270953892600876
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.17048166293502331,
+						"probability": 0.002582612238639537
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 6.267142343714993,
+						"confidence_age": 0.07902981827842062,
+						"probability": 0.002476248155113459
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 1.3926982986033318,
+						"confidence_age": 0.017706316515293814,
+						"probability": 0.0019324789245622632
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 6.3546904846970875,
+						"confidence_age": 0.03005979344596837,
+						"probability": 0.0017076497211196352
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 2.3830089317614074,
+						"confidence_age": 0.033878953346523306,
+						"probability": 0.0010013818014954492
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 3.418553319427889,
+						"confidence_age": 0.02874254434811423,
+						"probability": 0.000998427352863338
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.6837106638855784,
+						"confidence_age": 0.008297347032442542,
+						"probability": 0.00028822424810605204
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.5025870077145774,
+						"confidence_age": 0.00957340097194374,
+						"probability": 0.0002493155844102356
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.6837106638855778,
+						"confidence_age": 0.005748508869622845,
+						"probability": 0.00015584563230651644
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.41022639833134716,
+						"confidence_age": 0.004939288221146313,
+						"probability": 0.00014777246672643683
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "chest pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.005113484896326964
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 7.1490267952842235,
+						"confidence_age": 0.08306842202940498,
+						"probability": 0.002445358880722906
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.17048166293502331,
+						"probability": 0.002330807545372182
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 6.267142343714993,
+						"confidence_age": 0.07902981827842062,
+						"probability": 0.0022348139599898966
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 1.3926982986033318,
+						"confidence_age": 0.017706316515293814,
+						"probability": 0.0017440622294174425
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 6.3546904846970875,
+						"confidence_age": 0.03005979344596837,
+						"probability": 0.0015411538733104706
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 2.3830089317614074,
+						"confidence_age": 0.033878953346523306,
+						"probability": 0.0009037470758496427
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.27157755419693,
+						"confidence_age": 0.019098990856931508,
+						"probability": 0.0005691035911321026
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.677253576979607,
+						"confidence_age": 0.008218985389561317,
+						"probability": 0.000244905824380981
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3861681842134785,
+						"confidence_age": 0.004649617799892186,
+						"probability": 0.00011932626688159772
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.1135788777098466,
+						"confidence_age": 0.002163478405866851,
+						"probability": 0.0000529612264861805
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.1892981295164108,
+						"confidence_age": 0.001591582571410959,
+						"probability": 0.000037013337672797655
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "melena",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.004857810651510616
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 7.1490267952842235,
+						"confidence_age": 0.08306842202940498,
+						"probability": 0.0023230909366867606
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 6.267142343714993,
+						"confidence_age": 0.07902981827842062,
+						"probability": 0.0021230732619904017
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 1.3383302423801515,
+						"confidence_age": 0.017015098601999658,
+						"probability": 0.0015696560064756982
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 6.3546904846970875,
+						"confidence_age": 0.03005979344596837,
+						"probability": 0.0014640961796449472
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 1.7810964889808654,
+						"confidence_age": 0.025321636042395144,
+						"probability": 0.0006326229530947499
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.27157755419693,
+						"confidence_age": 0.019098990856931508,
+						"probability": 0.0005406484115754974
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 1.272211777843475,
+						"confidence_age": 0.018202934668143617,
+						"probability": 0.0002330807545372182
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.677253576979607,
+						"confidence_age": 0.008218985389561317,
+						"probability": 0.00023266053316193196
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3861681842134785,
+						"confidence_age": 0.004649617799892186,
+						"probability": 0.00011335995353751784
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11357887770984659,
+						"confidence_age": 0.0021634784058668505,
+						"probability": 0.00005031316516187148
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.1892981295164108,
+						"confidence_age": 0.001591582571410959,
+						"probability": 0.00003516267078915777
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "diarrhea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.004614920118935085
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 6.267142343714993,
+						"confidence_age": 0.07902981827842062,
+						"probability": 0.002016919598890881
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 6.693687272745075,
+						"confidence_age": 0.0777775850094766,
+						"probability": 0.0019746272961837464
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 1.3383302423801515,
+						"confidence_age": 0.017015098601999658,
+						"probability": 0.0014911732061519134
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 6.3546904846970875,
+						"confidence_age": 0.03005979344596837,
+						"probability": 0.0013908913706626995
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.27157755419693,
+						"confidence_age": 0.019098990856931508,
+						"probability": 0.0005136159909967225
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 1.272211777843475,
+						"confidence_age": 0.018202934668143617,
+						"probability": 0.00022142671681035726
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.677253576979607,
+						"confidence_age": 0.008218985389561317,
+						"probability": 0.00022102750650383534
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.49048646106654603,
+						"confidence_age": 0.006973187431275052,
+						"probability": 0.00015815573827368748
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3861681842134785,
+						"confidence_age": 0.004649617799892186,
+						"probability": 0.00010769195586064194
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11357887770984659,
+						"confidence_age": 0.0021634784058668505,
+						"probability": 0.00004779750690377791
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.1892981295164108,
+						"confidence_age": 0.001591582571410959,
+						"probability": 0.00003340453724969988
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "hypotensive",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.004384174112988331
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 1.3383302423801515,
+						"confidence_age": 0.017015098601999658,
+						"probability": 0.0014166145458443173
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 6.3546904846970875,
+						"confidence_age": 0.03005979344596837,
+						"probability": 0.0013213468021295645
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 3.592719806079212,
+						"confidence_age": 0.041745761154742586,
+						"probability": 0.0009873136480918732
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 1.6818896303583002,
+						"confidence_age": 0.02120893775212794,
+						"probability": 0.0005042298997227204
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.27157755419693,
+						"confidence_age": 0.019098990856931508,
+						"probability": 0.0004879351914468864
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 1.272211777843475,
+						"confidence_age": 0.018202934668143617,
+						"probability": 0.00021035538096983935
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.49048646106654603,
+						"confidence_age": 0.006973187431275052,
+						"probability": 0.0001502479513600031
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3861681842134785,
+						"confidence_age": 0.004649617799892186,
+						"probability": 0.00010230735806760985
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.18175201802897945,
+						"confidence_age": 0.0022056984731856914,
+						"probability": 0.000055256876625958836
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11357887770984659,
+						"confidence_age": 0.0021634784058668505,
+						"probability": 0.000045407631558589
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.1892981295164108,
+						"confidence_age": 0.001591582571410959,
+						"probability": 0.000031734310387214884
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "vomiting",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.004164965407338914
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 5.5162185809808015,
+						"confidence_age": 0.02609354327270586,
+						"probability": 0.001023510831842446
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 2.9859060046685757,
+						"confidence_age": 0.03469486228524936,
+						"probability": 0.000732211398326785
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 1.7377143800731918,
+						"confidence_age": 0.021912898119300802,
+						"probability": 0.00046487699771899545
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.27157755419693,
+						"confidence_age": 0.019098990856931508,
+						"probability": 0.0004635384318745421
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.37495119301733343,
+						"confidence_age": 0.0047670084095096975,
+						"probability": 0.0003541536364610794
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.9979962079234913,
+						"confidence_age": 0.014279430585590345,
+						"probability": 0.00014724876667888756
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.49163575117686914,
+						"confidence_age": 0.006989526751497607,
+						"probability": 0.00013438585308841953
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3861681842134785,
+						"confidence_age": 0.004649617799892186,
+						"probability": 0.00009719199016422936
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.18175201802897945,
+						"confidence_age": 0.0022056984731856914,
+						"probability": 0.00005249403279466089
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11357887770984657,
+						"confidence_age": 0.00216347840586685,
+						"probability": 0.00004313724998065957
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.1892981295164108,
+						"confidence_age": 0.001591582571410959,
+						"probability": 0.00003014759486785414
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "thinning or loss of hair anywhere",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.003956717136971968
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 5.5162185809808015,
+						"confidence_age": 0.02609354327270586,
+						"probability": 0.0009723352902503238
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 1.737714380073192,
+						"confidence_age": 0.021912898119300805,
+						"probability": 0.0004416331478330457
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.27157755419693,
+						"confidence_age": 0.019098990856931508,
+						"probability": 0.00044036151028081495
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 1.7617107119569555,
+						"confidence_age": 0.020470272822462648,
+						"probability": 0.00040271626907973176
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.37495119301733343,
+						"confidence_age": 0.0047670084095096975,
+						"probability": 0.0003364459546380254
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.9979962079234913,
+						"confidence_age": 0.014279430585590345,
+						"probability": 0.00013988632834494318
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3861681842134785,
+						"confidence_age": 0.004649617799892186,
+						"probability": 0.00009233239065601784
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.18175201802897945,
+						"confidence_age": 0.0022056984731856914,
+						"probability": 0.000049869331154927834
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11357887770984659,
+						"confidence_age": 0.0021634784058668505,
+						"probability": 0.00004098038748162658
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.13184972818590884,
+						"confidence_age": 0.001874491836948526,
+						"probability": 0.000033596463272104884
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.1892981295164108,
+						"confidence_age": 0.001591582571410959,
+						"probability": 0.00002864021512446143
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "skin hyperpigmentation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.0033923903553113406
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 5.5162185809808015,
+						"confidence_age": 0.02609354327270586,
+						"probability": 0.0008336559694783713
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 1.7377143800731918,
+						"confidence_age": 0.021912898119300802,
+						"probability": 0.00037864522012335747
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 2.27157755419693,
+						"confidence_age": 0.019098990856931508,
+						"probability": 0.0003775549498770137
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.37495119301733343,
+						"confidence_age": 0.0047670084095096975,
+						"probability": 0.000288460350357777
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.9979962079234913,
+						"confidence_age": 0.014279430585590345,
+						"probability": 0.00011993504076474565
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.4691805222159222,
+						"confidence_age": 0.005451663106524887,
+						"probability": 0.00009086285821111448
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3861681842134785,
+						"confidence_age": 0.004649617799892186,
+						"probability": 0.00007916348343870332
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.18175201802897945,
+						"confidence_age": 0.0022056984731856914,
+						"probability": 0.000042756717798956255
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11357887770984657,
+						"confidence_age": 0.00216347840586685,
+						"probability": 0.00003513555971705959
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.13184972818590884,
+						"confidence_age": 0.001874491836948526,
+						"probability": 0.000028804767697920924
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.1892981295164108,
+						"confidence_age": 0.001591582571410959,
+						"probability": 0.000024555404442335116
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "palpitation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.0032227708375457734
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 5.5162185809808015,
+						"confidence_age": 0.02609354327270586,
+						"probability": 0.0007919731710044527
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 1.7377143800731918,
+						"confidence_age": 0.021912898119300802,
+						"probability": 0.00035971295911718963
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.37495119301733343,
+						"confidence_age": 0.0047670084095096975,
+						"probability": 0.0002740373328398881
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.9979962079234914,
+						"confidence_age": 0.014279430585590346,
+						"probability": 0.00011393828872650832
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.6138314478843703,
+						"confidence_age": 0.005160977748340731,
+						"probability": 0.00009438873746925342
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.4691805222159223,
+						"confidence_age": 0.005451663106524888,
+						"probability": 0.00008631971530055876
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3861681842134785,
+						"confidence_age": 0.004649617799892186,
+						"probability": 0.00007520530926676816
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.18175201802897945,
+						"confidence_age": 0.0022056984731856914,
+						"probability": 0.00004061888190900844
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11357887770984657,
+						"confidence_age": 0.00216347840586685,
+						"probability": 0.00003337878173120661
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.13184972818590884,
+						"confidence_age": 0.001874491836948526,
+						"probability": 0.00002736452931302487
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.11253576544546788,
+						"confidence_age": 0.0009461792538624674,
+						"probability": 0.000013505472443284313
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "headache",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.0029085506808850603
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 1.737714380073192,
+						"confidence_age": 0.021912898119300805,
+						"probability": 0.00032464094560326356
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.37495119301733343,
+						"confidence_age": 0.0047670084095096975,
+						"probability": 0.00024731869288799904
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 1.2457349750002638,
+						"confidence_age": 0.005892739564122372,
+						"probability": 0.00015047490249084594
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.9979962079234913,
+						"confidence_age": 0.014279430585590345,
+						"probability": 0.00010282930557567375
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.6138314478843703,
+						"confidence_age": 0.005160977748340731,
+						"probability": 0.0000851858355660012
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.46918052221592227,
+						"confidence_age": 0.005451663106524888,
+						"probability": 0.00007790354305875426
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3861681842134785,
+						"confidence_age": 0.004649617799892186,
+						"probability": 0.00006787279161325825
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.18175201802897945,
+						"confidence_age": 0.0022056984731856914,
+						"probability": 0.00003665854092288011
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.11357887770984659,
+						"confidence_age": 0.0021634784058668505,
+						"probability": 0.000030124350512413956
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.13184972818590884,
+						"confidence_age": 0.001874491836948526,
+						"probability": 0.00002469648770500495
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.11253576544546788,
+						"confidence_age": 0.0009461792538624674,
+						"probability": 0.000012188688880064091
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "tachycardia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.002763123146840807
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.3749511930173335,
+						"confidence_age": 0.0047670084095096975,
+						"probability": 0.00023495275824359906
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 1.073817014784479,
+						"confidence_age": 0.013541030167888074,
+						"probability": 0.00017855252008179494
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 1.2457349750002638,
+						"confidence_age": 0.005892739564122372,
+						"probability": 0.00014295115736630366
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.9979962079234914,
+						"confidence_age": 0.014279430585590346,
+						"probability": 0.00009768784029689011
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.4827656608270858,
+						"confidence_age": 0.004059001606677114,
+						"probability": 0.00005963008489620083
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.30371324128921795,
+						"confidence_age": 0.0036568276478743888,
+						"probability": 0.000047510954129280776
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.28992913538512816,
+						"confidence_age": 0.003368843965262381,
+						"probability": 0.00004284694868231483
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.1036970676183609,
+						"confidence_age": 0.0014742488243285638,
+						"probability": 0.000017287541393503463
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.06380530279185248,
+						"confidence_age": 0.001215379105282367,
+						"probability": 0.000015062175256206981
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.05105149292368778,
+						"confidence_age": 0.0006195485542156351,
+						"probability": 0.000009164635230720028
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.07586317527282775,
+						"confidence_age": 0.0006378431096206893,
+						"probability": 0.000007313213328038453
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 13,
+			"Finding": "smoking",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 11.915044658807037,
+						"confidence_age": 0.1246714413422673,
+						"probability": 0.0026249669894987666
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.37495119301733343,
+						"confidence_age": 0.0047670084095096975,
+						"probability": 0.00022320512033141912
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 1.2457349750002638,
+						"confidence_age": 0.005892739564122372,
+						"probability": 0.00013580359949798846
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.9979962079234913,
+						"confidence_age": 0.014279430585590345,
+						"probability": 0.00009280344828204556
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.4827656608270858,
+						"confidence_age": 0.004059001606677114,
+						"probability": 0.000056648580651390803
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3037132412892179,
+						"confidence_age": 0.0036568276478743883,
+						"probability": 0.000045135406422816714
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.2899291353851282,
+						"confidence_age": 0.003368843965262382,
+						"probability": 0.00004070460124819911
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.23896301405656797,
+						"confidence_age": 0.003013367582929288,
+						"probability": 0.00003571050401635899
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.10369706761836091,
+						"confidence_age": 0.001474248824328564,
+						"probability": 0.00001642316432382829
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.059398599403125835,
+						"confidence_age": 0.001131439134974456,
+						"probability": 0.00001260191994951903
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.05105149292368778,
+						"confidence_age": 0.0006195485542156351,
+						"probability": 0.000008706403469184026
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.07586317527282775,
+						"confidence_age": 0.0006378431096206893,
+						"probability": 0.000006947552661636532
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 14,
+			"Finding": "blurred vision",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 7.025052708166444,
+						"confidence_age": 0.07350567888850855,
+						"probability": 0.001443731844224322
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.37495119301733343,
+						"confidence_age": 0.0047670084095096975,
+						"probability": 0.00021204486431484812
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.9442823736355911,
+						"confidence_age": 0.004466768786695303,
+						"probability": 0.00009602764611456966
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.9979962079234913,
+						"confidence_age": 0.014279430585590345,
+						"probability": 0.00008816327586794325
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.4827656608270858,
+						"confidence_age": 0.004059001606677114,
+						"probability": 0.00005381615161882125
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.30371324128921795,
+						"confidence_age": 0.0036568276478743888,
+						"probability": 0.00004287863610167589
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.2899291353851282,
+						"confidence_age": 0.003368843965262382,
+						"probability": 0.000038669371185789135
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.23896301405656795,
+						"confidence_age": 0.0030133675829292876,
+						"probability": 0.00003392497881554103
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.1036970676183609,
+						"confidence_age": 0.0014742488243285638,
+						"probability": 0.000015602006107636875
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.059398599403125835,
+						"confidence_age": 0.001131439134974456,
+						"probability": 0.000011971823952043078
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.051051492923687776,
+						"confidence_age": 0.0006195485542156351,
+						"probability": 0.000008271083295724823
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.07586317527282775,
+						"confidence_age": 0.0006378431096206893,
+						"probability": 0.000006600175028554705
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 15,
+			"Finding": "darkening of skin on the hands, arms, neck and face",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 7.025052708166444,
+						"confidence_age": 0.07350567888850855,
+						"probability": 0.001371545252013106
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.3749511930173335,
+						"confidence_age": 0.0047670084095096975,
+						"probability": 0.00020144262109910566
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.9442823736355912,
+						"confidence_age": 0.004466768786695304,
+						"probability": 0.00009122626380884116
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.9979962079234914,
+						"confidence_age": 0.014279430585590346,
+						"probability": 0.00008375511207454612
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.4827656608270858,
+						"confidence_age": 0.004059001606677114,
+						"probability": 0.000051125344037880184
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.30371324128921795,
+						"confidence_age": 0.0036568276478743888,
+						"probability": 0.0000407347042965921
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.2899291353851282,
+						"confidence_age": 0.003368843965262382,
+						"probability": 0.00003673590262649968
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.23896301405656795,
+						"confidence_age": 0.0030133675829292876,
+						"probability": 0.000032228729874763984
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.059398599403125835,
+						"confidence_age": 0.001131439134974456,
+						"probability": 0.000011373232754440917
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.051051492923687776,
+						"confidence_age": 0.0006195485542156351,
+						"probability": 0.000007857529130938583
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.07586317527282775,
+						"confidence_age": 0.0006378431096206893,
+						"probability": 0.00000627016627712697
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.027420759325283824,
+						"confidence_age": 0.00038983766007996944,
+						"probability": 0.000003900501526909219
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 16,
+			"Finding": "alcohol consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 7.025052708166444,
+						"confidence_age": 0.07350567888850855,
+						"probability": 0.0013029679894124506
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.9442823736355912,
+						"confidence_age": 0.004466768786695304,
+						"probability": 0.0000866649506183991
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.12075972158211232,
+						"confidence_age": 0.0015353001111410441,
+						"probability": 0.0000604327863297317
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.4827656608270858,
+						"confidence_age": 0.004059001606677114,
+						"probability": 0.00004856907683598618
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.5892745558113243,
+						"confidence_age": 0.008431399887851541,
+						"probability": 0.000046065311641000366
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3037132412892179,
+						"confidence_age": 0.0036568276478743883,
+						"probability": 0.000038697969081762494
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.2899291353851282,
+						"confidence_age": 0.003368843965262382,
+						"probability": 0.00003489910749517469
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.23896301405656797,
+						"confidence_age": 0.003013367582929288,
+						"probability": 0.000030617293381025794
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.059398599403125835,
+						"confidence_age": 0.001131439134974456,
+						"probability": 0.000010804571116718874
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.05105149292368778,
+						"confidence_age": 0.0006195485542156351,
+						"probability": 0.0000074646526743916536
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.07586317527282777,
+						"confidence_age": 0.0006378431096206894,
+						"probability": 0.0000059566579632706196
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.02742075932528383,
+						"confidence_age": 0.00038983766007996955,
+						"probability": 0.0000037054764505637587
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 17,
+			"Finding": "tachypnea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 7.025052708166444,
+						"confidence_age": 0.07350567888850855,
+						"probability": 0.0012378195899418276
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.9442823736355912,
+						"confidence_age": 0.004466768786695304,
+						"probability": 0.00008233170308747916
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.12075972158211232,
+						"confidence_age": 0.0015353001111410441,
+						"probability": 0.00005741114701324512
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.4827656608270858,
+						"confidence_age": 0.004059001606677114,
+						"probability": 0.00004614062299418687
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.5892745558113242,
+						"confidence_age": 0.00843139988785154,
+						"probability": 0.00004376204605895035
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.3037132412892179,
+						"confidence_age": 0.0036568276478743883,
+						"probability": 0.00003676307062767436
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.2899291353851282,
+						"confidence_age": 0.003368843965262382,
+						"probability": 0.00003315415212041596
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.23896301405656795,
+						"confidence_age": 0.0030133675829292876,
+						"probability": 0.000029086428711974502
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.059398599403125835,
+						"confidence_age": 0.001131439134974456,
+						"probability": 0.000010264342560882928
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.07586317527282777,
+						"confidence_age": 0.0006378431096206894,
+						"probability": 0.000005658825065107089
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.02742075932528383,
+						"confidence_age": 0.00038983766007996955,
+						"probability": 0.0000035202026280355707
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.013734620041013248,
+						"confidence_age": 0.00016668002249866753,
+						"probability": 0.0000018661631685979128
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 18,
+			"Finding": "weight loss",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 7.025052708166444,
+						"confidence_age": 0.07350567888850855,
+						"probability": 0.0011759286104447366
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.9442823736355911,
+						"confidence_age": 0.004466768786695303,
+						"probability": 0.0000782151179331052
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.12075972158211232,
+						"confidence_age": 0.0015353001111410441,
+						"probability": 0.00005454058966258287
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.4827656608270858,
+						"confidence_age": 0.004059001606677114,
+						"probability": 0.00004383359184447754
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.5892745558113243,
+						"confidence_age": 0.008431399887851541,
+						"probability": 0.000041573943756002834
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.30371324128921795,
+						"confidence_age": 0.0036568276478743888,
+						"probability": 0.00003492491709629064
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.23896301405656792,
+						"confidence_age": 0.003013367582929287,
+						"probability": 0.00002763210727637576
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.12902711771742004,
+						"confidence_age": 0.0014992361022983472,
+						"probability": 0.000013261660848166388
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.05939859940312584,
+						"confidence_age": 0.001131439134974456,
+						"probability": 0.000009751125432838785
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.07586317527282775,
+						"confidence_age": 0.0006378431096206893,
+						"probability": 0.000005375883811851734
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.013734620041013244,
+						"confidence_age": 0.00016668002249866748,
+						"probability": 0.0000017728550101680173
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.01220305622842871,
+						"confidence_age": 0.0001734893928166486,
+						"probability": 0.0000014080810512142276
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 19,
+			"Finding": "hypertension disease",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 3.2057150288472918,
+						"confidence_age": 0.0335425610749641,
+						"probability": 0.00005879643052223682
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.8924185991323114,
+						"confidence_age": 0.011253562764285702,
+						"probability": 0.000008289632182912732
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.5175960047670447,
+						"confidence_age": 0.009859296040388469,
+						"probability": 0.0000068257878029871444
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.4309007095591299,
+						"confidence_age": 0.002038303259027427,
+						"probability": 0.000003910755896655259
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.05510581492223874,
+						"confidence_age": 0.0007005975391977304,
+						"probability": 0.000002727029483129144
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.22029857975666534,
+						"confidence_age": 0.001852228444850529,
+						"probability": 0.0000021916795922238765
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.26890137030369976,
+						"confidence_age": 0.00384746797746968,
+						"probability": 0.000002078697187800142
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.13859228428691553,
+						"confidence_age": 0.001668705963596234,
+						"probability": 0.0000017462458548145319
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.05887844370402441,
+						"confidence_age": 0.0006841405900543996,
+						"probability": 6.630830424083195e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.03461834824747598,
+						"confidence_age": 0.0002910644699050831,
+						"probability": 2.6879419059258676e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.006267465841188702,
+						"confidence_age": 0.00007606044756239903,
+						"probability": 8.864275050840085e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.005568573272605773,
+						"confidence_age": 0.0000791677410834801,
+						"probability": 7.040405256071138e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 20,
+			"Finding": "confusion",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 1.8981376257604732,
+						"confidence_age": 0.01986090362612545,
+						"probability": 0.00003233803678723025
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.8924185991323111,
+						"confidence_age": 0.011253562764285699,
+						"probability": 0.000007875150573767095
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.5175960047670448,
+						"confidence_age": 0.00985929604038847,
+						"probability": 0.0000064844984128377885
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.05510581492223874,
+						"confidence_age": 0.0007005975391977304,
+						"probability": 0.0000025906780089726863
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.2783354701624888,
+						"confidence_age": 0.001316619080334284,
+						"probability": 0.0000023464535379931557
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.22029857975666534,
+						"confidence_age": 0.001852228444850529,
+						"probability": 0.000002082095612612682
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.2689013703036998,
+						"confidence_age": 0.003847467977469681,
+						"probability": 0.000001974762328410134
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.13859228428691556,
+						"confidence_age": 0.0016687059635962342,
+						"probability": 0.0000016589335620738055
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.053878480994024584,
+						"confidence_age": 0.00062604330990439,
+						"probability": 5.636205860470713e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.03461834824747598,
+						"confidence_age": 0.0002910644699050831,
+						"probability": 2.5535448106295733e-7
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.005568573272605773,
+						"confidence_age": 0.0000791677410834801,
+						"probability": 6.688384993267581e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0037110325229396724,
+						"confidence_age": 0.000045036191941953326,
+						"probability": 4.875351277962048e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "general internist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 21,
+			"Finding": "fatigue",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 1.3429821662305257,
+						"confidence_age": 0.014052110349176292,
+						"probability": 0.000017785920232976636
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.892418599132311,
+						"confidence_age": 0.011253562764285697,
+						"probability": 0.000007481393045078738
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.6138754088045453,
+						"confidence_age": 0.011693249815640502,
+						"probability": 0.000005978412140040318
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.05510581492223874,
+						"confidence_age": 0.0007005975391977304,
+						"probability": 0.000002461144108524052
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.22029857975666534,
+						"confidence_age": 0.001852228444850529,
+						"probability": 0.0000019779908319820486
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.21483234221583217,
+						"confidence_age": 0.0010162282251311465,
+						"probability": 0.0000014078721227958942
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.19025477388560585,
+						"confidence_age": 0.002722184529066834,
+						"probability": 0.0000010861192806255742
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214636,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 9.124134591405929e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.017327472163088317,
+						"confidence_age": 0.00020133730248369594,
+						"probability": 1.4090514651176783e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.024493389567624976,
+						"confidence_age": 0.00020593574828340467,
+						"probability": 1.4044496458462657e-7
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.004298085465916325,
+						"confidence_age": 0.00006110536768803364,
+						"probability": 4.0130309959605484e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0026256528657202694,
+						"confidence_age": 0.000031864287284619994,
+						"probability": 2.681443202879127e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 22,
+			"Finding": "sleepiness",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640818,
+						"confidence_age": 0.008213026813183508,
+						"probability": 0.000009782256128137153
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.8924185991323111,
+						"confidence_age": 0.011253562764285699,
+						"probability": 0.000007107323392824802
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.6138754088045452,
+						"confidence_age": 0.0116932498156405,
+						"probability": 0.000005679491533038303
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.05510581492223874,
+						"confidence_age": 0.0007005975391977304,
+						"probability": 0.0000023380869030978485
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.22029857975666534,
+						"confidence_age": 0.001852228444850529,
+						"probability": 0.000001879091290382945
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.21483234221583214,
+						"confidence_age": 0.0010162282251311462,
+						"probability": 0.000001337478516656099
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.19025477388560585,
+						"confidence_age": 0.002722184529066834,
+						"probability": 0.0000010318133165942955
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214636,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 8.667927861835637e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.017327472163088324,
+						"confidence_age": 0.00020133730248369602,
+						"probability": 1.3385988918617949e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.024493389567624972,
+						"confidence_age": 0.00020593574828340464,
+						"probability": 1.3342271635539524e-7
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.004298085465916326,
+						"confidence_age": 0.00006110536768803366,
+						"probability": 3.812379446162522e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0026256528657202694,
+						"confidence_age": 0.000031864287284619994,
+						"probability": 2.5473710427351714e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 23,
+			"Finding": "aphasia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640818,
+						"confidence_age": 0.008213026813183508,
+						"probability": 0.000009293143321730295
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.8924185991323111,
+						"confidence_age": 0.011253562764285699,
+						"probability": 0.000006751957223183562
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.5659651622712348,
+						"confidence_age": 0.010780643652552942,
+						"probability": 0.000005236232468366516
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.05510581492223875,
+						"confidence_age": 0.0007005975391977305,
+						"probability": 0.000002221182557942957
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.22029857975666534,
+						"confidence_age": 0.001852228444850529,
+						"probability": 0.0000017851367258637985
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.19025477388560585,
+						"confidence_age": 0.002722184529066834,
+						"probability": 9.802226507645808e-7
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.16078161680719724,
+						"confidence_age": 0.0007605503687035303,
+						"probability": 9.457401288188521e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214636,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 8.234531468743853e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.017327472163088317,
+						"confidence_age": 0.00020133730248369594,
+						"probability": 1.271668947268705e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.02449338956762497,
+						"confidence_age": 0.0002059357482834046,
+						"probability": 1.267515805376255e-7
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.004298085465916324,
+						"confidence_age": 0.00006110536768803363,
+						"probability": 3.621760473854396e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.002625652865720269,
+						"confidence_age": 0.00003186428728461999,
+						"probability": 2.4200024905984124e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 24,
+			"Finding": "abdominal pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640818,
+						"confidence_age": 0.008213026813183508,
+						"probability": 0.000008828486155643778
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.5659651622712351,
+						"confidence_age": 0.010780643652552947,
+						"probability": 0.000004974420844948189
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.3002502101493194,
+						"confidence_age": 0.0037862104041652533,
+						"probability": 0.0000033759786115917812
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.05483340035994053,
+						"confidence_age": 0.0006971341484057229,
+						"probability": 0.0000018734179249675847
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.22029857975666534,
+						"confidence_age": 0.001852228444850529,
+						"probability": 0.0000016958798895706085
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.16078161680719727,
+						"confidence_age": 0.0007605503687035304,
+						"probability": 8.984531223779098e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.18779408770572503,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 8.201131089979955e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214636,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 7.822804895306658e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.024493389567624976,
+						"confidence_age": 0.00020593574828340467,
+						"probability": 1.2041400151074423e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.018846990214033903,
+						"confidence_age": 0.00021899340734268303,
+						"probability": 1.1724208394302663e-7
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0026256528657202685,
+						"confidence_age": 0.00003186428728461998,
+						"probability": 2.2990023660684925e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.00304245126160702,
+						"confidence_age": 0.00004325416618345069,
+						"probability": 2.173056284312638e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 25,
+			"Finding": "history of cardiac surgery",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640818,
+						"confidence_age": 0.008213026813183508,
+						"probability": 0.000007967708755468506
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.5659651622712351,
+						"confidence_age": 0.010780643652552947,
+						"probability": 0.000004489414812565738
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.3002502101493194,
+						"confidence_age": 0.0037862104041652533,
+						"probability": 0.0000030468206969615818
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.05483340035994054,
+						"confidence_age": 0.000697134148405723,
+						"probability": 0.000001690759677283245
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.2202985797566653,
+						"confidence_age": 0.0018522284448505288,
+						"probability": 0.0000015305316003374732
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.16078161680719727,
+						"confidence_age": 0.0007605503687035304,
+						"probability": 8.108539429460636e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.18779408770572503,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 7.401520808706912e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214636,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 7.060081418014257e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.01884699021403391,
+						"confidence_age": 0.0002189934073426831,
+						"probability": 1.0581098075858156e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.014258847670307745,
+						"confidence_age": 0.00011988567186818473,
+						"probability": 6.291631578936383e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.003042451261607021,
+						"confidence_age": 0.000043254166183450704,
+						"probability": 1.9611832965921542e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0022233106324639233,
+						"confidence_age": 0.000026981559383078095,
+						"probability": 1.747241798212053e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 26,
+			"Finding": "abdominal mass",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640817,
+						"confidence_age": 0.008213026813183507,
+						"probability": 0.000007569323317695082
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.565965162271235,
+						"confidence_age": 0.010780643652552945,
+						"probability": 0.000004264944071937454
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.05483340035994052,
+						"confidence_age": 0.0006971341484057227,
+						"probability": 0.0000016062216934190822
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.1590385395632539,
+						"confidence_age": 0.002005505251297504,
+						"probability": 0.0000015234103484807909
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.22029857975666534,
+						"confidence_age": 0.001852228444850529,
+						"probability": 0.0000014540050203205998
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.16078161680719724,
+						"confidence_age": 0.0007605503687035303,
+						"probability": 7.703112457987601e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.187794087705725,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 7.031444768271564e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214633,
+						"confidence_age": 0.0011806532463073702,
+						"probability": 6.707077347113544e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.0188469902140339,
+						"confidence_age": 0.000218993407342683,
+						"probability": 1.0052043172065249e-7
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.014258847670307745,
+						"confidence_age": 0.00011988567186818473,
+						"probability": 5.977049999989564e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.003042451261607021,
+						"confidence_age": 0.000043254166183450704,
+						"probability": 1.8631241317625468e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0022233106324639233,
+						"confidence_age": 0.000026981559383078095,
+						"probability": 1.6598797083014503e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 27,
+			"Finding": "post history of myocardial infarction",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.784931819264082,
+						"confidence_age": 0.00821302681318351,
+						"probability": 0.0000071908571518103295
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.5659651622712352,
+						"confidence_age": 0.010780643652552949,
+						"probability": 0.000004051696868340581
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.05483340035994054,
+						"confidence_age": 0.000697134148405723,
+						"probability": 0.0000015259106087481292
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.1590385395632539,
+						"confidence_age": 0.002005505251297504,
+						"probability": 0.0000014472398310567513
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.22029857975666536,
+						"confidence_age": 0.0018522284448505293,
+						"probability": 0.0000013813047693045692
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.16078161680719727,
+						"confidence_age": 0.0007605503687035304,
+						"probability": 7.317956835088224e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.187794087705725,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 6.679872529857987e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214637,
+						"confidence_age": 0.0011806532463073706,
+						"probability": 6.371723479757867e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.018846990214033906,
+						"confidence_age": 0.00021899340734268308,
+						"probability": 9.549441013461983e-8
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.008326877679320693,
+						"confidence_age": 0.00007001079948615558,
+						"probability": 3.287377499994262e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.003042451261607021,
+						"confidence_age": 0.000043254166183450704,
+						"probability": 1.769967925174419e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0018885356958299924,
+						"confidence_age": 0.000022918811829559533,
+						"probability": 1.3279037666411605e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 28,
+			"Finding": "dry cough or productive cough",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640818,
+						"confidence_age": 0.008213026813183508,
+						"probability": 0.000005564148188356374
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.5659651622712347,
+						"confidence_age": 0.01078064365255294,
+						"probability": 0.000003135125801250389
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.1590385395632539,
+						"confidence_age": 0.002005505251297504,
+						"probability": 0.0000011198465932624343
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.22029857975666536,
+						"confidence_age": 0.0018522284448505293,
+						"probability": 0.000001068827299365711
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.1607816168071973,
+						"confidence_age": 0.0007605503687035305,
+						"probability": 5.662495500439094e-7
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.025978683623562194,
+						"confidence_age": 0.00033028459598950484,
+						"probability": 5.233110432701709e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.18779408770572503,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 5.168758028534009e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214635,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 4.930318167657802e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.018846990214033903,
+						"confidence_age": 0.00021899340734268303,
+						"probability": 7.389175419997564e-8
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #2",
+						"confidence": 0.005138173014672676,
+						"confidence_age": 0.00004320077879236612,
+						"probability": 1.472674235920085e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.003042451261607021,
+						"confidence_age": 0.000043254166183450704,
+						"probability": 1.3695674404863922e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0018885356958299921,
+						"confidence_age": 0.00002291881182955953,
+						"probability": 1.0275066214613779e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 29,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.784931819264082,
+						"confidence_age": 0.00821302681318351,
+						"probability": 0.000005285940778938559
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.565965162271235,
+						"confidence_age": 0.010780643652552945,
+						"probability": 0.000002978369511187867
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.15903853956325392,
+						"confidence_age": 0.0020055052512975044,
+						"probability": 0.0000010638542635993125
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.23383105229823337,
+						"confidence_age": 0.0019660068931652537,
+						"probability": 9.085032044608544e-7
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.025978683623562194,
+						"confidence_age": 0.00033028459598950484,
+						"probability": 4.97145491106662e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.18779408770572503,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 4.910320127107306e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214636,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 4.6838022592749116e-7
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.10038711122333657,
+						"confidence_age": 0.0004748643282120125,
+						"probability": 2.831247750219547e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.018846990214033896,
+						"confidence_age": 0.00021899340734268295,
+						"probability": 7.019716648997685e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.0030424512616070197,
+						"confidence_age": 0.000043254166183450684,
+						"probability": 1.3010890684620724e-8
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.0037116306346981253,
+						"confidence_age": 0.00003120668252133154,
+						"probability": 1.0632707983343022e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.001888535695829992,
+						"confidence_age": 0.000022918811829559527,
+						"probability": 9.761312903883093e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 30,
+			"Finding": "chest discomfort",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640817,
+						"confidence_age": 0.008213026813183507,
+						"probability": 0.000005021643739991631
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.5659651622712348,
+						"confidence_age": 0.010780643652552942,
+						"probability": 0.000002829451035628475
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.15903853956325392,
+						"confidence_age": 0.0020055052512975044,
+						"probability": 0.0000010106615504193474
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.2338310522982333,
+						"confidence_age": 0.0019660068931652533,
+						"probability": 8.630780442378116e-7
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.025978683623562194,
+						"confidence_age": 0.00033028459598950484,
+						"probability": 4.722882165513288e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.18779408770572503,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 4.6648041207519434e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214635,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 4.449612146311166e-7
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.10038711122333656,
+						"confidence_age": 0.00047486432821201244,
+						"probability": 2.6896853627085693e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.018846990214033906,
+						"confidence_age": 0.00021899340734268308,
+						"probability": 6.668730816547798e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.00304245126160702,
+						"confidence_age": 0.00004325416618345069,
+						"probability": 1.2360346150389686e-8
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0016891576775242914,
+						"confidence_age": 0.00002049920848576857,
+						"probability": 8.73078368109139e-9
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.00278694533666391,
+						"confidence_age": 0.00002343210488471724,
+						"probability": 7.442895588340116e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 31,
+			"Finding": "recent chest injury or trauma",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640818,
+						"confidence_age": 0.008213026813183508,
+						"probability": 0.0000047705615529920475
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.391282602498436,
+						"confidence_age": 0.007453247277714206,
+						"probability": 0.0000018391431731585092
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.15129858105191493,
+						"confidence_age": 0.001907902950107223,
+						"probability": 9.03963171593196e-7
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.23383105229823334,
+						"confidence_age": 0.0019660068931652537,
+						"probability": 8.199241420259206e-7
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.025978683623562194,
+						"confidence_age": 0.00033028459598950484,
+						"probability": 4.4867380572376233e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.187794087705725,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 4.431563914714344e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214637,
+						"confidence_age": 0.0011806532463073706,
+						"probability": 4.227131538995611e-7
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.1003871112233366,
+						"confidence_age": 0.0004748643282120126,
+						"probability": 2.555201094573141e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.018846990214033906,
+						"confidence_age": 0.00021899340734268308,
+						"probability": 6.335294275720411e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.0030424512616070206,
+						"confidence_age": 0.0000432541661834507,
+						"probability": 1.1742328842870196e-8
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.00251961890804076,
+						"confidence_age": 0.00002118447525540674,
+						"probability": 6.326461250089099e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0012576381817938384,
+						"confidence_age": 0.00001526239239313647,
+						"probability": 6.111548576763968e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 32,
+			"Finding": "jugular vein distention",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.784931819264082,
+						"confidence_age": 0.00821302681318351,
+						"probability": 0.000004532033475342445
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.3912826024984358,
+						"confidence_age": 0.007453247277714203,
+						"probability": 0.0000017471860145005832
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.15129858105191493,
+						"confidence_age": 0.001907902950107223,
+						"probability": 8.587650130135365e-7
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.23383105229823334,
+						"confidence_age": 0.0019660068931652537,
+						"probability": 7.789279349246251e-7
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.025978683623562194,
+						"confidence_age": 0.00033028459598950484,
+						"probability": 4.2624011543757434e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.18779408770572506,
+						"confidence_age": 0.002686976782564832,
+						"probability": 4.2099857189786284e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214635,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 4.0157749620458275e-7
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.10038711122333656,
+						"confidence_age": 0.00047486432821201244,
+						"probability": 2.4274410398444834e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.018846990214033906,
+						"confidence_age": 0.00021899340734268308,
+						"probability": 6.018529561934389e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.0030424512616070197,
+						"confidence_age": 0.000043254166183450684,
+						"probability": 1.1155212400726688e-8
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.00251961890804076,
+						"confidence_age": 0.00002118447525540674,
+						"probability": 6.3264612500890994e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0012576381817938382,
+						"confidence_age": 0.000015262392393136468,
+						"probability": 6.111548576763968e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 33,
+			"Finding": "anorexia or loss of appetite",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640818,
+						"confidence_age": 0.008213026813183508,
+						"probability": 0.0000043054318015753225
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.3912826024984359,
+						"confidence_age": 0.007453247277714205,
+						"probability": 0.0000016598267137755537
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.1512985810519149,
+						"confidence_age": 0.0019079029501072227,
+						"probability": 8.158267623628596e-7
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.23383105229823334,
+						"confidence_age": 0.0019660068931652537,
+						"probability": 7.399815381783935e-7
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.025978683623562194,
+						"confidence_age": 0.00033028459598950484,
+						"probability": 4.0492810966569567e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.18779408770572503,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 3.999486433029697e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214636,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 3.8149862139435365e-7
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.10038711122333656,
+						"confidence_age": 0.00047486432821201244,
+						"probability": 2.3060689878522606e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.011622542691892009,
+						"confidence_age": 0.00013504863095795377,
+						"probability": 3.310191259063913e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.002046780806394762,
+						"confidence_age": 0.000029098838248647515,
+						"probability": 6.693127440436015e-9
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.0025196189080407597,
+						"confidence_age": 0.000021184475255406738,
+						"probability": 6.010138187584644e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0012576381817938388,
+						"confidence_age": 0.000015262392393136474,
+						"probability": 5.805971147925771e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 34,
+			"Finding": "aortic dissection",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.7849318192640818,
+						"confidence_age": 0.008213026813183508,
+						"probability": 0.000004090160211496557
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.3912826024984359,
+						"confidence_age": 0.007453247277714205,
+						"probability": 0.0000015768353780867763
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.15129858105191493,
+						"confidence_age": 0.001907902950107223,
+						"probability": 7.750354242447167e-7
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.23383105229823334,
+						"confidence_age": 0.0019660068931652537,
+						"probability": 7.029824612694735e-7
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.025978683623562194,
+						"confidence_age": 0.00033028459598950484,
+						"probability": 3.846817041824108e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.18779408770572503,
+						"confidence_age": 0.0026869767825648317,
+						"probability": 3.7995121113782116e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214633,
+						"confidence_age": 0.0011806532463073702,
+						"probability": 3.6242369032463615e-7
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.10038711122333656,
+						"confidence_age": 0.00047486432821201244,
+						"probability": 2.190765538459647e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.01162254269189201,
+						"confidence_age": 0.00013504863095795377,
+						"probability": 3.144681696110719e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #1",
+						"confidence": 0.002046780806394762,
+						"confidence_age": 0.000029098838248647515,
+						"probability": 6.358471068414215e-9
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.00251961890804076,
+						"confidence_age": 0.00002118447525540674,
+						"probability": 5.70963127820541e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0007294933613604714,
+						"confidence_age": 0.000008852954761114872,
+						"probability": 3.193284131359175e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 35,
+			"Finding": "hypoglycemia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "hypotension",
+						"instance": "hypotension #1",
+						"confidence": 0.784931819264082,
+						"confidence_age": 0.00821302681318351,
+						"probability": 0.0000038856522009217296
+					},
+					{
+						"disease": "aortic dissection",
+						"instance": "aortic dissection #1",
+						"confidence": 0.39128260249843605,
+						"confidence_age": 0.007453247277714207,
+						"probability": 0.0000014979936091824379
+					},
+					{
+						"disease": "abdominal aortic aneurysm",
+						"instance": "ruptured abdominal aortic aneurysm",
+						"confidence": 0.15129858105191493,
+						"confidence_age": 0.001907902950107223,
+						"probability": 7.362836530324811e-7
+					},
+					{
+						"disease": "hypertrophic obstructive cardiomyopathy",
+						"instance": "hypertrophic obstructive cardiomyopathy #1",
+						"confidence": 0.23383105229823334,
+						"confidence_age": 0.0019660068931652537,
+						"probability": 6.678333382060005e-7
+					},
+					{
+						"disease": "mallory-weiss syndrome",
+						"instance": "mallory-weiss syndrome #1",
+						"confidence": 0.025978683623562194,
+						"confidence_age": 0.00033028459598950484,
+						"probability": 3.654476189732902e-7
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.18779408770572506,
+						"confidence_age": 0.002686976782564832,
+						"probability": 3.609536505809301e-7
+					},
+					{
+						"disease": "valvular heart disease",
+						"instance": "aortic stenosis",
+						"confidence": 0.09805767698214635,
+						"confidence_age": 0.0011806532463073704,
+						"probability": 3.44302505808404e-7
+					},
+					{
+						"disease": "brain abscess",
+						"instance": "brain abscess #1",
+						"confidence": 0.10038711122333657,
+						"confidence_age": 0.0004748643282120125,
+						"probability": 2.0812272615366644e-7
+					},
+					{
+						"disease": "adrenal insufficiency",
+						"instance": "adrenal insufficiency #1",
+						"confidence": 0.006742757445864962,
+						"confidence_age": 0.00007834775798077775,
+						"probability": 1.7295749328608947e-8
+					},
+					{
+						"disease": "cronkhite canada syndrome",
+						"instance": "cronkhite canada syndrome #2",
+						"confidence": 0.0020467808063947624,
+						"confidence_age": 0.000029098838248647522,
+						"probability": 6.0405475149935045e-9
+					},
+					{
+						"disease": "pericardial effusion",
+						"instance": "pericardial effusion #1",
+						"confidence": 0.0025196189080407597,
+						"confidence_age": 0.000021184475255406738,
+						"probability": 5.42414971429514e-9
+					},
+					{
+						"disease": "cardiac tamponade",
+						"instance": "cardiac tamponade #1",
+						"confidence": 0.0007294933613604715,
+						"confidence_age": 0.000008852954761114872,
+						"probability": 3.0336199247912156e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "hypotension",
+				"instance": "hypotension #1",
+				"confidence": 0.784931819264082,
+				"confidence_age": 0.00821302681318351,
+				"probability": 0.000003885652200921728
+			},
+			{
+				"disease": "aortic dissection",
+				"instance": "aortic dissection #1",
+				"confidence": 0.39128260249843605,
+				"confidence_age": 0.007453247277714207,
+				"probability": 0.0000014979936091824377
+			},
+			{
+				"disease": "abdominal aortic aneurysm",
+				"instance": "ruptured abdominal aortic aneurysm",
+				"confidence": 0.1512985810519149,
+				"confidence_age": 0.0019079029501072227,
+				"probability": 7.362836530324809e-7
+			},
+			{
+				"disease": "hypertrophic obstructive cardiomyopathy",
+				"instance": "hypertrophic obstructive cardiomyopathy #1",
+				"confidence": 0.23383105229823334,
+				"confidence_age": 0.0019660068931652537,
+				"probability": 6.678333382060003e-7
+			},
+			{
+				"disease": "mallory-weiss syndrome",
+				"instance": "mallory-weiss syndrome #1",
+				"confidence": 0.025978683623562194,
+				"confidence_age": 0.00033028459598950484,
+				"probability": 3.654476189732901e-7
+			},
+			{
+				"disease": "upper gastrointestinal bleeding",
+				"instance": "upper gastrointestinal bleeding #1",
+				"confidence": 0.187794087705725,
+				"confidence_age": 0.0026869767825648317,
+				"probability": 3.6095365058092984e-7
+			},
+			{
+				"disease": "valvular heart disease",
+				"instance": "aortic stenosis",
+				"confidence": 0.09805767698214636,
+				"confidence_age": 0.0011806532463073704,
+				"probability": 3.4430250580840424e-7
+			},
+			{
+				"disease": "brain abscess",
+				"instance": "brain abscess #1",
+				"confidence": 0.10038711122333657,
+				"confidence_age": 0.0004748643282120125,
+				"probability": 2.0812272615366655e-7
+			},
+			{
+				"disease": "adrenal insufficiency",
+				"instance": "adrenal insufficiency #1",
+				"confidence": 0.006742757445864964,
+				"confidence_age": 0.00007834775798077777,
+				"probability": 1.7295749328608964e-8
+			},
+			{
+				"disease": "cronkhite canada syndrome",
+				"instance": "cronkhite canada syndrome #2",
+				"confidence": 0.0020467808063947624,
+				"confidence_age": 0.000029098838248647522,
+				"probability": 6.040547514993503e-9
+			},
+			{
+				"disease": "pericardial effusion",
+				"instance": "pericardial effusion #1",
+				"confidence": 0.00251961890804076,
+				"confidence_age": 0.00002118447525540674,
+				"probability": 5.424149714295141e-9
+			},
+			{
+				"disease": "cardiac tamponade",
+				"instance": "cardiac tamponade #1",
+				"confidence": 0.0007294933613604715,
+				"confidence_age": 0.000008852954761114872,
+				"probability": 3.0336199247912147e-9
+			}
+		],
+		"urgency": 3,
+		"specialist": ""
+	},
+	"Case": {
+		"chief_findings": [
+			"syncope"
+		],
+		"findings": {
+			"abdominal mass": false,
+			"abdominal pain": false,
+			"alcohol consumption": false,
+			"anorexia or loss of appetite": false,
+			"aortic dissection": false,
+			"aphasia": false,
+			"back pain": false,
+			"blurred vision": false,
+			"chest discomfort": false,
+			"chest pain": false,
+			"chest pain (occurs or worsens with physical activity)": false,
+			"chronic cough": false,
+			"confusion": false,
+			"darkening of skin on the hands, arms, neck and face": false,
+			"diarrhea": false,
+			"dry cough or productive cough": false,
+			"dry cough or productive cough (dry at first then production of clear/white mucus)": false,
+			"dry cough or productive cough (dry at first then production of yellowish-gray mucus)": false,
+			"dry cough or productive cough (production of pink, frothy mucus)": false,
+			"dyspnea": false,
+			"fatigue": false,
+			"fever": false,
+			"headache": false,
+			"headache (radiates to the occipital region)": false,
+			"history of cardiac surgery": false,
+			"hypertension disease": true,
+			"hypoglycemia": false,
+			"hypotensive": false,
+			"jugular vein distention": false,
+			"melena": false,
+			"palpitation": false,
+			"post history of myocardial infarction": false,
+			"prosthetic heart valves": false,
+			"recent chest injury or trauma": false,
+			"skin hyperpigmentation": false,
+			"skin hyperpigmentation (at elbow pit)": false,
+			"skin hyperpigmentation (under the breasts)": false,
+			"sleepiness": false,
+			"smoking": false,
+			"syncope": true,
+			"tachycardia": false,
+			"tachypnea": false,
+			"thinning or loss of hair anywhere": false,
+			"vomiting": false,
+			"weight loss": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 62,
+		"sex": "male",
+		"next_concept": "",
+		"question_count": 35
+	}
+}

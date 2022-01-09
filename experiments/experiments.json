@@ -517,12 +517,12 @@
     {
         "case_number": "105",
         "app": "AveyRule1",
-        "content": "cronkhite canada syndrome; liver cirrhosis; adrenal insufficiency; leukemia; polycystic ovary syndrome; endometrial cancer"
+        "content": "adrenal insufficiency; cronkhite canada syndrome; liver cirrhosis; polycystic ovary syndrome; endometrial cancer; leukemia"
     },
     {
         "case_number": "153",
         "app": "AveyRule1",
-        "content": "bacterial vaginosis; trichomoniasis; pelvic inflammatory disease"
+        "content": "pelvic inflammatory disease; bacterial vaginosis; trichomoniasis"
     },
     {
         "case_number": "51",
@@ -532,7 +532,7 @@
     {
         "case_number": "5",
         "app": "AveyRule1",
-        "content": "heart failure; valvular heart disease; anemia; pulmonary edema; chronic obstructive pulmonary disease; myocarditis"
+        "content": "heart failure; valvular heart disease; anemia; pulmonary edema; chronic obstructive pulmonary disease; pericardial effusion"
     },
     {
         "case_number": "101",
@@ -542,7 +542,7 @@
     {
         "case_number": "192",
         "app": "AveyRule1",
-        "content": "mumps; tonsillopharyngitis; malaria; dengue fever; osteomyelitis; otitis media"
+        "content": "mumps; malaria; dengue fever; tonsillopharyngitis; osteomyelitis; otitis media"
     },
     {
         "case_number": "28",
@@ -562,7 +562,7 @@
     {
         "case_number": "65",
         "app": "AveyRule1",
-        "content": "urticaria; contact dermatitis; atopic dermatitis; psoriasis; tinea versicolor"
+        "content": "urticaria; contact dermatitis; psoriasis; tinea versicolor; atopic dermatitis; shingles"
     },
     {
         "case_number": "196",
@@ -572,7 +572,7 @@
     {
         "case_number": "19",
         "app": "AveyRule1",
-        "content": "cholera; food poisoning; acute viral gastroenteritis"
+        "content": "cholera; food poisoning; acute viral gastroenteritis; acute bacterial gastroenteritis"
     },
     {
         "case_number": "179",
@@ -617,7 +617,7 @@
     {
         "case_number": "20",
         "app": "AveyRule1",
-        "content": "acanthosis nigricans; tinea versicolor; adrenal insufficiency"
+        "content": "acanthosis nigricans; tinea versicolor"
     },
     {
         "case_number": "1",
@@ -662,7 +662,7 @@
     {
         "case_number": "4",
         "app": "AveyRule1",
-        "content": "asthma; chronic obstructive pulmonary disease; valvular heart disease; pericardial effusion; acute bronchitis; heart failure"
+        "content": "asthma; chronic obstructive pulmonary disease; valvular heart disease; acute bronchitis; pericardial effusion; systemic sclerosis"
     },
     {
         "case_number": "187",
@@ -677,7 +677,7 @@
     {
         "case_number": "52",
         "app": "AveyRule1",
-        "content": "malaria; brucellosis; osteomyelitis; dengue fever; influenza; viral hepatitis"
+        "content": "brucellosis; malaria; osteomyelitis; acute interstitial nephritis; dengue fever; rheumatic fever"
     },
     {
         "case_number": "181",
@@ -702,12 +702,12 @@
     {
         "case_number": "53",
         "app": "AveyRule1",
-        "content": "mononucleosis; tonsillopharyngitis; hiv infection; hodgkin lymphoma; leukemia; coronavirus disease 2019"
+        "content": "mononucleosis; tonsillopharyngitis; hiv infection; hodgkin lymphoma; leukemia; common cold"
     },
     {
         "case_number": "198",
         "app": "AveyRule1",
-        "content": "gout; rheumatoid arthritis; anemia"
+        "content": "rheumatoid arthritis; gout; osteoarthritis; systemic sclerosis; anemia"
     },
     {
         "case_number": "142",
@@ -732,7 +732,7 @@
     {
         "case_number": "40",
         "app": "AveyRule1",
-        "content": "osteoarthritis; acromegaly; rheumatoid arthritis; rheumatic fever"
+        "content": "acromegaly; lyme disease; osteoarthritis; brucellosis; rheumatic fever"
     },
     {
         "case_number": "170",
@@ -752,12 +752,12 @@
     {
         "case_number": "174",
         "app": "AveyRule1",
-        "content": "mononucleosis; tonsillopharyngitis; cat scratch disease; coronavirus disease 2019; epiglottitis"
+        "content": "mononucleosis; tonsillopharyngitis; cat scratch disease; epiglottitis; coronavirus disease 2019"
     },
     {
         "case_number": "24",
         "app": "AveyRule1",
-        "content": "common cold; coronavirus disease 2019; influenza; tonsillopharyngitis; pericardial effusion; pneumonia"
+        "content": "common cold; coronavirus disease 2019; influenza; pulmonary embolism; tonsillopharyngitis; pericardial effusion"
     },
     {
         "case_number": "35",
@@ -767,7 +767,7 @@
     {
         "case_number": "103",
         "app": "AveyRule1",
-        "content": "celiac disease; chronic pancreatitis; cronkhite canada syndrome; multiple sclerosis; liver cirrhosis; irritable bowel syndrome"
+        "content": "celiac disease; chronic pancreatitis; multiple sclerosis; cronkhite canada syndrome; liver cirrhosis; irritable bowel syndrome"
     },
     {
         "case_number": "102",
@@ -782,22 +782,22 @@
     {
         "case_number": "126",
         "app": "AveyRule1",
-        "content": "pulmonary edema; heart failure; valvular heart disease; anemia; coronavirus disease 2019; foreign body aspiration"
+        "content": "pulmonary edema; heart failure; valvular heart disease; systemic sclerosis; anemia; coronavirus disease 2019"
     },
     {
         "case_number": "199",
         "app": "AveyRule1",
-        "content": "epiglottitis; tonsillopharyngitis; croup; encephalitis; anemia; infective endocarditis"
+        "content": "epiglottitis; tonsillopharyngitis; laryngitis; croup; common cold; anemia"
     },
     {
         "case_number": "165",
         "app": "AveyRule1",
-        "content": "adrenal insufficiency; gastric cancer; chronic pancreatitis; acanthosis nigricans; tinea versicolor; cronkhite canada syndrome"
+        "content": "adrenal insufficiency; gastric cancer; chronic pancreatitis; acanthosis nigricans; liver cirrhosis; tinea versicolor"
     },
     {
         "case_number": "27",
         "app": "AveyRule1",
-        "content": "celiac disease; cronkhite canada syndrome; chronic pancreatitis; adrenal insufficiency; diabetes mellitus; pancreatic cancer"
+        "content": "celiac disease; cronkhite canada syndrome; adrenal insufficiency; chronic pancreatitis; diabetes mellitus; pancreatic cancer"
     },
     {
         "case_number": "64",
@@ -812,7 +812,7 @@
     {
         "case_number": "186",
         "app": "AveyRule1",
-        "content": "intercostal neuralgia; myocardial infarction; unstable angina"
+        "content": "intercostal neuralgia; unstable angina; myocardial infarction; stable angina"
     },
     {
         "case_number": "191",
@@ -822,7 +822,7 @@
     {
         "case_number": "162",
         "app": "AveyRule1",
-        "content": "pneumothorax; hypertrophic obstructive cardiomyopathy; aortic dissection; pulmonary embolism; valvular heart disease; chronic obstructive pulmonary disease"
+        "content": "pneumothorax; hypertrophic obstructive cardiomyopathy; aortic dissection; pericardial effusion; pulmonary embolism; valvular heart disease"
     },
     {
         "case_number": "14",
@@ -842,7 +842,7 @@
     {
         "case_number": "6",
         "app": "AveyRule1",
-        "content": "chronic obstructive pulmonary disease; asthma; heart failure; valvular heart disease; cardiac tamponade; pericardial effusion"
+        "content": "chronic obstructive pulmonary disease; asthma; valvular heart disease; heart failure; lung cancer; anemia"
     },
     {
         "case_number": "58",
@@ -852,7 +852,7 @@
     {
         "case_number": "193",
         "app": "AveyRule1",
-        "content": "migraine; hypertension disease; cluster headaches; brain tumor; meningitis; tension headache"
+        "content": "migraine; hypertension disease; cluster headaches; brain abscess; meningitis; brain tumor"
     },
     {
         "case_number": "182",
@@ -877,7 +877,7 @@
     {
         "case_number": "173",
         "app": "AveyRule1",
-        "content": "polycythemia vera; hypertension disease; migraine; tension headache"
+        "content": "polycythemia vera"
     },
     {
         "case_number": "168",
@@ -917,12 +917,12 @@
     {
         "case_number": "49",
         "app": "AveyRule1",
-        "content": "lactose intolerance; celiac disease; inflammatory bowel disease; chronic pancreatitis; acute viral gastroenteritis; acute bacterial gastroenteritis"
+        "content": "lactose intolerance; celiac disease; inflammatory bowel disease; acute viral gastroenteritis; chronic pancreatitis; acute bacterial gastroenteritis"
     },
     {
         "case_number": "169",
         "app": "AveyRule1",
-        "content": "inflammatory bowel disease; lactose intolerance; abdominal aortic aneurysm; small bowel obstruction; colonic polyps; irritable bowel syndrome"
+        "content": "lactose intolerance; food poisoning; acute bacterial gastroenteritis; celiac disease; acute viral gastroenteritis; inflammatory bowel disease"
     },
     {
         "case_number": "157",
@@ -947,7 +947,7 @@
     {
         "case_number": "29",
         "app": "AveyRule1",
-        "content": "impetigo; contact dermatitis; atopic dermatitis; urticaria; measles; scabies"
+        "content": "impetigo; urticaria; contact dermatitis; atopic dermatitis; scabies; psoriasis"
     },
     {
         "case_number": "3",
@@ -957,7 +957,7 @@
     {
         "case_number": "197",
         "app": "AveyRule1",
-        "content": "fibromyalgia; brucellosis; anemia; malaria; polycythemia vera"
+        "content": "fibromyalgia; brucellosis; anemia; malaria; polycystic kidney disease; polycythemia vera"
     },
     {
         "case_number": "127",
@@ -967,7 +967,7 @@
     {
         "case_number": "190",
         "app": "AveyRule1",
-        "content": "breast infection; acute interstitial nephritis; hiv infection; rheumatic fever; tinea versicolor; psoriasis"
+        "content": "breast infection; acute interstitial nephritis; osteomyelitis; meningitis; tinea versicolor; psoriasis"
     },
     {
         "case_number": "25",
@@ -992,12 +992,512 @@
     {
         "case_number": "63",
         "app": "AveyRule1",
-        "content": "dengue fever; malaria; influenza; acute bacterial gastroenteritis; osteomyelitis; coronavirus disease 2019"
+        "content": "dengue fever; malaria; influenza; acute bacterial gastroenteritis; coronavirus disease 2019; osteomyelitis"
     },
     {
         "case_number": "45",
         "app": "AveyRule1",
-        "content": "diabetic ketoacidosis; acute appendicitis; peptic ulcer disease; acute bacterial gastroenteritis; peritonitis; acute pancreatitis"
+        "content": "acute appendicitis; diabetic ketoacidosis; acute bacterial gastroenteritis; peptic ulcer disease; acute pancreatitis; acute mesenteric ischemia"
+    },
+    {
+        "case_number": "10",
+        "app": "35-1xccRule1",
+        "content": "acute appendicitis; diverticulitis; acute mesenteric ischemia; acute cholecystitis"
+    },
+    {
+        "case_number": "37",
+        "app": "35-1xccRule1",
+        "content": "cushing syndrome; endometrial cancer; thyroiditis"
+    },
+    {
+        "case_number": "189",
+        "app": "35-1xccRule1",
+        "content": "bartholin gland abscess; bartholin gland cyst"
+    },
+    {
+        "case_number": "105",
+        "app": "35-1xccRule1",
+        "content": "adrenal insufficiency; cronkhite canada syndrome; endometrial cancer; liver cirrhosis"
+    },
+    {
+        "case_number": "153",
+        "app": "35-1xccRule1",
+        "content": "pelvic inflammatory disease; bacterial vaginosis; trichomoniasis"
+    },
+    {
+        "case_number": "51",
+        "app": "35-1xccRule1",
+        "content": "acromegaly; brain tumor; brain abscess; polycythemia vera; brucellosis; anemia"
+    },
+    {
+        "case_number": "5",
+        "app": "35-1xccRule1",
+        "content": "heart failure; valvular heart disease; pulmonary edema; anemia; chronic obstructive pulmonary disease; myocarditis"
+    },
+    {
+        "case_number": "101",
+        "app": "35-1xccRule1",
+        "content": "acute prostatitis; pyelonephritis; cystitis; benign prostatic hyperplasia"
+    },
+    {
+        "case_number": "192",
+        "app": "35-1xccRule1",
+        "content": "mumps; tonsillopharyngitis; otitis media; encephalitis; coronavirus disease 2019; meningitis"
+    },
+    {
+        "case_number": "28",
+        "app": "35-1xccRule1",
+        "content": "diabetic ketoacidosis; hyperosmolar hyperglycemic nonketotic state; diabetes mellitus; cystitis; nephrolithiasis"
+    },
+    {
+        "case_number": "200",
+        "app": "35-1xccRule1",
+        "content": "pulmonary embolism; pneumothorax; pneumonia; pericardial effusion; acute pericarditis; coronavirus disease 2019"
+    },
+    {
+        "case_number": "44",
+        "app": "35-1xccRule1",
+        "content": "polycystic ovary syndrome; metabolic syndrome; cushing syndrome"
+    },
+    {
+        "case_number": "65",
+        "app": "35-1xccRule1",
+        "content": "urticaria; contact dermatitis; atopic dermatitis; psoriasis; tinea versicolor"
+    },
+    {
+        "case_number": "196",
+        "app": "35-1xccRule1",
+        "content": "galactocele; fibroadenoma; fibrocystic breasts"
+    },
+    {
+        "case_number": "19",
+        "app": "35-1xccRule1",
+        "content": "cholera; food poisoning; acute viral gastroenteritis"
+    },
+    {
+        "case_number": "179",
+        "app": "35-1xccRule1",
+        "content": "gastric cancer; chronic pancreatitis; pancreatic cancer; acute cholangitis; cholelithiasis; acute pancreatitis"
+    },
+    {
+        "case_number": "194",
+        "app": "35-1xccRule1",
+        "content": "asthma; chronic obstructive pulmonary disease; lung cancer; valvular heart disease; foreign body aspiration; pulmonary edema"
+    },
+    {
+        "case_number": "129",
+        "app": "35-1xccRule1",
+        "content": "bacterial conjunctivitis; blepharitis"
+    },
+    {
+        "case_number": "163",
+        "app": "35-1xccRule1",
+        "content": "diverticulitis; irritable bowel syndrome; ovarian cancer"
+    },
+    {
+        "case_number": "15",
+        "app": "35-1xccRule1",
+        "content": "acute appendicitis; abdominal aortic aneurysm; diverticulitis; myocardial infarction; acute cholecystitis; acute mesenteric ischemia"
+    },
+    {
+        "case_number": "150",
+        "app": "35-1xccRule1",
+        "content": "vulvovaginal candidiasis; trichomoniasis; bacterial vaginosis"
+    },
+    {
+        "case_number": "87",
+        "app": "35-1xccRule1",
+        "content": "rosacea; urticaria; contact dermatitis; impetigo"
+    },
+    {
+        "case_number": "118",
+        "app": "35-1xccRule1",
+        "content": ""
+    },
+    {
+        "case_number": "20",
+        "app": "35-1xccRule1",
+        "content": "acanthosis nigricans; tinea versicolor"
+    },
+    {
+        "case_number": "1",
+        "app": "35-1xccRule1",
+        "content": "acute bronchitis; pulmonary edema; foreign body aspiration; common cold; coronavirus disease 2019; valvular heart disease"
+    },
+    {
+        "case_number": "180",
+        "app": "35-1xccRule1",
+        "content": "valvular heart disease; hypertrophic obstructive cardiomyopathy; chronic obstructive pulmonary disease; pulmonary edema; myocarditis"
+    },
+    {
+        "case_number": "195",
+        "app": "35-1xccRule1",
+        "content": "irritable bowel syndrome; ovarian cancer; diverticulitis; pelvic inflammatory disease; endometriosis; ectopic pregnancy"
+    },
+    {
+        "case_number": "122",
+        "app": "35-1xccRule1",
+        "content": "pulmonary edema; acute bronchitis; asthma; chronic obstructive pulmonary disease; valvular heart disease; pericardial effusion"
+    },
+    {
+        "case_number": "176",
+        "app": "35-1xccRule1",
+        "content": "tinea versicolor; psoriasis; measles; contact dermatitis; urticaria"
+    },
+    {
+        "case_number": "75",
+        "app": "35-1xccRule1",
+        "content": "pelvic inflammatory disease; diverticulitis; acute appendicitis; ectopic pregnancy; spontaneous abortion; molar pregnancy"
+    },
+    {
+        "case_number": "9",
+        "app": "35-1xccRule1",
+        "content": "stable angina; myocardial infarction; variant angina; unstable angina"
+    },
+    {
+        "case_number": "188",
+        "app": "35-1xccRule1",
+        "content": "leukemia; anemia; liver cirrhosis; celiac disease"
+    },
+    {
+        "case_number": "4",
+        "app": "35-1xccRule1",
+        "content": "asthma; chronic obstructive pulmonary disease; valvular heart disease; pericardial effusion; systemic sclerosis; heart failure"
+    },
+    {
+        "case_number": "187",
+        "app": "35-1xccRule1",
+        "content": "diabetes mellitus; hyperosmolar hyperglycemic nonketotic state; diabetic ketoacidosis; metabolic syndrome"
+    },
+    {
+        "case_number": "138",
+        "app": "35-1xccRule1",
+        "content": "irritable bowel syndrome; diverticulitis"
+    },
+    {
+        "case_number": "52",
+        "app": "35-1xccRule1",
+        "content": "malaria; brucellosis; dengue fever; influenza; lyme disease; osteomyelitis"
+    },
+    {
+        "case_number": "181",
+        "app": "35-1xccRule1",
+        "content": "hydrocele; varicocele"
+    },
+    {
+        "case_number": "184",
+        "app": "35-1xccRule1",
+        "content": "colonic polyps"
+    },
+    {
+        "case_number": "164",
+        "app": "35-1xccRule1",
+        "content": "variant angina; diffuse esophageal spasm; stable angina; myocardial infarction"
+    },
+    {
+        "case_number": "47",
+        "app": "35-1xccRule1",
+        "content": "cluster headaches"
+    },
+    {
+        "case_number": "53",
+        "app": "35-1xccRule1",
+        "content": "mononucleosis; tonsillopharyngitis; hiv infection; hodgkin lymphoma; coronavirus disease 2019; epiglottitis"
+    },
+    {
+        "case_number": "198",
+        "app": "35-1xccRule1",
+        "content": "rheumatoid arthritis; gout; osteoarthritis; anemia; systemic sclerosis"
+    },
+    {
+        "case_number": "142",
+        "app": "35-1xccRule1",
+        "content": "pneumothorax; pulmonary edema; aortic dissection; unstable angina; myocardial infarction; pulmonary embolism"
+    },
+    {
+        "case_number": "178",
+        "app": "35-1xccRule1",
+        "content": "common cold; acute bronchitis; influenza; coronavirus disease 2019"
+    },
+    {
+        "case_number": "46",
+        "app": "35-1xccRule1",
+        "content": "tension headache"
+    },
+    {
+        "case_number": "183",
+        "app": "35-1xccRule1",
+        "content": "achalasia; diffuse esophageal spasm; esophageal cancer"
+    },
+    {
+        "case_number": "40",
+        "app": "35-1xccRule1",
+        "content": "acromegaly; lyme disease; rheumatoid arthritis; rheumatic fever"
+    },
+    {
+        "case_number": "170",
+        "app": "35-1xccRule1",
+        "content": "cluster headaches; chronic sinusitis; migraine"
+    },
+    {
+        "case_number": "185",
+        "app": "35-1xccRule1",
+        "content": "myocarditis; pericardial effusion; valvular heart disease; hypertrophic obstructive cardiomyopathy; rheumatic fever; anemia"
+    },
+    {
+        "case_number": "2",
+        "app": "35-1xccRule1",
+        "content": "unstable angina; myocardial infarction; stable angina; variant angina; pericardial effusion; myocarditis"
+    },
+    {
+        "case_number": "174",
+        "app": "35-1xccRule1",
+        "content": "mononucleosis; tonsillopharyngitis; cat scratch disease; epiglottitis; coronavirus disease 2019"
+    },
+    {
+        "case_number": "24",
+        "app": "35-1xccRule1",
+        "content": "influenza; common cold; coronavirus disease 2019; tonsillopharyngitis; pneumonia; pericardial effusion"
+    },
+    {
+        "case_number": "35",
+        "app": "35-1xccRule1",
+        "content": "celiac disease; acute viral gastroenteritis; acute bacterial gastroenteritis; liver cirrhosis; mallory-weiss syndrome; hyperparathyroidism"
+    },
+    {
+        "case_number": "103",
+        "app": "35-1xccRule1",
+        "content": "celiac disease; chronic pancreatitis; cronkhite canada syndrome; irritable bowel syndrome"
+    },
+    {
+        "case_number": "102",
+        "app": "35-1xccRule1",
+        "content": "pulmonary embolism; pneumothorax; pneumonia; unstable angina; myocardial infarction; aortic dissection"
+    },
+    {
+        "case_number": "89",
+        "app": "35-1xccRule1",
+        "content": "otitis media; otitis media with effusion; otitis media with tympanic membrane perforated; tonsillopharyngitis"
+    },
+    {
+        "case_number": "126",
+        "app": "35-1xccRule1",
+        "content": "pulmonary edema; heart failure; coronavirus disease 2019; pericardial effusion; valvular heart disease; anemia"
+    },
+    {
+        "case_number": "199",
+        "app": "35-1xccRule1",
+        "content": "epiglottitis; tonsillopharyngitis; croup; coronavirus disease 2019; laryngitis; common cold"
+    },
+    {
+        "case_number": "165",
+        "app": "35-1xccRule1",
+        "content": "adrenal insufficiency; gastric cancer; acanthosis nigricans; tinea versicolor; chronic pancreatitis; liver cirrhosis"
+    },
+    {
+        "case_number": "27",
+        "app": "35-1xccRule1",
+        "content": "celiac disease; cronkhite canada syndrome; adrenal insufficiency; chronic pancreatitis; multiple sclerosis; renal cell carcinoma"
+    },
+    {
+        "case_number": "64",
+        "app": "35-1xccRule1",
+        "content": ""
+    },
+    {
+        "case_number": "167",
+        "app": "35-1xccRule1",
+        "content": "breast engorgement; galactocele; fibrocystic breasts; breast infection; fibroadenoma"
+    },
+    {
+        "case_number": "186",
+        "app": "35-1xccRule1",
+        "content": "intercostal neuralgia; unstable angina; myocardial infarction; costochondritis"
+    },
+    {
+        "case_number": "191",
+        "app": "35-1xccRule1",
+        "content": "onychomycosis"
+    },
+    {
+        "case_number": "162",
+        "app": "35-1xccRule1",
+        "content": "pneumothorax; aortic dissection; pulmonary embolism; hypertrophic obstructive cardiomyopathy; pericardial effusion; valvular heart disease"
+    },
+    {
+        "case_number": "14",
+        "app": "35-1xccRule1",
+        "content": "coronavirus disease 2019; pericardial effusion; pulmonary edema; pneumonia; influenza; infective endocarditis"
+    },
+    {
+        "case_number": "60",
+        "app": "35-1xccRule1",
+        "content": "secondary dysmenorrhea; endometriosis; primary dysmenorrhea; adenomyosis; uterine fibroids"
+    },
+    {
+        "case_number": "7",
+        "app": "35-1xccRule1",
+        "content": "pericardial effusion; acute pericarditis; pneumothorax; pneumonia; pulmonary embolism; aortic dissection"
+    },
+    {
+        "case_number": "6",
+        "app": "35-1xccRule1",
+        "content": "chronic obstructive pulmonary disease; asthma; valvular heart disease; heart failure; pericardial effusion; pneumonia"
+    },
+    {
+        "case_number": "58",
+        "app": "35-1xccRule1",
+        "content": "cystitis; pyelonephritis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "193",
+        "app": "35-1xccRule1",
+        "content": "migraine; meningitis; cluster headaches; brain abscess"
+    },
+    {
+        "case_number": "182",
+        "app": "35-1xccRule1",
+        "content": "chronic obstructive pulmonary disease; valvular heart disease; asthma; pericardial effusion; heart failure; lung cancer"
+    },
+    {
+        "case_number": "172",
+        "app": "35-1xccRule1",
+        "content": "myocardial infarction; variant angina; unstable angina"
+    },
+    {
+        "case_number": "145",
+        "app": "35-1xccRule1",
+        "content": "acute pancreatitis; peptic ulcer disease; cholelithiasis; acute cholangitis; small bowel obstruction; acute cholecystitis"
+    },
+    {
+        "case_number": "155",
+        "app": "35-1xccRule1",
+        "content": "otitis media; meningitis; otitis media with effusion; tonsillopharyngitis; epiglottitis"
+    },
+    {
+        "case_number": "173",
+        "app": "35-1xccRule1",
+        "content": "polycythemia vera; hypertension disease; migraine; tension headache"
+    },
+    {
+        "case_number": "168",
+        "app": "35-1xccRule1",
+        "content": "diaper dermatitis; urticaria; contact dermatitis"
+    },
+    {
+        "case_number": "166",
+        "app": "35-1xccRule1",
+        "content": "primary dysmenorrhea; adenomyosis; secondary dysmenorrhea; endometriosis"
+    },
+    {
+        "case_number": "73",
+        "app": "35-1xccRule1",
+        "content": "bacterial vaginosis; trichomoniasis; vulvovaginal candidiasis; chlamydia; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "115",
+        "app": "35-1xccRule1",
+        "content": "pneumothorax; aortic dissection; pulmonary embolism; variant angina; pulmonary edema; chronic obstructive pulmonary disease"
+    },
+    {
+        "case_number": "161",
+        "app": "35-1xccRule1",
+        "content": "urethritis; chlamydia; trichomoniasis; benign prostatic hyperplasia"
+    },
+    {
+        "case_number": "48",
+        "app": "35-1xccRule1",
+        "content": "anal fissure; hemorrhoids"
+    },
+    {
+        "case_number": "82",
+        "app": "35-1xccRule1",
+        "content": "allergic conjunctivitis; chalazion; viral conjunctivitis; blepharitis; nasolacrimal duct obstruction"
+    },
+    {
+        "case_number": "49",
+        "app": "35-1xccRule1",
+        "content": "lactose intolerance; celiac disease; inflammatory bowel disease; chronic pancreatitis; irritable bowel syndrome; food poisoning"
+    },
+    {
+        "case_number": "169",
+        "app": "35-1xccRule1",
+        "content": "lactose intolerance; food poisoning; celiac disease; acute viral gastroenteritis; inflammatory bowel disease; irritable bowel syndrome"
+    },
+    {
+        "case_number": "157",
+        "app": "35-1xccRule1",
+        "content": "trichomoniasis; bacterial vaginosis; vulvovaginal candidiasis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "18",
+        "app": "35-1xccRule1",
+        "content": "pneumonia; chronic obstructive pulmonary disease; asthma; pericardial effusion; valvular heart disease; tuberculosis"
+    },
+    {
+        "case_number": "112",
+        "app": "35-1xccRule1",
+        "content": "pyelonephritis; pelvic inflammatory disease; acute cholangitis; diverticulitis; infective endocarditis"
+    },
+    {
+        "case_number": "171",
+        "app": "35-1xccRule1",
+        "content": "chronic obstructive pulmonary disease; asthma; valvular heart disease; pulmonary edema; pericardial effusion; heart failure"
+    },
+    {
+        "case_number": "29",
+        "app": "35-1xccRule1",
+        "content": "impetigo; urticaria; contact dermatitis; atopic dermatitis; measles; scabies"
+    },
+    {
+        "case_number": "3",
+        "app": "35-1xccRule1",
+        "content": "aortic dissection; pulmonary edema; valvular heart disease; unstable angina; myocardial infarction; pulmonary embolism"
+    },
+    {
+        "case_number": "197",
+        "app": "35-1xccRule1",
+        "content": "fibromyalgia; brucellosis; anemia; premenstrual syndrome; lyme disease; polycythemia vera"
+    },
+    {
+        "case_number": "127",
+        "app": "35-1xccRule1",
+        "content": "aortic dissection; unstable angina; myocardial infarction; pulmonary embolism; pneumothorax; pulmonary edema"
+    },
+    {
+        "case_number": "190",
+        "app": "35-1xccRule1",
+        "content": "breast infection; acute interstitial nephritis"
+    },
+    {
+        "case_number": "25",
+        "app": "35-1xccRule1",
+        "content": "obstructive sleep apnea"
+    },
+    {
+        "case_number": "104",
+        "app": "35-1xccRule1",
+        "content": "pneumothorax; pulmonary embolism; aortic dissection; myocardial infarction; intercostal neuralgia; unstable angina"
+    },
+    {
+        "case_number": "13",
+        "app": "35-1xccRule1",
+        "content": "chronic obstructive pulmonary disease; asthma; valvular heart disease; pneumonia; tuberculosis; lung cancer"
+    },
+    {
+        "case_number": "121",
+        "app": "35-1xccRule1",
+        "content": "urethritis; chlamydia; trichomoniasis; benign prostatic hyperplasia; acute prostatitis; cystitis"
+    },
+    {
+        "case_number": "63",
+        "app": "35-1xccRule1",
+        "content": "malaria; osteomyelitis; dengue fever; acute bacterial gastroenteritis; acute interstitial nephritis; coronavirus disease 2019"
+    },
+    {
+        "case_number": "45",
+        "app": "35-1xccRule1",
+        "content": "acute appendicitis; diabetic ketoacidosis; acute bacterial gastroenteritis; acute mesenteric ischemia; food poisoning; peptic ulcer disease"
     },
     {
         "case_number": "10",
@@ -1501,6 +2001,506 @@
     },
     {
         "case_number": "10",
+        "app": "35-1xccRule3a",
+        "content": "acute appendicitis; acute mesenteric ischemia; diverticulitis; acute cholecystitis"
+    },
+    {
+        "case_number": "37",
+        "app": "35-1xccRule3a",
+        "content": "cushing syndrome; endometrial cancer; thyroiditis"
+    },
+    {
+        "case_number": "189",
+        "app": "35-1xccRule3a",
+        "content": "bartholin gland abscess; bartholin gland cyst"
+    },
+    {
+        "case_number": "105",
+        "app": "35-1xccRule3a",
+        "content": "adrenal insufficiency; cronkhite canada syndrome"
+    },
+    {
+        "case_number": "153",
+        "app": "35-1xccRule3a",
+        "content": "bacterial vaginosis; trichomoniasis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "51",
+        "app": "35-1xccRule3a",
+        "content": "polycythemia vera; acromegaly; brain tumor; brain abscess"
+    },
+    {
+        "case_number": "5",
+        "app": "35-1xccRule3a",
+        "content": "heart failure; valvular heart disease; pulmonary edema; chronic obstructive pulmonary disease; anemia"
+    },
+    {
+        "case_number": "101",
+        "app": "35-1xccRule3a",
+        "content": "pyelonephritis; acute prostatitis; cystitis; benign prostatic hyperplasia"
+    },
+    {
+        "case_number": "192",
+        "app": "35-1xccRule3a",
+        "content": "mumps; tonsillopharyngitis; otitis media; encephalitis"
+    },
+    {
+        "case_number": "28",
+        "app": "35-1xccRule3a",
+        "content": "diabetic ketoacidosis; hyperosmolar hyperglycemic nonketotic state; diabetes mellitus; cystitis; nephrolithiasis"
+    },
+    {
+        "case_number": "200",
+        "app": "35-1xccRule3a",
+        "content": "pulmonary embolism; pneumothorax; pericardial effusion; pneumonia; acute pericarditis; coronavirus disease 2019"
+    },
+    {
+        "case_number": "44",
+        "app": "35-1xccRule3a",
+        "content": "polycystic ovary syndrome; cushing syndrome; metabolic syndrome"
+    },
+    {
+        "case_number": "65",
+        "app": "35-1xccRule3a",
+        "content": "urticaria; contact dermatitis; atopic dermatitis; psoriasis; tinea versicolor"
+    },
+    {
+        "case_number": "196",
+        "app": "35-1xccRule3a",
+        "content": "fibroadenoma; galactocele; fibrocystic breasts"
+    },
+    {
+        "case_number": "19",
+        "app": "35-1xccRule3a",
+        "content": "cholera; food poisoning; acute viral gastroenteritis"
+    },
+    {
+        "case_number": "179",
+        "app": "35-1xccRule3a",
+        "content": "acute cholangitis; gastric cancer; chronic pancreatitis; pancreatic cancer"
+    },
+    {
+        "case_number": "194",
+        "app": "35-1xccRule3a",
+        "content": "chronic obstructive pulmonary disease; asthma; pulmonary edema; lung cancer; foreign body aspiration; valvular heart disease"
+    },
+    {
+        "case_number": "129",
+        "app": "35-1xccRule3a",
+        "content": "bacterial conjunctivitis; blepharitis"
+    },
+    {
+        "case_number": "163",
+        "app": "35-1xccRule3a",
+        "content": "irritable bowel syndrome; diverticulitis; ovarian cancer"
+    },
+    {
+        "case_number": "15",
+        "app": "35-1xccRule3a",
+        "content": "abdominal aortic aneurysm; acute appendicitis; diverticulitis; acute mesenteric ischemia; myocardial infarction; acute cholecystitis"
+    },
+    {
+        "case_number": "150",
+        "app": "35-1xccRule3a",
+        "content": "vulvovaginal candidiasis; trichomoniasis; bacterial vaginosis"
+    },
+    {
+        "case_number": "87",
+        "app": "35-1xccRule3a",
+        "content": "rosacea; contact dermatitis; urticaria"
+    },
+    {
+        "case_number": "118",
+        "app": "35-1xccRule3a",
+        "content": ""
+    },
+    {
+        "case_number": "20",
+        "app": "35-1xccRule3a",
+        "content": "acanthosis nigricans; tinea versicolor"
+    },
+    {
+        "case_number": "1",
+        "app": "35-1xccRule3a",
+        "content": "acute bronchitis; pulmonary edema; common cold; foreign body aspiration; coronavirus disease 2019"
+    },
+    {
+        "case_number": "180",
+        "app": "35-1xccRule3a",
+        "content": "valvular heart disease; hypertrophic obstructive cardiomyopathy; pulmonary edema; chronic obstructive pulmonary disease"
+    },
+    {
+        "case_number": "195",
+        "app": "35-1xccRule3a",
+        "content": "ectopic pregnancy; irritable bowel syndrome; pelvic inflammatory disease; ovarian cancer; diverticulitis; endometriosis"
+    },
+    {
+        "case_number": "122",
+        "app": "35-1xccRule3a",
+        "content": "chronic obstructive pulmonary disease; asthma; pulmonary edema; valvular heart disease; acute bronchitis; pericardial effusion"
+    },
+    {
+        "case_number": "176",
+        "app": "35-1xccRule3a",
+        "content": "psoriasis; tinea versicolor; measles"
+    },
+    {
+        "case_number": "75",
+        "app": "35-1xccRule3a",
+        "content": "pelvic inflammatory disease; ectopic pregnancy; acute appendicitis; diverticulitis"
+    },
+    {
+        "case_number": "9",
+        "app": "35-1xccRule3a",
+        "content": "stable angina; myocardial infarction; variant angina; unstable angina"
+    },
+    {
+        "case_number": "188",
+        "app": "35-1xccRule3a",
+        "content": "leukemia; anemia; celiac disease; liver cirrhosis"
+    },
+    {
+        "case_number": "4",
+        "app": "35-1xccRule3a",
+        "content": "asthma; chronic obstructive pulmonary disease; pericardial effusion; valvular heart disease; systemic sclerosis; heart failure"
+    },
+    {
+        "case_number": "187",
+        "app": "35-1xccRule3a",
+        "content": "diabetes mellitus; hyperosmolar hyperglycemic nonketotic state; diabetic ketoacidosis; metabolic syndrome"
+    },
+    {
+        "case_number": "138",
+        "app": "35-1xccRule3a",
+        "content": "irritable bowel syndrome; diverticulitis"
+    },
+    {
+        "case_number": "52",
+        "app": "35-1xccRule3a",
+        "content": "malaria; brucellosis; influenza; dengue fever; lyme disease; osteomyelitis"
+    },
+    {
+        "case_number": "181",
+        "app": "35-1xccRule3a",
+        "content": "hydrocele; varicocele"
+    },
+    {
+        "case_number": "184",
+        "app": "35-1xccRule3a",
+        "content": "colonic polyps"
+    },
+    {
+        "case_number": "164",
+        "app": "35-1xccRule3a",
+        "content": "variant angina; stable angina; diffuse esophageal spasm"
+    },
+    {
+        "case_number": "47",
+        "app": "35-1xccRule3a",
+        "content": "cluster headaches"
+    },
+    {
+        "case_number": "53",
+        "app": "35-1xccRule3a",
+        "content": "mononucleosis; tonsillopharyngitis; hiv infection; hodgkin lymphoma; coronavirus disease 2019"
+    },
+    {
+        "case_number": "198",
+        "app": "35-1xccRule3a",
+        "content": "rheumatoid arthritis; gout; osteoarthritis; anemia; systemic sclerosis"
+    },
+    {
+        "case_number": "142",
+        "app": "35-1xccRule3a",
+        "content": "pneumothorax; unstable angina; myocardial infarction; aortic dissection; pulmonary edema; pulmonary embolism"
+    },
+    {
+        "case_number": "178",
+        "app": "35-1xccRule3a",
+        "content": "common cold; influenza; acute bronchitis; coronavirus disease 2019"
+    },
+    {
+        "case_number": "46",
+        "app": "35-1xccRule3a",
+        "content": "tension headache"
+    },
+    {
+        "case_number": "183",
+        "app": "35-1xccRule3a",
+        "content": "achalasia; diffuse esophageal spasm; esophageal cancer"
+    },
+    {
+        "case_number": "40",
+        "app": "35-1xccRule3a",
+        "content": "acromegaly; lyme disease"
+    },
+    {
+        "case_number": "170",
+        "app": "35-1xccRule3a",
+        "content": "cluster headaches; migraine; chronic sinusitis"
+    },
+    {
+        "case_number": "185",
+        "app": "35-1xccRule3a",
+        "content": "myocarditis; pericardial effusion; valvular heart disease; rheumatic fever; hypertrophic obstructive cardiomyopathy; anemia"
+    },
+    {
+        "case_number": "2",
+        "app": "35-1xccRule3a",
+        "content": "myocardial infarction; unstable angina; stable angina; variant angina; pericardial effusion; myocarditis"
+    },
+    {
+        "case_number": "174",
+        "app": "35-1xccRule3a",
+        "content": "mononucleosis; tonsillopharyngitis; cat scratch disease; epiglottitis; coronavirus disease 2019"
+    },
+    {
+        "case_number": "24",
+        "app": "35-1xccRule3a",
+        "content": "influenza; common cold; coronavirus disease 2019; pneumonia; tonsillopharyngitis; pericardial effusion"
+    },
+    {
+        "case_number": "35",
+        "app": "35-1xccRule3a",
+        "content": "celiac disease; acute viral gastroenteritis; acute bacterial gastroenteritis"
+    },
+    {
+        "case_number": "103",
+        "app": "35-1xccRule3a",
+        "content": "celiac disease; chronic pancreatitis; cronkhite canada syndrome; irritable bowel syndrome"
+    },
+    {
+        "case_number": "102",
+        "app": "35-1xccRule3a",
+        "content": "pneumothorax; pulmonary embolism; myocardial infarction; unstable angina; aortic dissection; pneumonia"
+    },
+    {
+        "case_number": "89",
+        "app": "35-1xccRule3a",
+        "content": "otitis media; otitis media with effusion; otitis media with tympanic membrane perforated; tonsillopharyngitis"
+    },
+    {
+        "case_number": "126",
+        "app": "35-1xccRule3a",
+        "content": "pulmonary edema; heart failure; valvular heart disease; coronavirus disease 2019; pericardial effusion"
+    },
+    {
+        "case_number": "199",
+        "app": "35-1xccRule3a",
+        "content": "epiglottitis; croup; tonsillopharyngitis"
+    },
+    {
+        "case_number": "165",
+        "app": "35-1xccRule3a",
+        "content": "adrenal insufficiency; tinea versicolor; acanthosis nigricans; chronic pancreatitis; gastric cancer; liver cirrhosis"
+    },
+    {
+        "case_number": "27",
+        "app": "35-1xccRule3a",
+        "content": "celiac disease; cronkhite canada syndrome; adrenal insufficiency; multiple sclerosis; chronic pancreatitis; renal cell carcinoma"
+    },
+    {
+        "case_number": "64",
+        "app": "35-1xccRule3a",
+        "content": ""
+    },
+    {
+        "case_number": "167",
+        "app": "35-1xccRule3a",
+        "content": "breast engorgement; galactocele; breast infection; fibrocystic breasts; fibroadenoma"
+    },
+    {
+        "case_number": "186",
+        "app": "35-1xccRule3a",
+        "content": "intercostal neuralgia; unstable angina; costochondritis; myocardial infarction"
+    },
+    {
+        "case_number": "191",
+        "app": "35-1xccRule3a",
+        "content": "onychomycosis"
+    },
+    {
+        "case_number": "162",
+        "app": "35-1xccRule3a",
+        "content": "pneumothorax; pulmonary embolism; aortic dissection; pericardial effusion; hypertrophic obstructive cardiomyopathy; valvular heart disease"
+    },
+    {
+        "case_number": "14",
+        "app": "35-1xccRule3a",
+        "content": "coronavirus disease 2019; influenza; pericardial effusion; pneumonia; pulmonary edema"
+    },
+    {
+        "case_number": "60",
+        "app": "35-1xccRule3a",
+        "content": "primary dysmenorrhea; secondary dysmenorrhea; endometriosis; adenomyosis; uterine fibroids"
+    },
+    {
+        "case_number": "7",
+        "app": "35-1xccRule3a",
+        "content": "acute pericarditis; pericardial effusion; pneumothorax; pneumonia; aortic dissection; pulmonary embolism"
+    },
+    {
+        "case_number": "6",
+        "app": "35-1xccRule3a",
+        "content": "chronic obstructive pulmonary disease; asthma; heart failure; valvular heart disease; pericardial effusion; pneumonia"
+    },
+    {
+        "case_number": "58",
+        "app": "35-1xccRule3a",
+        "content": "cystitis; pyelonephritis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "193",
+        "app": "35-1xccRule3a",
+        "content": "migraine; meningitis; cluster headaches; brain abscess"
+    },
+    {
+        "case_number": "182",
+        "app": "35-1xccRule3a",
+        "content": "chronic obstructive pulmonary disease; asthma; valvular heart disease; lung cancer; heart failure; pericardial effusion"
+    },
+    {
+        "case_number": "172",
+        "app": "35-1xccRule3a",
+        "content": "myocardial infarction; variant angina; unstable angina"
+    },
+    {
+        "case_number": "145",
+        "app": "35-1xccRule3a",
+        "content": "acute pancreatitis; peptic ulcer disease; cholelithiasis; acute cholangitis; small bowel obstruction; acute cholecystitis"
+    },
+    {
+        "case_number": "155",
+        "app": "35-1xccRule3a",
+        "content": "otitis media; meningitis; otitis media with effusion"
+    },
+    {
+        "case_number": "173",
+        "app": "35-1xccRule3a",
+        "content": "polycythemia vera; tension headache; hypertension disease; migraine"
+    },
+    {
+        "case_number": "168",
+        "app": "35-1xccRule3a",
+        "content": "diaper dermatitis; urticaria; contact dermatitis"
+    },
+    {
+        "case_number": "166",
+        "app": "35-1xccRule3a",
+        "content": "primary dysmenorrhea; secondary dysmenorrhea; endometriosis; adenomyosis"
+    },
+    {
+        "case_number": "73",
+        "app": "35-1xccRule3a",
+        "content": "bacterial vaginosis; trichomoniasis; vulvovaginal candidiasis; chlamydia; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "115",
+        "app": "35-1xccRule3a",
+        "content": "pneumothorax; aortic dissection; variant angina; pulmonary embolism; pulmonary edema"
+    },
+    {
+        "case_number": "161",
+        "app": "35-1xccRule3a",
+        "content": "urethritis; chlamydia; trichomoniasis; benign prostatic hyperplasia"
+    },
+    {
+        "case_number": "48",
+        "app": "35-1xccRule3a",
+        "content": "anal fissure; hemorrhoids"
+    },
+    {
+        "case_number": "82",
+        "app": "35-1xccRule3a",
+        "content": "allergic conjunctivitis; viral conjunctivitis; chalazion; blepharitis; nasolacrimal duct obstruction"
+    },
+    {
+        "case_number": "49",
+        "app": "35-1xccRule3a",
+        "content": "lactose intolerance; celiac disease; irritable bowel syndrome; chronic pancreatitis; inflammatory bowel disease"
+    },
+    {
+        "case_number": "169",
+        "app": "35-1xccRule3a",
+        "content": "lactose intolerance; food poisoning; celiac disease; acute viral gastroenteritis; irritable bowel syndrome; inflammatory bowel disease"
+    },
+    {
+        "case_number": "157",
+        "app": "35-1xccRule3a",
+        "content": "trichomoniasis; bacterial vaginosis; vulvovaginal candidiasis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "18",
+        "app": "35-1xccRule3a",
+        "content": "asthma; chronic obstructive pulmonary disease; pneumonia; pericardial effusion; tuberculosis; valvular heart disease"
+    },
+    {
+        "case_number": "112",
+        "app": "35-1xccRule3a",
+        "content": "pyelonephritis; diverticulitis; acute cholangitis; infective endocarditis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "171",
+        "app": "35-1xccRule3a",
+        "content": "chronic obstructive pulmonary disease; asthma; pulmonary edema; pericardial effusion; valvular heart disease; heart failure"
+    },
+    {
+        "case_number": "29",
+        "app": "35-1xccRule3a",
+        "content": "urticaria; contact dermatitis; atopic dermatitis; impetigo; scabies; measles"
+    },
+    {
+        "case_number": "3",
+        "app": "35-1xccRule3a",
+        "content": "aortic dissection; myocardial infarction; unstable angina; pulmonary edema; valvular heart disease; pulmonary embolism"
+    },
+    {
+        "case_number": "197",
+        "app": "35-1xccRule3a",
+        "content": "fibromyalgia; anemia; brucellosis"
+    },
+    {
+        "case_number": "127",
+        "app": "35-1xccRule3a",
+        "content": "unstable angina; myocardial infarction; aortic dissection; pneumothorax; pulmonary embolism; pulmonary edema"
+    },
+    {
+        "case_number": "190",
+        "app": "35-1xccRule3a",
+        "content": "breast infection; acute interstitial nephritis"
+    },
+    {
+        "case_number": "25",
+        "app": "35-1xccRule3a",
+        "content": "obstructive sleep apnea"
+    },
+    {
+        "case_number": "104",
+        "app": "35-1xccRule3a",
+        "content": "pneumothorax; myocardial infarction; aortic dissection; unstable angina; intercostal neuralgia; pulmonary embolism"
+    },
+    {
+        "case_number": "13",
+        "app": "35-1xccRule3a",
+        "content": "chronic obstructive pulmonary disease; asthma; pneumonia; valvular heart disease; tuberculosis; lung cancer"
+    },
+    {
+        "case_number": "121",
+        "app": "35-1xccRule3a",
+        "content": "urethritis; chlamydia; trichomoniasis; benign prostatic hyperplasia; cystitis; acute prostatitis"
+    },
+    {
+        "case_number": "63",
+        "app": "35-1xccRule3a",
+        "content": "malaria; osteomyelitis; dengue fever; acute bacterial gastroenteritis; acute interstitial nephritis"
+    },
+    {
+        "case_number": "45",
+        "app": "35-1xccRule3a",
+        "content": "acute appendicitis; acute mesenteric ischemia; diabetic ketoacidosis; peptic ulcer disease; acute bacterial gastroenteritis; food poisoning"
+    },
+    {
+        "case_number": "10",
         "app": "AveyRule2",
         "content": "acute appendicitis; acute mesenteric ischemia; diverticulitis; acute cholecystitis; acute cholangitis"
     },
@@ -1517,7 +2517,7 @@
     {
         "case_number": "105",
         "app": "AveyRule2",
-        "content": "cronkhite canada syndrome; liver cirrhosis; adrenal insufficiency; leukemia; endometrial cancer; polycystic ovary syndrome"
+        "content": "adrenal insufficiency; cronkhite canada syndrome; liver cirrhosis; endometrial cancer; leukemia; polycystic ovary syndrome"
     },
     {
         "case_number": "153",
@@ -1532,7 +2532,7 @@
     {
         "case_number": "5",
         "app": "AveyRule2",
-        "content": "heart failure; valvular heart disease; pulmonary edema; anemia; chronic obstructive pulmonary disease; myocarditis"
+        "content": "heart failure; valvular heart disease; pulmonary edema; anemia; chronic obstructive pulmonary disease; pericardial effusion"
     },
     {
         "case_number": "101",
@@ -1547,12 +2547,12 @@
     {
         "case_number": "28",
         "app": "AveyRule2",
-        "content": "hyperosmolar hyperglycemic nonketotic state; diabetic ketoacidosis; diabetes mellitus; cystitis"
+        "content": "diabetic ketoacidosis; hyperosmolar hyperglycemic nonketotic state; diabetes mellitus; cystitis"
     },
     {
         "case_number": "200",
         "app": "AveyRule2",
-        "content": "pulmonary embolism; pneumothorax; pneumonia; pericardial effusion; systemic lupus erythematosus; pulmonary edema"
+        "content": "pulmonary embolism; pneumothorax; pneumonia; pericardial effusion; pulmonary edema; coronavirus disease 2019"
     },
     {
         "case_number": "44",
@@ -1562,7 +2562,7 @@
     {
         "case_number": "65",
         "app": "AveyRule2",
-        "content": "urticaria; contact dermatitis; atopic dermatitis; psoriasis; tinea versicolor"
+        "content": "urticaria; contact dermatitis; psoriasis; atopic dermatitis; tinea versicolor; shingles"
     },
     {
         "case_number": "196",
@@ -1572,12 +2572,12 @@
     {
         "case_number": "19",
         "app": "AveyRule2",
-        "content": "cholera; food poisoning; acute viral gastroenteritis"
+        "content": "cholera; food poisoning; acute viral gastroenteritis; acute bacterial gastroenteritis"
     },
     {
         "case_number": "179",
         "app": "AveyRule2",
-        "content": "gastric cancer; acute cholangitis; chronic pancreatitis; acute pancreatitis; pancreatic cancer; cholelithiasis"
+        "content": "acute cholangitis; gastric cancer; chronic pancreatitis; pancreatic cancer; acute pancreatitis; cholelithiasis"
     },
     {
         "case_number": "194",
@@ -1617,7 +2617,7 @@
     {
         "case_number": "20",
         "app": "AveyRule2",
-        "content": "acanthosis nigricans; tinea versicolor; adrenal insufficiency"
+        "content": "acanthosis nigricans; tinea versicolor"
     },
     {
         "case_number": "1",
@@ -1632,7 +2632,7 @@
     {
         "case_number": "195",
         "app": "AveyRule2",
-        "content": "irritable bowel syndrome; ectopic pregnancy; molar pregnancy; diverticulitis; ovarian cancer; pelvic inflammatory disease"
+        "content": "irritable bowel syndrome; ectopic pregnancy; ovarian cancer; molar pregnancy; diverticulitis; pelvic inflammatory disease"
     },
     {
         "case_number": "122",
@@ -1662,7 +2662,7 @@
     {
         "case_number": "4",
         "app": "AveyRule2",
-        "content": "asthma; chronic obstructive pulmonary disease; valvular heart disease; pericardial effusion; foreign body aspiration; pneumonia"
+        "content": "asthma; chronic obstructive pulmonary disease; pericardial effusion; valvular heart disease; acute bronchitis; pneumonia"
     },
     {
         "case_number": "187",
@@ -1677,7 +2677,7 @@
     {
         "case_number": "52",
         "app": "AveyRule2",
-        "content": "malaria; brucellosis; osteomyelitis; influenza; dengue fever; infective endocarditis"
+        "content": "brucellosis; malaria; osteomyelitis; polycythemia vera; infective endocarditis; influenza"
     },
     {
         "case_number": "181",
@@ -1702,12 +2702,12 @@
     {
         "case_number": "53",
         "app": "AveyRule2",
-        "content": "mononucleosis; tonsillopharyngitis; hiv infection; hodgkin lymphoma; leukemia; coronavirus disease 2019"
+        "content": "mononucleosis; tonsillopharyngitis; hiv infection; hodgkin lymphoma; leukemia; common cold"
     },
     {
         "case_number": "198",
         "app": "AveyRule2",
-        "content": "rheumatoid arthritis; gout; anemia"
+        "content": "rheumatoid arthritis; gout; systemic sclerosis; anemia; osteoarthritis"
     },
     {
         "case_number": "142",
@@ -1732,7 +2732,7 @@
     {
         "case_number": "40",
         "app": "AveyRule2",
-        "content": "rheumatoid arthritis; acromegaly; osteoarthritis; rheumatic fever"
+        "content": "acromegaly; lyme disease; brucellosis; osteoarthritis; rheumatic fever"
     },
     {
         "case_number": "170",
@@ -1752,12 +2752,12 @@
     {
         "case_number": "174",
         "app": "AveyRule2",
-        "content": "mononucleosis; tonsillopharyngitis; cat scratch disease; coronavirus disease 2019; epiglottitis"
+        "content": "mononucleosis; tonsillopharyngitis; cat scratch disease; epiglottitis; coronavirus disease 2019"
     },
     {
         "case_number": "24",
         "app": "AveyRule2",
-        "content": "influenza; common cold; coronavirus disease 2019; pneumonia; tonsillopharyngitis; pericardial effusion"
+        "content": "influenza; common cold; coronavirus disease 2019; pneumonia; pericardial effusion; tonsillopharyngitis"
     },
     {
         "case_number": "35",
@@ -1767,7 +2767,7 @@
     {
         "case_number": "103",
         "app": "AveyRule2",
-        "content": "celiac disease; chronic pancreatitis; cronkhite canada syndrome; lactose intolerance; irritable bowel syndrome; multiple sclerosis"
+        "content": "celiac disease; chronic pancreatitis; cronkhite canada syndrome; multiple sclerosis; lactose intolerance; irritable bowel syndrome"
     },
     {
         "case_number": "102",
@@ -1787,17 +2787,17 @@
     {
         "case_number": "199",
         "app": "AveyRule2",
-        "content": "croup; epiglottitis; tonsillopharyngitis; encephalitis; myasthenia gravis; anemia"
+        "content": "epiglottitis; croup; laryngitis; tonsillopharyngitis; common cold; anemia"
     },
     {
         "case_number": "165",
         "app": "AveyRule2",
-        "content": "adrenal insufficiency; chronic pancreatitis; gastric cancer; tinea versicolor; liver cirrhosis; acanthosis nigricans"
+        "content": "adrenal insufficiency; chronic pancreatitis; gastric cancer; liver cirrhosis; tinea versicolor; acanthosis nigricans"
     },
     {
         "case_number": "27",
         "app": "AveyRule2",
-        "content": "celiac disease; cronkhite canada syndrome; adrenal insufficiency; liver cirrhosis; chronic pancreatitis; pancreatic cancer"
+        "content": "celiac disease; adrenal insufficiency; cronkhite canada syndrome; liver cirrhosis; chronic pancreatitis; pancreatic cancer"
     },
     {
         "case_number": "64",
@@ -1812,7 +2812,7 @@
     {
         "case_number": "186",
         "app": "AveyRule2",
-        "content": "intercostal neuralgia; myocardial infarction; unstable angina"
+        "content": "intercostal neuralgia; unstable angina; myocardial infarction; stable angina"
     },
     {
         "case_number": "191",
@@ -1842,7 +2842,7 @@
     {
         "case_number": "6",
         "app": "AveyRule2",
-        "content": "chronic obstructive pulmonary disease; asthma; heart failure; cardiac tamponade; pulmonary edema; pericardial effusion"
+        "content": "chronic obstructive pulmonary disease; asthma; lung cancer; valvular heart disease; heart failure; pericardial effusion"
     },
     {
         "case_number": "58",
@@ -1852,7 +2852,7 @@
     {
         "case_number": "193",
         "app": "AveyRule2",
-        "content": "migraine; tension headache; cluster headaches; meningitis; hypertension disease; brain tumor"
+        "content": "migraine; tension headache; cluster headaches; meningitis; brain abscess; hypertension disease"
     },
     {
         "case_number": "182",
@@ -1877,7 +2877,7 @@
     {
         "case_number": "173",
         "app": "AveyRule2",
-        "content": "polycythemia vera; tension headache; hypertension disease; migraine"
+        "content": "polycythemia vera"
     },
     {
         "case_number": "168",
@@ -1917,12 +2917,12 @@
     {
         "case_number": "49",
         "app": "AveyRule2",
-        "content": "lactose intolerance; celiac disease; inflammatory bowel disease; peritonitis; chronic pancreatitis; food poisoning"
+        "content": "lactose intolerance; celiac disease; inflammatory bowel disease; peritonitis; acute viral gastroenteritis; food poisoning"
     },
     {
         "case_number": "169",
         "app": "AveyRule2",
-        "content": "lactose intolerance; inflammatory bowel disease; abdominal aortic aneurysm; celiac disease; acute mesenteric ischemia; irritable bowel syndrome"
+        "content": "lactose intolerance; food poisoning; acute bacterial gastroenteritis; celiac disease; peritonitis; acute viral gastroenteritis"
     },
     {
         "case_number": "157",
@@ -1932,7 +2932,7 @@
     {
         "case_number": "18",
         "app": "AveyRule2",
-        "content": "chronic obstructive pulmonary disease; asthma; pneumonia; pericardial effusion; lung cancer; heart failure"
+        "content": "pneumonia; asthma; pericardial effusion; chronic obstructive pulmonary disease; heart failure; tuberculosis"
     },
     {
         "case_number": "112",
@@ -1947,7 +2947,7 @@
     {
         "case_number": "29",
         "app": "AveyRule2",
-        "content": "urticaria; contact dermatitis; atopic dermatitis; impetigo; scabies; measles"
+        "content": "urticaria; contact dermatitis; atopic dermatitis; impetigo; scabies; psoriasis"
     },
     {
         "case_number": "3",
@@ -1957,7 +2957,7 @@
     {
         "case_number": "197",
         "app": "AveyRule2",
-        "content": "fibromyalgia; brucellosis; anemia; malaria; polycythemia vera"
+        "content": "fibromyalgia; anemia; malaria; brucellosis; polycythemia vera; polycystic kidney disease"
     },
     {
         "case_number": "127",
@@ -1967,7 +2967,7 @@
     {
         "case_number": "190",
         "app": "AveyRule2",
-        "content": "breast infection; acute interstitial nephritis; hiv infection; dengue fever; tinea versicolor; psoriasis"
+        "content": "breast infection; acute interstitial nephritis; meningitis; tinea versicolor; psoriasis; osteomyelitis"
     },
     {
         "case_number": "25",
@@ -1992,12 +2992,12 @@
     {
         "case_number": "63",
         "app": "AveyRule2",
-        "content": "malaria; dengue fever; influenza; brucellosis; osteomyelitis; coronavirus disease 2019"
+        "content": "malaria; dengue fever; brucellosis; influenza; osteomyelitis; coronavirus disease 2019"
     },
     {
         "case_number": "45",
         "app": "AveyRule2",
-        "content": "diabetic ketoacidosis; hyperosmolar hyperglycemic nonketotic state; acute appendicitis; acute mesenteric ischemia; peptic ulcer disease; acute pancreatitis"
+        "content": "acute appendicitis; acute mesenteric ischemia; peptic ulcer disease; diabetic ketoacidosis; acute pancreatitis; acute bacterial gastroenteritis"
     },
     {
         "case_number": "10",
@@ -2498,6 +3498,506 @@
         "case_number": "45",
         "app": "2xccQ35Rule1",
         "content": "diabetic ketoacidosis; acute appendicitis; acute bacterial gastroenteritis; peptic ulcer disease; peritonitis; hyperosmolar hyperglycemic nonketotic state"
+    },
+    {
+        "case_number": "10",
+        "app": "35-1xccRule2",
+        "content": "acute appendicitis; acute mesenteric ischemia; diverticulitis; acute cholecystitis"
+    },
+    {
+        "case_number": "37",
+        "app": "35-1xccRule2",
+        "content": "cushing syndrome; endometrial cancer; thyroiditis"
+    },
+    {
+        "case_number": "189",
+        "app": "35-1xccRule2",
+        "content": "bartholin gland abscess; bartholin gland cyst"
+    },
+    {
+        "case_number": "105",
+        "app": "35-1xccRule2",
+        "content": "adrenal insufficiency; cronkhite canada syndrome; endometrial cancer; liver cirrhosis"
+    },
+    {
+        "case_number": "153",
+        "app": "35-1xccRule2",
+        "content": "bacterial vaginosis; trichomoniasis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "51",
+        "app": "35-1xccRule2",
+        "content": "polycythemia vera; acromegaly; brain tumor; brain abscess; brucellosis; osteomyelitis"
+    },
+    {
+        "case_number": "5",
+        "app": "35-1xccRule2",
+        "content": "heart failure; valvular heart disease; pulmonary edema; chronic obstructive pulmonary disease; anemia; myocarditis"
+    },
+    {
+        "case_number": "101",
+        "app": "35-1xccRule2",
+        "content": "pyelonephritis; acute prostatitis; cystitis; benign prostatic hyperplasia"
+    },
+    {
+        "case_number": "192",
+        "app": "35-1xccRule2",
+        "content": "mumps; tonsillopharyngitis; otitis media; coronavirus disease 2019; encephalitis; meningitis"
+    },
+    {
+        "case_number": "28",
+        "app": "35-1xccRule2",
+        "content": "diabetic ketoacidosis; hyperosmolar hyperglycemic nonketotic state; diabetes mellitus; cystitis; nephrolithiasis"
+    },
+    {
+        "case_number": "200",
+        "app": "35-1xccRule2",
+        "content": "pulmonary embolism; pneumothorax; pericardial effusion; pneumonia; acute pericarditis; pulmonary edema"
+    },
+    {
+        "case_number": "44",
+        "app": "35-1xccRule2",
+        "content": "polycystic ovary syndrome; cushing syndrome; metabolic syndrome"
+    },
+    {
+        "case_number": "65",
+        "app": "35-1xccRule2",
+        "content": "urticaria; contact dermatitis; atopic dermatitis; psoriasis; tinea versicolor"
+    },
+    {
+        "case_number": "196",
+        "app": "35-1xccRule2",
+        "content": "fibroadenoma; galactocele; fibrocystic breasts"
+    },
+    {
+        "case_number": "19",
+        "app": "35-1xccRule2",
+        "content": "cholera; food poisoning; acute viral gastroenteritis"
+    },
+    {
+        "case_number": "179",
+        "app": "35-1xccRule2",
+        "content": "acute cholangitis; gastric cancer; chronic pancreatitis; pancreatic cancer; cholelithiasis; acute pancreatitis"
+    },
+    {
+        "case_number": "194",
+        "app": "35-1xccRule2",
+        "content": "chronic obstructive pulmonary disease; asthma; pulmonary edema; lung cancer; foreign body aspiration; valvular heart disease"
+    },
+    {
+        "case_number": "129",
+        "app": "35-1xccRule2",
+        "content": "bacterial conjunctivitis; blepharitis"
+    },
+    {
+        "case_number": "163",
+        "app": "35-1xccRule2",
+        "content": "irritable bowel syndrome; diverticulitis; ovarian cancer"
+    },
+    {
+        "case_number": "15",
+        "app": "35-1xccRule2",
+        "content": "abdominal aortic aneurysm; acute appendicitis; diverticulitis; acute mesenteric ischemia; peptic ulcer disease; myocardial infarction"
+    },
+    {
+        "case_number": "150",
+        "app": "35-1xccRule2",
+        "content": "vulvovaginal candidiasis; trichomoniasis; bacterial vaginosis"
+    },
+    {
+        "case_number": "87",
+        "app": "35-1xccRule2",
+        "content": "rosacea; contact dermatitis; urticaria; impetigo"
+    },
+    {
+        "case_number": "118",
+        "app": "35-1xccRule2",
+        "content": ""
+    },
+    {
+        "case_number": "20",
+        "app": "35-1xccRule2",
+        "content": "acanthosis nigricans; tinea versicolor"
+    },
+    {
+        "case_number": "1",
+        "app": "35-1xccRule2",
+        "content": "acute bronchitis; pulmonary edema; common cold; foreign body aspiration; coronavirus disease 2019; chronic obstructive pulmonary disease"
+    },
+    {
+        "case_number": "180",
+        "app": "35-1xccRule2",
+        "content": "valvular heart disease; hypertrophic obstructive cardiomyopathy; pulmonary edema; chronic obstructive pulmonary disease; myocarditis"
+    },
+    {
+        "case_number": "195",
+        "app": "35-1xccRule2",
+        "content": "ectopic pregnancy; irritable bowel syndrome; pelvic inflammatory disease; ovarian cancer; diverticulitis; cystitis"
+    },
+    {
+        "case_number": "122",
+        "app": "35-1xccRule2",
+        "content": "chronic obstructive pulmonary disease; asthma; pulmonary edema; valvular heart disease; acute bronchitis; foreign body aspiration"
+    },
+    {
+        "case_number": "176",
+        "app": "35-1xccRule2",
+        "content": "psoriasis; tinea versicolor; measles; contact dermatitis; urticaria"
+    },
+    {
+        "case_number": "75",
+        "app": "35-1xccRule2",
+        "content": "pelvic inflammatory disease; ectopic pregnancy; acute appendicitis; diverticulitis; spontaneous abortion; molar pregnancy"
+    },
+    {
+        "case_number": "9",
+        "app": "35-1xccRule2",
+        "content": "stable angina; myocardial infarction; variant angina; unstable angina"
+    },
+    {
+        "case_number": "188",
+        "app": "35-1xccRule2",
+        "content": "leukemia; anemia; celiac disease; liver cirrhosis"
+    },
+    {
+        "case_number": "4",
+        "app": "35-1xccRule2",
+        "content": "asthma; chronic obstructive pulmonary disease; pneumonia; pericardial effusion; valvular heart disease; pulmonary edema"
+    },
+    {
+        "case_number": "187",
+        "app": "35-1xccRule2",
+        "content": "diabetes mellitus; hyperosmolar hyperglycemic nonketotic state; diabetic ketoacidosis; metabolic syndrome"
+    },
+    {
+        "case_number": "138",
+        "app": "35-1xccRule2",
+        "content": "irritable bowel syndrome; diverticulitis"
+    },
+    {
+        "case_number": "52",
+        "app": "35-1xccRule2",
+        "content": "malaria; brucellosis; influenza; dengue fever; lyme disease; osteomyelitis"
+    },
+    {
+        "case_number": "181",
+        "app": "35-1xccRule2",
+        "content": "hydrocele; varicocele"
+    },
+    {
+        "case_number": "184",
+        "app": "35-1xccRule2",
+        "content": "colonic polyps"
+    },
+    {
+        "case_number": "164",
+        "app": "35-1xccRule2",
+        "content": "variant angina; stable angina; diffuse esophageal spasm; myocardial infarction"
+    },
+    {
+        "case_number": "47",
+        "app": "35-1xccRule2",
+        "content": "cluster headaches"
+    },
+    {
+        "case_number": "53",
+        "app": "35-1xccRule2",
+        "content": "mononucleosis; tonsillopharyngitis; hiv infection; hodgkin lymphoma; coronavirus disease 2019; influenza"
+    },
+    {
+        "case_number": "198",
+        "app": "35-1xccRule2",
+        "content": "rheumatoid arthritis; gout; osteoarthritis; anemia; systemic sclerosis"
+    },
+    {
+        "case_number": "142",
+        "app": "35-1xccRule2",
+        "content": "pneumothorax; unstable angina; myocardial infarction; aortic dissection; pulmonary edema; pulmonary embolism"
+    },
+    {
+        "case_number": "178",
+        "app": "35-1xccRule2",
+        "content": "common cold; influenza; acute bronchitis; coronavirus disease 2019"
+    },
+    {
+        "case_number": "46",
+        "app": "35-1xccRule2",
+        "content": "tension headache"
+    },
+    {
+        "case_number": "183",
+        "app": "35-1xccRule2",
+        "content": "achalasia; diffuse esophageal spasm; esophageal cancer"
+    },
+    {
+        "case_number": "40",
+        "app": "35-1xccRule2",
+        "content": "acromegaly; rheumatoid arthritis; lyme disease; rheumatic fever"
+    },
+    {
+        "case_number": "170",
+        "app": "35-1xccRule2",
+        "content": "cluster headaches; migraine; chronic sinusitis"
+    },
+    {
+        "case_number": "185",
+        "app": "35-1xccRule2",
+        "content": "myocarditis; pericardial effusion; valvular heart disease; pulmonary edema; rheumatic fever; hypertrophic obstructive cardiomyopathy"
+    },
+    {
+        "case_number": "2",
+        "app": "35-1xccRule2",
+        "content": "myocardial infarction; unstable angina; stable angina; variant angina; pericardial effusion; myocarditis"
+    },
+    {
+        "case_number": "174",
+        "app": "35-1xccRule2",
+        "content": "mononucleosis; tonsillopharyngitis; cat scratch disease; epiglottitis; coronavirus disease 2019"
+    },
+    {
+        "case_number": "24",
+        "app": "35-1xccRule2",
+        "content": "influenza; common cold; coronavirus disease 2019; pneumonia; tonsillopharyngitis; pericardial effusion"
+    },
+    {
+        "case_number": "35",
+        "app": "35-1xccRule2",
+        "content": "celiac disease; acute viral gastroenteritis; acute bacterial gastroenteritis; mallory-weiss syndrome; liver cirrhosis; hyperparathyroidism"
+    },
+    {
+        "case_number": "103",
+        "app": "35-1xccRule2",
+        "content": "celiac disease; chronic pancreatitis; cronkhite canada syndrome; irritable bowel syndrome"
+    },
+    {
+        "case_number": "102",
+        "app": "35-1xccRule2",
+        "content": "pneumothorax; pulmonary embolism; myocardial infarction; unstable angina; aortic dissection; acute pericarditis"
+    },
+    {
+        "case_number": "89",
+        "app": "35-1xccRule2",
+        "content": "otitis media; otitis media with effusion; otitis media with tympanic membrane perforated; tonsillopharyngitis"
+    },
+    {
+        "case_number": "126",
+        "app": "35-1xccRule2",
+        "content": "pulmonary edema; heart failure; valvular heart disease; chronic obstructive pulmonary disease; anemia; coronavirus disease 2019"
+    },
+    {
+        "case_number": "199",
+        "app": "35-1xccRule2",
+        "content": "epiglottitis; croup; tonsillopharyngitis; common cold; laryngitis; coronavirus disease 2019"
+    },
+    {
+        "case_number": "165",
+        "app": "35-1xccRule2",
+        "content": "adrenal insufficiency; tinea versicolor; acanthosis nigricans; chronic pancreatitis; gastric cancer; hemochromatosis"
+    },
+    {
+        "case_number": "27",
+        "app": "35-1xccRule2",
+        "content": "celiac disease; cronkhite canada syndrome; adrenal insufficiency; multiple sclerosis; liver cirrhosis; chronic pancreatitis"
+    },
+    {
+        "case_number": "64",
+        "app": "35-1xccRule2",
+        "content": ""
+    },
+    {
+        "case_number": "167",
+        "app": "35-1xccRule2",
+        "content": "breast engorgement; galactocele; breast infection; fibrocystic breasts; fibroadenoma"
+    },
+    {
+        "case_number": "186",
+        "app": "35-1xccRule2",
+        "content": "intercostal neuralgia; unstable angina; costochondritis; myocardial infarction"
+    },
+    {
+        "case_number": "191",
+        "app": "35-1xccRule2",
+        "content": "onychomycosis"
+    },
+    {
+        "case_number": "162",
+        "app": "35-1xccRule2",
+        "content": "pneumothorax; chronic obstructive pulmonary disease; pulmonary embolism; aortic dissection; pericardial effusion; asthma"
+    },
+    {
+        "case_number": "14",
+        "app": "35-1xccRule2",
+        "content": "coronavirus disease 2019; influenza; pericardial effusion; pneumonia; pulmonary edema; tonsillopharyngitis"
+    },
+    {
+        "case_number": "60",
+        "app": "35-1xccRule2",
+        "content": "primary dysmenorrhea; secondary dysmenorrhea; endometriosis; adenomyosis; uterine fibroids"
+    },
+    {
+        "case_number": "7",
+        "app": "35-1xccRule2",
+        "content": "acute pericarditis; pericardial effusion; pneumothorax; pneumonia; aortic dissection; costochondritis"
+    },
+    {
+        "case_number": "6",
+        "app": "35-1xccRule2",
+        "content": "chronic obstructive pulmonary disease; asthma; heart failure; valvular heart disease; pulmonary edema; pericardial effusion"
+    },
+    {
+        "case_number": "58",
+        "app": "35-1xccRule2",
+        "content": "cystitis; pyelonephritis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "193",
+        "app": "35-1xccRule2",
+        "content": "migraine; meningitis; cluster headaches; brain abscess"
+    },
+    {
+        "case_number": "182",
+        "app": "35-1xccRule2",
+        "content": "chronic obstructive pulmonary disease; asthma; valvular heart disease; lung cancer; heart failure; laryngitis"
+    },
+    {
+        "case_number": "172",
+        "app": "35-1xccRule2",
+        "content": "myocardial infarction; variant angina; unstable angina"
+    },
+    {
+        "case_number": "145",
+        "app": "35-1xccRule2",
+        "content": "acute pancreatitis; peptic ulcer disease; cholelithiasis; acute cholangitis; chronic pancreatitis; small bowel obstruction"
+    },
+    {
+        "case_number": "155",
+        "app": "35-1xccRule2",
+        "content": "otitis media; meningitis; otitis media with effusion; tonsillopharyngitis; epiglottitis"
+    },
+    {
+        "case_number": "173",
+        "app": "35-1xccRule2",
+        "content": "polycythemia vera; tension headache; hypertension disease; migraine"
+    },
+    {
+        "case_number": "168",
+        "app": "35-1xccRule2",
+        "content": "diaper dermatitis; urticaria; contact dermatitis"
+    },
+    {
+        "case_number": "166",
+        "app": "35-1xccRule2",
+        "content": "primary dysmenorrhea; secondary dysmenorrhea; endometriosis; adenomyosis"
+    },
+    {
+        "case_number": "73",
+        "app": "35-1xccRule2",
+        "content": "bacterial vaginosis; trichomoniasis; vulvovaginal candidiasis; chlamydia; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "115",
+        "app": "35-1xccRule2",
+        "content": "pneumothorax; aortic dissection; variant angina; pulmonary embolism; pulmonary edema; chronic obstructive pulmonary disease"
+    },
+    {
+        "case_number": "161",
+        "app": "35-1xccRule2",
+        "content": "urethritis; chlamydia; trichomoniasis; benign prostatic hyperplasia"
+    },
+    {
+        "case_number": "48",
+        "app": "35-1xccRule2",
+        "content": "anal fissure; hemorrhoids"
+    },
+    {
+        "case_number": "82",
+        "app": "35-1xccRule2",
+        "content": "allergic conjunctivitis; viral conjunctivitis; chalazion; blepharitis; nasolacrimal duct obstruction"
+    },
+    {
+        "case_number": "49",
+        "app": "35-1xccRule2",
+        "content": "lactose intolerance; celiac disease; irritable bowel syndrome; peritonitis; chronic pancreatitis; inflammatory bowel disease"
+    },
+    {
+        "case_number": "169",
+        "app": "35-1xccRule2",
+        "content": "lactose intolerance; food poisoning; peritonitis; celiac disease; acute mesenteric ischemia; acute viral gastroenteritis"
+    },
+    {
+        "case_number": "157",
+        "app": "35-1xccRule2",
+        "content": "trichomoniasis; bacterial vaginosis; vulvovaginal candidiasis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "18",
+        "app": "35-1xccRule2",
+        "content": "asthma; chronic obstructive pulmonary disease; pneumonia; pericardial effusion; tuberculosis; pulmonary embolism"
+    },
+    {
+        "case_number": "112",
+        "app": "35-1xccRule2",
+        "content": "pyelonephritis; diverticulitis; acute cholangitis; infective endocarditis; pelvic inflammatory disease"
+    },
+    {
+        "case_number": "171",
+        "app": "35-1xccRule2",
+        "content": "chronic obstructive pulmonary disease; asthma; pulmonary edema; pneumonia; lung cancer; pericardial effusion"
+    },
+    {
+        "case_number": "29",
+        "app": "35-1xccRule2",
+        "content": "urticaria; contact dermatitis; atopic dermatitis; impetigo; scabies; measles"
+    },
+    {
+        "case_number": "3",
+        "app": "35-1xccRule2",
+        "content": "aortic dissection; myocardial infarction; unstable angina; pulmonary edema; stable angina; variant angina"
+    },
+    {
+        "case_number": "197",
+        "app": "35-1xccRule2",
+        "content": "fibromyalgia; premenstrual syndrome; anemia; polycythemia vera; lyme disease; brucellosis"
+    },
+    {
+        "case_number": "127",
+        "app": "35-1xccRule2",
+        "content": "unstable angina; myocardial infarction; aortic dissection; pneumothorax; pulmonary embolism; variant angina"
+    },
+    {
+        "case_number": "190",
+        "app": "35-1xccRule2",
+        "content": "breast infection; acute interstitial nephritis"
+    },
+    {
+        "case_number": "25",
+        "app": "35-1xccRule2",
+        "content": "obstructive sleep apnea"
+    },
+    {
+        "case_number": "104",
+        "app": "35-1xccRule2",
+        "content": "pneumothorax; myocardial infarction; aortic dissection; unstable angina; intercostal neuralgia; stable angina"
+    },
+    {
+        "case_number": "13",
+        "app": "35-1xccRule2",
+        "content": "chronic obstructive pulmonary disease; asthma; pneumothorax; pneumonia; pulmonary edema; valvular heart disease"
+    },
+    {
+        "case_number": "121",
+        "app": "35-1xccRule2",
+        "content": "urethritis; chlamydia; trichomoniasis; benign prostatic hyperplasia; cystitis; acute prostatitis"
+    },
+    {
+        "case_number": "63",
+        "app": "35-1xccRule2",
+        "content": "malaria; osteomyelitis; brucellosis; dengue fever; coronavirus disease 2019; multiple sclerosis"
+    },
+    {
+        "case_number": "45",
+        "app": "35-1xccRule2",
+        "content": "acute appendicitis; acute mesenteric ischemia; diabetic ketoacidosis; peptic ulcer disease; acute bacterial gastroenteritis; hyperosmolar hyperglycemic nonketotic state"
     },
     {
         "case_number": "10",
@@ -4017,7 +5517,7 @@
     {
         "case_number": "105",
         "app": "AveyRule3a",
-        "content": "cronkhite canada syndrome; liver cirrhosis; adrenal insufficiency; leukemia; polycystic ovary syndrome"
+        "content": "adrenal insufficiency; cronkhite canada syndrome; liver cirrhosis; endometrial cancer; polycystic ovary syndrome"
     },
     {
         "case_number": "153",
@@ -4047,7 +5547,7 @@
     {
         "case_number": "28",
         "app": "AveyRule3a",
-        "content": "hyperosmolar hyperglycemic nonketotic state; diabetic ketoacidosis; diabetes mellitus; cystitis"
+        "content": "diabetic ketoacidosis; hyperosmolar hyperglycemic nonketotic state; diabetes mellitus; cystitis"
     },
     {
         "case_number": "200",
@@ -4062,7 +5562,7 @@
     {
         "case_number": "65",
         "app": "AveyRule3a",
-        "content": "urticaria; contact dermatitis; atopic dermatitis; psoriasis; tinea versicolor"
+        "content": "urticaria; contact dermatitis; psoriasis; atopic dermatitis; tinea versicolor"
     },
     {
         "case_number": "196",
@@ -4077,7 +5577,7 @@
     {
         "case_number": "179",
         "app": "AveyRule3a",
-        "content": "gastric cancer; acute cholangitis; chronic pancreatitis; pancreatic cancer; myocardial infarction"
+        "content": "acute cholangitis; gastric cancer; chronic pancreatitis; pancreatic cancer; myocardial infarction"
     },
     {
         "case_number": "194",
@@ -4117,7 +5617,7 @@
     {
         "case_number": "20",
         "app": "AveyRule3a",
-        "content": "acanthosis nigricans; tinea versicolor; adrenal insufficiency"
+        "content": "acanthosis nigricans; tinea versicolor"
     },
     {
         "case_number": "1",
@@ -4132,7 +5632,7 @@
     {
         "case_number": "195",
         "app": "AveyRule3a",
-        "content": "irritable bowel syndrome; ectopic pregnancy; diverticulitis; ovarian cancer; pelvic inflammatory disease; endometriosis"
+        "content": "irritable bowel syndrome; ectopic pregnancy; ovarian cancer; diverticulitis; pelvic inflammatory disease; endometriosis"
     },
     {
         "case_number": "122",
@@ -4142,7 +5642,7 @@
     {
         "case_number": "176",
         "app": "AveyRule3a",
-        "content": "psoriasis; superficial thrombophlebitis; tinea versicolor"
+        "content": "psoriasis; superficial thrombophlebitis; tinea versicolor; measles"
     },
     {
         "case_number": "75",
@@ -4162,7 +5662,7 @@
     {
         "case_number": "4",
         "app": "AveyRule3a",
-        "content": "asthma; chronic obstructive pulmonary disease; valvular heart disease; pericardial effusion; acute bronchitis; heart failure"
+        "content": "asthma; chronic obstructive pulmonary disease; pericardial effusion; valvular heart disease; acute bronchitis; systemic sclerosis"
     },
     {
         "case_number": "187",
@@ -4177,7 +5677,7 @@
     {
         "case_number": "52",
         "app": "AveyRule3a",
-        "content": "malaria; brucellosis; osteomyelitis; influenza; dengue fever; viral hepatitis"
+        "content": "brucellosis; malaria; osteomyelitis; rheumatic fever; dengue fever; acute interstitial nephritis"
     },
     {
         "case_number": "181",
@@ -4202,12 +5702,12 @@
     {
         "case_number": "53",
         "app": "AveyRule3a",
-        "content": "mononucleosis; tonsillopharyngitis; hiv infection; hodgkin lymphoma; leukemia"
+        "content": "mononucleosis; tonsillopharyngitis; hiv infection; hodgkin lymphoma; leukemia; common cold"
     },
     {
         "case_number": "198",
         "app": "AveyRule3a",
-        "content": "rheumatoid arthritis; gout; anemia"
+        "content": "rheumatoid arthritis; gout; systemic sclerosis; anemia; osteoarthritis"
     },
     {
         "case_number": "142",
@@ -4232,7 +5732,7 @@
     {
         "case_number": "40",
         "app": "AveyRule3a",
-        "content": "rheumatoid arthritis; acromegaly; osteoarthritis"
+        "content": "acromegaly; lyme disease; brucellosis; osteoarthritis"
     },
     {
         "case_number": "170",
@@ -4252,22 +5752,22 @@
     {
         "case_number": "174",
         "app": "AveyRule3a",
-        "content": "mononucleosis; tonsillopharyngitis; cat scratch disease; coronavirus disease 2019"
+        "content": "mononucleosis; tonsillopharyngitis; cat scratch disease; epiglottitis; coronavirus disease 2019"
     },
     {
         "case_number": "24",
         "app": "AveyRule3a",
-        "content": "influenza; common cold; coronavirus disease 2019; pneumonia; tonsillopharyngitis; pericardial effusion"
+        "content": "influenza; common cold; coronavirus disease 2019; pericardial effusion; tonsillopharyngitis; pulmonary embolism"
     },
     {
         "case_number": "35",
         "app": "AveyRule3a",
-        "content": "celiac disease; acute bacterial gastroenteritis; acute viral gastroenteritis; liver cirrhosis; food poisoning"
+        "content": "celiac disease; acute bacterial gastroenteritis; acute viral gastroenteritis; liver cirrhosis"
     },
     {
         "case_number": "103",
         "app": "AveyRule3a",
-        "content": "celiac disease; chronic pancreatitis; cronkhite canada syndrome; irritable bowel syndrome; multiple sclerosis; liver cirrhosis"
+        "content": "celiac disease; chronic pancreatitis; cronkhite canada syndrome; multiple sclerosis; irritable bowel syndrome; liver cirrhosis"
     },
     {
         "case_number": "102",
@@ -4282,22 +5782,22 @@
     {
         "case_number": "126",
         "app": "AveyRule3a",
-        "content": "pulmonary edema; heart failure; valvular heart disease; anemia; coronavirus disease 2019"
+        "content": "pulmonary edema; heart failure; valvular heart disease; anemia; systemic sclerosis"
     },
     {
         "case_number": "199",
         "app": "AveyRule3a",
-        "content": "croup; epiglottitis; tonsillopharyngitis"
+        "content": "epiglottitis; croup; laryngitis; tonsillopharyngitis"
     },
     {
         "case_number": "165",
         "app": "AveyRule3a",
-        "content": "adrenal insufficiency; chronic pancreatitis; gastric cancer; tinea versicolor; acanthosis nigricans; cronkhite canada syndrome"
+        "content": "adrenal insufficiency; chronic pancreatitis; gastric cancer; liver cirrhosis; tinea versicolor; acanthosis nigricans"
     },
     {
         "case_number": "27",
         "app": "AveyRule3a",
-        "content": "celiac disease; cronkhite canada syndrome; adrenal insufficiency; chronic pancreatitis; pancreatic cancer; diabetes mellitus"
+        "content": "celiac disease; adrenal insufficiency; cronkhite canada syndrome; chronic pancreatitis; pancreatic cancer; diabetes mellitus"
     },
     {
         "case_number": "64",
@@ -4312,7 +5812,7 @@
     {
         "case_number": "186",
         "app": "AveyRule3a",
-        "content": "intercostal neuralgia; myocardial infarction; unstable angina"
+        "content": "intercostal neuralgia; unstable angina; myocardial infarction"
     },
     {
         "case_number": "191",
@@ -4322,7 +5822,7 @@
     {
         "case_number": "162",
         "app": "AveyRule3a",
-        "content": "pneumothorax; chronic obstructive pulmonary disease; pulmonary embolism; hypertrophic obstructive cardiomyopathy; aortic dissection; valvular heart disease"
+        "content": "pneumothorax; pulmonary embolism; hypertrophic obstructive cardiomyopathy; aortic dissection; pericardial effusion; valvular heart disease"
     },
     {
         "case_number": "14",
@@ -4342,7 +5842,7 @@
     {
         "case_number": "6",
         "app": "AveyRule3a",
-        "content": "chronic obstructive pulmonary disease; asthma; heart failure; cardiac tamponade; pericardial effusion; valvular heart disease"
+        "content": "chronic obstructive pulmonary disease; asthma; lung cancer; valvular heart disease; heart failure; anemia"
     },
     {
         "case_number": "58",
@@ -4352,7 +5852,7 @@
     {
         "case_number": "193",
         "app": "AveyRule3a",
-        "content": "migraine; cluster headaches; meningitis; hypertension disease; brain tumor"
+        "content": "migraine; cluster headaches; meningitis; brain abscess; hypertension disease"
     },
     {
         "case_number": "182",
@@ -4377,7 +5877,7 @@
     {
         "case_number": "173",
         "app": "AveyRule3a",
-        "content": "polycythemia vera; tension headache; hypertension disease; migraine"
+        "content": "polycythemia vera"
     },
     {
         "case_number": "168",
@@ -4417,12 +5917,12 @@
     {
         "case_number": "49",
         "app": "AveyRule3a",
-        "content": "lactose intolerance; celiac disease; inflammatory bowel disease; chronic pancreatitis; acute viral gastroenteritis; acute bacterial gastroenteritis"
+        "content": "lactose intolerance; celiac disease; inflammatory bowel disease; acute viral gastroenteritis; chronic pancreatitis; acute bacterial gastroenteritis"
     },
     {
         "case_number": "169",
         "app": "AveyRule3a",
-        "content": "lactose intolerance; inflammatory bowel disease; abdominal aortic aneurysm; irritable bowel syndrome; colonic polyps; small bowel obstruction"
+        "content": "lactose intolerance; food poisoning; acute bacterial gastroenteritis; celiac disease; acute viral gastroenteritis; inflammatory bowel disease"
     },
     {
         "case_number": "157",
@@ -4432,7 +5932,7 @@
     {
         "case_number": "18",
         "app": "AveyRule3a",
-        "content": "chronic obstructive pulmonary disease; asthma; pneumonia; pericardial effusion; heart failure; valvular heart disease"
+        "content": "pneumonia; asthma; pericardial effusion; chronic obstructive pulmonary disease; heart failure; valvular heart disease"
     },
     {
         "case_number": "112",
@@ -4447,7 +5947,7 @@
     {
         "case_number": "29",
         "app": "AveyRule3a",
-        "content": "urticaria; contact dermatitis; atopic dermatitis; impetigo; scabies; measles"
+        "content": "urticaria; contact dermatitis; atopic dermatitis; impetigo; scabies; psoriasis"
     },
     {
         "case_number": "3",
@@ -4457,7 +5957,7 @@
     {
         "case_number": "197",
         "app": "AveyRule3a",
-        "content": "fibromyalgia; brucellosis; anemia"
+        "content": "fibromyalgia; anemia; brucellosis"
     },
     {
         "case_number": "127",
@@ -4467,7 +5967,7 @@
     {
         "case_number": "190",
         "app": "AveyRule3a",
-        "content": "breast infection; acute interstitial nephritis; hiv infection; rheumatic fever"
+        "content": "breast infection; acute interstitial nephritis; meningitis; osteomyelitis"
     },
     {
         "case_number": "25",
@@ -4497,6 +5997,6 @@
     {
         "case_number": "45",
         "app": "AveyRule3a",
-        "content": "diabetic ketoacidosis; acute appendicitis; peptic ulcer disease; acute pancreatitis; peritonitis; acute bacterial gastroenteritis"
+        "content": "acute appendicitis; acute mesenteric ischemia; peptic ulcer disease; diabetic ketoacidosis; acute pancreatitis; acute bacterial gastroenteritis"
     }
 ]

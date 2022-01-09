@@ -1,0 +1,2848 @@
+{
+	"Time": "2021-12-02T13:12:52.7697923+03:00",
+	"Age": 87,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "rectal bleeding",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 12.985824538102786,
+						"confidence_age": 0.2125153200050505,
+						"probability": 0.00818258861351051
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 10.388659630482229,
+						"confidence_age": 0.1892580661713507,
+						"probability": 0.006695835431471878
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 8.657216358735191,
+						"confidence_age": 0.08098769088583627,
+						"probability": 0.004677467186327111
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 2.597164907620557,
+						"confidence_age": 0.05391004992240732,
+						"probability": 0.0031135903094307977
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 7.791494722861673,
+						"confidence_age": 0.04954027583422009,
+						"probability": 0.002861212760625625
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 2.597164907620557,
+						"confidence_age": 0.026225062588291013,
+						"probability": 0.001514635969668804
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 6.925773086988153,
+						"confidence_age": 0.007613683489696067,
+						"probability": 0.000439730461513406
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 3.4628865434940765,
+						"confidence_age": 0.006502690309962877,
+						"probability": 0.00037556473354172416
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 3.4628865434940765,
+						"confidence_age": 0.0038068417448480336,
+						"probability": 0.00011605895006218415
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "dyschezia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 12.985824538102786,
+						"confidence_age": 0.2125153200050505,
+						"probability": 0.007773459182834985
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 10.388659630482229,
+						"confidence_age": 0.1892580661713507,
+						"probability": 0.006361043659898284
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 2.597164907620557,
+						"confidence_age": 0.05391004992240732,
+						"probability": 0.0029579107939592575
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 2.9005349745345197,
+						"confidence_age": 0.027134314332358717,
+						"probability": 0.0014791449989492867
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 2.597164907620557,
+						"confidence_age": 0.026225062588291013,
+						"probability": 0.0014389041711853638
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 6.925773086988153,
+						"confidence_age": 0.007613683489696067,
+						"probability": 0.00041774393843773566
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 3.4628865434940765,
+						"confidence_age": 0.006502690309962877,
+						"probability": 0.00035678649686463797
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.4127533628628412,
+						"confidence_age": 0.0026243893084762233,
+						"probability": 0.00014306063803128138
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 3.4628865434940765,
+						"confidence_age": 0.0038068417448480336,
+						"probability": 0.00011025600255907492
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "abdominal pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 11.361827925189004,
+						"confidence_age": 0.1859383276186346,
+						"probability": 0.0057649516231240705
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 9.881287334375337,
+						"confidence_age": 0.18001488148673983,
+						"probability": 0.005128437353428031
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 2.9005349745345197,
+						"confidence_age": 0.027134314332358717,
+						"probability": 0.0014051877490018224
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 2.5635741195181994,
+						"confidence_age": 0.02588587714889532,
+						"probability": 0.0012038736020439384
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.15320285648986912,
+						"confidence_age": 0.0031800728622931574,
+						"probability": 0.00014789553969796302
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.4127533628628412,
+						"confidence_age": 0.0026243893084762233,
+						"probability": 0.0001359076061297173
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 3.4628865434940765,
+						"confidence_age": 0.0038068417448480336,
+						"probability": 0.00010474320243112118
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 2.0427047531982536,
+						"confidence_age": 0.0022455987596487403,
+						"probability": 0.00010443598460943391
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.9135253372226454,
+						"confidence_age": 0.001715439499288183,
+						"probability": 0.00007977988604433463
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "bleeding easily or difficulty controlling bleeding",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 11.361827925189004,
+						"confidence_age": 0.1859383276186346,
+						"probability": 0.005202868839869473
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 9.881287334375337,
+						"confidence_age": 0.18001488148673983,
+						"probability": 0.004628414711468797
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 2.9005349745345197,
+						"confidence_age": 0.027134314332358717,
+						"probability": 0.0012681819434741447
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 2.5635741195181994,
+						"confidence_age": 0.02588587714889532,
+						"probability": 0.0010864959258446542
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.15320285648986912,
+						"confidence_age": 0.0031800728622931574,
+						"probability": 0.0001334757245774116
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.4127533628628412,
+						"confidence_age": 0.0026243893084762233,
+						"probability": 0.00012265661453206988
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 2.0427047531982536,
+						"confidence_age": 0.0022455987596487403,
+						"probability": 0.0000942534761100141
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.9135253372226454,
+						"confidence_age": 0.001715439499288183,
+						"probability": 0.000072001347155012
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.0000020948640486224257
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "diarrhea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 9.881287334375337,
+						"confidence_age": 0.18001488148673983,
+						"probability": 0.004396993975895357
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 6.257743816520299,
+						"confidence_age": 0.10240908659864961,
+						"probability": 0.0026014344199347364
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 2.9005349745345197,
+						"confidence_age": 0.027134314332358717,
+						"probability": 0.001204772846300437
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 2.5635741195181994,
+						"confidence_age": 0.02588587714889532,
+						"probability": 0.0010321711295524214
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.15094246017137786,
+						"confidence_age": 0.0031331532084749743,
+						"probability": 0.00011938431740045266
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.3349990061221523,
+						"confidence_age": 0.002130007624696898,
+						"probability": 0.00009037416629054753
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.2515707669522963,
+						"confidence_age": 0.00047240554028663185,
+						"probability": 0.000018000336788753
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.11250586721141849,
+						"confidence_age": 0.00012368064227960755,
+						"probability": 0.000004712673805500709
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.0000019901208461913043
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "abdominal discomfort other than pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 7.966548537473189,
+						"confidence_age": 0.14513263730755135,
+						"probability": 0.003544969875138439
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 4.640867022471008,
+						"confidence_age": 0.0759486113097754,
+						"probability": 0.001929275400939858
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 2.9005349745345197,
+						"confidence_age": 0.027134314332358717,
+						"probability": 0.0011445342039854152
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 2.144839990858166,
+						"confidence_age": 0.021657678662252575,
+						"probability": 0.0008635763246390358
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.15094246017137786,
+						"confidence_age": 0.0031331532084749743,
+						"probability": 0.00011341510153043003
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.3349990061221523,
+						"confidence_age": 0.002130007624696898,
+						"probability": 0.00008585545797602014
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.11250586721141849,
+						"confidence_age": 0.00012368064227960755,
+						"probability": 0.000004477040115225674
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.05625293360570923,
+						"confidence_age": 0.00010563309010284246,
+						"probability": 0.0000040249976677541995
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.0000018906148038817392
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "pain only after defecation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 7.966548537473188,
+						"confidence_age": 0.14513263730755135,
+						"probability": 0.003367721381381517
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 4.640867022471007,
+						"confidence_age": 0.07594861130977539,
+						"probability": 0.0018328116308928648
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 2.144839990858166,
+						"confidence_age": 0.021657678662252575,
+						"probability": 0.0008203975084070838
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.917229695250757,
+						"confidence_age": 0.008580623603720465,
+						"probability": 0.00036193349445616773
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.15094246017137783,
+						"confidence_age": 0.003133153208474974,
+						"probability": 0.00010774434645390855
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.3349990061221523,
+						"confidence_age": 0.002130007624696898,
+						"probability": 0.00008156268507721913
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.11250586721141849,
+						"confidence_age": 0.00012368064227960755,
+						"probability": 0.000004253188109464389
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.05625293360570923,
+						"confidence_age": 0.00010563309010284246,
+						"probability": 0.000003823747784366489
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.0000017960840636876516
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "melena",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 7.966548537473189,
+						"confidence_age": 0.14513263730755135,
+						"probability": 0.002129934018002833
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 4.640867022471009,
+						"confidence_age": 0.07594861130977541,
+						"probability": 0.0009164058154464324
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.917229695250757,
+						"confidence_age": 0.008580623603720465,
+						"probability": 0.00034383681973335935
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.15094246017137786,
+						"confidence_age": 0.0031331532084749743,
+						"probability": 0.00010235712913121311
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.22901220902621885,
+						"confidence_age": 0.002312467528562812,
+						"probability": 0.00008203975084070837
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.3349990061221523,
+						"confidence_age": 0.002130007624696898,
+						"probability": 0.00007748455082335819
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.11250586721141849,
+						"confidence_age": 0.00012368064227960755,
+						"probability": 0.00000404052870399117
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.05625293360570923,
+						"confidence_age": 0.00010563309010284246,
+						"probability": 0.000003632560395148165
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.0000017062798605032694
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "alternation between diarrhea and constipation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 4.640867022471008,
+						"confidence_age": 0.0759486113097754,
+						"probability": 0.0008705855246741107
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 2.1071355063112556,
+						"confidence_age": 0.038387280483742896,
+						"probability": 0.0005324835045007083
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.917229695250757,
+						"confidence_age": 0.008580623603720465,
+						"probability": 0.0003266449787466914
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.15094246017137786,
+						"confidence_age": 0.0031331532084749743,
+						"probability": 0.00009723927267465244
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.22901220902621885,
+						"confidence_age": 0.002312467528562812,
+						"probability": 0.00007793776329867295
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.3349990061221523,
+						"confidence_age": 0.002130007624696898,
+						"probability": 0.00007361032328219028
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.11250586721141849,
+						"confidence_age": 0.00012368064227960755,
+						"probability": 0.0000038385022687916115
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.05625293360570923,
+						"confidence_age": 0.00010563309010284246,
+						"probability": 0.0000034509323753907563
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.0000016209658674781058
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "constipation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 2.107135506311255,
+						"confidence_age": 0.03838728048374289,
+						"probability": 0.00045653804467129475
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 2.320433511235504,
+						"confidence_age": 0.0379743056548877,
+						"probability": 0.0003928517180091924
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.13500704065370217,
+						"confidence_age": 0.002802377423228645,
+						"probability": 0.000078493538185721
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.2290122090262188,
+						"confidence_age": 0.0023124675285628115,
+						"probability": 0.0000668218898081997
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.11250586721141849,
+						"confidence_age": 0.00012368064227960755,
+						"probability": 0.0000032910358827052077
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.05625293360570923,
+						"confidence_age": 0.00010563309010284246,
+						"probability": 0.000002958743145350649
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.000001389775610629041
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.18186544075195096,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 0.000001150161301284223
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.24646319524651542,
+						"confidence_age": 0.002305647016805816,
+						"probability": 4.083062234333653e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "vomiting",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 2.1071355063112556,
+						"confidence_age": 0.038387280483742896,
+						"probability": 0.00043371114243772994
+					},
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 2.3974526078852487,
+						"confidence_age": 0.03923473682142583,
+						"probability": 0.00036219138793096387
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.09077768584618098,
+						"confidence_age": 0.0018842968197548156,
+						"probability": 0.00004709612291143259
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.17965036966075637,
+						"confidence_age": 0.001814032745683192,
+						"probability": 0.00004677532286573981
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.05358405067309294,
+						"confidence_age": 0.000100621398565632,
+						"probability": 0.0000025149316735480513
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.0000013202868300975887
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.181865440751951,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 0.0000010926532362200116
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.031520029807701744,
+						"confidence_age": 0.0000346507931356425,
+						"probability": 8.227589706763019e-7
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 3.87890912261697e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "pencil thin stool",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 2.397452607885248,
+						"confidence_age": 0.039234736821425815,
+						"probability": 0.00034408181853441564
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831732,
+						"confidence_age": 0.01619370370915089,
+						"probability": 0.000173484456975092
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.09077768584618098,
+						"confidence_age": 0.0018842968197548156,
+						"probability": 0.000044741316765860935
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.17965036966075643,
+						"confidence_age": 0.0018140327456831924,
+						"probability": 0.00004443655672245281
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.05358405067309294,
+						"confidence_age": 0.000100621398565632,
+						"probability": 0.000002389185089870649
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.000001254272488592709
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.181865440751951,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 0.0000010380205744090112
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.031520029807701744,
+						"confidence_age": 0.0000346507931356425,
+						"probability": 7.816210221424866e-7
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.24646319524651544,
+						"confidence_age": 0.002305647016805816,
+						"probability": 3.6849636664861226e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "nausea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 2.2103420902650823,
+						"confidence_age": 0.03617264003953217,
+						"probability": 0.0003172277622924228
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831733,
+						"confidence_age": 0.01619370370915089,
+						"probability": 0.0001648102341263374
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.17965036966075643,
+						"confidence_age": 0.0018140327456831924,
+						"probability": 0.00004221472888633016
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.07564807153848416,
+						"confidence_age": 0.0015702473497956797,
+						"probability": 0.00002908185589780962
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.032823108274012656,
+						"confidence_age": 0.00006163600956470363,
+						"probability": 0.0000013140517994288572
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.0000011915588641630736
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.18186544075195096,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 9.861195456885605e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.019307710749419213,
+						"confidence_age": 0.000021225471396523647,
+						"probability": 4.298915621783676e-7
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.24646319524651544,
+						"confidence_age": 0.002305647016805816,
+						"probability": 3.500715483161816e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 13,
+			"Finding": "family history of colonic polyps",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949046,
+						"confidence_age": 0.317259397034621,
+						"probability": 0.0003172277622924229
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831734,
+						"confidence_age": 0.016193703709150895,
+						"probability": 0.0001648102341263374
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.17965036966075643,
+						"confidence_age": 0.0018140327456831924,
+						"probability": 0.00004221472888633015
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.07564807153848416,
+						"confidence_age": 0.0015702473497956797,
+						"probability": 0.000029081855897809625
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.03282310827401265,
+						"confidence_age": 0.00006163600956470363,
+						"probability": 0.0000013140517994288572
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.0000011915588641630736
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.181865440751951,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 9.861195456885605e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.019307710749419213,
+						"confidence_age": 0.000021225471396523647,
+						"probability": 4.2989156217836766e-7
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 3.5007154831618145e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 14,
+			"Finding": "straining",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.00030136637417780166
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831734,
+						"confidence_age": 0.016193703709150895,
+						"probability": 0.0001565697224200205
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.17965036966075643,
+						"confidence_age": 0.0018140327456831924,
+						"probability": 0.00004010399244201365
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.07564807153848417,
+						"confidence_age": 0.00157024734979568,
+						"probability": 0.000027627763102919144
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.03282310827401265,
+						"confidence_age": 0.00006163600956470363,
+						"probability": 0.000001248349209457414
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.00000113198092095492
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.18186544075195096,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 7.265790935483212e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.01930771074941921,
+						"confidence_age": 0.000021225471396523644,
+						"probability": 4.083969840694494e-7
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.24646319524651544,
+						"confidence_age": 0.002305647016805816,
+						"probability": 1.7503577415809076e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 15,
+			"Finding": "family history of inflammatory bowel disease",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.0002862980554689116
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831733,
+						"confidence_age": 0.01619370370915089,
+						"probability": 0.0001487412362990195
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.17965036966075643,
+						"confidence_age": 0.0018140327456831924,
+						"probability": 0.00003809879281991296
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.07564807153848416,
+						"confidence_age": 0.0015702473497956797,
+						"probability": 0.000026246374947773177
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.000001075381874907174
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.18186544075195094,
+						"confidence_age": 0.001156346043991746,
+						"probability": 6.902501388709051e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.019307710749419213,
+						"confidence_age": 0.000021225471396523647,
+						"probability": 3.879771348659768e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.008658509596420581,
+						"confidence_age": 0.000016259154247240792,
+						"probability": 3.120873023643536e-7
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 1.6628398545018625e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 16,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949046,
+						"confidence_age": 0.317259397034621,
+						"probability": 0.00027198315269546603
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831734,
+						"confidence_age": 0.016193703709150895,
+						"probability": 0.00014130417448406855
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.17965036966075643,
+						"confidence_age": 0.0018140327456831924,
+						"probability": 0.00003619385317891731
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.0708485042211441,
+						"confidence_age": 0.0014706214412041412,
+						"probability": 0.000019684781210829892
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.07880302432654711,
+						"confidence_age": 0.0000866302256394118,
+						"probability": 0.000001021612781161815
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.18186544075195096,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 6.557376319273596e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.00594671867007758,
+						"confidence_age": 0.000011166889063876416,
+						"probability": 1.7164801630039447e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928202,
+						"confidence_age": 0.00000662626673423023,
+						"probability": 9.69942837164942e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 1.579697861776769e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 17,
+			"Finding": "epistaxis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.0002583839950606928
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831733,
+						"confidence_age": 0.01619370370915089,
+						"probability": 0.00013423896575986502
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.1624599945397408,
+						"confidence_age": 0.0016404516757472594,
+						"probability": 0.00003076477520207971
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.0708485042211441,
+						"confidence_age": 0.0014706214412041412,
+						"probability": 0.0000187005421502884
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.18186544075195096,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 6.229507503309919e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 3.0648383434854454e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0059467186700775795,
+						"confidence_age": 0.000011166889063876414,
+						"probability": 1.630656154853747e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 9.214456953066948e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 1.5007129686879307e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 18,
+			"Finding": "use of nonsteroidal anti-inflammatory drug",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.00018993597943640518
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831733,
+						"confidence_age": 0.01619370370915089,
+						"probability": 0.00009867797513596383
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.0708485042211441,
+						"confidence_age": 0.0014706214412041412,
+						"probability": 0.00001374661688496799
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.09506158594405785,
+						"confidence_age": 0.0009598913160308826,
+						"probability": 0.000013092858128813093
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.18186544075195096,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 4.5792604482707105e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990777,
+						"confidence_age": 0.000027649678999725226,
+						"probability": 2.252937812372709e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0034796536189863597,
+						"confidence_age": 0.0000065341759211605435,
+						"probability": 6.939738565335824e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928204,
+						"confidence_age": 0.000006626266734230231,
+						"probability": 6.773472582712659e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 1.1031619334382667e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 19,
+			"Finding": "anorexia or loss of appetite",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.00018043918046458494
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831734,
+						"confidence_age": 0.016193703709150895,
+						"probability": 0.00009374407637916565
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.09506158594405785,
+						"confidence_age": 0.0009598913160308826,
+						"probability": 0.00001243821522237244
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.023831336335856563,
+						"confidence_age": 0.0004946734525073936,
+						"probability": 0.000004123985065490398
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.18186544075195096,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 4.350297425857173e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.02515147929899078,
+						"confidence_age": 0.00002764967899972523,
+						"probability": 2.1402909217540737e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0034796536189863592,
+						"confidence_age": 0.000006534175921160543,
+						"probability": 6.592751637069034e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 6.434798953577023e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.24646319524651542,
+						"confidence_age": 0.002305647016805816,
+						"probability": 1.0480038367663537e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 20,
+			"Finding": "abdominal bloating",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949053,
+						"confidence_age": 0.31725939703462114,
+						"probability": 0.00016284636036928795
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.8888967291831733,
+						"confidence_age": 0.01619370370915089,
+						"probability": 0.00008460402893219699
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.09506158594405784,
+						"confidence_age": 0.0009598913160308825,
+						"probability": 0.000011225489238191128
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977269,
+						"confidence_age": 0.00021465850024329297,
+						"probability": 0.0000015671143248863523
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.18186544075195096,
+						"confidence_age": 0.0011563460439917462,
+						"probability": 3.9261434268360985e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.9316125568830516e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0034796536189863597,
+						"confidence_age": 0.0000065341759211605435,
+						"probability": 5.949958352454802e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 5.807406055603264e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 9.458234626816337e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 21,
+			"Finding": "low fiber consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.0001547040423508235
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.5163117153460851,
+						"confidence_age": 0.00940604084296841,
+						"probability": 0.000046532215912708334
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.09506158594405784,
+						"confidence_age": 0.0009598913160308825,
+						"probability": 0.00001066421477628157
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977267,
+						"confidence_age": 0.00021465850024329295,
+						"probability": 0.0000014887586086420339
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.16325522395024142,
+						"confidence_age": 0.0010380176222338333,
+						"probability": 3.337221912810682e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.8350319290388986e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0034796536189863597,
+						"confidence_age": 0.0000065341759211605435,
+						"probability": 5.652460434832064e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928204,
+						"confidence_age": 0.000006626266734230231,
+						"probability": 5.517035752823099e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 8.985322895475523e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 22,
+			"Finding": "stomach ulcer or gastritis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.00014696884023328226
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.516311715346085,
+						"confidence_age": 0.009406040842968408,
+						"probability": 0.000044205605117072946
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.055206863195525105,
+						"confidence_age": 0.0005574553384568478,
+						"probability": 0.000005865318126954866
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977269,
+						"confidence_age": 0.00021465850024329297,
+						"probability": 0.0000014143206782099325
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.16325522395024147,
+						"confidence_age": 0.0010380176222338337,
+						"probability": 3.1703608171701483e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.7432803325869541e-7
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.00347965361898636,
+						"confidence_age": 0.000006534175921160544,
+						"probability": 5.36983741309046e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 5.2411839651819446e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.24646319524651544,
+						"confidence_age": 0.002305647016805816,
+						"probability": 8.536056750701747e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 23,
+			"Finding": "oral ulcers",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.0001396203982216182
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.5163117153460851,
+						"confidence_age": 0.00940604084296841,
+						"probability": 0.000041995324861219265
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.05520686319552509,
+						"confidence_age": 0.0005574553384568476,
+						"probability": 0.00000557205222060712
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977269,
+						"confidence_age": 0.00021465850024329297,
+						"probability": 0.0000013436046442994357
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.16325522395024145,
+						"confidence_age": 0.0010380176222338335,
+						"probability": 3.011842776311642e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.6561163159576062e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 4.979124766922849e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.002028140966494907,
+						"confidence_age": 0.0000038084911083335743,
+						"probability": 2.953410577199753e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.24646319524651542,
+						"confidence_age": 0.002305647016805816,
+						"probability": 8.10925391316666e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 24,
+			"Finding": "stress",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949046,
+						"confidence_age": 0.317259397034621,
+						"probability": 0.00013263937831053726
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.5163117153460851,
+						"confidence_age": 0.00940604084296841,
+						"probability": 0.000039895558618158305
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.0552068631955251,
+						"confidence_age": 0.0005574553384568477,
+						"probability": 0.000005293449609576764
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977269,
+						"confidence_age": 0.00021465850024329297,
+						"probability": 0.0000012764244120844636
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.16325522395024145,
+						"confidence_age": 0.0010380176222338335,
+						"probability": 2.861250637496059e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.5733105001597257e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 4.7301685285767063e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0011823450032319223,
+						"confidence_age": 0.0000022202354304659303,
+						"probability": 1.624375817459864e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 7.703791217508325e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 25,
+			"Finding": "family history of hemophilia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.00012600740939501043
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.516311715346085,
+						"confidence_age": 0.009406040842968408,
+						"probability": 0.000037900780687250414
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.05520686319552509,
+						"confidence_age": 0.0005574553384568476,
+						"probability": 0.000005028777129097924
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977267,
+						"confidence_age": 0.00021465850024329295,
+						"probability": 0.0000012126031914802409
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.16325522395024147,
+						"confidence_age": 0.0010380176222338337,
+						"probability": 2.718188105621255e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.5733105001597254e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 4.49366010214787e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0011823450032319221,
+						"confidence_age": 0.00000222023543046593,
+						"probability": 1.543157026586871e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.2464631952465154,
+						"confidence_age": 0.0023056470168058155,
+						"probability": 7.31860165663291e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 26,
+			"Finding": "anal mass",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.00011970703892525992
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.47183767766235546,
+						"confidence_age": 0.008595823676727135,
+						"probability": 0.00003282303889842148
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.055206863195525105,
+						"confidence_age": 0.0005574553384568478,
+						"probability": 0.000004777338272643031
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977267,
+						"confidence_age": 0.00021465850024329295,
+						"probability": 0.0000011519730319062283
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.16325522395024142,
+						"confidence_age": 0.0010380176222338333,
+						"probability": 2.582278700340193e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.494644975151739e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 4.268977097040476e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0011823450032319221,
+						"confidence_age": 0.00000222023543046593,
+						"probability": 1.4659991752575275e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.08224359409786776,
+						"confidence_age": 0.000769383425356765,
+						"probability": 2.314345052244154e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 27,
+			"Finding": "skin growth in anus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.00011372168697899689
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.47183767766235535,
+						"confidence_age": 0.008595823676727132,
+						"probability": 0.000031181886953500397
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.0552068631955251,
+						"confidence_age": 0.0005574553384568477,
+						"probability": 0.0000045384713590108766
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977269,
+						"confidence_age": 0.00021465850024329297,
+						"probability": 0.0000010943743803109175
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.4199127263941516e-7
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.08646219518974985,
+						"confidence_age": 0.0005497483026413685,
+						"probability": 1.2911393501700962e-7
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 4.055528242188454e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.001182345003231922,
+						"confidence_age": 0.0000022202354304659295,
+						"probability": 1.392699216494651e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.02610605453089652,
+						"confidence_age": 0.00024422042686546937,
+						"probability": 7.318601656632905e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 28,
+			"Finding": "anal fissure",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949046,
+						"confidence_age": 0.317259397034621,
+						"probability": 0.00010803560263004702
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.4718376776623553,
+						"confidence_age": 0.008595823676727132,
+						"probability": 0.000029622792605825382
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.0552068631955251,
+						"confidence_age": 0.0005574553384568477,
+						"probability": 0.0000043115477910603345
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977267,
+						"confidence_age": 0.00021465850024329295,
+						"probability": 0.0000010396556612953714
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990777,
+						"confidence_age": 0.000027649678999725226,
+						"probability": 1.348917090074444e-7
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.04323109759487494,
+						"confidence_age": 0.0002748741513206843,
+						"probability": 6.455696750850481e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928202,
+						"confidence_age": 0.00000662626673423023,
+						"probability": 3.85275183007903e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0011823450032319217,
+						"confidence_age": 0.000002220235430465929,
+						"probability": 1.323064255669918e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.026106054530896525,
+						"confidence_age": 0.0002442204268654694,
+						"probability": 6.952671573801258e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 29,
+			"Finding": "colonic polyps",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949046,
+						"confidence_age": 0.317259397034621,
+						"probability": 0.00010263382249854467
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.2990793760752881,
+						"confidence_age": 0.005448555093831263,
+						"probability": 0.00001777367556349522
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.05520686319552511,
+						"confidence_age": 0.0005574553384568478,
+						"probability": 0.000004095970401507316
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977269,
+						"confidence_age": 0.00021465850024329297,
+						"probability": 9.87672878230602e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.2814712355707222e-7
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.04323109759487493,
+						"confidence_age": 0.0002748741513206843,
+						"probability": 6.13291191330796e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928204,
+						"confidence_age": 0.000006626266734230231,
+						"probability": 3.6601142385750765e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0011823450032319217,
+						"confidence_age": 0.000002220235430465929,
+						"probability": 1.256911042886422e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.02610605453089653,
+						"confidence_age": 0.0002442204268654695,
+						"probability": 6.605037995111195e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 30,
+			"Finding": "alcohol consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949042,
+						"confidence_age": 0.31725939703462097,
+						"probability": 0.00009750213137361746
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.2990793760752882,
+						"confidence_age": 0.005448555093831264,
+						"probability": 0.000016884991785320455
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.032597318034873306,
+						"confidence_age": 0.0003291538027356848,
+						"probability": 0.0000022527837208290243
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977269,
+						"confidence_age": 0.00021465850024329297,
+						"probability": 9.382892343190725e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.2173976737921864e-7
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.04323109759487494,
+						"confidence_age": 0.0002748741513206843,
+						"probability": 5.8262663176425586e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928204,
+						"confidence_age": 0.000006626266734230231,
+						"probability": 3.4771085266463236e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.001182345003231922,
+						"confidence_age": 0.0000022202354304659295,
+						"probability": 1.1940654907421008e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.026106054530896528,
+						"confidence_age": 0.0002442204268654694,
+						"probability": 6.274786095355636e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 31,
+			"Finding": "liver cirrhosis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949053,
+						"confidence_age": 0.31725939703462114,
+						"probability": 0.00009262702480493653
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.2990793760752881,
+						"confidence_age": 0.005448555093831263,
+						"probability": 0.00001604074219605443
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.02243576789824563,
+						"confidence_age": 0.00022654680710548994,
+						"probability": 0.0000014643094185388658
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.010341365380977269,
+						"confidence_age": 0.00021465850024329297,
+						"probability": 8.913747726031186e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.1565277901025764e-7
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.04323109759487493,
+						"confidence_age": 0.0002748741513206843,
+						"probability": 5.534953001760434e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 3.3032531003140065e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0011823450032319217,
+						"confidence_age": 0.000002220235430465929,
+						"probability": 1.134362216204996e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.02610605453089653,
+						"confidence_age": 0.0002442204268654695,
+						"probability": 5.961046790587856e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 32,
+			"Finding": "tachypnea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.00008799567356468973
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.2990793760752881,
+						"confidence_age": 0.005448555093831263,
+						"probability": 0.000015238705086251719
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.02243576789824563,
+						"confidence_age": 0.00022654680710548994,
+						"probability": 0.000001391093947611922
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.006677245239836213,
+						"confidence_age": 0.000138601373816313,
+						"probability": 5.348248635618712e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.0987014005974474e-7
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.04323109759487492,
+						"confidence_age": 0.00027487415132068427,
+						"probability": 5.2582053516724086e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928204,
+						"confidence_age": 0.000006626266734230231,
+						"probability": 3.1380904452983066e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.001182345003231922,
+						"confidence_age": 0.0000022202354304659295,
+						"probability": 1.0776441053947456e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.026106054530896528,
+						"confidence_age": 0.0002442204268654694,
+						"probability": 5.662994451058459e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 33,
+			"Finding": "family history of colorectal cancer",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.38624877894905,
+						"confidence_age": 0.3172593970346211,
+						"probability": 0.00008359588988645526
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.22057868999861704,
+						"confidence_age": 0.004018448750140667,
+						"probability": 0.000010667093560376197
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.02243576789824562,
+						"confidence_age": 0.00022654680710548983,
+						"probability": 0.0000013215392502313262
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.006677245239836212,
+						"confidence_age": 0.00013860137381631297,
+						"probability": 5.080836203837776e-7
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.025151479298990774,
+						"confidence_age": 0.000027649678999725222,
+						"probability": 1.043766330567575e-7
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.04323109759487493,
+						"confidence_age": 0.0002748741513206843,
+						"probability": 4.99529508408879e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928203,
+						"confidence_age": 0.0000066262667342302306,
+						"probability": 2.9811859230333915e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.001182345003231922,
+						"confidence_age": 0.0000022202354304659295,
+						"probability": 1.023761900125009e-8
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.026106054530896528,
+						"confidence_age": 0.0002442204268654694,
+						"probability": 5.379844728505538e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 34,
+			"Finding": "arthralgia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949046,
+						"confidence_age": 0.317259397034621,
+						"probability": 0.00004754934988134849
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.22057868999861702,
+						"confidence_age": 0.004018448750140667,
+						"probability": 0.000006067443801463612
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.022435767898245623,
+						"confidence_age": 0.00022654680710548986,
+						"probability": 7.516916474785418e-7
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.006677245239836214,
+						"confidence_age": 0.00013860137381631302,
+						"probability": 2.8899801015845037e-7
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.043231097594874944,
+						"confidence_age": 0.0002748741513206844,
+						"probability": 2.8413243047778484e-8
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.01154796263385205,
+						"confidence_age": 0.000012694977346308323,
+						"probability": 2.4997658321764153e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928204,
+						"confidence_age": 0.000006626266734230231,
+						"probability": 1.695698828114676e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0012050139617691452,
+						"confidence_age": 0.0000022628037373294328,
+						"probability": 5.442532476494257e-9
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.026106054530896525,
+						"confidence_age": 0.0002442204268654694,
+						"probability": 3.060056178006975e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 35,
+			"Finding": "abdominal tenderness",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "colonic polyps",
+						"instance": "colonic polyps #1",
+						"confidence": 19.386248778949046,
+						"confidence_age": 0.317259397034621,
+						"probability": 0.00004517188238728106
+					},
+					{
+						"disease": "colorectal carcinoma",
+						"instance": "colorectal carcinoma #1",
+						"confidence": 0.22057868999861713,
+						"confidence_age": 0.004018448750140668,
+						"probability": 0.00000576407161139043
+					},
+					{
+						"disease": "upper gastrointestinal bleeding",
+						"instance": "upper gastrointestinal bleeding #1",
+						"confidence": 0.02243576789824562,
+						"confidence_age": 0.00022654680710548983,
+						"probability": 7.141070651046147e-7
+					},
+					{
+						"disease": "acute mesenteric ischemia",
+						"instance": "acute mesenteric ischemia #1",
+						"confidence": 0.005044623512816772,
+						"confidence_age": 0.00010471260589488699,
+						"probability": 2.022986071109153e-7
+					},
+					{
+						"disease": "anal fissure",
+						"instance": "anal fissure #1",
+						"confidence": 0.043231097594874944,
+						"confidence_age": 0.0002748741513206844,
+						"probability": 2.6992580895389566e-8
+					},
+					{
+						"disease": "hemophilia",
+						"instance": "hemophilia #1",
+						"confidence": 0.011547962633852053,
+						"confidence_age": 0.000012694977346308324,
+						"probability": 2.3747775405675944e-8
+					},
+					{
+						"disease": "acute bacterial gastroenteritis",
+						"instance": "acute bacterial gastroenteritis #1",
+						"confidence": 0.006027571263928202,
+						"confidence_age": 0.00000662626673423023,
+						"probability": 1.6109138867089423e-8
+					},
+					{
+						"disease": "inflammatory bowel disease",
+						"instance": "inflammatory bowel disease #1",
+						"confidence": 0.0012050139617691452,
+						"confidence_age": 0.0000022628037373294328,
+						"probability": 5.170405852669541e-9
+					},
+					{
+						"disease": "hemorrhoids",
+						"instance": "hemorrhoids #1",
+						"confidence": 0.026106054530896528,
+						"confidence_age": 0.0002442204268654694,
+						"probability": 2.907053369106629e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "surgeon"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "colonic polyps",
+				"instance": "colonic polyps #1",
+				"confidence": 19.386248778949046,
+				"confidence_age": 0.317259397034621,
+				"probability": 0.000045171882387281066
+			},
+			{
+				"disease": "colorectal carcinoma",
+				"instance": "colorectal carcinoma #1",
+				"confidence": 0.22057868999861702,
+				"confidence_age": 0.004018448750140667,
+				"probability": 0.000005764071611390431
+			},
+			{
+				"disease": "upper gastrointestinal bleeding",
+				"instance": "upper gastrointestinal bleeding #1",
+				"confidence": 0.022435767898245633,
+				"confidence_age": 0.00022654680710548997,
+				"probability": 7.141070651046145e-7
+			},
+			{
+				"disease": "acute mesenteric ischemia",
+				"instance": "acute mesenteric ischemia #1",
+				"confidence": 0.0050446235128167715,
+				"confidence_age": 0.00010471260589488698,
+				"probability": 2.0229860711091524e-7
+			},
+			{
+				"disease": "anal fissure",
+				"instance": "anal fissure #1",
+				"confidence": 0.04323109759487492,
+				"confidence_age": 0.00027487415132068427,
+				"probability": 2.6992580895389553e-8
+			},
+			{
+				"disease": "hemophilia",
+				"instance": "hemophilia #1",
+				"confidence": 0.01154796263385205,
+				"confidence_age": 0.000012694977346308323,
+				"probability": 2.3747775405675935e-8
+			},
+			{
+				"disease": "acute bacterial gastroenteritis",
+				"instance": "acute bacterial gastroenteritis #1",
+				"confidence": 0.006027571263928203,
+				"confidence_age": 0.0000066262667342302306,
+				"probability": 1.610913886708942e-8
+			},
+			{
+				"disease": "inflammatory bowel disease",
+				"instance": "inflammatory bowel disease #1",
+				"confidence": 0.0012050139617691454,
+				"confidence_age": 0.000002262803737329433,
+				"probability": 5.170405852669542e-9
+			},
+			{
+				"disease": "hemorrhoids",
+				"instance": "hemorrhoids #1",
+				"confidence": 0.026106054530896525,
+				"confidence_age": 0.0002442204268654694,
+				"probability": 2.907053369106627e-10
+			}
+		],
+		"urgency": 3,
+		"specialist": "surgeon"
+	},
+	"Case": {
+		"chief_findings": [
+			"rectal bleeding"
+		],
+		"findings": {
+			"abdominal bloating": false,
+			"abdominal discomfort other than pain": false,
+			"abdominal pain": false,
+			"abdominal tenderness": false,
+			"alcohol consumption": false,
+			"alternation between diarrhea and constipation": false,
+			"anal fissure": false,
+			"anal mass": false,
+			"ankle pain": false,
+			"ankle pain (migratory)": false,
+			"ankle pain (polyarthralgia)": false,
+			"anorexia or loss of appetite": false,
+			"arthralgia": false,
+			"arthralgia (shoulder pain that doesn't radiate)": false,
+			"ascites": false,
+			"bleeding easily or difficulty controlling bleeding": false,
+			"chest discomfort (occurs or worsens after taking anti-inflammatory drugs)": false,
+			"chronic constipation": false,
+			"colonic polyps": false,
+			"constipation": false,
+			"constipation (chronic)": false,
+			"diarrhea": false,
+			"dry cough or productive cough (occurs or worsens after taking anti-inflammatory drugs)": false,
+			"dyschezia": false,
+			"dyspnea (occurs or worsens after taking anti-inflammatory drugs)": false,
+			"easy bruising": false,
+			"epistaxis": false,
+			"family history of colonic polyps": true,
+			"family history of colorectal cancer": false,
+			"family history of hemophilia": false,
+			"family history of inflammatory bowel disease": false,
+			"fever": false,
+			"liver cirrhosis": false,
+			"low fiber consumption": false,
+			"melena": false,
+			"nausea": false,
+			"oral ulcers": false,
+			"pain at the base of thumb": false,
+			"pain in elbow with flexion of the wrist": false,
+			"pain in inner elbow or elbow pit": false,
+			"pain in outer elbow": false,
+			"pain only after defecation": false,
+			"pencil thin stool": false,
+			"rectal bleeding": true,
+			"shoulder pain": false,
+			"skin growth in anus": false,
+			"stomach ulcer or gastritis": false,
+			"straining": false,
+			"stress": false,
+			"tachypnea": false,
+			"toes arthralgia": false,
+			"use of aspirin": false,
+			"use of nonsteroidal anti-inflammatory drug": false,
+			"vomiting": false,
+			"wheezing (occurs or worsens after taking anti-inflammatory drugs)": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 87,
+		"sex": "male",
+		"next_concept": "",
+		"question_count": 35
+	}
+}

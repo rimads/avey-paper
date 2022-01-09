@@ -1,0 +1,4819 @@
+{
+	"Time": "2021-12-02T09:34:27.5951149+03:00",
+	"Age": 25,
+	"Sex": "female",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "dysuria",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 8.715049116233937,
+						"confidence_age": 0.2666878334423981,
+						"probability": 0.018360504677750532
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 10.89381139529242,
+						"confidence_age": 0.2333224385676162,
+						"probability": 0.01606341642754454
+					},
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 10.89381139529242,
+						"confidence_age": 0.20877544721929217,
+						"probability": 0.014373443759282747
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 11.620065488311916,
+						"confidence_age": 0.09340199052229965,
+						"probability": 0.006430393399503531
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 6.536286837175453,
+						"confidence_age": 0.07902090336380709,
+						"probability": 0.005440306920355347
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 5.810032744155958,
+						"confidence_age": 0.05195469590752888,
+						"probability": 0.0035768952221336583
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.05185868622945286,
+						"probability": 0.0035702852987611893
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 6.536286837175453,
+						"confidence_age": 0.07902090336380709,
+						"probability": 0.003123705166995129
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.042185860925093986,
+						"probability": 0.002904345829549879
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.027971136178839024,
+						"probability": 0.0019257128082091376
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.026340301121269026,
+						"probability": 0.0009435372644487095
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 4.357524558116968,
+						"confidence_age": 0.014074845445782979,
+						"probability": 0.00036207113224978485
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.4525081860389895,
+						"confidence_age": 0.006575451841747152,
+						"probability": 0.0001562283033829652
+					}
+				],
+				"urgency": 2,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "urethral discharge",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 10.89381139529242,
+						"confidence_age": 0.20877544721929217,
+						"probability": 0.013654771571318608
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 11.620065488311916,
+						"confidence_age": 0.09340199052229965,
+						"probability": 0.006108873729528354
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.784205703394035,
+						"confidence_age": 0.08519903640164316,
+						"probability": 0.005508151403325161
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 6.536286837175453,
+						"confidence_age": 0.07902090336380709,
+						"probability": 0.0051682915743375794
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 5.810032744155958,
+						"confidence_age": 0.05195469590752888,
+						"probability": 0.0033980504610269754
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.05185868622945286,
+						"probability": 0.0033917710338231296
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 6.536286837175453,
+						"confidence_age": 0.07902090336380709,
+						"probability": 0.0029675199086453725
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.042185860925093986,
+						"probability": 0.002759128538072385
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.027971136178839024,
+						"probability": 0.0018294271677986808
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.026340301121269026,
+						"probability": 0.000896360401226274
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5800428548737577,
+						"confidence_age": 0.01242329323154527,
+						"probability": 0.0008031708213772276
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 4.357524558116968,
+						"confidence_age": 0.014074845445782979,
+						"probability": 0.00034396757563729557
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.4525081860389895,
+						"confidence_age": 0.006575451841747152,
+						"probability": 0.00014841688821381693
+					}
+				],
+				"urgency": 2,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "vaginal discharge",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 10.89381139529242,
+						"confidence_age": 0.20877544721929217,
+						"probability": 0.012972032992752678
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 11.620065488311916,
+						"confidence_age": 0.09340199052229965,
+						"probability": 0.005803430043051937
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 5.810032744155958,
+						"confidence_age": 0.05195469590752888,
+						"probability": 0.003228147937975626
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.4871128386080905,
+						"confidence_age": 0.045506903716011196,
+						"probability": 0.0027540757016625804
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.042185860925093986,
+						"probability": 0.0026211721111687653
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 2.178762279058484,
+						"confidence_age": 0.027971136178839024,
+						"probability": 0.0017379558094087464
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5800428548737577,
+						"confidence_age": 0.01242329323154527,
+						"probability": 0.0007630122803083662
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 4.357524558116968,
+						"confidence_age": 0.014074845445782979,
+						"probability": 0.0003267691968554308
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.3491191782467606,
+						"confidence_age": 0.004220701069876942,
+						"probability": 0.0002584145787168792
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.11637305941558686,
+						"confidence_age": 0.0027699001546888807,
+						"probability": 0.00016958855169115663
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.3491191782467606,
+						"confidence_age": 0.004220701069876942,
+						"probability": 0.00014837599543226875
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.4525081860389895,
+						"confidence_age": 0.006575451841747152,
+						"probability": 0.0001409960438031261
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.11637305941558686,
+						"confidence_age": 0.0014069003566256472,
+						"probability": 0.000044818020061313745
+					}
+				],
+				"urgency": 2,
+				"specialist": ""
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 67.91781046329696,
+						"confidence_age": 1.3016171052637655,
+						"probability": 0.010071398234936173
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 36.22283224709171,
+						"confidence_age": 0.32391318899192834,
+						"probability": 0.002506312114901698
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 8.579091847995405,
+						"confidence_age": 0.11013911369658233,
+						"probability": 0.00063877604331812
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.4639134513868544,
+						"confidence_age": 0.044796982953350446,
+						"probability": 0.0004131113552493871
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 25.737275543986218,
+						"confidence_age": 0.08313164289627678,
+						"probability": 0.00029409227716988766
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.0002901715021525969
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 9.055708061772927,
+						"confidence_age": 0.04099486173326872,
+						"probability": 0.00013394624161296978
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.7255315064328469,
+						"confidence_age": 0.017269029808035016,
+						"probability": 0.00013166739871244029
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.00013105860555843828
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.000038150614015418316
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 0.000012920728935843962
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 0.0000074187997716134375
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 0.0000022409010030656873
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain (periumbilical pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 67.91781046329696,
+						"confidence_age": 1.3016171052637655,
+						"probability": 0.009089436907029897
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 36.22283224709171,
+						"confidence_age": 0.32391318899192834,
+						"probability": 0.0022619466836987824
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 8.579091847995405,
+						"confidence_age": 0.11013911369658233,
+						"probability": 0.0005764953790946032
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.4639134513868541,
+						"confidence_age": 0.04479698295335044,
+						"probability": 0.00037283299811257184
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 25.737275543986218,
+						"confidence_age": 0.08313164289627678,
+						"probability": 0.00026541828014582365
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.00026187978069271866
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 9.055708061772927,
+						"confidence_age": 0.04099486173326872,
+						"probability": 0.00012088648305570521
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.7255315064328469,
+						"confidence_age": 0.017269029808035016,
+						"probability": 0.00011882982733797738
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.00011828039151649055
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.00003443092914891503
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 0.000011660957864599174
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 0.000006695466793881127
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 0.0000020224131552667826
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain (left iliac pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 67.91781046329696,
+						"confidence_age": 1.3016171052637655,
+						"probability": 0.0086349650616784
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 36.22283224709171,
+						"confidence_age": 0.32391318899192834,
+						"probability": 0.002148849349513843
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.4639134513868541,
+						"confidence_age": 0.04479698295335044,
+						"probability": 0.0003541913482069432
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 7.450849779219692,
+						"confidence_age": 0.09565464567923723,
+						"probability": 0.00027260783370391294
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 25.737275543986218,
+						"confidence_age": 0.08313164289627678,
+						"probability": 0.00025214736613853245
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.0002487857916580827
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.000112366371940666
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 0.35678930672845216,
+						"confidence_age": 0.008492264110451928,
+						"probability": 0.000035648948201393225
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.000032709382691469275
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.4144305673856719,
+						"confidence_age": 0.006403075844069586,
+						"probability": 0.000012088648305570518
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 0.000011077909971369214
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 0.000006360693454187071
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 0.0000019212924975034437
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain (hypogastric or pelvic)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 530.0740931366453,
+						"confidence_age": 10.158653554603168,
+						"probability": 0.00820321680859448
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.207383737043404,
+						"confidence_age": 0.06754779904929313,
+						"probability": 0.00033648178079659607
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 31.697308444122296,
+						"confidence_age": 0.40693275237734633,
+						"probability": 0.00016356470022234776
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 16.22116922862016,
+						"confidence_age": 0.1450535567781824,
+						"probability": 0.00010744246747569217
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 232.8500093408334,
+						"confidence_age": 0.7521077276355261,
+						"probability": 0.0000504294732277065
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 5.662512567631827,
+						"confidence_age": 0.1347785691617759,
+						"probability": 0.000022515763394659997
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.000012439289582904135
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.000005618318597033301
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.0000016354691345734639
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 0.000001276232558633187
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 5.538954985684608e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 3.180346727093535e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 9.606462487517217e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain (right iliac pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 530.0740931366453,
+						"confidence_age": 10.158653554603168,
+						"probability": 0.007793055968164755
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.207383737043404,
+						"confidence_age": 0.06754779904929313,
+						"probability": 0.00031965769175676623
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 16.22116922862016,
+						"confidence_age": 0.1450535567781824,
+						"probability": 0.00010207034410190756
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 31.697308444122296,
+						"confidence_age": 0.40693275237734633,
+						"probability": 0.00007734497138220266
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 232.8500093408334,
+						"confidence_age": 0.7521077276355261,
+						"probability": 0.00004790799956632117
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.000011817325103758927
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 5.662512567631827,
+						"confidence_age": 0.1347785691617759,
+						"probability": 0.000006754729018398
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.000005337402667181635
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.0000015536956778447904
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 0.000001141497102480917
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 5.262007236400376e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 3.021329390738859e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 9.126139363141356e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain (flank pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 530.0740931366453,
+						"confidence_age": 10.158653554603168,
+						"probability": 0.007403403169756517
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.2073837370434046,
+						"confidence_age": 0.06754779904929314,
+						"probability": 0.00030367480716892787
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 31.6973084441223,
+						"confidence_age": 0.4069327523773464,
+						"probability": 0.00007347772281309253
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.000011226458848570981
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 232.8500093408334,
+						"confidence_age": 0.7521077276355261,
+						"probability": 0.000010712554369632458
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 5.662512567631827,
+						"confidence_age": 0.1347785691617759,
+						"probability": 0.000006416992567478098
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.533565457194181,
+						"confidence_age": 0.04054022155767015,
+						"probability": 0.000005103517205095382
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.000005070532533822554
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.0000014760108939525514
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 0.0000010844222473568711
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 4.998906874580358e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 2.870262921201915e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 8.669832394984288e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain (flank pain)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 530.0740931366453,
+						"confidence_age": 10.158653554603168,
+						"probability": 0.007403403169756517
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.207383737043404,
+						"confidence_age": 0.06754779904929313,
+						"probability": 0.00030367480716892787
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 31.697308444122296,
+						"confidence_age": 0.40693275237734633,
+						"probability": 0.00007347772281309252
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.00001122645884857098
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 232.8500093408334,
+						"confidence_age": 0.7521077276355261,
+						"probability": 0.000010712554369632461
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 5.662512567631827,
+						"confidence_age": 0.1347785691617759,
+						"probability": 0.0000064169925674781
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.533565457194181,
+						"confidence_age": 0.04054022155767015,
+						"probability": 0.000005103517205095382
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.000005070532533822554
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.000001476010893952551
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 0.000001084422247356871
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 4.998906874580358e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 2.8702629212019153e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 8.669832394984288e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain (left hypochondrial)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 530.0740931366453,
+						"confidence_age": 10.158653554603168,
+						"probability": 0.007033233011268691
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.207383737043404,
+						"confidence_age": 0.06754779904929313,
+						"probability": 0.00028849106681048145
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 31.6973084441223,
+						"confidence_age": 0.4069327523773464,
+						"probability": 0.00006980383667243788
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.00001066513590614243
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 232.8500093408334,
+						"confidence_age": 0.7521077276355261,
+						"probability": 0.000010176926651150837
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 5.662512567631827,
+						"confidence_age": 0.1347785691617759,
+						"probability": 0.0000060961429391041935
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.533565457194181,
+						"confidence_age": 0.04054022155767015,
+						"probability": 0.000004848341344840612
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.000004817005907131427
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.0000014022103492549235
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 0.0000010302011349890274
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 4.74896153085134e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 2.726749775141819e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 8.236340775235075e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain (epigastric)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 530.0740931366453,
+						"confidence_age": 10.158653554603168,
+						"probability": 0.0066815713607052555
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.207383737043404,
+						"confidence_age": 0.06754779904929313,
+						"probability": 0.00027406651346995736
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 31.6973084441223,
+						"confidence_age": 0.4069327523773464,
+						"probability": 0.00006631364483881601
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.000010131879110835311
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 232.8500093408334,
+						"confidence_age": 0.7521077276355261,
+						"probability": 0.000009668080318593291
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 5.662512567631827,
+						"confidence_age": 0.1347785691617759,
+						"probability": 0.000005791335792148982
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.533565457194181,
+						"confidence_age": 0.04054022155767015,
+						"probability": 0.000004605924277598581
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.000004576155611774854
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.000001332099831792177
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 9.786910782395762e-7
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 4.5115134543087726e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 2.590412286384728e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 7.824523736473318e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 3,
+			"Finding": "abdominal pain (right hypochondrial)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 530.0740931366453,
+						"confidence_age": 10.158653554603168,
+						"probability": 0.006347492792669992
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 2.207383737043404,
+						"confidence_age": 0.06754779904929313,
+						"probability": 0.00026036318779645943
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 31.6973084441223,
+						"confidence_age": 0.4069327523773464,
+						"probability": 0.0000629979625968752
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.000009625285155293541
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 232.8500093408334,
+						"confidence_age": 0.7521077276355261,
+						"probability": 0.00000918467630266363
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 5.659657615672815,
+						"confidence_age": 0.13471061587505637,
+						"probability": 0.000005212202212934086
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.533565457194181,
+						"confidence_age": 0.04054022155767015,
+						"probability": 0.000004375628063718653
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.000004347347831186111
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.23788428807480583,
+						"confidence_age": 0.005094979174554098,
+						"probability": 0.0000012654948402025683
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 9.297565243275971e-7
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 4.285937781593334e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.1431790193994668,
+						"confidence_age": 0.0017309729113080263,
+						"probability": 2.460891672065492e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04772633979982227,
+						"confidence_age": 0.0005769909704360088,
+						"probability": 7.433297549649654e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 4,
+			"Finding": "recent sex",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 3418.8150529863206,
+						"confidence_age": 65.52019451665086,
+						"probability": 0.006347492792669992
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 22.541832683872833,
+						"confidence_age": 0.6897990407288617,
+						"probability": 0.00026036318779645943
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 31.697308444122296,
+						"confidence_age": 0.40693275237734633,
+						"probability": 0.00006299796259687521
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 4.765563411122987,
+						"confidence_age": 0.03830555937975099,
+						"probability": 0.000009625285155293543
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1126.3582685843949,
+						"confidence_age": 3.6381478372564398,
+						"probability": 0.000009184676302663628
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 42.58689502474277,
+						"confidence_age": 1.013649101511501,
+						"probability": 0.000005212202212934085
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.533565457194181,
+						"confidence_age": 0.04054022155767015,
+						"probability": 0.0000043756280637186515
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.000004347347831186112
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.9178507199969597,
+						"confidence_age": 0.04107631301490304,
+						"probability": 0.0000012654948402025685
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.8436936429234625,
+						"confidence_age": 0.012873297914221756,
+						"probability": 9.297565243275971e-7
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.6156404587368142,
+						"confidence_age": 0.007442828995814736,
+						"probability": 4.285937781593334e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.9234606881052212,
+						"confidence_age": 0.011164243493722102,
+						"probability": 2.4608916720654914e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.2821685435877065,
+						"confidence_age": 0.0034112966230817536,
+						"probability": 7.433297549649651e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 5,
+			"Finding": "arthralgia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 3418.8150529863206,
+						"confidence_age": 65.52019451665086,
+						"probability": 0.0036104544861948547
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 22.541832683872837,
+						"confidence_age": 0.6897990407288618,
+						"probability": 0.00014809460524401935
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 31.697308444122296,
+						"confidence_age": 0.40693275237734633,
+						"probability": 0.00003583324693833156
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1126.3582685843949,
+						"confidence_age": 3.6381478372564398,
+						"probability": 0.000005224244728484484
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 42.58689502474277,
+						"confidence_age": 1.013649101511501,
+						"probability": 0.000002964701099680476
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.533565457194181,
+						"confidence_age": 0.04054022155767015,
+						"probability": 0.0000024888576464106364
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.0000024727718475365267
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.9178507199969597,
+						"confidence_age": 0.04107631301490304,
+						"probability": 7.198135818826044e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 5.288455968321777e-7
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.6156404587368143,
+						"confidence_age": 0.007442828995814737,
+						"probability": 2.4378418056614523e-7
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.1947198481347182,
+						"confidence_age": 0.0015651565327472773,
+						"probability": 2.0354134517453624e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.9234606881052212,
+						"confidence_age": 0.011164243493722102,
+						"probability": 1.3997554101532233e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.2821685435877065,
+						"confidence_age": 0.0034112966230817536,
+						"probability": 4.228060332159104e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 6,
+			"Finding": "dysmenorrhea",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 3418.8150529863206,
+						"confidence_age": 65.52019451665086,
+						"probability": 0.0034299317618851116
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 22.541832683872837,
+						"confidence_age": 0.6897990407288618,
+						"probability": 0.00014068987498181844
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 6.753774460204122,
+						"confidence_age": 0.08670553321180553,
+						"probability": 0.000007166649387666313
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1126.3582685843949,
+						"confidence_age": 3.6381478372564398,
+						"probability": 0.000004963032492060261
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 42.58689502474277,
+						"confidence_age": 1.013649101511501,
+						"probability": 0.0000028164660446964505
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 4.533565457194181,
+						"confidence_age": 0.04054022155767015,
+						"probability": 0.0000023644147640901044
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.8935431395855602,
+						"confidence_age": 0.01730105527318818,
+						"probability": 0.0000023491332551597
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.9178507199969597,
+						"confidence_age": 0.04107631301490304,
+						"probability": 6.83822902788474e-7
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 5.024033169905687e-7
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.6156404587368143,
+						"confidence_age": 0.007442828995814737,
+						"probability": 2.3159497153783816e-7
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.1947198481347182,
+						"confidence_age": 0.0015651565327472773,
+						"probability": 1.9336427791580928e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.9234606881052212,
+						"confidence_age": 0.011164243493722102,
+						"probability": 1.329767639645562e-7
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.2821685435877065,
+						"confidence_age": 0.0034112966230817536,
+						"probability": 4.0166573155511475e-8
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 7,
+			"Finding": "urinary urgency",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 20964.643175805926,
+						"confidence_age": 401.7788261611698,
+						"probability": 0.0015434692928483003
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 10.378309894633107,
+						"confidence_age": 0.31758501227925967,
+						"probability": 0.000007034493749090922
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1126.3582685843949,
+						"confidence_age": 3.6381478372564398,
+						"probability": 5.563360815814031e-7
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 3.1094527800573846,
+						"confidence_age": 0.0399194203005201,
+						"probability": 3.583324693833155e-7
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 2.122753486676645,
+						"confidence_age": 0.01706267501187326,
+						"probability": 1.5469142233264753e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 19.60710117120141,
+						"confidence_age": 0.4666863004190912,
+						"probability": 1.408233022348226e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.0872636179234383,
+						"confidence_age": 0.018664808155709398,
+						"probability": 1.182207382045052e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.4113892484650058,
+						"confidence_age": 0.007965444320673323,
+						"probability": 1.1745666275798504e-7
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 5.662787694847451,
+						"confidence_age": 0.06846067352173711,
+						"probability": 5.983954378405027e-8
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.8829827362712029,
+						"confidence_age": 0.018911625854742757,
+						"probability": 3.419114513942371e-8
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 1.7338247645517415e-8
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.2834422362213639,
+						"confidence_age": 0.003426695020524625,
+						"probability": 1.1579748576891903e-8
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.12991102493479176,
+						"confidence_age": 0.001570568551073786,
+						"probability": 2.0083286577755745e-9
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 8,
+			"Finding": "recent sex (without any kind of infection control)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 20964.643175805926,
+						"confidence_age": 401.7788261611698,
+						"probability": 0.0014662958282058852
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.6698295424757494,
+						"confidence_age": 0.051098188542786714,
+						"probability": 7.034493749090921e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1126.3582685843949,
+						"confidence_age": 3.6381478372564398,
+						"probability": 5.285192775023331e-7
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 3.109452780057385,
+						"confidence_age": 0.039919420300520106,
+						"probability": 3.404158459141498e-7
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 2.1227534866766447,
+						"confidence_age": 0.017062675011873252,
+						"probability": 1.4695685121601516e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.0872636179234383,
+						"confidence_age": 0.018664808155709398,
+						"probability": 1.1230970129427998e-7
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.4113892484650058,
+						"confidence_age": 0.007965444320673323,
+						"probability": 1.1158382962008572e-7
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 11.095862578845972,
+						"confidence_age": 0.2641026336155213,
+						"probability": 4.22469906704468e-8
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.843693642923462,
+						"confidence_age": 0.012873297914221754,
+						"probability": 1.647133526324154e-8
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.2834422362213639,
+						"confidence_age": 0.003426695020524625,
+						"probability": 1.100076114804731e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 3.0789586983097026,
+						"confidence_age": 0.03722328958645015,
+						"probability": 8.975931567607546e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.6353522634802913,
+						"confidence_age": 0.01360790398195589,
+						"probability": 1.7095572569711866e-9
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.06883303018768842,
+						"confidence_age": 0.0008321618010646886,
+						"probability": 1.0041643288877878e-10
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 9,
+			"Finding": "fever",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 20964.643175805926,
+						"confidence_age": 401.7788261611698,
+						"probability": 0.0013929810367955908
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.6698295424757494,
+						"confidence_age": 0.051098188542786714,
+						"probability": 6.682769061636373e-7
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 3.109452780057385,
+						"confidence_age": 0.039919420300520106,
+						"probability": 3.233950536184424e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.0872636179234387,
+						"confidence_age": 0.0186648081557094,
+						"probability": 1.0669421622956593e-7
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.4579204019604948,
+						"confidence_age": 0.011718752162210376,
+						"probability": 8.082626816880831e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.30823059796392865,
+						"confidence_age": 0.005968055011574677,
+						"probability": 6.695029777205145e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 140.65271270570383,
+						"confidence_age": 0.45430958941477007,
+						"probability": 5.285192775023331e-8
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 3.463958171776534,
+						"confidence_age": 0.0824487929081163,
+						"probability": 1.0561747667611695e-8
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.28344223622136383,
+						"confidence_age": 0.003426695020524624,
+						"probability": 1.0450723090644943e-8
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 3.0789586983097035,
+						"confidence_age": 0.037223289586450166,
+						"probability": 8.527134989227161e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.8877575548937815,
+						"confidence_age": 0.004018846231269757,
+						"probability": 4.117833815810386e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.6353522634802913,
+						"confidence_age": 0.01360790398195589,
+						"probability": 1.6240793941226272e-9
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.06883303018768841,
+						"confidence_age": 0.0008321618010646885,
+						"probability": 9.539561124433989e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 10,
+			"Finding": "pruritus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 20964.643175805926,
+						"confidence_age": 401.7788261611698,
+						"probability": 0.0012571653857080208
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.6698295424757494,
+						"confidence_age": 0.051098188542786714,
+						"probability": 6.031199078126827e-7
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 3.1094527800573846,
+						"confidence_age": 0.0399194203005201,
+						"probability": 2.918640358906443e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.0872636179234383,
+						"confidence_age": 0.018664808155709398,
+						"probability": 9.629153014718329e-8
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.4579204019604945,
+						"confidence_age": 0.011718752162210374,
+						"probability": 7.294570702234951e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 140.65271270570386,
+						"confidence_age": 0.4543095894147702,
+						"probability": 4.769886479458553e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 3.498153058589689e-8
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 3.463958171776534,
+						"confidence_age": 0.0824487929081163,
+						"probability": 9.531977270019552e-9
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.15652314297971562,
+						"confidence_age": 0.0018922976398851477,
+						"probability": 4.964093468056347e-9
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 1.7002698644664602,
+						"confidence_age": 0.02055553313361896,
+						"probability": 4.050389119882904e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.8877575548937815,
+						"confidence_age": 0.004018846231269757,
+						"probability": 3.7163450187688724e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604958,
+						"confidence_age": 0.012774801241087411,
+						"probability": 1.3114441107540217e-9
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.05637963023729602,
+						"confidence_age": 0.0006816055389934159,
+						"probability": 6.720991483965476e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 11,
+			"Finding": "burning feeling from vagina",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 20964.643175805926,
+						"confidence_age": 401.7788261611698,
+						"probability": 0.0011943071164226197
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.6698295424757494,
+						"confidence_age": 0.051098188542786714,
+						"probability": 5.729639124220485e-7
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 3.109452780057385,
+						"confidence_age": 0.039919420300520106,
+						"probability": 2.77270834096112e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.0872636179234387,
+						"confidence_age": 0.0186648081557094,
+						"probability": 9.147695363982405e-8
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.4579204019604948,
+						"confidence_age": 0.011718752162210376,
+						"probability": 6.929842167123205e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 140.65271270570383,
+						"confidence_age": 0.45430958941477007,
+						"probability": 4.5313921554856273e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 3.323245405660204e-8
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 3.4639581717765338,
+						"confidence_age": 0.08244879290811628,
+						"probability": 9.055378406518574e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.8877575548937815,
+						"confidence_age": 0.004018846231269757,
+						"probability": 3.5305277678304293e-9
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.07826157148985784,
+						"confidence_age": 0.0009461488199425742,
+						"probability": 2.4820467340281734e-9
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332304,
+						"confidence_age": 0.010277766566809485,
+						"probability": 2.025194559941451e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604959,
+						"confidence_age": 0.012774801241087413,
+						"probability": 1.24587190521632e-9
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.041812252846884765,
+						"confidence_age": 0.0005054921967078995,
+						"probability": 4.984420687516759e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 12,
+			"Finding": "diabetes mellitus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 19495.58337983698,
+						"confidence_age": 373.6248950193257,
+						"probability": 0.0010151610489592272
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.6698295424757499,
+						"confidence_age": 0.05109818854278673,
+						"probability": 5.443157168009462e-7
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 3.1094527800573846,
+						"confidence_age": 0.0399194203005201,
+						"probability": 2.6340729239130643e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.0872636179234383,
+						"confidence_age": 0.018664808155709398,
+						"probability": 8.690310595783286e-8
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.1165076117169965,
+						"confidence_age": 0.008974478971100533,
+						"probability": 4.850889516986241e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 140.65271270570386,
+						"confidence_age": 0.4543095894147702,
+						"probability": 4.304822547711344e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 3.1570831353771934e-8
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 3.4639581717765338,
+						"confidence_age": 0.08244879290811628,
+						"probability": 8.602609486192646e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.8877575548937814,
+						"confidence_age": 0.004018846231269756,
+						"probability": 3.354001379438906e-9
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332303,
+						"confidence_age": 0.010277766566809484,
+						"probability": 1.923934831944379e-9
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.04709134432238693,
+						"confidence_age": 0.000569314147568707,
+						"probability": 1.3651257037154956e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604959,
+						"confidence_age": 0.012774801241087413,
+						"probability": 1.1835783099555048e-9
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.041812252846884765,
+						"confidence_age": 0.0005054921967078995,
+						"probability": 4.7351996531409175e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 13,
+			"Finding": "dyspareunia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 11493.075313855337,
+						"confidence_age": 220.26009552653414,
+						"probability": 0.0005583385769275745
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 1.2528743210793087,
+						"confidence_age": 0.03833900805468362,
+						"probability": 3.8102100176066215e-7
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 1.3331569623111112,
+						"confidence_age": 0.017115182917837955,
+						"probability": 1.0536291695652252e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.0872636179234387,
+						"confidence_age": 0.0186648081557094,
+						"probability": 8.255795065994123e-8
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.1165076117169965,
+						"confidence_age": 0.008974478971100533,
+						"probability": 4.608345041136929e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 140.65271270570386,
+						"confidence_age": 0.4543095894147702,
+						"probability": 4.0895814203257776e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 2.999228978608333e-8
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 3.4230987644703728,
+						"confidence_age": 0.08147626129997441,
+						"probability": 7.931214060668262e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.8877575548937815,
+						"confidence_age": 0.004018846231269757,
+						"probability": 3.1863013104669615e-9
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332303,
+						"confidence_age": 0.010277766566809484,
+						"probability": 1.4268282589936552e-9
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604958,
+						"confidence_age": 0.012774801241087411,
+						"probability": 1.1243993944577288e-9
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.02776138350841249,
+						"confidence_age": 0.0003356232151543451,
+						"probability": 7.508191370435226e-10
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.04181225284688476,
+						"confidence_age": 0.0005054921967078994,
+						"probability": 4.365638371629058e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 14,
+			"Finding": "history of sexually transmitted infections",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 11493.075313855337,
+						"confidence_age": 220.26009552653414,
+						"probability": 0.0005304216480811958
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.6669689317451278,
+						"confidence_age": 0.02040981031870116,
+						"probability": 1.9051050088033118e-7
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 1.3331569623111112,
+						"confidence_age": 0.017115182917837955,
+						"probability": 1.0009477110869643e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.0872636179234383,
+						"confidence_age": 0.018664808155709398,
+						"probability": 7.84300531269442e-8
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.1165076117169965,
+						"confidence_age": 0.008974478971100533,
+						"probability": 4.377927789080079e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 140.65271270570386,
+						"confidence_age": 0.4543095894147702,
+						"probability": 3.8851023493094896e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 2.8492675296779177e-8
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 2.186748172056132,
+						"confidence_age": 0.05204876567189941,
+						"probability": 4.758728436400958e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.8877575548937815,
+						"confidence_age": 0.004018846231269757,
+						"probability": 3.026986244943613e-9
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332303,
+						"confidence_age": 0.010277766566809484,
+						"probability": 1.355486846043972e-9
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.0277613835084125,
+						"confidence_age": 0.0003356232151543452,
+						"probability": 7.132781801913465e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604959,
+						"confidence_age": 0.012774801241087413,
+						"probability": 7.083272327831708e-10
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.033388193627178576,
+						"confidence_age": 0.0004036489352180087,
+						"probability": 3.2742287787217944e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 15,
+			"Finding": "abdominal discomfort other than pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 11493.07531385534,
+						"confidence_age": 220.26009552653417,
+						"probability": 0.00011860588618470253
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.6669689317451276,
+						"confidence_age": 0.020409810318701153,
+						"probability": 1.8098497583631453e-7
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.0872636179234383,
+						"confidence_age": 0.018664808155709398,
+						"probability": 7.450855047059699e-8
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 1.3331569623111112,
+						"confidence_age": 0.017115182917837955,
+						"probability": 6.330549171533958e-8
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.1165076117169965,
+						"confidence_age": 0.008974478971100533,
+						"probability": 4.1590313996260804e-8
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 140.65271270570386,
+						"confidence_age": 0.4543095894147702,
+						"probability": 3.690847231844013e-8
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 2.7068041531940206e-8
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.7226423634914132,
+						"confidence_age": 0.0032713757523818725,
+						"probability": 2.2448730810210213e-9
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332306,
+						"confidence_age": 0.010277766566809485,
+						"probability": 1.287712503741773e-9
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 2.186748172056132,
+						"confidence_age": 0.05204876567189941,
+						"probability": 1.0640840270253827e-9
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.027761383508412493,
+						"confidence_age": 0.00033562321515434514,
+						"probability": 6.776142711817791e-10
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604958,
+						"confidence_age": 0.012774801241087411,
+						"probability": 6.729108711440122e-10
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.03338819362717858,
+						"confidence_age": 0.0004036489352180088,
+						"probability": 3.1105173397857036e-11
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 16,
+			"Finding": "abdominal pain (steady)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 5318.775724600186,
+						"confidence_age": 101.93216499437214,
+						"probability": 0.000005930294309235127
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1096.2950116740737,
+						"confidence_age": 3.541043233721517,
+						"probability": 2.2145083391064075e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.30866048175564537,
+						"confidence_age": 0.009445270365185433,
+						"probability": 9.049248791815725e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9659457332946245,
+						"confidence_age": 0.008637716695654838,
+						"probability": 3.725427523529848e-9
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.6169595773616727,
+						"confidence_age": 0.007920579735151128,
+						"probability": 3.1652745857669824e-9
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 1.1165076117169968,
+						"confidence_age": 0.008974478971100534,
+						"probability": 2.07951569981304e-9
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 1.3534020765970107e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 5.945437784913749,
+						"confidence_age": 0.026914781072190686,
+						"probability": 1.3469238486126123e-9
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 14.703384431321066,
+						"confidence_age": 0.3499685151811983,
+						"probability": 6.384504162152297e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332304,
+						"confidence_age": 0.010277766566809485,
+						"probability": 6.438562518708865e-11
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.0277613835084125,
+						"confidence_age": 0.0003356232151543452,
+						"probability": 3.388071355908895e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604958,
+						"confidence_age": 0.012774801241087411,
+						"probability": 3.364554355720061e-11
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.03338819362717858,
+						"confidence_age": 0.0004036489352180088,
+						"probability": 1.555258669892852e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 17,
+			"Finding": "chemotherapy",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 5318.775724600186,
+						"confidence_age": 101.93216499437214,
+						"probability": 0.000005633779593773373
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1096.2950116740735,
+						"confidence_age": 3.5410432337215165,
+						"probability": 2.1037829221510883e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.3086604817556453,
+						"confidence_age": 0.009445270365185431,
+						"probability": 8.596786352224937e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9659457332946247,
+						"confidence_age": 0.00863771669565484,
+						"probability": 3.539156147353356e-9
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.6169595773616727,
+						"confidence_age": 0.007920579735151128,
+						"probability": 3.0070108564786322e-9
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988392,
+						"confidence_age": 0.003625262820300926,
+						"probability": 1.2857319727671602e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 5.94543778491375,
+						"confidence_age": 0.02691478107219069,
+						"probability": 1.2795776561819814e-9
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.47219450949277975,
+						"confidence_age": 0.003795495571405223,
+						"probability": 8.318062799252158e-10
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 14.703384431321064,
+						"confidence_age": 0.34996851518119826,
+						"probability": 6.065278954044681e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332303,
+						"confidence_age": 0.010277766566809484,
+						"probability": 6.116634392773423e-11
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.027761383508412486,
+						"confidence_age": 0.00033562321515434503,
+						"probability": 3.2186677881134504e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604957,
+						"confidence_age": 0.01277480124108741,
+						"probability": 3.1963266379340586e-11
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.03338819362717858,
+						"confidence_age": 0.0004036489352180088,
+						"probability": 1.4774957363982088e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 18,
+			"Finding": "abdominal pain (gradually increases)",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 5318.775724600186,
+						"confidence_age": 101.93216499437214,
+						"probability": 0.000005633779593773369
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1096.2950116740735,
+						"confidence_age": 3.5410432337215165,
+						"probability": 2.1037829221510883e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.3086604817556453,
+						"confidence_age": 0.009445270365185431,
+						"probability": 8.596786352224937e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9659457332946245,
+						"confidence_age": 0.008637716695654838,
+						"probability": 3.5391561473533567e-9
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.6169595773616727,
+						"confidence_age": 0.007920579735151128,
+						"probability": 3.00701085647863e-9
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 1.2857319727671592e-9
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 5.94543778491375,
+						"confidence_age": 0.02691478107219069,
+						"probability": 1.279577656181982e-9
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.47219450949277975,
+						"confidence_age": 0.003795495571405223,
+						"probability": 8.318062799252158e-10
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 14.703384431321068,
+						"confidence_age": 0.3499685151811983,
+						"probability": 6.06527895404468e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332304,
+						"confidence_age": 0.010277766566809485,
+						"probability": 6.116634392773423e-11
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.02776138350841249,
+						"confidence_age": 0.0003356232151543451,
+						"probability": 3.2186677881134504e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604959,
+						"confidence_age": 0.012774801241087413,
+						"probability": 3.196326637934058e-11
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.03338819362717858,
+						"confidence_age": 0.0004036489352180088,
+						"probability": 1.4774957363982088e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 19,
+			"Finding": "constipation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 5318.775724600186,
+						"confidence_age": 101.93216499437214,
+						"probability": 0.000004830261779211442
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1096.2950116740737,
+						"confidence_age": 3.541043233721517,
+						"probability": 1.8037308828792887e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.3086604817556453,
+						"confidence_age": 0.009445270365185431,
+						"probability": 7.370669698738851e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9659457332946244,
+						"confidence_age": 0.008637716695654838,
+						"probability": 3.0343840018370842e-9
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.6169595773616727,
+						"confidence_age": 0.007920579735151128,
+						"probability": 2.5781359330733654e-9
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 1.1023544501512434e-9
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.47219450949277963,
+						"confidence_age": 0.003795495571405222,
+						"probability": 7.13169909250882e-10
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 14.703384431321066,
+						"confidence_age": 0.3499685151811983,
+						"probability": 5.200218543224057e-10
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 2.0642342350706975,
+						"confidence_age": 0.0093447134640994,
+						"probability": 2.303239781127566e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332306,
+						"confidence_age": 0.010277766566809485,
+						"probability": 5.244249412504114e-11
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.027761383508412493,
+						"confidence_age": 0.00033562321515434514,
+						"probability": 2.7596052948337698e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604959,
+						"confidence_age": 0.012774801241087413,
+						"probability": 2.7404505511987124e-11
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.03338819362717858,
+						"confidence_age": 0.0004036489352180088,
+						"probability": 1.2667679069944146e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 20,
+			"Finding": "sedentary lifestyle",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 5318.775724600186,
+						"confidence_age": 101.93216499437214,
+						"probability": 0.000004588748690250872
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1096.2950116740737,
+						"confidence_age": 3.541043233721517,
+						"probability": 1.7135443387353242e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.3086604817556453,
+						"confidence_age": 0.009445270365185431,
+						"probability": 7.002136213801912e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9659457332946244,
+						"confidence_age": 0.008637716695654838,
+						"probability": 2.8826648017452294e-9
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.6169595773616727,
+						"confidence_age": 0.007920579735151128,
+						"probability": 2.4492291364196965e-9
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 1.047236727643681e-9
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.47219450949277963,
+						"confidence_age": 0.003795495571405222,
+						"probability": 6.775114137883379e-10
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 14.703384431321066,
+						"confidence_age": 0.3499685151811983,
+						"probability": 4.940207616062856e-10
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.1976650358230514,
+						"confidence_age": 0.005421786149842366,
+						"probability": 1.2667818796201619e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332302,
+						"confidence_age": 0.010277766566809482,
+						"probability": 4.9820369418789087e-11
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.027761383508412493,
+						"confidence_age": 0.00033562321515434514,
+						"probability": 2.621625030092081e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604958,
+						"confidence_age": 0.012774801241087411,
+						"probability": 2.6034280236387767e-11
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.033388193627178576,
+						"confidence_age": 0.0004036489352180087,
+						"probability": 1.2034295116446934e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 21,
+			"Finding": "low fiber consumption",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 5318.775724600187,
+						"confidence_age": 101.93216499437217,
+						"probability": 0.00000458874869025087
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1096.2950116740735,
+						"confidence_age": 3.5410432337215165,
+						"probability": 1.7135443387353242e-8
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.3086604817556453,
+						"confidence_age": 0.009445270365185431,
+						"probability": 7.002136213801914e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9659457332946245,
+						"confidence_age": 0.008637716695654838,
+						"probability": 2.8826648017452278e-9
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.6169595773616727,
+						"confidence_age": 0.007920579735151128,
+						"probability": 2.4492291364196973e-9
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.18723301388988395,
+						"confidence_age": 0.0036252628203009263,
+						"probability": 1.0472367276436814e-9
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.47219450949277975,
+						"confidence_age": 0.003795495571405223,
+						"probability": 6.775114137883378e-10
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 14.703384431321068,
+						"confidence_age": 0.3499685151811983,
+						"probability": 4.940207616062855e-10
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.1976650358230518,
+						"confidence_age": 0.005421786149842368,
+						"probability": 1.266781879620161e-10
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.8501349322332303,
+						"confidence_age": 0.010277766566809484,
+						"probability": 4.982036941878909e-11
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.027761383508412493,
+						"confidence_age": 0.00033562321515434514,
+						"probability": 2.6216250300920815e-11
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.5964547438604958,
+						"confidence_age": 0.012774801241087411,
+						"probability": 2.603428023638777e-11
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.033388193627178576,
+						"confidence_age": 0.0004036489352180087,
+						"probability": 1.2034295116446936e-12
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 22,
+			"Finding": "urinary frequency",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 25029.37727570213,
+						"confidence_age": 479.6777954695656,
+						"probability": 0.000001376624607075261
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1183.9298251657756,
+						"confidence_age": 3.8241045083316902,
+						"probability": 1.920814632088513e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 6.060798308568978,
+						"confidence_age": 0.05419710128059033,
+						"probability": 1.1530659206980913e-9
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.14382170345594714,
+						"confidence_age": 0.0044010650984416125,
+						"probability": 3.501068106900958e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.28747501745255116,
+						"confidence_age": 0.003690628820990154,
+						"probability": 1.224614568209849e-10
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.08724204293231205,
+						"confidence_age": 0.0016892070903458132,
+						"probability": 5.2361836382184075e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.2200210999850644,
+						"confidence_age": 0.0017685277863693308,
+						"probability": 3.387557068941689e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 6.85110637893175,
+						"confidence_age": 0.16306936256632687,
+						"probability": 2.4701038080314285e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.293403090746437,
+						"confidence_age": 0.005855188849821619,
+						"probability": 4.371742223612887e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.4034142051636176,
+						"confidence_age": 0.03005816906383282,
+						"probability": 3.905142035458166e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.39612409540002,
+						"confidence_age": 0.004788970350053846,
+						"probability": 2.491018470939456e-12
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.012935538245011171,
+						"confidence_age": 0.00015638510718412344,
+						"probability": 1.3108125150460403e-12
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.015557375066171704,
+						"confidence_age": 0.00018808198941123924,
+						"probability": 6.017147558223467e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 23,
+			"Finding": "multiple sexual partners",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 22639.25030178507,
+						"confidence_age": 433.87198795337684,
+						"probability": 0.0000011701309160139724
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1183.9298251657756,
+						"confidence_age": 3.8241045083316902,
+						"probability": 1.8247739004840881e-9
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 6.060798308568978,
+						"confidence_age": 0.05419710128059033,
+						"probability": 1.0954126246631872e-9
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.1438217034559472,
+						"confidence_age": 0.004401065098441614,
+						"probability": 3.3260147015559097e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.2874750174525511,
+						"confidence_age": 0.003690628820990153,
+						"probability": 1.1633838397993563e-10
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.08724204293231204,
+						"confidence_age": 0.001689207090345813,
+						"probability": 4.9743744563074875e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.22002109998506442,
+						"confidence_age": 0.001768527786369331,
+						"probability": 3.218179215494605e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670696,
+						"confidence_age": 0.10411581300296285,
+						"probability": 1.4820622848188568e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2934030907464367,
+						"confidence_age": 0.005855188849821618,
+						"probability": 4.153155112432244e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.4034142051636176,
+						"confidence_age": 0.03005816906383282,
+						"probability": 2.460085326651528e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.25291557895101985,
+						"confidence_age": 0.003057640832073139,
+						"probability": 1.4946110825636721e-12
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.012935538245011176,
+						"confidence_age": 0.0001563851071841235,
+						"probability": 1.2452718892937382e-12
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.011588505543496,
+						"confidence_age": 0.00014010005978857244,
+						"probability": 4.212003290756427e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 24,
+			"Finding": "abdominal pain (sudden onset)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 22639.250301785072,
+						"confidence_age": 433.87198795337696,
+						"probability": 0.0000011116243702132735
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 1183.9298251657758,
+						"confidence_age": 3.824104508331691,
+						"probability": 1.733535205459884e-9
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.14382170345594716,
+						"confidence_age": 0.004401065098441613,
+						"probability": 3.159713966478112e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 2.7722422651932903,
+						"confidence_age": 0.024790050282417174,
+						"probability": 2.7385315616579675e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.2874750174525511,
+						"confidence_age": 0.003690628820990153,
+						"probability": 1.1052146478093883e-10
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.08724204293231204,
+						"confidence_age": 0.001689207090345813,
+						"probability": 4.725655733492112e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.2200210999850644,
+						"confidence_age": 0.0017685277863693308,
+						"probability": 3.057270254719874e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670696,
+						"confidence_age": 0.10411581300296285,
+						"probability": 1.4079591705779133e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2934030907464367,
+						"confidence_age": 0.005855188849821618,
+						"probability": 3.945497356810633e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.4034142051636174,
+						"confidence_age": 0.030058169063832817,
+						"probability": 2.3370810603189507e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.25291557895101985,
+						"confidence_age": 0.003057640832073139,
+						"probability": 1.419880528435488e-12
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.012935538245011171,
+						"confidence_age": 0.00015638510718412344,
+						"probability": 1.1830082948290513e-12
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.011588505543496002,
+						"confidence_age": 0.00014010005978857247,
+						"probability": 4.001403126218607e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 25,
+			"Finding": "hematuria",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 13297.877522100198,
+						"confidence_age": 254.84839290898321,
+						"probability": 6.113934036173008e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403525,
+						"confidence_age": 2.4504091244092616,
+						"probability": 1.04012112327593e-9
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.14382170345594714,
+						"confidence_age": 0.0044010650984416125,
+						"probability": 3.0017282681542077e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.628363908376561,
+						"confidence_age": 0.014561217709417528,
+						"probability": 1.5061923589118826e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.2874750174525511,
+						"confidence_age": 0.003690628820990153,
+						"probability": 1.0499539154189191e-10
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.08724204293231205,
+						"confidence_age": 0.0016892070903458132,
+						"probability": 4.489372946817504e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.22002109998506444,
+						"confidence_age": 0.0017685277863693312,
+						"probability": 2.9044067419838796e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670697,
+						"confidence_age": 0.10411581300296288,
+						"probability": 1.3375612120490175e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2934030907464367,
+						"confidence_age": 0.005855188849821618,
+						"probability": 3.748222488970099e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.4034142051636176,
+						"confidence_age": 0.03005816906383282,
+						"probability": 2.2202270073030036e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.25291557895101974,
+						"confidence_age": 0.0030576408320731377,
+						"probability": 1.3488865020137146e-12
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.012935538245011173,
+						"confidence_age": 0.00015638510718412346,
+						"probability": 1.1238578800875986e-12
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.011588505543496004,
+						"confidence_age": 0.0001401000597885725,
+						"probability": 3.801332969907675e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 26,
+			"Finding": "vaginal douching",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 13297.8775221002,
+						"confidence_age": 254.84839290898324,
+						"probability": 5.808237334364349e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403525,
+						"confidence_age": 2.4504091244092616,
+						"probability": 9.881150671121339e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.14382170345594716,
+						"confidence_age": 0.004401065098441613,
+						"probability": 2.8516418547464973e-10
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.628363908376561,
+						"confidence_age": 0.014561217709417528,
+						"probability": 1.4308827409662878e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.28747501745255116,
+						"confidence_age": 0.003690628820990154,
+						"probability": 9.974562196479725e-11
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.08724204293231204,
+						"confidence_age": 0.001689207090345813,
+						"probability": 4.2649042994766305e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.2200210999850644,
+						"confidence_age": 0.0017685277863693308,
+						"probability": 2.7591864048846856e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670695,
+						"confidence_age": 0.10411581300296283,
+						"probability": 1.2706831514465674e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2934030907464367,
+						"confidence_age": 0.005855188849821618,
+						"probability": 3.5608113645215947e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.2578498785770398,
+						"confidence_age": 0.026940488537225766,
+						"probability": 1.8871929562075525e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.2529155789510198,
+						"confidence_age": 0.0030576408320731386,
+						"probability": 1.2814421769130287e-12
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.01022986225785687,
+						"confidence_age": 0.00012367464541266826,
+						"probability": 8.428934100656988e-13
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785437,
+						"confidence_age": 0.00011079587774458097,
+						"probability": 2.850999727430756e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 36,
+			"QuestionNumber": 27,
+			"Finding": "low fluid consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 13297.8775221002,
+						"confidence_age": 254.84839290898324,
+						"probability": 5.517825467646138e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403525,
+						"confidence_age": 2.4504091244092616,
+						"probability": 9.387093137565274e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.1438217034559472,
+						"confidence_age": 0.004401065098441614,
+						"probability": 2.7090597620091726e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.2874750174525511,
+						"confidence_age": 0.003690628820990153,
+						"probability": 9.475834086655749e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 1.0306197497326817,
+						"confidence_age": 0.009216047146638538,
+						"probability": 8.585296445797728e-11
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.08724204293231204,
+						"confidence_age": 0.001689207090345813,
+						"probability": 4.0516590845028e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.22002109998506444,
+						"confidence_age": 0.0017685277863693312,
+						"probability": 2.6212270846404527e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670697,
+						"confidence_age": 0.10411581300296288,
+						"probability": 1.2071489938742389e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 1.2934030907464367,
+						"confidence_age": 0.005855188849821618,
+						"probability": 3.382770796295515e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.2578498785770398,
+						"confidence_age": 0.026940488537225766,
+						"probability": 1.7928333083971751e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.25291557895101985,
+						"confidence_age": 0.003057640832073139,
+						"probability": 1.217370068067377e-12
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.010229862257856874,
+						"confidence_age": 0.0001236746454126683,
+						"probability": 8.007487395624143e-13
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785435,
+						"confidence_age": 0.00011079587774458094,
+						"probability": 2.7084497410592166e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 37,
+			"QuestionNumber": 28,
+			"Finding": "overweight or obese",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 13297.877522100196,
+						"confidence_age": 254.8483929089832,
+						"probability": 5.241934194263829e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403524,
+						"confidence_age": 2.4504091244092616,
+						"probability": 8.917738480687003e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.1438217034559472,
+						"confidence_age": 0.004401065098441614,
+						"probability": 2.573606773908713e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.2937076783699578,
+						"confidence_age": 0.0037706442540426507,
+						"probability": 8.796585137157728e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9074171364766244,
+						"confidence_age": 0.008114340049863607,
+						"probability": 6.868237156638183e-11
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.08724204293231204,
+						"confidence_age": 0.001689207090345813,
+						"probability": 3.849076130277658e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.1937192806218481,
+						"confidence_age": 0.0015571139793341304,
+						"probability": 2.09698166771236e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670697,
+						"confidence_age": 0.10411581300296288,
+						"probability": 1.1467915441805268e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.7829158997180595,
+						"confidence_age": 0.0035442318633487242,
+						"probability": 1.860523937962533e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 1.2578498785770398,
+						"confidence_age": 0.026940488537225766,
+						"probability": 1.7031916429773164e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.2529155789510198,
+						"confidence_age": 0.0030576408320731386,
+						"probability": 1.1565015646640085e-12
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.010229862257856874,
+						"confidence_age": 0.0001236746454126683,
+						"probability": 7.607113025842937e-13
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785439,
+						"confidence_age": 0.00011079587774458098,
+						"probability": 2.573027254006258e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 38,
+			"QuestionNumber": 29,
+			"Finding": "recent medical urethral instrumentation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 11223.307765592588,
+						"confidence_age": 215.09011061582183,
+						"probability": 4.1935473554110617e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403524,
+						"confidence_age": 2.4504091244092616,
+						"probability": 8.471851556652653e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.14382170345594716,
+						"confidence_age": 0.004401065098441613,
+						"probability": 2.4449264352132785e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.2937076783699578,
+						"confidence_age": 0.0037706442540426507,
+						"probability": 8.356755880299844e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9074171364766245,
+						"confidence_age": 0.00811434004986361,
+						"probability": 6.52482529880627e-11
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.08724204293231205,
+						"confidence_age": 0.0016892070903458132,
+						"probability": 3.656622323763776e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.19371928062184804,
+						"confidence_age": 0.00155711397933413,
+						"probability": 1.992132584326742e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.3742644196706975,
+						"confidence_age": 0.1041158130029629,
+						"probability": 1.0894519669714999e-11
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.7829158997180596,
+						"confidence_age": 0.003544231863348725,
+						"probability": 1.7674977410644067e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.9289137872477229,
+						"confidence_age": 0.01989537198646358,
+						"probability": 1.1922341500841208e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.2529155789510198,
+						"confidence_age": 0.0030576408320731386,
+						"probability": 1.0986764864308072e-12
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.010229862257856874,
+						"confidence_age": 0.0001236746454126683,
+						"probability": 7.226757374550788e-13
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785433,
+						"confidence_age": 0.00011079587774458093,
+						"probability": 2.4443758913059453e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 39,
+			"QuestionNumber": 30,
+			"Finding": "blister or vesicle",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 11223.307765592586,
+						"confidence_age": 215.0901106158218,
+						"probability": 3.784676488258484e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403525,
+						"confidence_age": 2.4504091244092616,
+						"probability": 7.645846029879022e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.1438217034559472,
+						"confidence_age": 0.004401065098441614,
+						"probability": 2.206546107779983e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.2937076783699578,
+						"confidence_age": 0.0037706442540426507,
+						"probability": 7.541972181970605e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9074171364766247,
+						"confidence_age": 0.008114340049863611,
+						"probability": 5.888654832172663e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.1937192806218481,
+						"confidence_age": 0.0015571139793341304,
+						"probability": 1.7978996573548866e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670696,
+						"confidence_age": 0.10411581300296285,
+						"probability": 9.832304001917788e-12
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.004732552539159964,
+						"confidence_age": 0.0000916331282015662,
+						"probability": 1.7368956037877952e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.7829158997180595,
+						"confidence_age": 0.0035442318633487242,
+						"probability": 1.5951667113106264e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.9289137872477228,
+						"confidence_age": 0.019895371986463576,
+						"probability": 1.0759913204509191e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.2529155789510198,
+						"confidence_age": 0.0030576408320731386,
+						"probability": 9.915555290038037e-13
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.010229862257856874,
+						"confidence_age": 0.0001236746454126683,
+						"probability": 6.522148530532084e-13
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785435,
+						"confidence_age": 0.00011079587774458094,
+						"probability": 2.2060492419036144e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 40,
+			"QuestionNumber": 31,
+			"Finding": "vulvovaginal pain",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 11223.307765592584,
+						"confidence_age": 215.09011061582177,
+						"probability": 3.5954426638455605e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403523,
+						"confidence_age": 2.450409124409261,
+						"probability": 7.263553728385068e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.1438217034559472,
+						"confidence_age": 0.004401065098441614,
+						"probability": 2.0962188023909844e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.29370767836995787,
+						"confidence_age": 0.003770644254042651,
+						"probability": 7.164873572872074e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9074171364766243,
+						"confidence_age": 0.008114340049863607,
+						"probability": 5.594222090564027e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.19371928062184812,
+						"confidence_age": 0.0015571139793341307,
+						"probability": 1.708004674487141e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670696,
+						"confidence_age": 0.10411581300296285,
+						"probability": 9.340688801821896e-12
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.004732552539159964,
+						"confidence_age": 0.0000916331282015662,
+						"probability": 1.6500508235984054e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.7829158997180596,
+						"confidence_age": 0.003544231863348725,
+						"probability": 1.515408375745096e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.9289137872477228,
+						"confidence_age": 0.019895371986463576,
+						"probability": 1.022191754428373e-12
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.25291557895101985,
+						"confidence_age": 0.003057640832073139,
+						"probability": 9.419777525536137e-13
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.0021637033702465547,
+						"confidence_age": 0.00002615824537499671,
+						"probability": 1.3044297061064163e-13
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785435,
+						"confidence_age": 0.00011079587774458094,
+						"probability": 2.0957467798084338e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 41,
+			"QuestionNumber": 32,
+			"Finding": "contact with a person with herpes simplex",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 11223.307765592583,
+						"confidence_age": 215.09011061582174,
+						"probability": 3.415670530653284e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403524,
+						"confidence_age": 2.4504091244092616,
+						"probability": 6.900376041965816e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.14382170345594716,
+						"confidence_age": 0.004401065098441613,
+						"probability": 1.991407862271434e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.29370767836995787,
+						"confidence_age": 0.003770644254042651,
+						"probability": 6.806629894228471e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9074171364766245,
+						"confidence_age": 0.00811434004986361,
+						"probability": 5.314510986035823e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.1937192806218481,
+						"confidence_age": 0.0015571139793341304,
+						"probability": 1.622604440762783e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670696,
+						"confidence_age": 0.10411581300296285,
+						"probability": 8.873654361730803e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.7829158997180596,
+						"confidence_age": 0.003544231863348725,
+						"probability": 1.4396379569578404e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.9289137872477227,
+						"confidence_age": 0.019895371986463573,
+						"probability": 9.710821667069543e-13
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.25291557895101985,
+						"confidence_age": 0.003057640832073139,
+						"probability": 8.948788649259333e-13
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0012544707874072676,
+						"confidence_age": 0.000024289446664656333,
+						"probability": 4.1251270589960134e-13
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.0021637033702465542,
+						"confidence_age": 0.000026158245374996708,
+						"probability": 1.239208220801096e-13
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785435,
+						"confidence_age": 0.00011079587774458094,
+						"probability": 1.990959440818012e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 42,
+			"QuestionNumber": 33,
+			"Finding": "pregnant",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 10140.286816525017,
+						"confidence_age": 194.3344563470915,
+						"probability": 2.327659305868874e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403525,
+						"confidence_age": 2.4504091244092616,
+						"probability": 5.339379442854846e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.14382170345594714,
+						"confidence_age": 0.0044010650984416125,
+						"probability": 1.5409134426132609e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.2937076783699578,
+						"confidence_age": 0.0037706442540426507,
+						"probability": 5.266840460771627e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9074171364766244,
+						"confidence_age": 0.008114340049863607,
+						"probability": 4.112267293128849e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.19371928062184812,
+						"confidence_age": 0.0015571139793341307,
+						"probability": 1.2555403853650892e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670696,
+						"confidence_age": 0.10411581300296285,
+						"probability": 6.866264591071024e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.7829158997180594,
+						"confidence_age": 0.003544231863348724,
+						"probability": 1.1139644079954221e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.9289137872477229,
+						"confidence_age": 0.01989537198646358,
+						"probability": 7.514048693440385e-13
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.2529155789510198,
+						"confidence_age": 0.0030576408320731386,
+						"probability": 6.924402070513241e-13
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0012544707874072674,
+						"confidence_age": 0.00002428944666465633,
+						"probability": 3.191944683016551e-13
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.0005841415208390588,
+						"confidence_age": 0.000007062020351750287,
+						"probability": 2.5233571022346812e-14
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785437,
+						"confidence_age": 0.00011079587774458097,
+						"probability": 1.540566462640637e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 43,
+			"QuestionNumber": 34,
+			"Finding": "nephrolithiasis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 10140.286816525017,
+						"confidence_age": 194.3344563470915,
+						"probability": 2.2112763405754301e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403524,
+						"confidence_age": 2.4504091244092616,
+						"probability": 5.072410470712103e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.14382170345594716,
+						"confidence_age": 0.004401065098441613,
+						"probability": 1.4638677704825983e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.2937076783699578,
+						"confidence_age": 0.0037706442540426507,
+						"probability": 5.003498437733052e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9074171364766246,
+						"confidence_age": 0.008114340049863611,
+						"probability": 3.906653928472407e-11
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.11242867195061049,
+						"confidence_age": 0.0009037007375326918,
+						"probability": 6.9054721195079946e-12
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670696,
+						"confidence_age": 0.10411581300296285,
+						"probability": 6.522951361517473e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.7829158997180595,
+						"confidence_age": 0.0035442318633487242,
+						"probability": 1.0582661875956514e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.9289137872477227,
+						"confidence_age": 0.019895371986463573,
+						"probability": 7.138346258768368e-13
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.25291557895101985,
+						"confidence_age": 0.003057640832073139,
+						"probability": 6.578181966987581e-13
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0012544707874072674,
+						"confidence_age": 0.00002428944666465633,
+						"probability": 3.0323474488657244e-13
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.0005841415208390584,
+						"confidence_age": 0.000007062020351750283,
+						"probability": 2.397189247122946e-14
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785435,
+						"confidence_age": 0.00011079587774458094,
+						"probability": 1.463538139508606e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 44,
+			"QuestionNumber": 35,
+			"Finding": "tophi",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cystitis",
+						"instance": "cystitis #1",
+						"confidence": 10140.286816525018,
+						"confidence_age": 194.33445634709153,
+						"probability": 2.1007125235466587e-7
+					},
+					{
+						"disease": "pyelonephritis",
+						"instance": "pyelonephritis #1",
+						"confidence": 758.6383792403524,
+						"confidence_age": 2.4504091244092616,
+						"probability": 4.818789947176498e-10
+					},
+					{
+						"disease": "chlamydia",
+						"instance": "chlamydia #1",
+						"confidence": 0.1438217034559472,
+						"confidence_age": 0.004401065098441614,
+						"probability": 1.3906743819584674e-10
+					},
+					{
+						"disease": "endometriosis",
+						"instance": "endometriosis #1",
+						"confidence": 0.29370767836995776,
+						"confidence_age": 0.00377064425404265,
+						"probability": 4.753323515846398e-11
+					},
+					{
+						"disease": "nephrolithiasis",
+						"instance": "nephrolithiasis #1",
+						"confidence": 0.9074171364766245,
+						"confidence_age": 0.00811434004986361,
+						"probability": 3.7113212320487866e-11
+					},
+					{
+						"disease": "pelvic inflammatory disease",
+						"instance": "pelvic inflammatory disease #1",
+						"confidence": 4.374264419670697,
+						"confidence_age": 0.10411581300296288,
+						"probability": 6.196803793441597e-12
+					},
+					{
+						"disease": "gout",
+						"instance": "gout #2",
+						"confidence": 0.06526990510275181,
+						"confidence_age": 0.0005246389586986964,
+						"probability": 3.798009665729396e-12
+					},
+					{
+						"disease": "diverticulitis",
+						"instance": "diverticulitis #1",
+						"confidence": 0.7829158997180595,
+						"confidence_age": 0.0035442318633487242,
+						"probability": 1.0053528782158682e-12
+					},
+					{
+						"disease": "urethritis",
+						"instance": "urethritis #2",
+						"confidence": 0.9289137872477228,
+						"confidence_age": 0.019895371986463576,
+						"probability": 6.781428945829943e-13
+					},
+					{
+						"disease": "trichomoniasis",
+						"instance": "trichomoniasis #1",
+						"confidence": 0.25291557895101985,
+						"confidence_age": 0.003057640832073139,
+						"probability": 6.249272868638199e-13
+					},
+					{
+						"disease": "herpes simplex",
+						"instance": "genital herpes",
+						"confidence": 0.0012544707874072676,
+						"confidence_age": 0.000024289446664656333,
+						"probability": 2.8807300764224364e-13
+					},
+					{
+						"disease": "vulvovaginal candidiasis",
+						"instance": "vulvovaginal candidiasis #1",
+						"confidence": 0.0005841415208390587,
+						"confidence_age": 0.000007062020351750286,
+						"probability": 2.277329784766799e-14
+					},
+					{
+						"disease": "bacterial vaginosis",
+						"instance": "bacterial vaginosis #1",
+						"confidence": 0.009164583122785435,
+						"confidence_age": 0.00011079587774458094,
+						"probability": 1.3903612325331743e-14
+					}
+				],
+				"urgency": 2,
+				"specialist": "nephrologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "cystitis",
+				"instance": "cystitis #1",
+				"confidence": 10140.286816525017,
+				"confidence_age": 194.3344563470915,
+				"probability": 2.1007125235466587e-7
+			},
+			{
+				"disease": "pyelonephritis",
+				"instance": "pyelonephritis #1",
+				"confidence": 758.6383792403524,
+				"confidence_age": 2.4504091244092616,
+				"probability": 4.818789947176498e-10
+			},
+			{
+				"disease": "chlamydia",
+				"instance": "chlamydia #1",
+				"confidence": 0.14382170345594714,
+				"confidence_age": 0.0044010650984416125,
+				"probability": 1.3906743819584682e-10
+			},
+			{
+				"disease": "endometriosis",
+				"instance": "endometriosis #1",
+				"confidence": 0.2937076783699578,
+				"confidence_age": 0.0037706442540426507,
+				"probability": 4.753323515846395e-11
+			},
+			{
+				"disease": "nephrolithiasis",
+				"instance": "nephrolithiasis #1",
+				"confidence": 0.9074171364766243,
+				"confidence_age": 0.008114340049863607,
+				"probability": 3.711321232048786e-11
+			},
+			{
+				"disease": "pelvic inflammatory disease",
+				"instance": "pelvic inflammatory disease #1",
+				"confidence": 4.374264419670697,
+				"confidence_age": 0.10411581300296288,
+				"probability": 6.196803793441598e-12
+			},
+			{
+				"disease": "gout",
+				"instance": "gout #2",
+				"confidence": 0.06526990510275181,
+				"confidence_age": 0.0005246389586986964,
+				"probability": 3.798009665729398e-12
+			},
+			{
+				"disease": "diverticulitis",
+				"instance": "diverticulitis #1",
+				"confidence": 0.7829158997180596,
+				"confidence_age": 0.003544231863348725,
+				"probability": 1.0053528782158684e-12
+			},
+			{
+				"disease": "urethritis",
+				"instance": "urethritis #2",
+				"confidence": 0.9289137872477229,
+				"confidence_age": 0.01989537198646358,
+				"probability": 6.781428945829948e-13
+			},
+			{
+				"disease": "trichomoniasis",
+				"instance": "trichomoniasis #1",
+				"confidence": 0.25291557895101974,
+				"confidence_age": 0.0030576408320731377,
+				"probability": 6.249272868638199e-13
+			},
+			{
+				"disease": "herpes simplex",
+				"instance": "genital herpes",
+				"confidence": 0.0012544707874072676,
+				"confidence_age": 0.000024289446664656333,
+				"probability": 2.8807300764224364e-13
+			},
+			{
+				"disease": "vulvovaginal candidiasis",
+				"instance": "vulvovaginal candidiasis #1",
+				"confidence": 0.0005841415208390586,
+				"confidence_age": 0.000007062020351750284,
+				"probability": 2.2773297847667996e-14
+			},
+			{
+				"disease": "bacterial vaginosis",
+				"instance": "bacterial vaginosis #1",
+				"confidence": 0.009164583122785435,
+				"confidence_age": 0.00011079587774458094,
+				"probability": 1.3903612325331747e-14
+			}
+		],
+		"urgency": 2,
+		"specialist": "nephrologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"dysuria"
+		],
+		"findings": {
+			"abdominal discomfort other than pain": false,
+			"abdominal pain": true,
+			"abdominal pain (epigastric)": false,
+			"abdominal pain (flank pain)": false,
+			"abdominal pain (gradually increases)": null,
+			"abdominal pain (hypogastric or pelvic)": true,
+			"abdominal pain (left hypochondrial)": false,
+			"abdominal pain (left iliac pain)": false,
+			"abdominal pain (nonspecific, non-focal)": false,
+			"abdominal pain (periumbilical pain)": false,
+			"abdominal pain (right hypochondrial)": false,
+			"abdominal pain (right iliac pain)": false,
+			"abdominal pain (steady)": true,
+			"abdominal pain (sudden onset)": false,
+			"ankle pain": false,
+			"ankle pain (migratory)": false,
+			"ankle pain (polyarthralgia)": false,
+			"arthralgia": false,
+			"arthralgia (shoulder pain that doesn't radiate)": false,
+			"blister or vesicle": false,
+			"blister or vesicle (at lips)": false,
+			"burning feeling from vagina": false,
+			"chemotherapy": false,
+			"chronic constipation": false,
+			"constipation": false,
+			"constipation (chronic)": false,
+			"contact with a person with herpes simplex": false,
+			"decreased fetal movements": false,
+			"diabetes mellitus": false,
+			"dysmenorrhea": false,
+			"dyspareunia": false,
+			"dysuria": true,
+			"fever": false,
+			"hematuria": false,
+			"history of sexually transmitted infections": false,
+			"low fiber consumption": null,
+			"low fluid consumption": false,
+			"multiple sexual partners": false,
+			"nephrolithiasis": false,
+			"overweight or obese": false,
+			"pain at the base of thumb": false,
+			"pain in elbow with flexion of the wrist": false,
+			"pain in inner elbow or elbow pit": false,
+			"pain in outer elbow": false,
+			"pregnant": false,
+			"pregnant (last month of pregnancy)": false,
+			"pregnant (preeclampsia)": false,
+			"pruritus": false,
+			"pruritus ( around the anus)": false,
+			"recent medical urethral instrumentation": false,
+			"recent sex": true,
+			"recent sex (without any kind of infection control)": false,
+			"sedentary lifestyle": false,
+			"shoulder pain": false,
+			"toes arthralgia": false,
+			"tophi": false,
+			"urethral discharge": false,
+			"urinary frequency": true,
+			"urinary urgency": true,
+			"uterine contractions": false,
+			"vaginal discharge": false,
+			"vaginal douching": false,
+			"vulvovaginal pain": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 25,
+		"sex": "female",
+		"next_concept": "",
+		"question_count": 35
+	}
+}

@@ -1,0 +1,3628 @@
+{
+	"Time": "2021-12-02T11:33:29.8188009+03:00",
+	"Age": 19,
+	"Sex": "male",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "sore throat",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 12.835558835623269,
+						"confidence_age": 1.0721149848832892,
+						"probability": 0.051177096776881585
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 13.590591708306992,
+						"confidence_age": 0.1958922913355065,
+						"probability": 0.012972434606669404
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 11.325493090255826,
+						"confidence_age": 0.18071460655008398,
+						"probability": 0.00797822245397714
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 6.795295854153496,
+						"confidence_age": 0.10859524939456641,
+						"probability": 0.007191425256000491
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 7.5503287268372175,
+						"confidence_age": 0.1031600154652735,
+						"probability": 0.006831491660660882
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 6.040262981469774,
+						"confidence_age": 0.0642072995542248,
+						"probability": 0.004251953913344433
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 3.7751643634186087,
+						"confidence_age": 0.05158000773263675,
+						"probability": 0.003415745830330441
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 3.020131490734887,
+						"confidence_age": 0.04826455528647396,
+						"probability": 0.003196189002666885
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 2.265098618051165,
+						"confidence_age": 0.036198416464855464,
+						"probability": 0.0023971417520001646
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 6.795295854153496,
+						"confidence_age": 0.029490324679322534,
+						"probability": 0.001952916604445369
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 2.265098618051165,
+						"confidence_age": 0.015744054909703438,
+						"probability": 0.0010426072479296224
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 9.06039447220466,
+						"confidence_age": 0.004335297288824511,
+						"probability": 0.0002870932806816041
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "lymphadenopathy",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 159.79858473300501,
+						"confidence_age": 13.347487199382043,
+						"probability": 0.04861824193803751
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 111.31480360658244,
+						"confidence_age": 1.7761885311881833,
+						"probability": 0.0059836668404828555
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 55.41003557305437,
+						"confidence_age": 0.589002293983507,
+						"probability": 0.0029763677393411033
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 23.747158102737586,
+						"confidence_age": 0.37950202786280846,
+						"probability": 0.0019177134016001315
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 6.233929647910846,
+						"confidence_age": 0.08985471633344562,
+						"probability": 0.0006486217303334702
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 3.116964823955423,
+						"confidence_age": 0.049812043460129234,
+						"probability": 0.0003595712628000246
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 3.4632942488393583,
+						"confidence_age": 0.047318931558721744,
+						"probability": 0.00034157458303304413
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 1.7316471244196792,
+						"confidence_age": 0.023659465779360872,
+						"probability": 0.00017078729151652207
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.3853176995357435,
+						"confidence_age": 0.02213868598227966,
+						"probability": 0.00015980945013334424
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 3.116964823955423,
+						"confidence_age": 0.013527049689277072,
+						"probability": 0.00009764583022226846
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 1.0389882746518073,
+						"confidence_age": 0.007221711371105782,
+						"probability": 0.00005213036239648112
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 4.155953098607229,
+						"confidence_age": 0.001988577015730046,
+						"probability": 0.000014354664034080204
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "fever",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 762.1225044129192,
+						"confidence_age": 63.657762607902484,
+						"probability": 0.046187329841135626
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 419.1239127250453,
+						"confidence_age": 6.687727623003424,
+						"probability": 0.004487750130362142
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 222.5392745491203,
+						"confidence_age": 2.3655668482299084,
+						"probability": 0.0023810941914728825
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 53.64786082880579,
+						"confidence_age": 0.8573435139881632,
+						"probability": 0.0008629710307200591
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 18.77765688681899,
+						"confidence_age": 0.2706576955897052,
+						"probability": 0.00038917303820008213
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 8.258691686332423,
+						"confidence_age": 0.1128383667662986,
+						"probability": 0.00016224792694069596
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 6.954687735858883,
+						"confidence_age": 0.09502178254004094,
+						"probability": 0.00013662983321321767
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 5.5637501886871075,
+						"confidence_age": 0.0889139858333377,
+						"probability": 0.0001278475601066754
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 4.694414221704747,
+						"confidence_age": 0.07502117554687869,
+						"probability": 0.00010787137884000739
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 3.912011851420622,
+						"confidence_age": 0.01697740644761423,
+						"probability": 0.000024411457555567115
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 0.000011483731227264164
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 0.0000026065181198240565
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "dry cough or productive cough",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 762.1225044129192,
+						"confidence_age": 63.657762607902484,
+						"probability": 0.03573887538509564
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 419.1239127250452,
+						"confidence_age": 6.687727623003422,
+						"probability": 0.003472535503137364
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 222.53927454912034,
+						"confidence_age": 2.365566848229909,
+						"probability": 0.0018424452957536916
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 53.64786082880579,
+						"confidence_age": 0.8573435139881632,
+						"probability": 0.0006677505331859086
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 18.777656886818985,
+						"confidence_age": 0.27065769558970515,
+						"probability": 0.0003011346783481828
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.730923463449685,
+						"confidence_age": 0.03731256173291932,
+						"probability": 0.00003895004858101816
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 0.000033037987635685056
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797843,
+						"confidence_age": 0.029926448712009758,
+						"probability": 0.000028028619904432958
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 0.00002196547806532594
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.69125056606132,
+						"confidence_age": 0.007986576472815376,
+						"probability": 0.000008885892315030488
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 0.0000020168740343681952
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 9.941642375309574e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "recent cat scratch or cat bite  ",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 762.1225044129192,
+						"confidence_age": 63.657762607902484,
+						"probability": 0.033951931615840855
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 419.1239127250453,
+						"confidence_age": 6.687727623003424,
+						"probability": 0.0032989087279804963
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 222.5392745491203,
+						"confidence_age": 2.3655668482299084,
+						"probability": 0.001750323030966007
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 18.77765688681899,
+						"confidence_age": 0.2706576955897052,
+						"probability": 0.0002860779444307736
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.730923463449685,
+						"confidence_age": 0.03731256173291932,
+						"probability": 0.000037002546151967254
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 2.8333181590636154,
+						"confidence_age": 0.04527910170527756,
+						"probability": 0.000033387526659295456
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 0.0000313860882539008
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797843,
+						"confidence_age": 0.029926448712009758,
+						"probability": 0.000026627188909211314
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 0.000020867204162059642
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 0.000008441597699278965
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 0.0000019160303326497855
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 9.444560256544096e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "oral ulcers",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 762.1225044129192,
+						"confidence_age": 63.657762607902484,
+						"probability": 0.03225433503504881
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 419.1239127250453,
+						"confidence_age": 6.687727623003424,
+						"probability": 0.0031339632915814712
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 117.9169143065469,
+						"confidence_age": 1.2534432130880557,
+						"probability": 0.0008751615154830035
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.730923463449685,
+						"confidence_age": 0.03731256173291932,
+						"probability": 0.0000351524188443689
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 2.8333181590636154,
+						"confidence_age": 0.04527910170527756,
+						"probability": 0.00003171815032633068
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 0.000029816783841205756
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 1.989943898655103,
+						"confidence_age": 0.028682685662493435,
+						"probability": 0.00002860779444307736
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797843,
+						"confidence_age": 0.029926448712009758,
+						"probability": 0.000025295829463750747
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 0.000019823843953956656
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 0.000008019517814315015
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 0.0000018202288160172959
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 8.972332243716892e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "skin erythema",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 741.4325867719882,
+						"confidence_age": 61.929597046674225,
+						"probability": 0.026045375540801913
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 419.1239127250453,
+						"confidence_age": 6.687727623003424,
+						"probability": 0.0028284018706522776
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 107.96775002597298,
+						"confidence_age": 1.1476847430948234,
+						"probability": 0.0006651227517670825
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.730923463449685,
+						"confidence_age": 0.03731256173291932,
+						"probability": 0.000031725058007042914
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 1.9899438986551035,
+						"confidence_age": 0.028682685662493438,
+						"probability": 0.000027177404720923483
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 0.000026909647416688188
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797843,
+						"confidence_age": 0.029926448712009758,
+						"probability": 0.000022829486091035046
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 0.000017891019168445882
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 0.000007237614827419303
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.32428234378081705,
+						"confidence_age": 0.005182338304756448,
+						"probability": 0.000003013224281001414
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 0.0000016427565064556097
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 8.097529849954493e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "lymphadenopathy (tender)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 10806.74137477181,
+						"confidence_age": 902.6540654775081,
+						"probability": 0.023440837986721724
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 196.5029835567344,
+						"confidence_age": 3.1354890313716783,
+						"probability": 0.00014142009353261388
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 50.619839059217654,
+						"confidence_age": 0.5380830569517647,
+						"probability": 0.00003325613758835413
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 3.3168934996188084,
+						"confidence_age": 0.053007092632494576,
+						"probability": 0.0000022599182107510607
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.730923463449685,
+						"confidence_age": 0.03731256173291932,
+						"probability": 0.0000015862529003521465
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 1.9899438986551035,
+						"confidence_age": 0.028682685662493438,
+						"probability": 0.0000013588702360461746
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 0.0000013454823708344095
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797843,
+						"confidence_age": 0.029926448712009758,
+						"probability": 0.0000011414743045517526
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 8.94550958422294e-7
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 3.618807413709651e-7
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 8.213782532278048e-8
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 4.0487649249772476e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "recent sex",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 10806.741374771811,
+						"confidence_age": 902.6540654775082,
+						"probability": 0.021155356283016354
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 196.50298355673436,
+						"confidence_age": 3.135489031371678,
+						"probability": 0.00012763163441318405
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 3.3168934996188084,
+						"confidence_age": 0.053007092632494576,
+						"probability": 0.000002039576185202832
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 2.7905945044275606,
+						"confidence_age": 0.02966369805914559,
+						"probability": 0.0000015796665354468227
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.730923463449685,
+						"confidence_age": 0.03731256173291932,
+						"probability": 0.000001431593242567812
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 1.989943898655103,
+						"confidence_age": 0.028682685662493435,
+						"probability": 0.0000012263803880316723
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 0.000001214297839678055
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797843,
+						"confidence_age": 0.029926448712009758,
+						"probability": 0.0000010301805598579565
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 8.073322399761205e-7
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 3.265973690872959e-7
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 7.412938735380936e-8
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 3.654010344791965e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "lymphadenopathy (beneath jaw or at neck)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 143961.68270732486,
+						"confidence_age": 12024.679194424949,
+						"probability": 0.01903982065471472
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1722.1767309278891,
+						"confidence_age": 27.47981812881167,
+						"probability": 0.00004722874299835529
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 37.20917706585917,
+						"confidence_age": 0.5946378126809199,
+						"probability": 7.526906115222108e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.2996022290262146,
+						"confidence_age": 0.013814621958747905,
+						"probability": 7.898332677234111e-8
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.730923463449685,
+						"confidence_age": 0.03731256173291932,
+						"probability": 7.15796621283906e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 1.989943898655103,
+						"confidence_age": 0.028682685662493435,
+						"probability": 6.131901940158362e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 6.071489198390274e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797843,
+						"confidence_age": 0.029926448712009758,
+						"probability": 5.150902799289783e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 4.036661199880602e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.69125056606132,
+						"confidence_age": 0.007986576472815376,
+						"probability": 1.6329868454364797e-8
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 3.7064693676904685e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 1.8270051723959825e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "diaphoresis",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 15653.741856405708,
+						"confidence_age": 1307.5091960288914,
+						"probability": 0.0019039820654714714
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1722.1767309278894,
+						"confidence_age": 27.479818128811672,
+						"probability": 0.00004486730584843753
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 37.20917706585917,
+						"confidence_age": 0.5946378126809199,
+						"probability": 7.150560809461e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.2996022290262146,
+						"confidence_age": 0.013814621958747905,
+						"probability": 7.503416043372405e-8
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.7309234634496846,
+						"confidence_age": 0.03731256173291931,
+						"probability": 6.800067902197107e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 1.9899438986551035,
+						"confidence_age": 0.028682685662493438,
+						"probability": 5.8253068431504445e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 5.7679147384707595e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797845,
+						"confidence_age": 0.02992644871200976,
+						"probability": 4.893357659325293e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060984,
+						"confidence_age": 0.021042034250631864,
+						"probability": 3.8348281398865724e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 1.551337503164656e-8
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 3.5211458993059453e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 1.7356549137761832e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "lymphadenopathy (posterior auricular)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 2421.744037477582,
+						"confidence_age": 202.28087498033722,
+						"probability": 0.00019039820654714716
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1722.1767309278894,
+						"confidence_age": 27.479818128811672,
+						"probability": 0.000028264631545258895
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 37.209177065859166,
+						"confidence_age": 0.5946378126809198,
+						"probability": 6.793032768987947e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.2996022290262148,
+						"confidence_age": 0.013814621958747907,
+						"probability": 7.128245241203787e-8
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.730923463449685,
+						"confidence_age": 0.03731256173291932,
+						"probability": 6.460064507087252e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 1.9899438986551035,
+						"confidence_age": 0.028682685662493438,
+						"probability": 5.534041500992922e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 5.4795190015472205e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797843,
+						"confidence_age": 0.029926448712009758,
+						"probability": 4.64868977635903e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 3.643086732892244e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 1.473770628006423e-8
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 3.3450886043406473e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 1.6488721680873738e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "pruritus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 2421.7440374775824,
+						"confidence_age": 202.28087498033727,
+						"probability": 0.0001718343814088002
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1722.1767309278894,
+						"confidence_age": 27.479818128811672,
+						"probability": 0.000025508829969596143
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 37.209177065859166,
+						"confidence_age": 0.5946378126809198,
+						"probability": 6.130712074011623e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.2996022290262148,
+						"confidence_age": 0.013814621958747907,
+						"probability": 6.433241330186415e-8
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 2.730923463449685,
+						"confidence_age": 0.03731256173291932,
+						"probability": 5.830208217646244e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.3164082948903575,
+						"confidence_age": 0.03164904789845834,
+						"probability": 4.945265898896366e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.8726332320797843,
+						"confidence_age": 0.029926448712009758,
+						"probability": 4.195442523164023e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 3.2878857764352496e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 1.3300779917757962e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.2197783065241911,
+						"confidence_age": 0.0031678441214995695,
+						"probability": 5.257339425943273e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 3.018942465417433e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.2194492068843499,
+						"confidence_age": 0.00095236888879292,
+						"probability": 1.4881071316988546e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 13,
+			"Finding": "fatigue",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 10333.358604320512,
+						"confidence_age": 863.1138500271413,
+						"probability": 0.0001718343814088003
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1933.7814168214006,
+						"confidence_age": 30.856276641536454,
+						"probability": 0.000025508829969596153
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 91.9183905324839,
+						"confidence_age": 1.468942744813825,
+						"probability": 6.130712074011624e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.2996022290262148,
+						"confidence_age": 0.013814621958747907,
+						"probability": 6.433241330186415e-8
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 5.519652024774104,
+						"confidence_age": 0.0754149135539885,
+						"probability": 5.830208217646243e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 7.803079499308629,
+						"confidence_age": 0.1066133450540016,
+						"probability": 4.9452658988963664e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 2.943814413212856,
+						"confidence_age": 0.047044936267016,
+						"probability": 4.195442523164024e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 3.287885776435249e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 1.3300779917757968e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.2197783065241911,
+						"confidence_age": 0.0031678441214995695,
+						"probability": 5.257339425943275e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 3.0189424654174355e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.14784782209216368,
+						"confidence_age": 0.0006416321482108253,
+						"probability": 1.488107131698855e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 14,
+			"Finding": "sneezing",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 10333.358604320512,
+						"confidence_age": 863.1138500271413,
+						"probability": 0.00016324266233836028
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1933.7814168214009,
+						"confidence_age": 30.856276641536457,
+						"probability": 0.00002423338847111635
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 91.91839053248393,
+						"confidence_age": 1.4689427448138255,
+						"probability": 5.824176470311042e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.2996022290262146,
+						"confidence_age": 0.013814621958747905,
+						"probability": 6.111579263677096e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 2.9438144132128556,
+						"confidence_age": 0.047044936267015995,
+						"probability": 3.9856703970058215e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 5.784459694590444,
+						"confidence_age": 0.07903297633004722,
+						"probability": 3.461686129227457e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.3166952413060982,
+						"confidence_age": 0.02104203425063186,
+						"probability": 3.1234914876134856e-8
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 1.4613371860017967,
+						"confidence_age": 0.01996622559916983,
+						"probability": 1.4575520544115607e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 1.2635740921870066e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.2197783065241911,
+						"confidence_age": 0.0031678441214995695,
+						"probability": 4.994472454646108e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 2.8679953421465634e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.13308606515373517,
+						"confidence_age": 0.0005775688587978392,
+						"probability": 1.2648910619440266e-9
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 15,
+			"Finding": "recent upper respiratory tract infection",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 10333.358604320514,
+						"confidence_age": 863.1138500271416,
+						"probability": 0.00015508052922144226
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1933.7814168214006,
+						"confidence_age": 30.856276641536454,
+						"probability": 0.000023021719047560526
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 91.91839053248391,
+						"confidence_age": 1.4689427448138253,
+						"probability": 5.532967646795491e-7
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 1.2996022290262148,
+						"confidence_age": 0.013814621958747907,
+						"probability": 5.806000300493239e-8
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 2.9438144132128556,
+						"confidence_age": 0.047044936267015995,
+						"probability": 3.786386877155529e-8
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 5.784459694590444,
+						"confidence_age": 0.07903297633004722,
+						"probability": 3.2886018227660844e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.7935597100162574,
+						"confidence_age": 0.012681834090567423,
+						"probability": 1.7179203181874183e-8
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 1.4613371860017965,
+						"confidence_age": 0.019966225599169826,
+						"probability": 1.3846744516909831e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 16.691250566061317,
+						"confidence_age": 0.007986576472815374,
+						"probability": 1.2003953875776561e-8
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.21977830652419114,
+						"confidence_age": 0.00316784412149957,
+						"probability": 4.744748831913803e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.39027585616501603,
+						"confidence_age": 0.00271269624219723,
+						"probability": 2.724595575039235e-9
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.02916716611474843,
+						"confidence_age": 0.00012658009557801897,
+						"probability": 2.5297821238880535e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 16,
+			"Finding": "dysphagia",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 10333.358604320516,
+						"confidence_age": 863.1138500271417,
+						"probability": 0.0000950180985218744
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1933.7814168214006,
+						"confidence_age": 30.856276641536454,
+						"probability": 0.000011510859523780263
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 42.54403394907732,
+						"confidence_age": 0.6798938671856377,
+						"probability": 2.7664838233977454e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 3.4418432794644964,
+						"confidence_age": 0.05500390819363676,
+						"probability": 5.153760954562253e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 4.801581550310626e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.6015153336746935,
+						"confidence_age": 0.006394038692386988,
+						"probability": 2.9030001502466206e-9
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 2.8596807942790288,
+						"confidence_age": 0.04121891344414791,
+						"probability": 2.076580486080035e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.3625319112963636,
+						"confidence_age": 0.02177454755334065,
+						"probability": 1.893193438577765e-9
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.677312431147886,
+						"confidence_age": 0.03658007509274099,
+						"probability": 1.6443009113830416e-9
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 2.539068545928247,
+						"confidence_age": 0.017648341793166114,
+						"probability": 1.2260680087676553e-9
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.6763736668163081,
+						"confidence_age": 0.009241282128692461,
+						"probability": 6.923372258454914e-10
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.013499898096515361,
+						"confidence_age": 0.00005858705589112285,
+						"probability": 1.2648910619440264e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 17,
+			"Finding": "heartburn",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 10333.358604320514,
+						"confidence_age": 863.1138500271416,
+						"probability": 0.00009026719359578068
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1933.7814168214004,
+						"confidence_age": 30.85627664153645,
+						"probability": 0.000010935316547591246
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 42.54403394907732,
+						"confidence_age": 0.6798938671856377,
+						"probability": 2.628159632227858e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 3.4418432794644964,
+						"confidence_age": 0.05500390819363676,
+						"probability": 4.896072906834144e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558499,
+						"confidence_age": 0.04618605541911182,
+						"probability": 4.5615024727950926e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.6015153336746935,
+						"confidence_age": 0.006394038692386988,
+						"probability": 2.757850142734291e-9
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 2.8596807942790288,
+						"confidence_age": 0.04121891344414791,
+						"probability": 1.9727514617760326e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.3625319112963634,
+						"confidence_age": 0.021774547553340646,
+						"probability": 1.7985337666488759e-9
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 2.6773124311478855,
+						"confidence_age": 0.036580075092740985,
+						"probability": 1.56208586581389e-9
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.6763736668163081,
+						"confidence_age": 0.009241282128692461,
+						"probability": 6.577203645532166e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.13560782615085673,
+						"confidence_age": 0.0009425713494724226,
+						"probability": 6.130340043838282e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.013499898096515358,
+						"confidence_age": 0.00005858705589112284,
+						"probability": 1.2016465088468252e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 18,
+			"Finding": "myalgia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851986,
+						"confidence_age": 651.6175913979004,
+						"probability": 0.00006318703551704645
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1933.7814168214009,
+						"confidence_age": 30.856276641536457,
+						"probability": 0.000010388550720211684
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 42.54403394907731,
+						"confidence_age": 0.6798938671856376,
+						"probability": 2.496751650616465e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 3.4418432794644964,
+						"confidence_age": 0.05500390819363676,
+						"probability": 4.651269261492434e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 4.333427349155339e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.5427782011302297,
+						"confidence_age": 0.00576966974093433,
+						"probability": 2.3073829735970753e-9
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 2.8596807942790288,
+						"confidence_age": 0.04121891344414791,
+						"probability": 1.8741138886872305e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192306,
+						"confidence_age": 0.019648293384684688,
+						"probability": 1.5047613089268807e-9
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765313,
+						"confidence_age": 0.0074751543933519,
+						"probability": 4.932902734149125e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.7218812102537565,
+						"confidence_age": 0.009863050935672645,
+						"probability": 3.9052146645347237e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.13560782615085673,
+						"confidence_age": 0.0009425713494724226,
+						"probability": 5.82382304164637e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.01349989809651536,
+						"confidence_age": 0.000058587055891122846,
+						"probability": 1.1415641834044842e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 19,
+			"Finding": "anorexia or loss of appetite",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851985,
+						"confidence_age": 651.6175913979002,
+						"probability": 0.00006002768374119415
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056684,
+						"confidence_age": 29.961986692428585,
+						"probability": 0.000008996748832206446
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 40.54656313401184,
+						"confidence_age": 0.6479723959243361,
+						"probability": 2.1222389030239954e-8
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 3.4418432794644964,
+						"confidence_age": 0.05500390819363676,
+						"probability": 4.418705798417812e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 4.116755981697572e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.5091759389342769,
+						"confidence_age": 0.005412481565331063,
+						"probability": 1.930495099914002e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192304,
+						"confidence_age": 0.019648293384684684,
+						"probability": 1.4295232434805361e-9
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765313,
+						"confidence_age": 0.0074751543933519,
+						"probability": 4.686257597441671e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.6412745577891273,
+						"confidence_age": 0.009243213628711437,
+						"probability": 3.748227777374462e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.4451689680616217,
+						"confidence_age": 0.006082336185795958,
+						"probability": 2.1478680654940984e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.13560782615085673,
+						"confidence_age": 0.0009425713494724226,
+						"probability": 5.53263188956405e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.013499898096515358,
+						"confidence_age": 0.00005858705589112284,
+						"probability": 1.0844859742342597e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 20,
+			"Finding": "smoking",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851986,
+						"confidence_age": 651.6175913979004,
+						"probability": 0.000057026299554134426
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056684,
+						"confidence_age": 29.961986692428585,
+						"probability": 0.00000854691139059612
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 40.54656313401183,
+						"confidence_age": 0.647972395924336,
+						"probability": 2.0161269578727946e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558499,
+						"confidence_age": 0.04618605541911182,
+						"probability": 3.910918182612692e-9
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 2.106319223647893,
+						"confidence_age": 0.03366097169364624,
+						"probability": 2.4302881891297968e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.5091759389342768,
+						"confidence_age": 0.005412481565331062,
+						"probability": 1.833970344918302e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192304,
+						"confidence_age": 0.019648293384684684,
+						"probability": 1.3580470813065093e-9
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765314,
+						"confidence_age": 0.007475154393351901,
+						"probability": 4.451944717569587e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.6412745577891272,
+						"confidence_age": 0.009243213628711435,
+						"probability": 3.5608163885057385e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.44516896806162176,
+						"confidence_age": 0.006082336185795959,
+						"probability": 2.040474662219393e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.037722040185277424,
+						"confidence_age": 0.00026219515002575143,
+						"probability": 1.3831579723910127e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.013499898096515356,
+						"confidence_age": 0.00005858705589112283,
+						"probability": 1.0302616755225464e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 21,
+			"Finding": "overusing voice box",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851984,
+						"confidence_age": 651.6175913979001,
+						"probability": 0.00005417498457642771
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.000008119565821066319
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 40.54656313401184,
+						"confidence_age": 0.6479723959243361,
+						"probability": 1.9153206099791548e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558499,
+						"confidence_age": 0.04618605541911182,
+						"probability": 3.7153722734820575e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.509175938934277,
+						"confidence_age": 0.0054124815653310634,
+						"probability": 1.7422718276723877e-9
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.5533605705125795,
+						"confidence_age": 0.024824169863243328,
+						"probability": 1.7012017323908577e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192306,
+						"confidence_age": 0.019648293384684688,
+						"probability": 1.290144727241184e-9
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765314,
+						"confidence_age": 0.007475154393351901,
+						"probability": 4.2293474816911054e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.6412745577891271,
+						"confidence_age": 0.009243213628711434,
+						"probability": 3.3827755690804497e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.4451689680616217,
+						"confidence_age": 0.006082336185795958,
+						"probability": 1.938450929108424e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.03772204018527743,
+						"confidence_age": 0.0002621951500257515,
+						"probability": 1.3140000737714613e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.013499898096515358,
+						"confidence_age": 0.00005858705589112284,
+						"probability": 9.787485917464195e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 22,
+			"Finding": "chronic throat clearing",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851986,
+						"confidence_age": 651.6175913979004,
+						"probability": 0.000051466235347606304
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.000007713587530013
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 40.54656313401184,
+						"confidence_age": 0.6479723959243361,
+						"probability": 1.8195545794801978e-8
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 3.529603659807955e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.5091759389342767,
+						"confidence_age": 0.00541248156533106,
+						"probability": 1.6551582362887685e-9
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 1.227181586687219,
+						"confidence_age": 0.019611521458224944,
+						"probability": 1.2759012992931439e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192306,
+						"confidence_age": 0.019648293384684688,
+						"probability": 1.2256374908791248e-9
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765314,
+						"confidence_age": 0.007475154393351901,
+						"probability": 4.0178801076065517e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.6412745577891271,
+						"confidence_age": 0.009243213628711434,
+						"probability": 3.213636790626429e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.4451689680616217,
+						"confidence_age": 0.006082336185795958,
+						"probability": 1.8415283826530017e-10
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.037722040185277424,
+						"confidence_age": 0.00026219515002575143,
+						"probability": 1.2483000700828884e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.013499898096515361,
+						"confidence_age": 0.00005858705589112285,
+						"probability": 9.298111621590986e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 23,
+			"Finding": "history of allergy",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851986,
+						"confidence_age": 651.6175913979004,
+						"probability": 0.00002384385548588389
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056677,
+						"confidence_age": 29.961986692428574,
+						"probability": 0.000003573637455724653
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 40.54656313401185,
+						"confidence_age": 0.6479723959243362,
+						"probability": 8.429836794701924e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 1.6352344215287938e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.5091759389342769,
+						"confidence_age": 0.005412481565331063,
+						"probability": 7.668202953992705e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192306,
+						"confidence_age": 0.019648293384684688,
+						"probability": 5.678271008793026e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882766,
+						"confidence_age": 0.014656804729470034,
+						"probability": 4.355575976403825e-10
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765314,
+						"confidence_age": 0.007475154393351901,
+						"probability": 1.8614486176874402e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.6412745577891272,
+						"confidence_age": 0.009243213628711435,
+						"probability": 1.4888497420159585e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.44516896806162176,
+						"confidence_age": 0.006082336185795959,
+						"probability": 8.531639497734099e-11
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.037722040185277424,
+						"confidence_age": 0.00026219515002575143,
+						"probability": 5.783264750772076e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.013499898096515361,
+						"confidence_age": 0.00005858705589112285,
+						"probability": 4.307733571329583e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 24,
+			"Finding": "hiatus hernia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851987,
+						"confidence_age": 651.6175913979004,
+						"probability": 0.00002265166271158968
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.0000033949555829384203
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 40.54656313401184,
+						"confidence_age": 0.6479723959243361,
+						"probability": 8.008344954966829e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 1.5534727004523541e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.5091759389342769,
+						"confidence_age": 0.005412481565331063,
+						"probability": 7.284792806293067e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192306,
+						"confidence_age": 0.019648293384684688,
+						"probability": 5.394357458353376e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882766,
+						"confidence_age": 0.014656804729470034,
+						"probability": 4.1377971775836317e-10
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765313,
+						"confidence_age": 0.0074751543933519,
+						"probability": 1.768376186803068e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.6412745577891272,
+						"confidence_age": 0.009243213628711435,
+						"probability": 1.4144072549151605e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.4451689680616217,
+						"confidence_age": 0.006082336185795958,
+						"probability": 8.105057522847396e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.013499898096515356,
+						"confidence_age": 0.00005858705589112283,
+						"probability": 4.092346892763105e-12
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.00996283816390031,
+						"confidence_age": 0.00006924884853088209,
+						"probability": 1.445816187693019e-12
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 25,
+			"Finding": "alcohol consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851986,
+						"confidence_age": 651.6175913979004,
+						"probability": 0.00002151907957601021
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.0000032252078037914994
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 40.54656313401183,
+						"confidence_age": 0.647972395924336,
+						"probability": 7.607927707218484e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 1.475799065429737e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.5091759389342769,
+						"confidence_age": 0.005412481565331063,
+						"probability": 6.920553165978414e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192306,
+						"confidence_age": 0.019648293384684688,
+						"probability": 5.124639585435706e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882764,
+						"confidence_age": 0.01465680472947003,
+						"probability": 3.9309073187044487e-10
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765313,
+						"confidence_age": 0.0074751543933519,
+						"probability": 1.6799573774629142e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.6412745577891271,
+						"confidence_age": 0.009243213628711434,
+						"probability": 1.3436868921694027e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.4451689680616217,
+						"confidence_age": 0.006082336185795958,
+						"probability": 7.699804646705024e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.013499898096515361,
+						"confidence_age": 0.00005858705589112285,
+						"probability": 3.887729548124947e-12
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.002673924822851602,
+						"confidence_age": 0.000018585689338160073,
+						"probability": 3.614540469232545e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 26,
+			"Finding": "blister or vesicle",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851985,
+						"confidence_age": 651.6175913979002,
+						"probability": 0.00001942096931734921
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.000002910750042921828
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.994984741812722,
+						"confidence_age": 0.35150064172803885,
+						"probability": 3.613765660928781e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558499,
+						"confidence_age": 0.04618605541911182,
+						"probability": 1.331908656550337e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.509175938934277,
+						"confidence_age": 0.0054124815653310634,
+						"probability": 6.245799232295519e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192306,
+						"confidence_age": 0.019648293384684688,
+						"probability": 4.624987225855724e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882766,
+						"confidence_age": 0.014656804729470034,
+						"probability": 3.547643855130767e-10
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765314,
+						"confidence_age": 0.007475154393351901,
+						"probability": 1.5161615331602809e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.44516896806162176,
+						"confidence_age": 0.006082336185795959,
+						"probability": 6.949073693651279e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.20872038994673184,
+						"confidence_age": 0.003008457344069463,
+						"probability": 3.829507642682797e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.01349989809651536,
+						"confidence_age": 0.000058587055891122846,
+						"probability": 3.5086759171827656e-12
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.0026739248228516022,
+						"confidence_age": 0.000018585689338160076,
+						"probability": 3.2621227734823715e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 27,
+			"Finding": "wheezing",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851988,
+						"confidence_age": 651.6175913979005,
+						"probability": 0.000018449920851481756
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.000002765212540775736
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.99498474181272,
+						"confidence_age": 0.3515006417280388,
+						"probability": 3.4330773778823417e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 1.2653132237228197e-9
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.509175938934277,
+						"confidence_age": 0.0054124815653310634,
+						"probability": 5.933509270680743e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192304,
+						"confidence_age": 0.019648293384684684,
+						"probability": 4.393737864562938e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882766,
+						"confidence_age": 0.014656804729470034,
+						"probability": 3.370261662374227e-10
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765313,
+						"confidence_age": 0.0074751543933519,
+						"probability": 1.4403534565022662e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.4451689680616217,
+						"confidence_age": 0.006082336185795958,
+						"probability": 6.60162000896872e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.2087203899467319,
+						"confidence_age": 0.003008457344069464,
+						"probability": 3.638032260548659e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.005732591409021609,
+						"confidence_age": 0.00002487838433150928,
+						"probability": 1.403470366873106e-12
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.002673924822851602,
+						"confidence_age": 0.000018585689338160073,
+						"probability": 3.099016634808253e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 28,
+			"Finding": "history of sexually transmitted infections",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851988,
+						"confidence_age": 651.6175913979005,
+						"probability": 0.000017527424808907666
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.000002626951913736948
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.994984741812722,
+						"confidence_age": 0.35150064172803885,
+						"probability": 3.2614235089882247e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 1.2020475625366789e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192304,
+						"confidence_age": 0.019648293384684684,
+						"probability": 4.174050971334791e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882766,
+						"confidence_age": 0.014656804729470034,
+						"probability": 3.201748579255514e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.21684826728271311,
+						"confidence_age": 0.0023050720966867294,
+						"probability": 2.373403708272297e-10
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.5471099698765314,
+						"confidence_age": 0.007475154393351901,
+						"probability": 1.3683357836771527e-10
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.4451689680616217,
+						"confidence_age": 0.006082336185795958,
+						"probability": 6.271539008520283e-11
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.20872038994673187,
+						"confidence_age": 0.0030084573440694634,
+						"probability": 3.4561306475212256e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.0057325914090216095,
+						"confidence_age": 0.000024878384331509283,
+						"probability": 1.33329684852945e-12
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.0026739248228516022,
+						"confidence_age": 0.000018585689338160076,
+						"probability": 2.94406580306784e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 29,
+			"Finding": "nasal drip",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851988,
+						"confidence_age": 651.6175913979005,
+						"probability": 0.000016651053568462278
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.0000024956043180501033
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.99498474181272,
+						"confidence_age": 0.3515006417280388,
+						"probability": 3.0983523335388143e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 1.141945184409845e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192306,
+						"confidence_age": 0.019648293384684688,
+						"probability": 3.9653484227680515e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882764,
+						"confidence_age": 0.01465680472947003,
+						"probability": 3.0416611502927403e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.21684826728271314,
+						"confidence_age": 0.0023050720966867294,
+						"probability": 2.2547335228586808e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.20872038994673187,
+						"confidence_age": 0.0030084573440694634,
+						"probability": 3.283324115145165e-11
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.2385908674866173,
+						"confidence_age": 0.0032598630430893433,
+						"probability": 3.13576950426014e-11
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.13113498174821725,
+						"confidence_age": 0.0017916950684677263,
+						"probability": 3.0596918283475605e-11
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.00460862297920371,
+						"confidence_age": 0.000020000569643812025,
+						"probability": 9.999726363970873e-13
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.002673924822851602,
+						"confidence_age": 0.000018585689338160073,
+						"probability": 2.796862512914447e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 30,
+			"Finding": "nasal congestion",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851985,
+						"confidence_age": 651.6175913979002,
+						"probability": 0.000015818500890039162
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.0000023708241021475957
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.99498474181272,
+						"confidence_age": 0.3515006417280388,
+						"probability": 2.9434347168618724e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558499,
+						"confidence_age": 0.04618605541911182,
+						"probability": 1.0848479251893528e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.2294825724192304,
+						"confidence_age": 0.019648293384684684,
+						"probability": 3.7670810016296476e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882766,
+						"confidence_age": 0.014656804729470034,
+						"probability": 2.889578092778104e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.21684826728271317,
+						"confidence_age": 0.00230507209668673,
+						"probability": 2.141996846715748e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.20872038994673184,
+						"confidence_age": 0.003008457344069463,
+						"probability": 3.1191579093879046e-11
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.11933723732393212,
+						"confidence_age": 0.0016305026831695017,
+						"probability": 1.5678847521300703e-11
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.02933294861128204,
+						"confidence_age": 0.00040077558764113494,
+						"probability": 6.8416789183857675e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.004608622979203711,
+						"confidence_age": 0.000020000569643812028,
+						"probability": 9.499740045772331e-13
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.002673924822851602,
+						"confidence_age": 0.000018585689338160073,
+						"probability": 2.657019387268724e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 31,
+			"Finding": "fever (with chills)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851985,
+						"confidence_age": 651.6175913979002,
+						"probability": 0.000015027575845537206
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.000002252282897040218
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.994984741812726,
+						"confidence_age": 0.3515006417280389,
+						"probability": 2.79626298101878e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558499,
+						"confidence_age": 0.04618605541911182,
+						"probability": 1.0306055289298849e-9
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.117490100476093,
+						"confidence_age": 0.017858547848654007,
+						"probability": 3.01366480130372e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882766,
+						"confidence_age": 0.014656804729470034,
+						"probability": 2.7450991881391986e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.21684826728271314,
+						"confidence_age": 0.0023050720966867294,
+						"probability": 2.03489700437996e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.2087203899467319,
+						"confidence_age": 0.003008457344069464,
+						"probability": 2.963200013918511e-11
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.029332948611282043,
+						"confidence_age": 0.000400775587641135,
+						"probability": 6.499594972466478e-12
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.05552473015234438,
+						"confidence_age": 0.0007586334619923729,
+						"probability": 6.271539008520279e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.004737364568792501,
+						"confidence_age": 0.000020559284283791228,
+						"probability": 7.599792036617864e-13
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.002673924822851602,
+						"confidence_age": 0.000018585689338160073,
+						"probability": 2.524168417905289e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 32,
+			"Finding": "cocoa consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851988,
+						"confidence_age": 651.6175913979005,
+						"probability": 0.00001427619705326035
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.0000021396687521882067
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.994984741812722,
+						"confidence_age": 0.35150064172803885,
+						"probability": 2.6564498319678405e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 9.790752524833902e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.1174901004760933,
+						"confidence_age": 0.01785854784865401,
+						"probability": 2.862981561238535e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882765,
+						"confidence_age": 0.014656804729470032,
+						"probability": 2.607844228732238e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.21684826728271314,
+						"confidence_age": 0.0023050720966867294,
+						"probability": 1.9331521541609624e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.20872038994673184,
+						"confidence_age": 0.003008457344069463,
+						"probability": 2.8150400132225854e-11
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.02933294861128204,
+						"confidence_age": 0.00040077558764113494,
+						"probability": 6.174615223843155e-12
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.05552473015234439,
+						"confidence_age": 0.000758633461992373,
+						"probability": 5.957962058094268e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.0047373645687925,
+						"confidence_age": 0.000020559284283791224,
+						"probability": 7.219802434786971e-13
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.001550194790513003,
+						"confidence_age": 0.000010774962161943994,
+						"probability": 1.3882926298479095e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 33,
+			"Finding": "caffeine consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851987,
+						"confidence_age": 651.6175913979004,
+						"probability": 0.000013562387200597335
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056684,
+						"confidence_age": 29.961986692428585,
+						"probability": 0.0000020326853145787966
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.994984741812726,
+						"confidence_age": 0.3515006417280389,
+						"probability": 2.5236273403694487e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 9.301214898592209e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.1174901004760933,
+						"confidence_age": 0.01785854784865401,
+						"probability": 2.7198324831766056e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882764,
+						"confidence_age": 0.01465680472947003,
+						"probability": 2.4774520172956256e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.21684826728271311,
+						"confidence_age": 0.0023050720966867294,
+						"probability": 1.8364945464529137e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.20872038994673187,
+						"confidence_age": 0.0030084573440694634,
+						"probability": 2.674288012561454e-11
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.029332948611282047,
+						"confidence_age": 0.000400775587641135,
+						"probability": 5.865884462650994e-12
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.055524730152344395,
+						"confidence_age": 0.0007586334619923732,
+						"probability": 5.660063955189553e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.004737364568792502,
+						"confidence_age": 0.00002055928428379123,
+						"probability": 6.858812313047628e-13
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.0008992013109637227,
+						"confidence_age": 0.00000625009202772397,
+						"probability": 7.635609464163502e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 34,
+			"Finding": "high fat consumption",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851986,
+						"confidence_age": 651.6175913979004,
+						"probability": 0.00001288426784056746
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056681,
+						"confidence_age": 29.96198669242858,
+						"probability": 0.0000019310510488498556
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.994984741812726,
+						"confidence_age": 0.3515006417280389,
+						"probability": 2.397445973350976e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558498,
+						"confidence_age": 0.04618605541911181,
+						"probability": 8.836154153662598e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.1174901004760933,
+						"confidence_age": 0.01785854784865401,
+						"probability": 2.583840859017776e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882765,
+						"confidence_age": 0.014656804729470032,
+						"probability": 2.3535794164308456e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.2168482672827131,
+						"confidence_age": 0.002305072096686729,
+						"probability": 1.7446698191302692e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.20872038994673192,
+						"confidence_age": 0.0030084573440694643,
+						"probability": 2.5405736119333812e-11
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.029332948611282043,
+						"confidence_age": 0.000400775587641135,
+						"probability": 5.572590239518449e-12
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.055524730152344395,
+						"confidence_age": 0.0007586334619923732,
+						"probability": 5.3770607574300785e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.0047373645687925,
+						"confidence_age": 0.000020559284283791224,
+						"probability": 6.515871697395242e-13
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.0005216996073035989,
+						"confidence_age": 0.0000036261852787784663,
+						"probability": 4.199585205289925e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 35,
+			"Finding": "frequent burping after meals",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "mononucleosis",
+						"instance": "mononucleosis #1",
+						"confidence": 7801.286289851986,
+						"confidence_age": 651.6175913979004,
+						"probability": 0.000012240054448539088
+					},
+					{
+						"disease": "tonsillopharyngitis",
+						"instance": "tonsillitis",
+						"confidence": 1877.7357278056677,
+						"confidence_age": 29.961986692428574,
+						"probability": 0.0000018344984964073623
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 21.994984741812726,
+						"confidence_age": 0.3515006417280389,
+						"probability": 2.277573674683428e-9
+					},
+					{
+						"disease": "epiglottitis",
+						"instance": "epiglottitis #1",
+						"confidence": 96.52484093558499,
+						"confidence_age": 0.04618605541911182,
+						"probability": 8.394346445979468e-10
+					},
+					{
+						"disease": "coronavirus disease 2019",
+						"instance": "coronavirus disease 2019 #1",
+						"confidence": 1.1174901004760933,
+						"confidence_age": 0.01785854784865401,
+						"probability": 2.454648816066887e-10
+					},
+					{
+						"disease": "laryngitis",
+						"instance": "laryngitis #1",
+						"confidence": 0.9171425542882765,
+						"confidence_age": 0.014656804729470032,
+						"probability": 2.2359004456093017e-10
+					},
+					{
+						"disease": "hiv infection",
+						"instance": "hiv infection #1",
+						"confidence": 0.21684826728271311,
+						"confidence_age": 0.0023050720966867294,
+						"probability": 1.6574363281737546e-10
+					},
+					{
+						"disease": "hand foot and mouth disease",
+						"instance": "hand foot and mouth disease#1",
+						"confidence": 0.2087203899467318,
+						"confidence_age": 0.0030084573440694626,
+						"probability": 2.4135449313367126e-11
+					},
+					{
+						"disease": "common cold",
+						"instance": "common cold #1",
+						"confidence": 0.029332948611282043,
+						"confidence_age": 0.000400775587641135,
+						"probability": 5.2939607275425236e-12
+					},
+					{
+						"disease": "influenza",
+						"instance": "influenza #1",
+						"confidence": 0.055524730152344395,
+						"confidence_age": 0.0007586334619923732,
+						"probability": 5.10820771955857e-12
+					},
+					{
+						"disease": "acute bronchitis",
+						"instance": "acute bronchitis #1",
+						"confidence": 0.004737364568792501,
+						"confidence_age": 0.000020559284283791228,
+						"probability": 6.190078112525483e-13
+					},
+					{
+						"disease": "gastroesophageal reflux",
+						"instance": "gastroesophageal reflux #1",
+						"confidence": 0.0003031838532776095,
+						"confidence_age": 0.0000021073445525497786,
+						"probability": 2.3097718629094608e-14
+					}
+				],
+				"urgency": 3,
+				"specialist": "infectious disease specialist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "mononucleosis",
+				"instance": "mononucleosis #1",
+				"confidence": 7801.286289851986,
+				"confidence_age": 651.6175913979004,
+				"probability": 0.000012240054448539095
+			},
+			{
+				"disease": "tonsillopharyngitis",
+				"instance": "tonsillitis",
+				"confidence": 1877.7357278056681,
+				"confidence_age": 29.96198669242858,
+				"probability": 0.0000018344984964073627
+			},
+			{
+				"disease": "cat scratch disease",
+				"instance": "cat scratch disease #1",
+				"confidence": 21.99498474181272,
+				"confidence_age": 0.3515006417280388,
+				"probability": 2.2775736746834268e-9
+			},
+			{
+				"disease": "epiglottitis",
+				"instance": "epiglottitis #1",
+				"confidence": 96.52484093558498,
+				"confidence_age": 0.04618605541911181,
+				"probability": 8.394346445979468e-10
+			},
+			{
+				"disease": "coronavirus disease 2019",
+				"instance": "coronavirus disease 2019 #1",
+				"confidence": 1.1174901004760933,
+				"confidence_age": 0.01785854784865401,
+				"probability": 2.4546488160668876e-10
+			},
+			{
+				"disease": "laryngitis",
+				"instance": "laryngitis #1",
+				"confidence": 0.9171425542882766,
+				"confidence_age": 0.014656804729470034,
+				"probability": 2.2359004456093012e-10
+			},
+			{
+				"disease": "hiv infection",
+				"instance": "hiv infection #1",
+				"confidence": 0.2168482672827131,
+				"confidence_age": 0.002305072096686729,
+				"probability": 1.6574363281737536e-10
+			},
+			{
+				"disease": "hand foot and mouth disease",
+				"instance": "hand foot and mouth disease#1",
+				"confidence": 0.20872038994673187,
+				"confidence_age": 0.0030084573440694634,
+				"probability": 2.4135449313367122e-11
+			},
+			{
+				"disease": "common cold",
+				"instance": "common cold #1",
+				"confidence": 0.02933294861128204,
+				"confidence_age": 0.00040077558764113494,
+				"probability": 5.293960727542521e-12
+			},
+			{
+				"disease": "influenza",
+				"instance": "influenza #1",
+				"confidence": 0.055524730152344395,
+				"confidence_age": 0.0007586334619923732,
+				"probability": 5.108207719558572e-12
+			},
+			{
+				"disease": "acute bronchitis",
+				"instance": "acute bronchitis #1",
+				"confidence": 0.0047373645687925,
+				"confidence_age": 0.000020559284283791224,
+				"probability": 6.190078112525483e-13
+			},
+			{
+				"disease": "gastroesophageal reflux",
+				"instance": "gastroesophageal reflux #1",
+				"confidence": 0.0003031838532776096,
+				"confidence_age": 0.0000021073445525497794,
+				"probability": 2.3097718629094596e-14
+			}
+		],
+		"urgency": 3,
+		"specialist": "infectious disease specialist"
+	},
+	"Case": {
+		"chief_findings": [
+			"sore throat"
+		],
+		"findings": {
+			"alcohol consumption": false,
+			"allergic rhinitis": false,
+			"anorexia or loss of appetite": false,
+			"blister or vesicle": false,
+			"blister or vesicle (at lips)": false,
+			"caffeine consumption": false,
+			"chest discomfort (occurs or worsens when exposed to allergens or weather changes)": false,
+			"chronic cough": false,
+			"chronic throat clearing": false,
+			"cocoa consumption": false,
+			"diaphoresis": false,
+			"dry cough or productive cough": false,
+			"dry cough or productive cough (dry at first then production of clear/white mucus)": false,
+			"dry cough or productive cough (dry at first then production of yellowish-gray mucus)": false,
+			"dry cough or productive cough (occurs or worsens when exposed to allergens or weather changes)": false,
+			"dry cough or productive cough (production of pink, frothy mucus)": false,
+			"dysphagia": true,
+			"dyspnea (occurs or worsens when exposed to allergens or weather changes)": false,
+			"fatigue": true,
+			"fever": true,
+			"fever (with chills)": false,
+			"fissured skin at lower extremity": false,
+			"frequent burping after meals": false,
+			"headache (occurs or worsens when exposed to allergens)": false,
+			"heartburn": false,
+			"hiatus hernia": false,
+			"high fat consumption": false,
+			"history of allergy": false,
+			"history of sexually transmitted infections": false,
+			"itchy eyes (occurs or worsens when exposed to allergens)": false,
+			"lachrymation (occurs or worsens when exposed to allergens)": false,
+			"lymphadenopathy": true,
+			"lymphadenopathy (beneath jaw or at neck)": true,
+			"lymphadenopathy (posterior auricular)": false,
+			"lymphadenopathy (tender)": true,
+			"multiple sexual partners": false,
+			"myalgia": false,
+			"nasal congestion": false,
+			"nasal congestion (occurs or worsens when exposed to allergens)": false,
+			"nasal drip": false,
+			"nasal drip (occurs or worsens when exposed to allergens)": false,
+			"oral ulcers": false,
+			"overusing voice box": false,
+			"periorbital edema (occurs or worsens when exposed to allergens)": false,
+			"photophobia (occurs or worsens when exposed to allergens)": false,
+			"pruritus": false,
+			"pruritus ( around the anus)": false,
+			"recent cat scratch or cat bite  ": false,
+			"recent sex": false,
+			"recent upper respiratory tract infection": false,
+			"red eye (occurs or worsens when exposed to allergens)": false,
+			"skin erythema": false,
+			"smoking": false,
+			"sneezing": false,
+			"sneezing (occurs or worsens when exposed to allergens)": false,
+			"sore throat": true,
+			"wheezing": false,
+			"wheezing (occurs or worsens when exposed to allergens or weather changes)": false
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 19,
+		"sex": "male",
+		"next_concept": "",
+		"question_count": 35
+	}
+}

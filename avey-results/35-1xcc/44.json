@@ -1,0 +1,4465 @@
+{
+	"Time": "2021-12-02T08:57:59.3130512+03:00",
+	"Age": 21,
+	"Sex": "female",
+	"ChiefSymptoms": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 0,
+			"Finding": "overweight or obese",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 10.395952526314892,
+						"confidence_age": 0.1808827427764668,
+						"probability": 0.01350873155110194
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 3.830087772852855,
+						"confidence_age": 0.07441899389694748,
+						"probability": 0.0068005354990939735
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 3.830087772852855,
+						"confidence_age": 0.05972694436198955,
+						"probability": 0.005457950774617784
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 7.66017554570571,
+						"confidence_age": 0.03392549905338348,
+						"probability": 0.0031001703806489748
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 3.830087772852855,
+						"confidence_age": 0.028735242647414207,
+						"probability": 0.002625875834459984
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 2.7357769806091823,
+						"confidence_age": 0.016981008862598124,
+						"probability": 0.001551753759805461
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 1.6414661883655093,
+						"confidence_age": 0.009860081920049746,
+						"probability": 0.00031675309843164935
+					}
+				],
+				"urgency": 3,
+				"specialist": "nephrologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 0,
+			"Finding": "pimples or bumps",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.0062579716478164665
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 56.224739934340995,
+						"confidence_age": 0.9782735295754748,
+						"probability": 0.004728056042885678
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 11.414044949076743,
+						"confidence_age": 0.23091094117126765,
+						"probability": 0.001365553456167292
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 6.254231542695068,
+						"confidence_age": 0.16037521819140285,
+						"probability": 0.0011539203128867908
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 6.601688850622571,
+						"confidence_age": 0.14302609413271303,
+						"probability": 0.0008410309069514688
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 6.601688850622571,
+						"confidence_age": 0.1382856516497154,
+						"probability": 0.0008131558631351469
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 5.211859618912556,
+						"confidence_age": 0.08127449498355124,
+						"probability": 0.00038985362675841314
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 1.7825366388480302,
+						"confidence_age": 0.03463486768834766,
+						"probability": 0.00034002677495469867
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 3.4745730792750376,
+						"confidence_age": 0.0452103524010416,
+						"probability": 0.0003252942978139537
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 3.4745730792750376,
+						"confidence_age": 0.044688730919584876,
+						"probability": 0.0003215411641946893
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 1.7825366388480302,
+						"confidence_age": 0.027797134939386247,
+						"probability": 0.00027289753873088914
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.5650732776960603,
+						"confidence_age": 0.015789049400509264,
+						"probability": 0.00015500851903244874
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.7825366388480302,
+						"confidence_age": 0.01337348538283019,
+						"probability": 0.0001312937917229992
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 1.2732404563200215,
+						"confidence_age": 0.007903022660924058,
+						"probability": 0.00007758768799027306
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.7639442737920129,
+						"confidence_age": 0.004588917624579708,
+						"probability": 0.000015837654921582472
+					}
+				],
+				"urgency": 3,
+				"specialist": ""
+			}
+		}
+	],
+	"AskedFindings": [
+		{
+			"EntryNumber": 1,
+			"QuestionNumber": 1,
+			"Finding": "skin erythema",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.00564781941215436
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 11.414044949076743,
+						"confidence_age": 0.23091094117126765,
+						"probability": 0.0012324119941909807
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 6.254231542695068,
+						"confidence_age": 0.16037521819140285,
+						"probability": 0.0010414130823803286
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 6.43510167965066,
+						"confidence_age": 0.11196654071998427,
+						"probability": 0.00044916532407413934
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 1.7825366388480302,
+						"confidence_age": 0.03463486768834766,
+						"probability": 0.00030687416439661546
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 3.4745730792750376,
+						"confidence_age": 0.0452103524010416,
+						"probability": 0.00029357810377709316
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 1.7825366388480302,
+						"confidence_age": 0.027797134939386247,
+						"probability": 0.0002462900287046274
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.5650732776960603,
+						"confidence_age": 0.015789049400509264,
+						"probability": 0.00013989518842678496
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.7825366388480302,
+						"confidence_age": 0.01337348538283019,
+						"probability": 0.00011849264703000675
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 1.2732404563200215,
+						"confidence_age": 0.007903022660924058,
+						"probability": 0.00007002288841122142
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.008184897428268412,
+						"probability": 0.000039948968080194795
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.007913618010878051,
+						"probability": 0.00003862490349891951
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.5965140368267449,
+						"confidence_age": 0.009302126426768323,
+						"probability": 0.00003703609454204924
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.19883801227558184,
+						"confidence_age": 0.00255738423812994,
+						"probability": 0.000015273205299247753
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.7639442737920129,
+						"confidence_age": 0.004588917624579708,
+						"probability": 0.000014293483566728178
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 2,
+			"QuestionNumber": 2,
+			"Finding": "periorbital edema",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.0053654284415466415
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 11.414044949076743,
+						"confidence_age": 0.23091094117126765,
+						"probability": 0.0011707913944814317
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 6.254231542695068,
+						"confidence_age": 0.16037521819140285,
+						"probability": 0.000989342428261312
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 6.43510167965066,
+						"confidence_age": 0.11196654071998427,
+						"probability": 0.0004267070578704323
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 3.4745730792750376,
+						"confidence_age": 0.0452103524010416,
+						"probability": 0.0002788991985882385
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 1.2054759642445667,
+						"confidence_age": 0.023422520251856326,
+						"probability": 0.00019362450785726675
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 1.2054759642445667,
+						"confidence_age": 0.01879836706523358,
+						"probability": 0.00015539850248342228
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.5650732776960603,
+						"confidence_age": 0.015789049400509264,
+						"probability": 0.0001329004290054457
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.6632309440467878,
+						"confidence_age": 0.012478394123138647,
+						"probability": 0.0001031538406184212
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 1.2732404563200215,
+						"confidence_age": 0.007903022660924058,
+						"probability": 0.00006652174399066036
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.008184897428268412,
+						"probability": 0.000037951519676185056
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.007913618010878051,
+						"probability": 0.00003669365832397353
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.5965140368267449,
+						"confidence_age": 0.009302126426768323,
+						"probability": 0.00003518428981494678
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.19883801227558184,
+						"confidence_age": 0.00255738423812994,
+						"probability": 0.000014509545034285365
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.7639442737920129,
+						"confidence_age": 0.004588917624579708,
+						"probability": 0.000013578809388391768
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 3,
+			"QuestionNumber": 3,
+			"Finding": "symptoms appear before every period",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.00509715701946931
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 6.254231542695068,
+						"confidence_age": 0.16037521819140285,
+						"probability": 0.0009398753068482465
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 6.43510167965066,
+						"confidence_age": 0.11196654071998427,
+						"probability": 0.0004053717049769107
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 3.4745730792750376,
+						"confidence_age": 0.0452103524010416,
+						"probability": 0.0002649542386588265
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 1.2054759642445667,
+						"confidence_age": 0.023422520251856326,
+						"probability": 0.00018394328246440343
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 1.2054759642445667,
+						"confidence_age": 0.01879836706523358,
+						"probability": 0.00014762857735925116
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.5650732776960603,
+						"confidence_age": 0.015789049400509264,
+						"probability": 0.00012625540755517342
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.6632309440467878,
+						"confidence_age": 0.012478394123138647,
+						"probability": 0.00009799614858750015
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 1.2732404563200215,
+						"confidence_age": 0.007903022660924058,
+						"probability": 0.00006319565679112732
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.602604857559953,
+						"confidence_age": 0.01219095031028433,
+						"probability": 0.00005853956972407164
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.008184897428268412,
+						"probability": 0.000036053943692375805
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.007913618010878051,
+						"probability": 0.00003485897540777485
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.5965140368267449,
+						"confidence_age": 0.009302126426768323,
+						"probability": 0.00003342507532419944
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.19883801227558184,
+						"confidence_age": 0.00255738423812994,
+						"probability": 0.000013784067782571098
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.7639442737920129,
+						"confidence_age": 0.004588917624579708,
+						"probability": 0.00001289986891897218
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 4,
+			"QuestionNumber": 4,
+			"Finding": "cronkhite canada syndrome",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.004842299168495844
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 6.254231542695068,
+						"confidence_age": 0.16037521819140285,
+						"probability": 0.0008928815415058342
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 6.43510167965066,
+						"confidence_age": 0.11196654071998427,
+						"probability": 0.00038510311972806517
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 3.4745730792750376,
+						"confidence_age": 0.0452103524010416,
+						"probability": 0.0002517065267258852
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 1.2054759642445667,
+						"confidence_age": 0.023422520251856326,
+						"probability": 0.00017474611834118322
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 1.2054759642445667,
+						"confidence_age": 0.01879836706523358,
+						"probability": 0.00014024714849128857
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.5650732776960603,
+						"confidence_age": 0.015789049400509264,
+						"probability": 0.00011994263717741472
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.6632309440467878,
+						"confidence_age": 0.012478394123138647,
+						"probability": 0.00009309634115812511
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 1.2732404563200215,
+						"confidence_age": 0.007903022660924058,
+						"probability": 0.00006003587395157097
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.602604857559953,
+						"confidence_age": 0.01219095031028433,
+						"probability": 0.00005561259123786806
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.008184897428268412,
+						"probability": 0.00003425124650775701
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.007913618010878051,
+						"probability": 0.00003311602663738611
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.5965140368267449,
+						"confidence_age": 0.009302126426768323,
+						"probability": 0.000031753821557989464
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.19883801227558184,
+						"confidence_age": 0.00255738423812994,
+						"probability": 0.000013094864393442542
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.7639442737920129,
+						"confidence_age": 0.004588917624579708,
+						"probability": 0.00001225487547302357
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 5,
+			"QuestionNumber": 5,
+			"Finding": "swelling in the area below the knee and above the ankle region",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.004600184210071051
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 6.254231542695068,
+						"confidence_age": 0.16037521819140285,
+						"probability": 0.0008482374644305424
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 6.43510167965066,
+						"confidence_age": 0.11196654071998427,
+						"probability": 0.00036584796374166187
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 3.4745730792750376,
+						"confidence_age": 0.0452103524010416,
+						"probability": 0.00023912120038959092
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.5650732776960603,
+						"confidence_age": 0.015789049400509264,
+						"probability": 0.00011394550531854399
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.8117525667524256,
+						"confidence_age": 0.015772434704801486,
+						"probability": 0.00011025734678677453
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.8117525667524256,
+						"confidence_age": 0.012658587287155357,
+						"probability": 0.00008848996838298277
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.5452959709609795,
+						"confidence_age": 0.01159358670638518,
+						"probability": 0.00008104507223601396
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 1.2528094120571827,
+						"confidence_age": 0.007776206861917609,
+						"probability": 0.00005535034089289405
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.5929351628399209,
+						"confidence_age": 0.011995328309617331,
+						"probability": 0.00005127227573027815
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.008184897428268412,
+						"probability": 0.00003253868418236916
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.007913618010878051,
+						"probability": 0.000031460225305516804
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.5965140368267449,
+						"confidence_age": 0.009302126426768323,
+						"probability": 0.000030166130480089988
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.19883801227558184,
+						"confidence_age": 0.00255738423812994,
+						"probability": 0.000012440121173770414
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.7639442737920129,
+						"confidence_age": 0.004588917624579708,
+						"probability": 0.00001164213169937239
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 6,
+			"QuestionNumber": 6,
+			"Finding": "dry cough or productive cough",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.0035595348507414743
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 6.254231542695068,
+						"confidence_age": 0.16037521819140285,
+						"probability": 0.0006563499804496879
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 6.43510167965066,
+						"confidence_age": 0.11196654071998427,
+						"probability": 0.00028308618036648904
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 2.728747431387295,
+						"confidence_age": 0.03550583918419039,
+						"probability": 0.00013633599855737696
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.5650732776960603,
+						"confidence_age": 0.015789049400509264,
+						"probability": 0.0000881688599292942
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.8117525667524256,
+						"confidence_age": 0.015772434704801486,
+						"probability": 0.00008531503316293302
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.7741167162422852,
+						"confidence_age": 0.01207168837445473,
+						"probability": 0.00006126428746370558
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.3869650220239331,
+						"confidence_age": 0.010405708384496873,
+						"probability": 0.000052809374294347885
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.5929351628399208,
+						"confidence_age": 0.01199532830961733,
+						"probability": 0.0000396735095823331
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.008184897428268412,
+						"probability": 0.000025177813551650024
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.007913618010878051,
+						"probability": 0.000024343322630864008
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.5965140368267449,
+						"confidence_age": 0.009302126426768323,
+						"probability": 0.00002334197672363135
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.19883801227558184,
+						"confidence_age": 0.00255738423812994,
+						"probability": 0.000009625928624453672
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.34283529059681733,
+						"confidence_age": 0.0020593686755952605,
+						"probability": 0.000003793035612984773
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.07027791384460126,
+						"confidence_age": 0.0004362160681585771,
+						"probability": 0.000002254159929844641
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 7,
+			"QuestionNumber": 7,
+			"Finding": "face swelling",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.0033815581082044
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 6.254231542695068,
+						"confidence_age": 0.16037521819140285,
+						"probability": 0.0006235324814272034
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 2.728747431387295,
+						"confidence_age": 0.03550583918419039,
+						"probability": 0.00012951919862950808
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.5650732776960603,
+						"confidence_age": 0.015789049400509264,
+						"probability": 0.00008376041693282949
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.5513779838075081,
+						"confidence_age": 0.010713330149433774,
+						"probability": 0.00005383014676872381
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.2998261205142556,
+						"confidence_age": 0.009751948568166443,
+						"probability": 0.00004597323053926041
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.5258140617170827,
+						"confidence_age": 0.00819962075843907,
+						"probability": 0.00003865515212957084
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.5929351628399209,
+						"confidence_age": 0.011995328309617331,
+						"probability": 0.00003768983410321645
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 0.6927573846227582,
+						"confidence_age": 0.012053523281491434,
+						"probability": 0.000028308618036648898
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.008184897428268412,
+						"probability": 0.000023918922874067514
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.007913618010878051,
+						"probability": 0.0000231261564993208
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.5965140368267449,
+						"confidence_age": 0.009302126426768323,
+						"probability": 0.00002217487788744978
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.11773019217515114,
+						"confidence_age": 0.001514204122114504,
+						"probability": 0.000005294260743449519
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.34283529059681733,
+						"confidence_age": 0.0020593686755952605,
+						"probability": 0.000003603383832335535
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.07027791384460126,
+						"confidence_age": 0.0004362160681585771,
+						"probability": 0.000002141451933352409
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 8,
+			"QuestionNumber": 8,
+			"Finding": "crust in face",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.00321248020279418
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 2.728747431387295,
+						"confidence_age": 0.03550583918419039,
+						"probability": 0.0001230432386980327
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.5650732776960603,
+						"confidence_age": 0.015789049400509264,
+						"probability": 0.00007957239608618801
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.5513779838075081,
+						"confidence_age": 0.010713330149433774,
+						"probability": 0.00005113863943028764
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.2998261205142556,
+						"confidence_age": 0.009751948568166443,
+						"probability": 0.00004367456901229738
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.5258140617170827,
+						"confidence_age": 0.00819962075843907,
+						"probability": 0.000036722394523092315
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.5929351628399209,
+						"confidence_age": 0.011995328309617331,
+						"probability": 0.00003580534239805563
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 3.970170979789327,
+						"confidence_age": 0.10180579864916792,
+						"probability": 0.000031176624071360196
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 0.6927573846227582,
+						"confidence_age": 0.012053523281491434,
+						"probability": 0.000026893187134816457
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.008184897428268412,
+						"probability": 0.00002272297673036414
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.5965140368267449,
+						"confidence_age": 0.009302126426768323,
+						"probability": 0.00002106613399307729
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.15031229904696022,
+						"confidence_age": 0.0031485934425272964,
+						"probability": 0.000008696829566254584
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.11773019217515114,
+						"confidence_age": 0.001514204122114504,
+						"probability": 0.000005029547706277043
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.34283529059681733,
+						"confidence_age": 0.0020593686755952605,
+						"probability": 0.0000034232146407187577
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.07027791384460126,
+						"confidence_age": 0.0004362160681585771,
+						"probability": 0.0000020343793366847884
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 9,
+			"QuestionNumber": 9,
+			"Finding": "smoking",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 38.04681649692248,
+						"confidence_age": 1.0582039952329632,
+						"probability": 0.0030518561926544713
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 2.728747431387295,
+						"confidence_age": 0.03550583918419039,
+						"probability": 0.00011689107676313104
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 3.57010821973047,
+						"confidence_age": 0.015811348226456922,
+						"probability": 0.00007161515647756917
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.5513779838075082,
+						"confidence_age": 0.010713330149433778,
+						"probability": 0.00004858170745877324
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.2998261205142554,
+						"confidence_age": 0.00975194856816644,
+						"probability": 0.00004149084056168249
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.5258140617170827,
+						"confidence_age": 0.00819962075843907,
+						"probability": 0.000034886274796937685
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 3.970170979789327,
+						"confidence_age": 0.10180579864916792,
+						"probability": 0.00002961779286779218
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 0.6927573846227582,
+						"confidence_age": 0.012053523281491434,
+						"probability": 0.00002554852777807563
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.37779222332360546,
+						"confidence_age": 0.008184897428268412,
+						"probability": 0.000021586827893845936
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.5965140368267449,
+						"confidence_age": 0.009302126426768323,
+						"probability": 0.00002001282729342342
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.3628610109350569,
+						"confidence_age": 0.007340831223566288,
+						"probability": 0.00001969293831893059
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.15031229904696022,
+						"confidence_age": 0.0031485934425272964,
+						"probability": 0.000008261988087941856
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.11773019217515114,
+						"confidence_age": 0.001514204122114504,
+						"probability": 0.00000477807032096319
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.057219912637362355,
+						"confidence_age": 0.0003437128526078737,
+						"probability": 5.134821961078138e-7
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.007819685236261755,
+						"confidence_age": 0.00004853690386345773,
+						"probability": 2.0343793366847877e-7
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 10,
+			"QuestionNumber": 10,
+			"Finding": "irregular menstruation",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 435.8861256409517,
+						"confidence_age": 12.123391181945076,
+						"probability": 0.0018698773717373965
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 7.469765136620664,
+						"confidence_age": 0.1299690049938045,
+						"probability": 0.000020438822222460503
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 1.255034188908423,
+						"confidence_age": 0.016330218608538814,
+						"probability": 0.0000058445538381565516
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 1.642001682649971,
+						"confidence_age": 0.00727212140218174,
+						"probability": 0.0000035807578238784597
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.25359555550291657,
+						"confidence_age": 0.004927387364600115,
+						"probability": 0.000002429085372938662
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.5978296862939143,
+						"confidence_age": 0.004485218646748522,
+						"probability": 0.000002074542028084126
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.2418379278613711,
+						"confidence_age": 0.0037712557305798,
+						"probability": 0.000001744313739846885
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 1.8260027506153083,
+						"confidence_age": 0.046823592562714594,
+						"probability": 0.0000014808896433896094
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.17375816871911712,
+						"confidence_age": 0.0037644840218733753,
+						"probability": 0.0000010793413946922968
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.274355003240711,
+						"confidence_age": 0.004278331721308295,
+						"probability": 0.0000010006413646711712
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.16689084863887266,
+						"confidence_age": 0.0033762722246148875,
+						"probability": 9.846469159465298e-7
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.06913321187129945,
+						"confidence_age": 0.0014481341775686564,
+						"probability": 4.1309940439709277e-7
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.05414770694679308,
+						"confidence_age": 0.0006964286692057885,
+						"probability": 2.3890351604815943e-7
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.026317183415444645,
+						"confidence_age": 0.00015808402647613816,
+						"probability": 2.567410980539068e-8
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.003596511793332782,
+						"confidence_age": 0.000022323602789955303,
+						"probability": 1.017189668342394e-8
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 11,
+			"QuestionNumber": 11,
+			"Finding": "hypertensive",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 201.30111371616402,
+						"confidence_age": 5.598829610265035,
+						"probability": 0.00008881917515752639
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 84.23508244935148,
+						"confidence_age": 1.4656350837378767,
+						"probability": 0.000015533504889069983
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 13.887399194310651,
+						"confidence_age": 0.06150471949492903,
+						"probability": 0.0000012502833428289779
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 2.5567116343598943,
+						"confidence_age": 0.039869732129225385,
+						"probability": 0.000001242823539640905
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 3.538193853685303,
+						"confidence_age": 0.04603817140656829,
+						"probability": 0.0000011104652292497449
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 3.370804302049311,
+						"confidence_age": 0.025289467312700112,
+						"probability": 7.883259706719676e-7
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.8936711084567525,
+						"confidence_age": 0.01736412027878516,
+						"probability": 5.769077760729322e-7
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.843285357631274,
+						"confidence_age": 0.021624091194016194,
+						"probability": 7.034225806100643e-8
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.08024507049635084,
+						"confidence_age": 0.001738515592932696,
+						"probability": 5.1268716247884096e-8
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.1267027428889749,
+						"confidence_age": 0.001975820953420224,
+						"probability": 4.753046482188064e-8
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.07707360185103473,
+						"confidence_age": 0.0015592314575843297,
+						"probability": 4.6770728507460154e-8
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.03192712895829012,
+						"confidence_age": 0.000668777934434957,
+						"probability": 1.9622221708861908e-8
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.02500651677668783,
+						"confidence_age": 0.00032162498067320937,
+						"probability": 1.1347917012287578e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.012153812704204708,
+						"confidence_age": 0.00007300643153894512,
+						"probability": 1.2195202157560575e-9
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0016609425877610196,
+						"confidence_age": 0.000010309495621516696,
+						"probability": 4.831650924626372e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 12,
+			"QuestionNumber": 12,
+			"Finding": "use of steroids",
+			"Answer": null,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 201.30111371616402,
+						"confidence_age": 5.598829610265035,
+						"probability": 0.00008881917515752636
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 84.23508244935147,
+						"confidence_age": 1.4656350837378764,
+						"probability": 0.00001553350488906998
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 13.887399194310651,
+						"confidence_age": 0.06150471949492903,
+						"probability": 0.0000012502833428289779
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 2.5567116343598935,
+						"confidence_age": 0.03986973212922537,
+						"probability": 0.0000012428235396409053
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 3.538193853685303,
+						"confidence_age": 0.04603817140656829,
+						"probability": 0.0000011104652292497445
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 3.370804302049312,
+						"confidence_age": 0.02528946731270012,
+						"probability": 7.883259706719679e-7
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.8936711084567522,
+						"confidence_age": 0.017364120278785155,
+						"probability": 5.769077760729324e-7
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.843285357631274,
+						"confidence_age": 0.021624091194016194,
+						"probability": 7.034225806100645e-8
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.08024507049635084,
+						"confidence_age": 0.001738515592932696,
+						"probability": 5.126871624788408e-8
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.1267027428889749,
+						"confidence_age": 0.001975820953420224,
+						"probability": 4.753046482188063e-8
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.07707360185103475,
+						"confidence_age": 0.00155923145758433,
+						"probability": 4.677072850746016e-8
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.03192712895829012,
+						"confidence_age": 0.000668777934434957,
+						"probability": 1.9622221708861908e-8
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.025006516776687828,
+						"confidence_age": 0.0003216249806732093,
+						"probability": 1.1347917012287575e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.012153812704204708,
+						"confidence_age": 0.00007300643153894512,
+						"probability": 1.2195202157560571e-9
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0016609425877610196,
+						"confidence_age": 0.000010309495621516696,
+						"probability": 4.831650924626372e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 13,
+			"QuestionNumber": 13,
+			"Finding": "oliguria",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 201.30111371616402,
+						"confidence_age": 5.598829610265035,
+						"probability": 0.00008437821639965003
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 84.23508244935148,
+						"confidence_age": 1.4656350837378767,
+						"probability": 0.000014756829644616481
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 13.88739919431065,
+						"confidence_age": 0.06150471949492902,
+						"probability": 0.0000011877691756875288
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 3.5381938536853026,
+						"confidence_age": 0.04603817140656828,
+						"probability": 0.0000010549419677872576
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 1.7692497627795165,
+						"confidence_age": 0.027589937466442265,
+						"probability": 8.078353007665885e-7
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.8936711084567522,
+						"confidence_age": 0.017364120278785155,
+						"probability": 5.480623872692856e-7
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 1.6048800522539666,
+						"confidence_age": 0.01204061641834448,
+						"probability": 3.5255009177020497e-7
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.843285357631274,
+						"confidence_age": 0.021624091194016194,
+						"probability": 6.682514515795613e-8
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.08024507049635084,
+						"confidence_age": 0.001738515592932696,
+						"probability": 4.8705280435489895e-8
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.12670274288897487,
+						"confidence_age": 0.0019758209534202235,
+						"probability": 4.515394158078661e-8
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.07707360185103475,
+						"confidence_age": 0.00155923145758433,
+						"probability": 4.443219208208715e-8
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.03192712895829012,
+						"confidence_age": 0.000668777934434957,
+						"probability": 1.864111062341881e-8
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.025006516776687828,
+						"confidence_age": 0.0003216249806732093,
+						"probability": 1.0780521161673199e-8
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.012153812704204707,
+						"confidence_age": 0.00007300643153894512,
+						"probability": 1.1585442049682545e-9
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0016609425877610196,
+						"confidence_age": 0.000010309495621516696,
+						"probability": 4.5900683783950545e-10
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 14,
+			"QuestionNumber": 14,
+			"Finding": "hirsutism",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 2597.511961325427,
+						"confidence_age": 72.24513870594961,
+						"probability": 0.00005906475147975502
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 1086.937027750059,
+						"confidence_age": 18.911990056424777,
+						"probability": 0.000010329780751231543
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 6.5454086043675614,
+						"confidence_age": 0.028988402692150368,
+						"probability": 5.9388458784376473e-8
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 1.667621429311248,
+						"confidence_age": 0.021698709674692163,
+						"probability": 5.274709838936286e-8
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.8338827492851623,
+						"confidence_age": 0.013003688564003881,
+						"probability": 4.039176503832943e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.42120504213372834,
+						"confidence_age": 0.008184056689793693,
+						"probability": 2.7403119363464278e-8
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.7564120218639979,
+						"confidence_age": 0.005674982997450541,
+						"probability": 1.7627504588510248e-8
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.39745723144749745,
+						"confidence_age": 0.010191866063800306,
+						"probability": 3.3412572578978064e-9
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.03782110440809347,
+						"confidence_age": 0.0008193971212025558,
+						"probability": 2.435264021774494e-9
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.059717533275937,
+						"confidence_age": 0.0009312438771476103,
+						"probability": 2.2576970790393302e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.03632632789385327,
+						"confidence_age": 0.0007348969274861871,
+						"probability": 2.221609604104358e-9
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.015047893538046891,
+						"confidence_age": 0.00031520839757058776,
+						"probability": 9.320555311709405e-10
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.011786070795923356,
+						"confidence_age": 0.00015158827700008896,
+						"probability": 5.390260580836598e-10
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.005728334667773054,
+						"confidence_age": 0.00003440938929478961,
+						"probability": 5.792721024841272e-11
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0007828354145494231,
+						"confidence_age": 0.000004859071191343736,
+						"probability": 2.2950341891975265e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 15,
+			"QuestionNumber": 15,
+			"Finding": "arthralgia",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 2597.511961325427,
+						"confidence_age": 72.24513870594961,
+						"probability": 0.00003359603609197082
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 1086.937027750059,
+						"confidence_age": 18.911990056424777,
+						"probability": 0.000005875580244496095
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 6.545408604367561,
+						"confidence_age": 0.028988402692150365,
+						"probability": 3.3780160836710044e-8
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.8338827492851626,
+						"confidence_age": 0.013003688564003886,
+						"probability": 2.297483968101085e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.4212050421337284,
+						"confidence_age": 0.008184056689793693,
+						"probability": 1.5586896822601323e-8
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.756412021863998,
+						"confidence_age": 0.005674982997450542,
+						"probability": 1.0026526236548346e-8
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.2871247112968516,
+						"confidence_age": 0.0037360012538537398,
+						"probability": 4.737245436502911e-9
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.39745723144749745,
+						"confidence_age": 0.010191866063800306,
+						"probability": 1.900507436611662e-9
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.03782110440809348,
+						"confidence_age": 0.0008193971212025559,
+						"probability": 1.3851784003028745e-9
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.059717533275937,
+						"confidence_age": 0.0009312438771476103,
+						"probability": 1.2841783068898643e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.036326327893853275,
+						"confidence_age": 0.0007348969274861872,
+						"probability": 1.263651747816828e-9
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.015047893538046895,
+						"confidence_age": 0.0003152083975705878,
+						"probability": 5.301532721368157e-10
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.011786070795923356,
+						"confidence_age": 0.00015158827700008896,
+						"probability": 3.065980715774022e-10
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.005728334667773054,
+						"confidence_age": 0.00003440938929478961,
+						"probability": 3.294900253461504e-11
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0007828354145494232,
+						"confidence_age": 0.000004859071191343737,
+						"probability": 1.3054156585931832e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 16,
+			"QuestionNumber": 16,
+			"Finding": "pruritus",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 2597.511961325427,
+						"confidence_age": 72.24513870594961,
+						"probability": 0.000030320422573003666
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 1086.9370277500593,
+						"confidence_age": 18.911990056424784,
+						"probability": 0.000005302711170657722
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 6.5454086043675614,
+						"confidence_age": 0.028988402692150368,
+						"probability": 3.0486595155130815e-8
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.8338827492851626,
+						"confidence_age": 0.013003688564003886,
+						"probability": 2.073479281211229e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.42120504213372845,
+						"confidence_age": 0.008184056689793695,
+						"probability": 1.4067174382397685e-8
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.7564120218639979,
+						"confidence_age": 0.005674982997450541,
+						"probability": 9.048939928484885e-9
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.2871247112968516,
+						"confidence_age": 0.0037360012538537398,
+						"probability": 4.275364006443874e-9
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.39745723144749745,
+						"confidence_age": 0.010191866063800306,
+						"probability": 1.7152079615420253e-9
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.059717533275937006,
+						"confidence_age": 0.0009312438771476104,
+						"probability": 1.1589709219681027e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.036326327893853275,
+						"confidence_age": 0.0007348969274861872,
+						"probability": 1.1404457024046872e-9
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.015047893538046893,
+						"confidence_age": 0.0003152083975705878,
+						"probability": 4.784633281034758e-10
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.011786070795923354,
+						"confidence_age": 0.00015158827700008894,
+						"probability": 2.7670475959860543e-10
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0020885659850268202,
+						"confidence_age": 0.000045248941889870777,
+						"probability": 3.804255840031567e-11
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.005728334667773053,
+						"confidence_age": 0.0000344093892947896,
+						"probability": 2.9736474787490075e-11
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0007828354145494232,
+						"confidence_age": 0.000004859071191343737,
+						"probability": 1.1781376318803476e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 17,
+			"QuestionNumber": 17,
+			"Finding": "recent cat scratch or cat bite  ",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 2597.511961325427,
+						"confidence_age": 72.24513870594961,
+						"probability": 0.000028804401444353475
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 1086.937027750059,
+						"confidence_age": 18.911990056424777,
+						"probability": 0.000005037575612124839
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 6.5454086043675614,
+						"confidence_age": 0.028988402692150368,
+						"probability": 2.8962265397374274e-8
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.8338827492851627,
+						"confidence_age": 0.013003688564003888,
+						"probability": 1.969805317150669e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.42120504213372845,
+						"confidence_age": 0.008184056689793695,
+						"probability": 1.33638156632778e-8
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.7564120218639979,
+						"confidence_age": 0.005674982997450541,
+						"probability": 8.596492932060638e-9
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.28712471129685163,
+						"confidence_age": 0.0037360012538537406,
+						"probability": 4.061595806121682e-9
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.39745723144749745,
+						"confidence_age": 0.010191866063800306,
+						"probability": 1.6294475634649244e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.03632632789385327,
+						"confidence_age": 0.0007348969274861871,
+						"probability": 1.0834234172844528e-9
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.015047893538046893,
+						"confidence_age": 0.0003152083975705878,
+						"probability": 4.545401616983022e-10
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.011786070795923354,
+						"confidence_age": 0.00015158827700008894,
+						"probability": 2.6286952161867497e-10
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.003153877318335648,
+						"confidence_age": 0.00004918202043617003,
+						"probability": 5.7948546098405223e-11
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0020885659850268202,
+						"confidence_age": 0.000045248941889870777,
+						"probability": 3.614043048029989e-11
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.005728334667773054,
+						"confidence_age": 0.00003440938929478961,
+						"probability": 2.8249651048115553e-11
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0007828354145494231,
+						"confidence_age": 0.000004859071191343736,
+						"probability": 1.1192307502863305e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 18,
+			"QuestionNumber": 18,
+			"Finding": "contact with person with chickenpox",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 2597.511961325427,
+						"confidence_age": 72.24513870594961,
+						"probability": 0.000027364181372135807
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 1086.937027750059,
+						"confidence_age": 18.911990056424777,
+						"probability": 0.000004785696831518594
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 6.545408604367561,
+						"confidence_age": 0.028988402692150365,
+						"probability": 2.7514152127505553e-8
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.8338827492851624,
+						"confidence_age": 0.013003688564003883,
+						"probability": 1.8713150512931335e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.42120504213372834,
+						"confidence_age": 0.008184056689793693,
+						"probability": 1.2695624880113916e-8
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.756412021863998,
+						"confidence_age": 0.005674982997450542,
+						"probability": 8.166668285457604e-9
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.2871247112968516,
+						"confidence_age": 0.0037360012538537398,
+						"probability": 3.858516015815597e-9
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.3974572314474974,
+						"confidence_age": 0.010191866063800306,
+						"probability": 1.547975185291678e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.036326327893853275,
+						"confidence_age": 0.0007348969274861872,
+						"probability": 1.02925224642023e-9
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.011786070795923354,
+						"confidence_age": 0.00015158827700008894,
+						"probability": 2.497260455377412e-10
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0031538773183356476,
+						"confidence_age": 0.00004918202043617002,
+						"probability": 5.50511187934849e-11
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.001588633921905244,
+						"confidence_age": 0.000033277132881352386,
+						"probability": 4.5454016169830197e-11
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.00208856598502682,
+						"confidence_age": 0.00004524894188987076,
+						"probability": 3.433340895628488e-11
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.005728334667773053,
+						"confidence_age": 0.0000344093892947896,
+						"probability": 2.6837168495709794e-11
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0007828354145494231,
+						"confidence_age": 0.000004859071191343736,
+						"probability": 1.0632692127720132e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 19,
+			"QuestionNumber": 19,
+			"Finding": "lymphadenopathy",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 2597.5119613254274,
+						"confidence_age": 72.24513870594963,
+						"probability": 0.000025995972303529008
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 1086.937027750059,
+						"confidence_age": 18.911990056424777,
+						"probability": 0.000004546411989942667
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 6.545408604367562,
+						"confidence_age": 0.02898840269215037,
+						"probability": 2.613844452113028e-8
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.8338827492851624,
+						"confidence_age": 0.013003688564003883,
+						"probability": 1.7777492987284774e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.42120504213372845,
+						"confidence_age": 0.008184056689793695,
+						"probability": 1.2060843636108218e-8
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.7564120218639978,
+						"confidence_age": 0.00567498299745054,
+						"probability": 7.758334871184722e-9
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.2871247112968516,
+						"confidence_age": 0.0037360012538537398,
+						"probability": 3.6655902150248197e-9
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.39745723144749745,
+						"confidence_age": 0.010191866063800306,
+						"probability": 1.4705764260270938e-9
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.036326327893853275,
+						"confidence_age": 0.0007348969274861872,
+						"probability": 9.777896340992182e-10
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.011786070795923354,
+						"confidence_age": 0.00015158827700008894,
+						"probability": 2.3723974326085437e-10
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.001588633921905244,
+						"confidence_age": 0.000033277132881352386,
+						"probability": 4.318131536133869e-11
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0020885659850268202,
+						"confidence_age": 0.000045248941889870777,
+						"probability": 3.261673850847066e-11
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.005728334667773054,
+						"confidence_age": 0.00003440938929478961,
+						"probability": 2.5495310070924284e-11
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0006828844573930361,
+						"confidence_age": 0.000010648999294865047,
+						"probability": 1.101022375869698e-11
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0007828354145494231,
+						"confidence_age": 0.000004859071191343736,
+						"probability": 1.0101057521334128e-11
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 20,
+			"QuestionNumber": 20,
+			"Finding": "hyperlipidemia",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 1198.5267928371065,
+						"confidence_age": 33.33487417210228,
+						"probability": 0.0000012997986151764503
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 501.5272958436878,
+						"confidence_age": 8.726245394045476,
+						"probability": 2.2732059949713335e-7
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065529,
+						"confidence_age": 0.20230806167484644,
+						"probability": 1.3069222260565138e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 4.115385285811195,
+						"confidence_age": 0.07996235351030866,
+						"probability": 8.442590545275752e-9
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.38476466402601567,
+						"confidence_age": 0.006000075988760982,
+						"probability": 8.888746493642384e-10
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.34901863326376764,
+						"confidence_age": 0.0026185131281816544,
+						"probability": 3.8791674355923637e-10
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.13248318564019196,
+						"confidence_age": 0.0017238409937992763,
+						"probability": 1.83279510751241e-10
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.18339208750115316,
+						"confidence_age": 0.004702663444228718,
+						"probability": 7.35288213013547e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.016761454004605623,
+						"confidence_age": 0.00033909128068708596,
+						"probability": 4.8889481704960906e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.00543825084985599,
+						"confidence_age": 0.00006994486037781814,
+						"probability": 1.1861987163042716e-11
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.000733016959214219,
+						"confidence_age": 0.000015354514605103185,
+						"probability": 2.1590657680669356e-12
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.000963692305919378,
+						"confidence_age": 0.000020878467552798692,
+						"probability": 1.6308369254235324e-12
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0026431303031075838,
+						"confidence_age": 0.000015876952872210804,
+						"probability": 1.274765503546215e-12
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0003150920306753668,
+						"confidence_age": 0.000004913590836858597,
+						"probability": 5.505111879348491e-13
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0003612107403888405,
+						"confidence_age": 0.0000022420404979219904,
+						"probability": 5.050528760667063e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 21,
+			"QuestionNumber": 21,
+			"Finding": "anorexia or loss of appetite",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 1198.5267928371068,
+						"confidence_age": 33.33487417210228,
+						"probability": 0.0000012348086844176287
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 501.52729584368797,
+						"confidence_age": 8.726245394045478,
+						"probability": 2.1595456952227668e-7
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065529,
+						"confidence_age": 0.20230806167484644,
+						"probability": 1.241576114753688e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 2.7685871981622467,
+						"confidence_age": 0.05379393006696995,
+						"probability": 5.06555432716545e-9
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.2588468513021983,
+						"confidence_age": 0.004036495350206308,
+						"probability": 5.333247896185434e-10
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.23479904136938742,
+						"confidence_age": 0.0017615803676749844,
+						"probability": 2.3275004613554177e-10
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.13248318564019196,
+						"confidence_age": 0.0017238409937992763,
+						"probability": 1.741155352136789e-10
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.18339208750115316,
+						"confidence_age": 0.004702663444228718,
+						"probability": 6.985238023628695e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.016761454004605623,
+						"confidence_age": 0.00033909128068708596,
+						"probability": 4.644500761971287e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.005438250849855991,
+						"confidence_age": 0.00006994486037781815,
+						"probability": 1.1268887804890576e-11
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.000963692305919378,
+						"confidence_age": 0.000020878467552798692,
+						"probability": 1.5492950791523557e-12
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.00032875356390295313,
+						"confidence_age": 0.000006886404652682011,
+						"probability": 8.636263072267741e-13
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0017781413432876036,
+						"confidence_age": 0.00001068107246711014,
+						"probability": 7.64859302127729e-13
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0003612107403888405,
+						"confidence_age": 0.0000022420404979219904,
+						"probability": 4.798002322633709e-13
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0003002982493407829,
+						"confidence_age": 0.000004682894464588258,
+						"probability": 4.679345097446218e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 22,
+			"QuestionNumber": 22,
+			"Finding": "fatigue",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 1198.5267928371065,
+						"confidence_age": 33.33487417210228,
+						"probability": 0.0000011730682501967465
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 501.5272958436878,
+						"confidence_age": 8.726245394045476,
+						"probability": 2.051568410461629e-7
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065528,
+						"confidence_age": 0.2023080616748464,
+						"probability": 1.1794973090160034e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 1.9588480741992471,
+						"confidence_age": 0.038060616759782416,
+						"probability": 2.7860548799409986e-9
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.18314093792040137,
+						"confidence_age": 0.0028559263542482344,
+						"probability": 2.9332863429019893e-10
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.16612648151936613,
+						"confidence_age": 0.0012463643236730476,
+						"probability": 1.2801252537454788e-10
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.18339208750115316,
+						"confidence_age": 0.004702663444228718,
+						"probability": 6.63597612244726e-11
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.0340855743355093,
+						"confidence_age": 0.0004435137187621927,
+						"probability": 3.482310704273578e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.011859168430560976,
+						"confidence_age": 0.0002399159768536678,
+						"probability": 2.5544754190842094e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.005438250849855991,
+						"confidence_age": 0.00006994486037781815,
+						"probability": 1.0705443414646045e-11
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0009636923059193781,
+						"confidence_age": 0.000020878467552798692,
+						"probability": 1.4718303251947374e-12
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0003612107403888405,
+						"confidence_age": 0.0000022420404979219904,
+						"probability": 4.558102206502027e-13
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.00019031053993183808,
+						"confidence_age": 0.000003986437050543752,
+						"probability": 3.8863183825204837e-13
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504729,
+						"confidence_age": 0.000005496101075791085,
+						"probability": 3.0594372085109155e-13
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0001738381822972437,
+						"confidence_age": 0.000002710857833506825,
+						"probability": 2.1057052938507974e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 23,
+			"QuestionNumber": 23,
+			"Finding": "swelling in arms",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 1198.5267928371065,
+						"confidence_age": 33.33487417210228,
+						"probability": 0.0000011144148376869092
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 501.5272958436879,
+						"confidence_age": 8.726245394045478,
+						"probability": 1.9489899899385462e-7
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.679954900655275,
+						"confidence_age": 0.20230806167484638,
+						"probability": 1.1205224435652032e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 1.3078104351986246,
+						"confidence_age": 0.025410889401867958,
+						"probability": 1.7578817886236553e-9
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.12227269326248007,
+						"confidence_age": 0.0019067381168758736,
+						"probability": 1.850778561517455e-10
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "postrenal acute renal failure",
+						"confidence": 0.15303011769048158,
+						"confidence_age": 0.0011481088228228655,
+						"probability": 1.1144137607377218e-10
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.18339208750115316,
+						"confidence_age": 0.004702663444228718,
+						"probability": 6.304177316324896e-11
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.034085574335509294,
+						"confidence_age": 0.0004435137187621926,
+						"probability": 3.308195169059898e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.011859168430560977,
+						"confidence_age": 0.00023991597685366786,
+						"probability": 2.4267516481299975e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.00543825084985599,
+						"confidence_age": 0.00006994486037781814,
+						"probability": 1.0170171243913745e-11
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0009636923059193781,
+						"confidence_age": 0.000020878467552798692,
+						"probability": 1.3982388089350004e-12
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.00036121074038884056,
+						"confidence_age": 0.0000022420404979219904,
+						"probability": 4.330197096176924e-13
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.00019031053993183802,
+						"confidence_age": 0.000003986437050543751,
+						"probability": 3.69200246339446e-13
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504728,
+						"confidence_age": 0.000005496101075791085,
+						"probability": 2.9064653480853705e-13
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0001738381822972437,
+						"confidence_age": 0.000002710857833506825,
+						"probability": 2.000420029158258e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 24,
+			"QuestionNumber": 24,
+			"Finding": "swelling in feet or ankle region",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 1198.5267928371065,
+						"confidence_age": 33.33487417210228,
+						"probability": 0.0000010586940958025637
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 501.5272958436879,
+						"confidence_age": 8.726245394045478,
+						"probability": 1.8515404904416195e-7
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065528,
+						"confidence_age": 0.2023080616748464,
+						"probability": 1.0644963213869433e-8
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.6817349334498273,
+						"confidence_age": 0.013246178902565766,
+						"probability": 1.109148425260074e-9
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.06373826371202489,
+						"confidence_age": 0.0009939437308566822,
+						"probability": 1.1677623263959255e-10
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.1040528728178841,
+						"confidence_age": 0.0007806569263960572,
+						"probability": 9.775530464269478e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.18339208750115316,
+						"confidence_age": 0.004702663444228718,
+						"probability": 5.988968450508651e-11
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.0340855743355093,
+						"confidence_age": 0.0004435137187621927,
+						"probability": 3.142785410606901e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.01101499834997409,
+						"confidence_age": 0.00022283806024420938,
+						"probability": 2.2373544706743303e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.005438250849855991,
+						"confidence_age": 0.00006994486037781815,
+						"probability": 9.661662681718059e-12
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.000963692305919378,
+						"confidence_age": 0.000020878467552798692,
+						"probability": 1.3283268684882515e-12
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.00033549870993676334,
+						"confidence_age": 0.0000020824455382170174,
+						"probability": 3.992244463704373e-13
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.00019031053993183805,
+						"confidence_age": 0.000003986437050543751,
+						"probability": 3.5074023402247365e-13
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.000914968471550473,
+						"confidence_age": 0.000005496101075791086,
+						"probability": 2.761142080681101e-13
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.0001738381822972437,
+						"confidence_age": 0.000002710857833506825,
+						"probability": 1.900399027700344e-13
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 25,
+			"QuestionNumber": 25,
+			"Finding": "pimples or bumps (at face)",
+			"Answer": true,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 8738.964587648255,
+						"confidence_age": 243.0586338701107,
+						"probability": 6.686678561664389e-7
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 2559.793000054241,
+						"confidence_age": 44.53871616071544,
+						"probability": 1.7589634659195378e-7
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065529,
+						"confidence_age": 0.20230806167484644,
+						"probability": 5.322481606934718e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.6817349334498272,
+						"confidence_age": 0.013246178902565764,
+						"probability": 5.5457421263003716e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 2.0268971556397233,
+						"confidence_age": 0.05197506222278079,
+						"probability": 3.310620336420866e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031216,
+						"confidence_age": 0.0004874418983937671,
+						"probability": 2.1254867471406127e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.039652581719212904,
+						"confidence_age": 0.0005099974915728308,
+						"probability": 9.178579547632157e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.06373826371202489,
+						"confidence_age": 0.0009939437308566822,
+						"probability": 5.838811631979628e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.10405287281788411,
+						"confidence_age": 0.0007806569263960573,
+						"probability": 4.887765232134737e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.015855166456833537,
+						"confidence_age": 0.00020630380957196065,
+						"probability": 1.571392705303451e-12
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.0020412946526568343,
+						"confidence_age": 0.00004275902237123903,
+						"probability": 3.156662106202263e-13
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0004482688709635082,
+						"confidence_age": 0.00000971177939250279,
+						"probability": 6.641634342441252e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.00033549870993676334,
+						"confidence_age": 0.0000020824455382170174,
+						"probability": 1.9961222318521847e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504727,
+						"confidence_age": 0.000005496101075791084,
+						"probability": 1.3805710403405505e-14
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784001,
+						"confidence_age": 0.0000012609763229450844,
+						"probability": 9.501995138501727e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 26,
+			"QuestionNumber": 26,
+			"Finding": "crust in upper extremity",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 8738.964587648255,
+						"confidence_age": 243.0586338701107,
+						"probability": 6.352344633581169e-7
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 2559.793000054241,
+						"confidence_age": 44.53871616071544,
+						"probability": 1.6710152926235614e-7
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.679954900655275,
+						"confidence_age": 0.20230806167484638,
+						"probability": 5.05635752658798e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.6817349334498273,
+						"confidence_age": 0.013246178902565766,
+						"probability": 5.268455019985353e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 2.0268971556397224,
+						"confidence_age": 0.05197506222278076,
+						"probability": 2.7922853341496228e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031216,
+						"confidence_age": 0.0004874418983937671,
+						"probability": 2.0192124097835826e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.03965258171921291,
+						"confidence_age": 0.0005099974915728309,
+						"probability": 8.719650570250546e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.0637382637120249,
+						"confidence_age": 0.0009939437308566824,
+						"probability": 5.546871050380647e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.10405287281788407,
+						"confidence_age": 0.000780656926396057,
+						"probability": 4.643376970528002e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.015855166456833533,
+						"confidence_age": 0.00020630380957196062,
+						"probability": 1.4928230700382795e-12
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.0008099485538781829,
+						"confidence_age": 0.00001696600159597443,
+						"probability": 1.1870953280412834e-13
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0004482688709635083,
+						"confidence_age": 0.00000971177939250279,
+						"probability": 6.309552625319189e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.00033549870993676323,
+						"confidence_age": 0.0000020824455382170166,
+						"probability": 1.896316120259576e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504729,
+						"confidence_age": 0.000005496101075791085,
+						"probability": 1.3115424883235231e-14
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443783999,
+						"confidence_age": 0.000001260976322945084,
+						"probability": 9.026895381576639e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 27,
+			"QuestionNumber": 27,
+			"Finding": "crust in trunk",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 8738.964587648255,
+						"confidence_age": 243.0586338701107,
+						"probability": 6.034727401902108e-7
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 2559.793000054241,
+						"confidence_age": 44.53871616071544,
+						"probability": 1.5874645279923833e-7
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065528,
+						"confidence_age": 0.2023080616748464,
+						"probability": 4.803539650258581e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.681734933449827,
+						"confidence_age": 0.01324617890256576,
+						"probability": 5.0050322689860814e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 2.0268971556397224,
+						"confidence_age": 0.05197506222278076,
+						"probability": 2.3551046616648036e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031206,
+						"confidence_age": 0.0004874418983937669,
+						"probability": 1.918251789294403e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.03965258171921291,
+						"confidence_age": 0.0005099974915728309,
+						"probability": 8.283668041738017e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.0637382637120249,
+						"confidence_age": 0.0009939437308566824,
+						"probability": 5.269527497861612e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.10405287281788403,
+						"confidence_age": 0.0007806569263960567,
+						"probability": 4.411208122001603e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.015855166456833537,
+						"confidence_age": 0.00020630380957196065,
+						"probability": 1.418181916536365e-12
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0004482688709635082,
+						"confidence_age": 0.00000971177939250279,
+						"probability": 5.99407499405323e-14
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.0003213728400628128,
+						"confidence_age": 0.000006731800546221565,
+						"probability": 4.4641943624204603e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.00033549870993676334,
+						"confidence_age": 0.0000020824455382170174,
+						"probability": 1.801500314246597e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504727,
+						"confidence_age": 0.000005496101075791084,
+						"probability": 1.2459653639073474e-14
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784001,
+						"confidence_age": 0.0000012609763229450844,
+						"probability": 8.575550612497803e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 28,
+			"QuestionNumber": 28,
+			"Finding": "pimples or bumps (chest)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 8738.964587648255,
+						"confidence_age": 243.0586338701107,
+						"probability": 2.2232125834315637e-7
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 1859.63959304915,
+						"confidence_age": 32.356506949698435,
+						"probability": 1.5874645279923833e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065528,
+						"confidence_age": 0.2023080616748464,
+						"probability": 4.563362667745654e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.6817349334498274,
+						"confidence_age": 0.013246178902565768,
+						"probability": 4.7547806555367764e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 1.8467301453539293,
+						"confidence_age": 0.047355098380983875,
+						"probability": 1.986372201852519e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031213,
+						"confidence_age": 0.00048744189839376706,
+						"probability": 1.8223391998296835e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.03965258171921291,
+						"confidence_age": 0.0005099974915728309,
+						"probability": 7.869484639651117e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.0637382637120249,
+						"confidence_age": 0.0009939437308566824,
+						"probability": 5.006051122968532e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.10405287281788408,
+						"confidence_age": 0.0007806569263960571,
+						"probability": 4.1906477159015186e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.01585516645683354,
+						"confidence_age": 0.0002063038095719607,
+						"probability": 1.347272820709547e-12
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0004482688709635082,
+						"confidence_age": 0.00000971177939250279,
+						"probability": 5.694371244350571e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0003354987099367632,
+						"confidence_age": 0.000002082445538217016,
+						"probability": 1.7114252985342674e-14
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.00015989323229720223,
+						"confidence_age": 0.0000033492853605956853,
+						"probability": 1.411702210293184e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504727,
+						"confidence_age": 0.000005496101075791084,
+						"probability": 1.18366709571198e-14
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784001,
+						"confidence_age": 0.0000012609763229450844,
+						"probability": 8.146773081872914e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 29,
+			"QuestionNumber": 29,
+			"Finding": "pimples or bumps (at back)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 8738.964587648254,
+						"confidence_age": 243.05863387011064,
+						"probability": 8.190385185535554e-8
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 1350.9918247150174,
+						"confidence_age": 23.506370013182384,
+						"probability": 1.5874645279923825e-9
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.679954900655275,
+						"confidence_age": 0.20230806167484638,
+						"probability": 4.335194534358371e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.681734933449827,
+						"confidence_age": 0.01324617890256576,
+						"probability": 4.5170416227599403e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031216,
+						"confidence_age": 0.0004874418983937671,
+						"probability": 1.731222239838199e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 1.6825778359151933,
+						"confidence_age": 0.043145794286125305,
+						"probability": 1.675371200489774e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.03965258171921291,
+						"confidence_age": 0.0005099974915728309,
+						"probability": 7.476010407668562e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.0637382637120249,
+						"confidence_age": 0.0009939437308566824,
+						"probability": 4.755748566820105e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.10405287281788406,
+						"confidence_age": 0.0007806569263960569,
+						"probability": 3.981115330106445e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.015855166456833537,
+						"confidence_age": 0.00020630380957196065,
+						"probability": 1.2799091796740696e-12
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0004482688709635083,
+						"confidence_age": 0.00000971177939250279,
+						"probability": 5.4096526821330393e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.00033549870993676334,
+						"confidence_age": 0.0000020824455382170174,
+						"probability": 1.625854033607554e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504728,
+						"confidence_age": 0.000005496101075791085,
+						"probability": 1.1244837409263801e-14
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784,
+						"confidence_age": 0.0000012609763229450842,
+						"probability": 7.739434427779268e-15
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.00010267483066536695,
+						"confidence_age": 0.0000021507308490077457,
+						"probability": 4.46419436242046e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 30,
+			"QuestionNumber": 30,
+			"Finding": "pimples or bumps (at upper extremity)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 8738.964587648255,
+						"confidence_age": 243.0586338701107,
+						"probability": 7.780865926258773e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065529,
+						"confidence_age": 0.20230806167484644,
+						"probability": 4.1184348076404496e-10
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 983.6297727661407,
+						"confidence_age": 17.11451170291186,
+						"probability": 1.587464527992382e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.6817349334498274,
+						"confidence_age": 0.013246178902565768,
+						"probability": 4.291189541621945e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031216,
+						"confidence_age": 0.0004874418983937671,
+						"probability": 1.644661127846289e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 1.378796144595191,
+						"confidence_age": 0.035356019523964076,
+						"probability": 1.4130627969988819e-11
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.03965258171921291,
+						"confidence_age": 0.0005099974915728309,
+						"probability": 7.1022098872851275e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.06373826371202493,
+						"confidence_age": 0.0009939437308566829,
+						"probability": 4.5179611384791e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.10405287281788411,
+						"confidence_age": 0.0007806569263960573,
+						"probability": 3.782059563601122e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.01109073252140551,
+						"confidence_age": 0.00014431008191171938,
+						"probability": 4.0474282059277444e-13
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.00024281978451630586,
+						"confidence_age": 0.0000052607092129522415,
+						"probability": 1.992933087768258e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0003354987099367633,
+						"confidence_age": 0.000002082445538217017,
+						"probability": 1.544561331927176e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504729,
+						"confidence_age": 0.000005496101075791085,
+						"probability": 1.0682595538800616e-14
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784001,
+						"confidence_age": 0.0000012609763229450844,
+						"probability": 7.352462706390305e-15
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.000051196457839262456,
+						"confidence_age": 0.0000010724127862814886,
+						"probability": 1.4117022102931832e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 31,
+			"QuestionNumber": 31,
+			"Finding": "skin hyperpigmentation",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 5585.687058876588,
+						"confidence_age": 155.3558722134446,
+						"probability": 2.7601049909295238e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065529,
+						"confidence_age": 0.20230806167484644,
+						"probability": 3.5310430432007315e-10
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 983.6297727661407,
+						"confidence_age": 17.11451170291186,
+						"probability": 1.3610523996874684e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.6817349334498274,
+						"confidence_age": 0.013246178902565768,
+						"probability": 3.679158633248111e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031216,
+						"confidence_age": 0.0004874418983937671,
+						"probability": 1.4100913344872111e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 1.0281665509141655,
+						"confidence_age": 0.026364939291791248,
+						"probability": 8.927024220040432e-12
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.03965258171921291,
+						"confidence_age": 0.0005099974915728309,
+						"probability": 6.089257202111089e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.06373826371202489,
+						"confidence_age": 0.0009939437308566822,
+						"probability": 3.873586931103519e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.10405287281788408,
+						"confidence_age": 0.0007806569263960571,
+						"probability": 3.2426433183425115e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.011090732521405506,
+						"confidence_age": 0.00014431008191171936,
+						"probability": 3.4701637580572995e-13
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.00024281978451630592,
+						"confidence_age": 0.000005260709212952243,
+						"probability": 1.7086910061253097e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.00033549870993676323,
+						"confidence_age": 0.0000020824455382170166,
+						"probability": 1.3242682719610626e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504727,
+						"confidence_age": 0.000005496101075791084,
+						"probability": 9.158990350079179e-15
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784,
+						"confidence_age": 0.0000012609763229450842,
+						"probability": 6.3038177128913886e-15
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.00005119645783926245,
+						"confidence_age": 0.0000010724127862814884,
+						"probability": 1.210358182550118e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 32,
+			"QuestionNumber": 32,
+			"Finding": "pimples or bumps (with premenstrual flares)",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 5585.687058876588,
+						"confidence_age": 155.3558722134446,
+						"probability": 2.6220997413830492e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.67995490065528,
+						"confidence_age": 0.2023080616748464,
+						"probability": 3.3544908910406935e-10
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 983.6297727661407,
+						"confidence_age": 17.11451170291186,
+						"probability": 1.2929997797030952e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.6817349334498273,
+						"confidence_age": 0.013246178902565766,
+						"probability": 3.4952007015857105e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031213,
+						"confidence_age": 0.00048744189839376706,
+						"probability": 1.3395867677628504e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.7907448584720479,
+						"confidence_age": 0.0202768123222597,
+						"probability": 6.248916954028304e-12
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.03965258171921291,
+						"confidence_age": 0.0005099974915728309,
+						"probability": 5.784794342005534e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.06373826371202489,
+						"confidence_age": 0.0009939437308566822,
+						"probability": 3.6799075845483425e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.10405287281788406,
+						"confidence_age": 0.0007806569263960569,
+						"probability": 3.0805111524253853e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.011090732521405503,
+						"confidence_age": 0.0001443100819117193,
+						"probability": 3.296655570154434e-13
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0002428197845163059,
+						"confidence_age": 0.000005260709212952242,
+						"probability": 1.6232564558190435e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0003354987099367632,
+						"confidence_age": 0.000002082445538217016,
+						"probability": 1.2580548583630094e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504727,
+						"confidence_age": 0.000005496101075791084,
+						"probability": 8.70104083257522e-15
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784003,
+						"confidence_age": 0.0000012609763229450846,
+						"probability": 5.9886268272468165e-15
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.00005119645783926245,
+						"confidence_age": 0.0000010724127862814884,
+						"probability": 1.149840273422612e-15
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 33,
+			"QuestionNumber": 33,
+			"Finding": "crust in lower extremity",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 5585.687058876588,
+						"confidence_age": 155.3558722134446,
+						"probability": 2.4909947543138972e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 45.679954900655275,
+						"confidence_age": 0.20230806167484638,
+						"probability": 3.1867663464886584e-10
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 983.6297727661406,
+						"confidence_age": 17.114511702911855,
+						"probability": 1.2283497907179397e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.6817349334498273,
+						"confidence_age": 0.013246178902565766,
+						"probability": 3.320440666506422e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031213,
+						"confidence_age": 0.00048744189839376706,
+						"probability": 1.272607429374709e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.7907448584720479,
+						"confidence_age": 0.0202768123222597,
+						"probability": 5.936471106326889e-12
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.039652581719212904,
+						"confidence_age": 0.0005099974915728308,
+						"probability": 5.495554624905257e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.06373826371202491,
+						"confidence_age": 0.0009939437308566826,
+						"probability": 3.495912205320925e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.10405287281788407,
+						"confidence_age": 0.000780656926396057,
+						"probability": 2.9264855948041174e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.011090732521405506,
+						"confidence_age": 0.00014431008191171936,
+						"probability": 3.1318227916467135e-13
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0002428197845163059,
+						"confidence_age": 0.000005260709212952242,
+						"probability": 1.542093633028092e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.00033549870993676323,
+						"confidence_age": 0.0000020824455382170166,
+						"probability": 1.1951521154448588e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504728,
+						"confidence_age": 0.000005496101075791085,
+						"probability": 8.265988790946457e-15
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784001,
+						"confidence_age": 0.0000012609763229450844,
+						"probability": 5.689195485884479e-15
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.000017294536931279644,
+						"confidence_age": 3.622688623527807e-7,
+						"probability": 4.324092888788382e-16
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 34,
+			"QuestionNumber": 34,
+			"Finding": "polyuria",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 5585.687058876589,
+						"confidence_age": 155.35587221344463,
+						"probability": 2.3664450165982003e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 48.17291353260778,
+						"confidence_age": 0.21334891383336402,
+						"probability": 3.103922360462009e-10
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 983.6297727661408,
+						"confidence_age": 17.114511702911862,
+						"probability": 1.1669323011820432e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.6817349334498273,
+						"confidence_age": 0.013246178902565766,
+						"probability": 3.154418633181101e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.02409450028703122,
+						"confidence_age": 0.00048744189839376717,
+						"probability": 1.2089770579059734e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.7907448584720479,
+						"confidence_age": 0.0202768123222597,
+						"probability": 5.639647551010544e-12
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.03965258171921291,
+						"confidence_age": 0.0005099974915728309,
+						"probability": 5.220776893659993e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.06373826371202491,
+						"confidence_age": 0.0009939437308566826,
+						"probability": 3.321116595054877e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.0669278153340138,
+						"confidence_age": 0.0005021260941108207,
+						"probability": 1.8508720038507254e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.01109073252140551,
+						"confidence_age": 0.00014431008191171938,
+						"probability": 2.9752316520643786e-13
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0002428197845163059,
+						"confidence_age": 0.000005260709212952242,
+						"probability": 1.464988951376688e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0003354987099367633,
+						"confidence_age": 0.000002082445538217017,
+						"probability": 1.1353945096726161e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.000914968471550473,
+						"confidence_age": 0.000005496101075791086,
+						"probability": 7.852689351399133e-15
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784,
+						"confidence_age": 0.0000012609763229450842,
+						"probability": 5.404735711590251e-15
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.000017294536931279644,
+						"confidence_age": 3.622688623527807e-7,
+						"probability": 4.107888244348964e-16
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		},
+		{
+			"EntryNumber": 35,
+			"QuestionNumber": 35,
+			"Finding": "pimples or bumps (at lower extremity )",
+			"Answer": false,
+			"Diagnosis": {
+				"diseases": [
+					{
+						"disease": "polycystic ovary syndrome",
+						"instance": "polycystic ovary syndrome #1",
+						"confidence": 5585.687058876589,
+						"confidence_age": 155.35587221344463,
+						"probability": 2.2481227657682902e-8
+					},
+					{
+						"disease": "metabolic syndrome",
+						"instance": "metabolic syndrome #1",
+						"confidence": 48.17291353260778,
+						"confidence_age": 0.21334891383336402,
+						"probability": 2.948726242438909e-10
+					},
+					{
+						"disease": "cushing syndrome",
+						"instance": "cushing syndrom #1",
+						"confidence": 983.6297727661403,
+						"confidence_age": 17.11451170291185,
+						"probability": 1.1085856861229409e-10
+					},
+					{
+						"disease": "nephrotic syndrome",
+						"instance": "idiopathic nephrotic syndrome",
+						"confidence": 0.681734933449827,
+						"confidence_age": 0.01324617890256576,
+						"probability": 2.9966977015220434e-11
+					},
+					{
+						"disease": "premenstrual syndrome",
+						"instance": "premenstrual syndrome #1",
+						"confidence": 0.024094500287031216,
+						"confidence_age": 0.0004874418983937671,
+						"probability": 1.1485282050106744e-11
+					},
+					{
+						"disease": "acne vulgaris",
+						"instance": "acne vulgaris #1",
+						"confidence": 0.790744858472048,
+						"confidence_age": 0.020276812322259703,
+						"probability": 5.357665173460015e-12
+					},
+					{
+						"disease": "rosacea",
+						"instance": "rosacea #1",
+						"confidence": 0.03965258171921291,
+						"confidence_age": 0.0005099974915728309,
+						"probability": 4.959738048976992e-12
+					},
+					{
+						"disease": "nephritic syndrome",
+						"instance": "nephritic syndrome #1",
+						"confidence": 0.0637382637120249,
+						"confidence_age": 0.0009939437308566824,
+						"probability": 3.1550607653021346e-12
+					},
+					{
+						"disease": "acute renal failure",
+						"instance": "intrinsic acute renal failure",
+						"confidence": 0.06692781533401383,
+						"confidence_age": 0.0005021260941108209,
+						"probability": 1.7583284036581894e-12
+					},
+					{
+						"disease": "systemic sclerosis",
+						"instance": "systemic sclerosis#1",
+						"confidence": 0.00926876494215363,
+						"confidence_age": 0.00012060305533841823,
+						"probability": 9.408508587149035e-14
+					},
+					{
+						"disease": "chronic obstructive pulmonary disease",
+						"instance": "chronic bronchitis",
+						"confidence": 0.0003354987099367633,
+						"confidence_age": 0.000002082445538217017,
+						"probability": 1.0786247841889851e-14
+					},
+					{
+						"disease": "lung cancer",
+						"instance": "lung cancer #1",
+						"confidence": 0.0009149684715504728,
+						"confidence_age": 0.000005496101075791085,
+						"probability": 7.460054883829175e-15
+					},
+					{
+						"disease": "scabies",
+						"instance": "scabies #1",
+						"confidence": 0.0001310958512314661,
+						"confidence_age": 0.0000028402016488359016,
+						"probability": 5.397065442031867e-15
+					},
+					{
+						"disease": "cat scratch disease",
+						"instance": "cat scratch disease #1",
+						"confidence": 0.00008086216443784,
+						"confidence_age": 0.0000012609763229450842,
+						"probability": 5.134498926010739e-15
+					},
+					{
+						"disease": "varicela",
+						"instance": "varicela #1",
+						"confidence": 0.000011105621078160824,
+						"confidence_age": 2.326295713896689e-7,
+						"probability": 1.2990283225573014e-16
+					}
+				],
+				"urgency": 3,
+				"specialist": "gynecologist"
+			}
+		}
+	],
+	"Final": {
+		"diseases": [
+			{
+				"disease": "polycystic ovary syndrome",
+				"instance": "polycystic ovary syndrome #1",
+				"confidence": 5585.687058876588,
+				"confidence_age": 155.3558722134446,
+				"probability": 2.248122765768292e-8
+			},
+			{
+				"disease": "metabolic syndrome",
+				"instance": "metabolic syndrome #1",
+				"confidence": 48.17291353260778,
+				"confidence_age": 0.21334891383336402,
+				"probability": 2.948726242438909e-10
+			},
+			{
+				"disease": "cushing syndrome",
+				"instance": "cushing syndrom #1",
+				"confidence": 983.6297727661406,
+				"confidence_age": 17.114511702911855,
+				"probability": 1.1085856861229404e-10
+			},
+			{
+				"disease": "nephrotic syndrome",
+				"instance": "idiopathic nephrotic syndrome",
+				"confidence": 0.6817349334498269,
+				"confidence_age": 0.013246178902565759,
+				"probability": 2.996697701522045e-11
+			},
+			{
+				"disease": "premenstrual syndrome",
+				"instance": "premenstrual syndrome #1",
+				"confidence": 0.024094500287031213,
+				"confidence_age": 0.00048744189839376706,
+				"probability": 1.1485282050106746e-11
+			},
+			{
+				"disease": "acne vulgaris",
+				"instance": "acne vulgaris #1",
+				"confidence": 0.7907448584720482,
+				"confidence_age": 0.020276812322259707,
+				"probability": 5.357665173460017e-12
+			},
+			{
+				"disease": "rosacea",
+				"instance": "rosacea #1",
+				"confidence": 0.03965258171921291,
+				"confidence_age": 0.0005099974915728309,
+				"probability": 4.959738048976994e-12
+			},
+			{
+				"disease": "nephritic syndrome",
+				"instance": "nephritic syndrome #1",
+				"confidence": 0.0637382637120249,
+				"confidence_age": 0.0009939437308566824,
+				"probability": 3.1550607653021346e-12
+			},
+			{
+				"disease": "acute renal failure",
+				"instance": "intrinsic acute renal failure",
+				"confidence": 0.0669278153340138,
+				"confidence_age": 0.0005021260941108207,
+				"probability": 1.7583284036581894e-12
+			},
+			{
+				"disease": "systemic sclerosis",
+				"instance": "systemic sclerosis#1",
+				"confidence": 0.00926876494215363,
+				"confidence_age": 0.00012060305533841823,
+				"probability": 9.408508587149039e-14
+			},
+			{
+				"disease": "chronic obstructive pulmonary disease",
+				"instance": "chronic bronchitis",
+				"confidence": 0.00033549870993676334,
+				"confidence_age": 0.0000020824455382170174,
+				"probability": 1.0786247841889851e-14
+			},
+			{
+				"disease": "lung cancer",
+				"instance": "lung cancer #1",
+				"confidence": 0.0009149684715504727,
+				"confidence_age": 0.000005496101075791084,
+				"probability": 7.460054883829175e-15
+			},
+			{
+				"disease": "scabies",
+				"instance": "scabies #1",
+				"confidence": 0.00013109585123146608,
+				"confidence_age": 0.0000028402016488359012,
+				"probability": 5.397065442031866e-15
+			},
+			{
+				"disease": "cat scratch disease",
+				"instance": "cat scratch disease #1",
+				"confidence": 0.00008086216443784,
+				"confidence_age": 0.0000012609763229450842,
+				"probability": 5.134498926010741e-15
+			},
+			{
+				"disease": "varicela",
+				"instance": "varicela #1",
+				"confidence": 0.000011105621078160822,
+				"confidence_age": 2.3262957138966887e-7,
+				"probability": 1.299028322557303e-16
+			}
+		],
+		"urgency": 3,
+		"specialist": "gynecologist"
+	},
+	"Case": {
+		"chief_findings": [
+			"overweight or obese",
+			"pimples or bumps"
+		],
+		"findings": {
+			"ankle pain": false,
+			"ankle pain (migratory)": false,
+			"ankle pain (polyarthralgia)": false,
+			"anorexia or loss of appetite": false,
+			"arthralgia": false,
+			"arthralgia (shoulder pain that doesn't radiate)": false,
+			"chronic cough": false,
+			"contact with person with chickenpox": false,
+			"cronkhite canada syndrome": false,
+			"crust in face": false,
+			"crust in lower extremity": false,
+			"crust in trunk": false,
+			"crust in upper extremity": false,
+			"dry cough or productive cough": false,
+			"dry cough or productive cough (dry at first then production of clear/white mucus)": false,
+			"dry cough or productive cough (dry at first then production of yellowish-gray mucus)": false,
+			"dry cough or productive cough (production of pink, frothy mucus)": false,
+			"face swelling": false,
+			"fatigue": false,
+			"fissured skin at lower extremity": false,
+			"hirsutism": true,
+			"hyperlipidemia": true,
+			"hypertensive": true,
+			"hypotensive": false,
+			"irregular menstruation": true,
+			"lymphadenopathy": false,
+			"oliguria": false,
+			"overweight or obese": true,
+			"pain at the base of thumb": false,
+			"pain in elbow with flexion of the wrist": false,
+			"pain in inner elbow or elbow pit": false,
+			"pain in outer elbow": false,
+			"periorbital edema": false,
+			"pimples or bumps": true,
+			"pimples or bumps (at back)": false,
+			"pimples or bumps (at face)": true,
+			"pimples or bumps (at lower extremity )": false,
+			"pimples or bumps (at upper extremity)": false,
+			"pimples or bumps (chest)": false,
+			"pimples or bumps (with premenstrual flares)": false,
+			"polyuria": false,
+			"pruritus": false,
+			"pruritus ( around the anus)": false,
+			"recent cat scratch or cat bite  ": false,
+			"shoulder pain": false,
+			"skin erythema": false,
+			"skin hyperpigmentation": false,
+			"skin hyperpigmentation (at elbow pit)": false,
+			"skin hyperpigmentation (under the breasts)": false,
+			"smoking": false,
+			"swelling in arms": false,
+			"swelling in feet or ankle region": false,
+			"swelling in the area below the knee and above the ankle region": false,
+			"symptoms appear before every period": false,
+			"toes arthralgia": false,
+			"use of steroids": null
+		},
+		"ImageAnswers": {
+			"Name": "",
+			"Answers": null
+		},
+		"age": 21,
+		"sex": "female",
+		"next_concept": "",
+		"question_count": 35
+	}
+}
