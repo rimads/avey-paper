@@ -1,0 +1,10 @@
+;Ada;Babylon;Buoy;K health;WebMD
+average_precision;0.443;0.034;0.3;0.357;0.218
+average_recall;0.581;0.02;0.291;0.399;0.446
+average_f1-score;0.503;0.025;0.295;0.377;0.293
+average_NDCG;0.63;0.023;0.331;0.413;0.401
+average_M1;0.536;0.021;0.267;0.32;0.247
+average_M3;0.712;0.023;0.41;0.447;0.413
+average_M5;0.762;0.026;0.41;0.476;0.506
+average_position;1.523;1.4;1.45;1.627;2.215
+average_length (x of gs);1.557;0.512;1.037;1.271;2.279
