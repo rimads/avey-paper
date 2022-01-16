@@ -22,7 +22,7 @@
             "acute bronchitis",
             "asthma",
             "pneumonia",
-            "upper respiratory infection"
+            "common cold"
         ],
         "Babylon": [],
         "Ada": [
@@ -382,7 +382,7 @@
             "diverticulitis",
             "gaz",
             "irritable bowel syndrome",
-            "ureteral calculus"
+            "nephrolithiasis"
         ],
         "Ada": [
             "acute appendicitis",
@@ -392,7 +392,7 @@
         "Babylon": [],
         "Mohmmad Almadani": [
             "acute appendicitis",
-            "uretric colic"
+            "nephrolithiasis"
         ],
         "Tala Hammouri": [
             "acute appendicitis",
@@ -867,7 +867,7 @@
         ],
         "K health": [
             "influenza",
-            "upper respiratory infection"
+            "common cold"
         ],
         "Babylon": [],
         "Ada": [
@@ -905,7 +905,7 @@
     "25": {
         "gs": [
             "obstructive sleep apnea",
-            "nasal septum deviation",
+            "upper airway narrowing",
             "gastroesophageal reflux"
         ],
         "Buoy": [
@@ -926,17 +926,17 @@
         "Ada": [
             "obstructive sleep apnea",
             "central sleep apnoea",
-            "nasal septum deviation"
+            "upper airway narrowing"
         ],
         "Mohmmad Almadani": [
             "obstructive sleep apnea",
             "alcoholic consumption",
             "chronic sinusitis",
-            "nasal septum deviation"
+            "upper airway narrowing"
         ],
         "Tala Hammouri": [
             "obstructive sleep apnea",
-            "airway narrowing or obstruction ex tumor",
+            "upper airway narrowing",
             "obesity hypoventilation syndrome"
         ],
         "Noor Joudeh": [
@@ -958,7 +958,7 @@
         ],
         "K health": [
             "peptic ulcer disease",
-            "gastritis"
+            "chronic gastritis"
         ],
         "WebMD": [
             "alcoholic hepatitis",
@@ -1143,7 +1143,7 @@
         ],
         "Mohmmad Almadani": [
             "genital warts",
-            "condayloma  lata"
+            "condayloma lata"
         ],
         "Tala Hammouri": [
             "genital warts",
@@ -1328,7 +1328,6 @@
         "K health": [
             "cirrhosis",
             "hypothyroidism",
-            "other possible condition:",
             "cushing syndrome"
         ],
         "Buoy": [
@@ -1414,7 +1413,7 @@
             "pituitary tumor"
         ],
         "Buoy": [
-            "early menopause",
+            "primary ovarian failure",
             "polycystic ovary syndrome",
             "ovaractive thyroid"
         ],
@@ -1477,7 +1476,7 @@
         ],
         "Babylon": [],
         "Mohmmad Almadani": [
-            "Acromegaly",
+            "acromegaly",
             "Pituitary gland adenoma"
         ],
         "Tala Hammouri": [
@@ -1537,7 +1536,6 @@
             "meniere disease",
             "benign paroxysmal positional vertigo",
             "vestibular neuritis",
-            "other possible conditions:",
             "acoustic neuroma",
             "sensorineural hearing loss"
         ],
@@ -1658,7 +1656,7 @@
             "migraine"
         ],
         "K health": [
-            "type headache",
+            "tension headache",
             "cervical radiculopathy",
             "migraine"
         ],
@@ -1675,7 +1673,7 @@
         ],
         "Babylon": [],
         "Ada": [
-            "type headache",
+            "tension headache",
             "chronic sinusitis",
             "chronic fatigue syndrome",
             "teeth grinding",
@@ -1740,7 +1738,7 @@
         "K health": [
             "anal fissure",
             "hemorrhoids",
-            "anal fissure"
+            "anal fistula"
         ],
         "Buoy": [
             "anal fissure",
@@ -2593,7 +2591,7 @@
             "acute appendicitis"
         ],
         "Noor Joudeh": [
-            "interstitial cystitis",
+            "cystitis",
             "pelvic inflammatory disease",
             "pelvic pain syndrome"
         ]
@@ -2604,9 +2602,7 @@
             "allergic conjunctivitis",
             "eye dryness"
         ],
-        "K health": [
-            "test is not available due to age limit"
-        ],
+        "K health": [],
         "Buoy": [
             "viral conjunctivitis",
             "bacterial conjunctivitis (pink eye)"
@@ -2626,7 +2622,7 @@
         "Ada": [
             "viral conjunctivitis",
             "allergic conjunctivitis",
-            "less likely: bacterial conjunctivitis"
+            "bacterial conjunctivitis"
         ],
         "Mohmmad Almadani": [
             "bacterial conjunctivitis",
@@ -2662,13 +2658,11 @@
             "bone spurs",
             "osteoarthritis"
         ],
-        "Babylon": [
-            "speak to a pharmacist"
-        ],
+        "Babylon": [],
         "Ada": [
             "lateral epicondylitis",
             "golfer\u2019s elbow",
-            "elbow sprain",
+            "elbow trauma",
             "olecranon bursitis"
         ],
         "Mohmmad Almadani": [
@@ -2730,7 +2724,7 @@
         "K health": [
             "acute laryngitis",
             "upper respiratory tract infection",
-            "acute laryngitis"
+            "viral pharyngitis"
         ],
         "Buoy": [
             "acute laryngitis",
@@ -3304,7 +3298,6 @@
         "K health": [
             "irritable bowel syndrome",
             "inflammatory bowel disease",
-            "other possible conditions:",
             "gi parasite infection"
         ],
         "WebMD": [
@@ -3385,9 +3378,7 @@
             "hemochromatosis",
             "hyperthyroidism"
         ],
-        "K health": [
-            "test is unavailable due to age limitation"
-        ],
+        "K health": [],
         "Buoy": [
             "hemochromatosis",
             "folate (vitamin b9) deficiency",
@@ -3501,7 +3492,7 @@
         "gs": [
             "impetigo",
             "cold sores",
-            " Hand-foot-mouth disease (early stages)",
+            "Hand-foot-mouth disease (early stages)",
             "bullous pemphigoid"
         ],
         "K health": [],
@@ -3510,7 +3501,7 @@
             "deshitrotic eczema",
             "impetigo",
             "contact dermatitis",
-            " Hand-foot-mouth disease (early stages)",
+            "Hand-foot-mouth disease (early stages)",
             "cellulitis"
         ],
         "Babylon": [
@@ -3518,7 +3509,7 @@
         ],
         "Ada": [
             "impetigo",
-            " Hand-foot-mouth disease (early stages)",
+            "Hand-foot-mouth disease (early stages)",
             "infantile acne"
         ],
         "Mohmmad Almadani": [
@@ -3605,7 +3596,7 @@
             "heart failure"
         ],
         "Mohmmad Almadani": [
-            "transient ischemic attack"
+            "tia"
         ],
         "Tala Hammouri": [
             "cerebral stroke (ischemic)",
@@ -3916,7 +3907,7 @@
             "breast cancer",
             "fibroadenoma",
             "lipoma",
-            "benign breast lumps"
+            "fibrocystic breast disease"
         ],
         "Babylon": [],
         "K health": [],
@@ -4207,7 +4198,6 @@
             "pregnancy",
             "ovarian cyst",
             "pelvic inflammatory disease (pid)",
-            "other possible conditions:",
             "ectopic pregnancy"
         ],
         "Babylon": [],
@@ -4250,12 +4240,10 @@
         "K health": [
             "pregnancy",
             "polycystic ovarian syndrome (pcos)",
-            "other possible condition:",
             "ectopic pregnancy (tubal pregnancy)"
         ],
         "Ada": [
             "pregnancy",
-            "less likely causes:",
             "pituitary tumor",
             "polycystic ovary syndrome"
         ],
@@ -4419,7 +4407,7 @@
             "coronavirus disease 2019"
         ],
         "K health": [
-            "upper respiratory infection",
+            "common cold",
             "allergic rhinitis"
         ],
         "WebMD": [
@@ -4442,7 +4430,7 @@
             "viral pharyngitis"
         ],
         "Noor Joudeh": [
-            "upper respiratory tract infection",
+            "common cold",
             "coronavirus disease 2019"
         ]
     },
@@ -4620,7 +4608,7 @@
         ],
         "Babylon": [],
         "Ada": [
-            "pediatric pneumonia",
+            "pneumonia",
             "bronchiolitis",
             "foreign body aspiration",
             "croup",
@@ -4828,17 +4816,17 @@
         "Babylon": [
             "atopic dermatitis",
             "allergic contact dermatitis",
-            "psoriasis",
+            "plaque psoriasis",
             "tinea pedis (athlete's foot)"
         ],
         "Ada": [
             "tinea pedis (athlete's foot)",
-            "psoriasis vulgaris",
+            "plaque psoriasis",
             "allergic contact dermatitis"
         ],
         "Mohmmad Almadani": [
             "lupus",
-            "psoriasis",
+            "plaque psoriasis",
             "atopic dermatitis"
         ],
         "Tala Hammouri": [
@@ -5035,11 +5023,11 @@
         ],
         "Mohmmad Almadani": [
             "trichomoniasis",
-            "bacterial vaginitis"
+            "bacterial vaginosis"
         ],
         "Tala Hammouri": [
             "trichomoniasis",
-            "bacterial vaginosi",
+            "bacterial vaginosis",
             "chlamydia genital infection",
             "gonorrhea infection"
         ],
@@ -5683,7 +5671,7 @@
         ],
         "Buoy": [],
         "WebMD": [
-            "drug allergy",
+            "acute interstitial nephritis",
             "contact dermatitis",
             "scabies",
             "diabetic ketoacidosis",
@@ -5697,7 +5685,7 @@
         "Ada": [
             "acute interstitial nephritis",
             "streptococcal glomerulonephritis",
-            "acute interstitial nephritis",
+            "intrarenal kidney disease",
             "postrenal kidney disease",
             "trichinella spiralis (round worm infection)"
         ],
@@ -5715,7 +5703,7 @@
     },
     "177": {
         "gs": [
-            "Acute angle-closure glaucoma",
+            "acute angle-closure glaucoma",
             "cluster headaches",
             "migraine"
         ],
@@ -5734,7 +5722,7 @@
         ],
         "Babylon": [],
         "Ada": [
-            "Acute angle-closure glaucoma",
+            "acute angle-closure glaucoma",
             "scratched eye",
             "migraine",
             "corneal ulcer",
@@ -5746,10 +5734,10 @@
             "microbial keratitis"
         ],
         "Tala Hammouri": [
-            "Acute angle-closure glaucoma"
+            "acute angle-closure glaucoma"
         ],
         "Noor Joudeh": [
-            "Acute angle-closure glaucoma",
+            "acute angle-closure glaucoma",
             "herpetic keratitis"
         ]
     },
@@ -5761,7 +5749,7 @@
         ],
         "K health": [
             "influenza",
-            "upper respiratory infection"
+            "common cold"
         ],
         "Buoy": [],
         "WebMD": [
@@ -6224,7 +6212,7 @@
             "vaginal yeast infection"
         ],
         "Ada": [
-            "bartholinitis",
+            "bartholin gland abscess",
             "allergic inflammation of the vulva and vagina",
             "genital thrush"
         ],
@@ -7053,7 +7041,7 @@
         "Babylon": [],
         "Ada": [
             "diabetes mellitus type 2",
-            "sightedness",
+            "short-sightedness",
             "diabetic retinopathy"
         ],
         "Mohmmad Almadani": [
@@ -7866,7 +7854,7 @@
         ],
         "Ada": [
             "impingement syndrome of the shoulder",
-            "rotator cuff tendinopathy",
+            "rotator cuff injury",
             "shoulder bursitis",
             "frozen shoulder"
         ],
@@ -8023,7 +8011,7 @@
         ],
         "Tala Hammouri": [
             "bronchiectasis",
-            "?? ciliary dyskinesia"
+            "ciliary dyskinesia"
         ],
         "Noor Joudeh": [
             "bronchiectasis",
@@ -9294,27 +9282,27 @@
         "gs": [
             "food poisoning",
             "acute bacterial gastroenteritis",
-            "acute gastroenteritis"
+            "acute viral gastroenteritis"
         ],
         "Buoy": [
-            "acute gastroenteritis",
+            "acute viral gastroenteritis",
             "food poisoning",
             "gallbladder infection (cholecystitis)"
         ],
         "WebMD": [
             "influenza (flu)",
             "acute appendicitis",
-            "acute gastroenteritis",
+            "acute viral gastroenteritis",
             "small bowel obstruction",
             "pelvic inflammatory disease (pid)"
         ],
         "K health": [
-            "acute gastroenteritis",
+            "acute bacterial gastroenteritis",
             "food poisoning"
         ],
         "Babylon": [],
         "Ada": [
-            "acute gastroenteritis",
+            "acute viral gastroenteritis",
             "cyclic vomiting syndrome",
             "acute bacterial gastroenteritis",
             "acute appendicitis"
@@ -9325,10 +9313,10 @@
         ],
         "Tala Hammouri": [
             "food poisoning",
-            "acute gastroenteritis"
+            "acute viral gastroenteritis"
         ],
         "Noor Joudeh": [
-            "acute gastroenteritis"
+            "acute bacterial gastroenteritis"
         ]
     },
     "289": {
@@ -9661,7 +9649,7 @@
             "primary dysmenorrhea"
         ],
         "Noor Joudeh": [
-            "Secondary dysmenorrhea  ( fibroids, endometriosis, \u2026..)"
+            "endometriosis"
         ]
     },
     "298": {
@@ -10082,7 +10070,7 @@
             "whooping cough"
         ],
         "Mohmmad Almadani": [
-            "respiratory syncytial virus",
+            "bronchiolitis",
             "covid 19 infection"
         ],
         "Tala Hammouri": [
@@ -10301,7 +10289,7 @@
         ],
         "K health": [
             "influenza infection",
-            "upper respiratory infection"
+            "common cold"
         ],
         "Buoy": [
             "coronavirus disease 2019",
@@ -11601,7 +11589,7 @@
         "Babylon": [],
         "Ada": [
             "degenerative disc disease (lumbar)",
-            "mechanical low back pain"
+            "mechanical back pain"
         ],
         "Mohmmad Almadani": [
             "muscle  and ligament strain",
@@ -13217,7 +13205,7 @@
         ],
         "Babylon": [],
         "Ada": [
-            "dissiminated tuberculosis",
+            "tuberculosis",
             "cancer of the thyroid gland",
             "lymphoma",
             "acute bronchitis"
@@ -13625,7 +13613,7 @@
             "cerebral stroke (ischemic)",
             "tia",
             "brainstem stroke",
-            "haemorrhagic stroke"
+            "hemorrhagic stroke"
         ],
         "Babylon": [],
         "WebMD": [
@@ -13644,7 +13632,7 @@
         ],
         "Mohmmad Almadani": [
             "cerebral stroke (ischemic)",
-            "haemorrhagic stroke"
+            "hemorrhagic stroke"
         ],
         "Tala Hammouri": [
             "cerebral stroke (ischemic)",
@@ -15673,7 +15661,7 @@
         "Ada": [
             "primary ovarian failure",
             "polycystic ovary syndrome",
-            "pituitary tumor",
+            "pituitary adenoma",
             "hashimoto's thyroiditis hypothyroidism",
             "irregular menstrual patterns due to unspecific cause"
         ],

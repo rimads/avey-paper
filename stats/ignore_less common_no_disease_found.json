@@ -1,10 +1,10 @@
-;Ada;Babylon;Buoy;K health;WebMD
-average_precision;0.38;0.059;0.268;0.213;0.157
-average_recall;0.506;0.029;0.265;0.272;0.327
-average_f1-score;0.434;0.039;0.266;0.239;0.212
-average_NDCG;0.508;0.016;0.272;0.222;0.262
-average_M1;0.393;0.0;0.181;0.112;0.135
-average_M3;0.545;0.0;0.326;0.213;0.242
-average_M5;0.607;0.0;0.326;0.242;0.315
-average_position;1.685;0.0;1.622;2.25;2.414
-average_length (x of gs);1.647;0.38;1.075;1.368;2.355
+;Ada;Avey;Babylon;Buoy;K health;WebMD
+average_precision;0.243;0.238;0.0;0.167;0.16;0.18
+average_recall;0.381;0.405;0.0;0.167;0.19;0.381
+average_f1-score;0.297;0.3;;0.167;0.174;0.244
+average_NDCG;0.259;0.32;0.0;0.105;0.063;0.277
+average_M1;0.0;0.143;0.0;0.0;0.0;0.143
+average_M3;0.429;0.429;0.0;0.167;0.0;0.143
+average_M5;0.429;0.429;0.0;0.167;0.0;0.286
+average_position;2.333;2.0;0.0;2.0;0.0;4.0
+average_length (x of gs);1.738;1.905;0.0;1.028;1.214;2.31
