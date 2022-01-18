@@ -32,6 +32,7 @@ for case in tests:
     elif case["case_number"] not in batch:
         print(f"{case['case_number']} has no gold standard")
 
+collect = {k:v for k,v in collect.items() if len(v) > 1}
 
 # for file in os.listdir("new"):
 #     file=file.replace(".json","")

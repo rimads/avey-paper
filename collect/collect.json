@@ -130,18 +130,6 @@
             "$polycythemia vera$"
         ]
     },
-    "486": {
-        "gs": [
-            "$cystic fibrosis$",
-            "$primary ciliary dyskinesia$"
-        ]
-    },
-    "481": {
-        "gs": [
-            "$erectile dysfunction$",
-            "$peripheral vascular disease$"
-        ]
-    },
     "479": {
         "gs": [
             "$macular degeneration$",
@@ -152,12 +140,6 @@
             "$macular degeneration$",
             "$diabetic retinopathy$",
             "$cataract$"
-        ]
-    },
-    "476": {
-        "gs": [
-            "$eclampsia$",
-            "$hypertensive encephalopathy$"
         ]
     },
     "475": {
@@ -172,12 +154,6 @@
             "$nephrotic syndrome$",
             "$chronic kidney disease$",
             "$diabetic retinopathy$"
-        ]
-    },
-    "474": {
-        "gs": [
-            "$mallory weiss tear$",
-            "$esophageal varices$"
         ]
     },
     "473": {
@@ -249,12 +225,6 @@
             "$narcolepsy$"
         ]
     },
-    "468": {
-        "gs": [
-            "$otosclerosis$",
-            "$cholesteatoma$"
-        ]
-    },
     "464": {
         "gs": [
             "$colon cancer$",
@@ -266,21 +236,6 @@
             "$liver cirrhosis$",
             "$ovarian cancer$",
             "$amyloidosis$"
-        ]
-    },
-    "460": {
-        "gs": [
-            "$giant cell arteritis$",
-            "$polymyalgia rheumatica$",
-            "$trigeminal neuralgia$",
-            "$brain tumor$"
-        ]
-    },
-    "458": {
-        "gs": [
-            "$pancreatic cancer$",
-            "$cholangiocarcinoma$",
-            "$chronic pancreatitis$"
         ]
     },
     "453": {
@@ -349,13 +304,6 @@
             "$pyelonephritis$"
         ]
     },
-    "447": {
-        "gs": [
-            "$mastoiditis$",
-            "$cellulitis$",
-            "$lymphadenopathy$"
-        ]
-    },
     "446": {
         "gs": [
             "$cardiomyopathy (restrictive)$",
@@ -368,18 +316,6 @@
             "$cardiomyopathy$",
             "$valvular heart disease$",
             "$pericardial effusion$"
-        ]
-    },
-    "444": {
-        "gs": [
-            "$hypoparathyroidism$",
-            "$vitamin d deficiency$"
-        ]
-    },
-    "443": {
-        "gs": [
-            "$psoriasis$",
-            "$lichen planus$"
         ]
     },
     "442": {
@@ -469,12 +405,6 @@
             "$renal cell carcinoma$"
         ]
     },
-    "429": {
-        "gs": [
-            "$osteogenesis imperfecta$",
-            "$rickets$"
-        ]
-    },
     "428": {
         "gs": [
             "$aortic dissection$",
@@ -536,24 +466,6 @@
             "$urge urinary incontinence$"
         ]
     },
-    "418": {
-        "gs": [
-            "$parkinson disease$",
-            "$essential tremor$"
-        ]
-    },
-    "416": {
-        "gs": [
-            "$haemophilia$",
-            "$vasculitis$"
-        ]
-    },
-    "412": {
-        "gs": [
-            "$elbow fracture$",
-            "$radial head subluxation$"
-        ]
-    },
     "411": {
         "gs": [
             "$tuberculosis$",
@@ -576,13 +488,6 @@
             "$anemia$",
             "$adrenal insufficiency$",
             "$chronic pancreatitis$"
-        ]
-    },
-    "409": {
-        "gs": [
-            "$mastoiditis$",
-            "$cellulitis$",
-            "$lymphadenopathy$"
         ]
     },
     "408": {
@@ -652,39 +557,12 @@
             "$polycythemia vera$"
         ]
     },
-    "403": {
-        "gs": [
-            "$infective endocarditis$",
-            "$sepsis$",
-            "$vasculitis$"
-        ]
-    },
-    "397": {
-        "gs": [
-            "$achilles tendon rupture$",
-            "$ankle sprain$",
-            "$ankle fracture$"
-        ]
-    },
     "396": {
         "gs": [
             "$earwax blockage$"
         ],
         "Avey": [
             "$earwax blockage$"
-        ]
-    },
-    "392": {
-        "gs": [
-            "$presbycusis$",
-            "$acoustic neuroma$"
-        ]
-    },
-    "390": {
-        "gs": [
-            "$anemia$",
-            "$hypothyroidism$",
-            "$chronic fatigue syndrome$"
         ]
     },
     "389": {
@@ -715,12 +593,6 @@
             "$renal cell carcinoma$"
         ]
     },
-    "387": {
-        "gs": [
-            "$hypoparathyroidism$",
-            "$hypocalcemia$"
-        ]
-    },
     "386": {
         "gs": [
             "$variant angina$",
@@ -731,13 +603,6 @@
             "$myocardial infarction$",
             "$stable angina$",
             "$unstable angina$"
-        ]
-    },
-    "385": {
-        "gs": [
-            "$chronic obstructive pulmonary disease$",
-            "$heart failure$",
-            "$lung fibrosis$"
         ]
     },
     "384": {
@@ -769,33 +634,6 @@
             "$cellulitis$"
         ]
     },
-    "381": {
-        "gs": [
-            "$strabismus$",
-            "$oculomotor nerve palsy$"
-        ]
-    },
-    "376": {
-        "gs": [
-            "$giant cell arteritis$",
-            "$trigeminal neuralgia$",
-            "$tempomandibular joint dysfunction$",
-            "$polymyalgia rheumatica$"
-        ]
-    },
-    "370": {
-        "gs": [
-            "$primary biliary cholangitis$",
-            "$primary sclerosing cholangitis$",
-            "$viral hepatitis$"
-        ]
-    },
-    "369": {
-        "gs": [
-            "$primary sclerosing cholangitis$",
-            "$viral hepatitis$"
-        ]
-    },
     "368": {
         "gs": [
             "$foreign body aspiration$",
@@ -808,12 +646,6 @@
             "$pulmonary embolism$",
             "$pulmonary edema$",
             "$pneumothorax$"
-        ]
-    },
-    "367": {
-        "gs": [
-            "$alzheimer's disease$",
-            "$brain tumor$"
         ]
     },
     "366": {
@@ -844,12 +676,6 @@
             "$spontaneous abortion$"
         ]
     },
-    "364": {
-        "gs": [
-            "$thyroiditis$",
-            "$hypopituitarism$"
-        ]
-    },
     "363": {
         "gs": [
             "$intercostal neuralgia$",
@@ -875,13 +701,6 @@
             "$myocardial infarction$"
         ]
     },
-    "361": {
-        "gs": [
-            "$atypical bacterial pneumonia$",
-            "$pneumonia$",
-            "$pneumonia$"
-        ]
-    },
     "351": {
         "gs": [
             "$non allergic rhinitis$",
@@ -894,12 +713,6 @@
             "$non allergic rhinitis$",
             "$allergic rhinitis$",
             "$cystic fibrosis$"
-        ]
-    },
-    "348": {
-        "gs": [
-            "$tinea capitis$",
-            "$alopecia areata$"
         ]
     },
     "346": {
@@ -935,12 +748,6 @@
         "Avey": [
             "$viral conjunctivitis$",
             "$nasolacrimal duct obstruction$"
-        ]
-    },
-    "343": {
-        "gs": [
-            "$viral arthritis (caused by parvovirus b19)$",
-            "$rheumatoid arthritis$"
         ]
     },
     "342": {
@@ -983,18 +790,6 @@
             "$gout$",
             "$rheumatic fever$",
             "$pseudogout$"
-        ]
-    },
-    "337": {
-        "gs": [
-            "$epilepsy$",
-            "$tia$"
-        ]
-    },
-    "336": {
-        "gs": [
-            "$cervical cancer$",
-            "$cervical polyps$"
         ]
     },
     "335": {
@@ -1044,13 +839,6 @@
             "$macular degeneration$"
         ]
     },
-    "323": {
-        "gs": [
-            "$fibromyalgia$",
-            "$chronic fatigue syndrome$",
-            "$polymyalgia rheumatic$"
-        ]
-    },
     "322": {
         "gs": [
             "$benign prostatic hyperplasia$",
@@ -1058,13 +846,6 @@
         ],
         "Avey": [
             "$benign prostatic hyperplasia$"
-        ]
-    },
-    "321": {
-        "gs": [
-            "$sarcoidosis$",
-            "$tuberculosis$",
-            "$histoplasmosis$"
         ]
     },
     "320": {
@@ -1137,18 +918,6 @@
             "$meningitis$"
         ]
     },
-    "314": {
-        "gs": [
-            "$acute parasitic gastroenteritis (giardiasis )$",
-            "$acute bacterial gastroenteritis$"
-        ]
-    },
-    "312": {
-        "gs": [
-            "$hyperthyroidism$",
-            "$toxic multinodular goiter$"
-        ]
-    },
     "310": {
         "gs": [
             "$chronic kidney disease$",
@@ -1165,12 +934,6 @@
             "$deep vein thrombosis$"
         ]
     },
-    "303": {
-        "gs": [
-            "$nasal septum deviation$",
-            "$nasal septal hematoma$"
-        ]
-    },
     "302": {
         "gs": [
             "$dengue fever$",
@@ -1185,13 +948,6 @@
             "$infective endocarditis$"
         ]
     },
-    "301": {
-        "gs": [
-            "$endometrial cancer$",
-            "$endometrial polyps$",
-            "$stds$"
-        ]
-    },
     "300": {
         "gs": [
             "$uterine fibroids$",
@@ -1202,13 +958,6 @@
             "$adenomyosis$",
             "$uterine fibroids$",
             "$endometrial cancer$"
-        ]
-    },
-    "299": {
-        "gs": [
-            "$cholesteatoma$",
-            "$otitis media with effusion$",
-            "$otitis media with tympanic membrane perforation$"
         ]
     },
     "298": {
@@ -1223,19 +972,6 @@
             "$malaria$",
             "$influenza$",
             "$juvenile idiopathic arthritis$"
-        ]
-    },
-    "296": {
-        "gs": [
-            "$liver cirrhosis$",
-            "$fatty liver disease$"
-        ]
-    },
-    "285": {
-        "gs": [
-            "$graves disease$",
-            "$toxic multinodular goiter$",
-            "$hyperthyroidism$"
         ]
     },
     "284": {
@@ -1265,12 +1001,6 @@
             "$varicocele$"
         ]
     },
-    "282": {
-        "gs": [
-            "$pulmonary hypertension$",
-            "$heart failure$"
-        ]
-    },
     "281": {
         "gs": [
             "$pulmonary embolism$",
@@ -1284,13 +1014,6 @@
             "$arrhythmia$",
             "$varient angina$",
             "$cardiac tamponade$"
-        ]
-    },
-    "280": {
-        "gs": [
-            "$placenta previa$",
-            "$local injury$",
-            "$cervical lesion$"
         ]
     },
     "279": {
@@ -1335,12 +1058,6 @@
             "$encephalitis$"
         ]
     },
-    "274": {
-        "gs": [
-            "$paronychia$",
-            "$felon$"
-        ]
-    },
     "269": {
         "gs": [
             "$cardiac tamponade$",
@@ -1382,12 +1099,6 @@
             "$pneumothorax$",
             "$pulmonary embolism$",
             "$aortic dissection$"
-        ]
-    },
-    "262": {
-        "gs": [
-            "$hyperosmolar hyperglycemic nonketotic state$",
-            "$metabolic encephalopathy$"
         ]
     },
     "260": {
@@ -1493,12 +1204,6 @@
             "$varicocele$"
         ]
     },
-    "246": {
-        "gs": [
-            "$small bowel obstruction$",
-            "$large bowel obstruction$"
-        ]
-    },
     "242": {
         "gs": [
             "$ovarian cancer$",
@@ -1511,27 +1216,6 @@
             "$cronkhite canada syndrome$",
             "$chronic pancreatitis$",
             "$irritable bowel syndrome$"
-        ]
-    },
-    "237": {
-        "gs": [
-            "$hypovolemic shock$",
-            "$pre renal acute renal failure$",
-            "$food poisoning$"
-        ]
-    },
-    "236": {
-        "gs": [
-            "$endometrial cancer$",
-            "$endometrial polyps$",
-            "$atrophic vaginitis$"
-        ]
-    },
-    "232": {
-        "gs": [
-            "$membranous colitis$",
-            "$antibiotic associated diarrhea$",
-            "$enterocolitis$"
         ]
     },
     "231": {
@@ -1554,13 +1238,6 @@
             "$narcolepsy$"
         ]
     },
-    "229": {
-        "gs": [
-            "$tinea versicolor$",
-            "$pityriasis rosea$",
-            "$vitiligo$"
-        ]
-    },
     "228": {
         "gs": [
             "$breast infection$",
@@ -1575,53 +1252,6 @@
             "$breast fat necrosis$"
         ]
     },
-    "227": {
-        "gs": [
-            "$anemia$",
-            "$chronic fatigue syndrome$",
-            "$hypothyroidism$"
-        ]
-    },
-    "226": {
-        "gs": [
-            "$post partum thyroiditis$",
-            "$graves disease$"
-        ]
-    },
-    "223": {
-        "gs": [
-            "$pleural effusion$",
-            "$pneumonia$",
-            "$coronavirus disease 2019$"
-        ]
-    },
-    "222": {
-        "gs": [
-            "$acute laryngitis$",
-            "$reflux laryngitis$",
-            "$vocal fold lesion$"
-        ]
-    },
-    "219": {
-        "gs": [
-            "$rhabdomyolysis$",
-            "$acute interstitial nephritis$",
-            "$acute tubular necrosis$"
-        ]
-    },
-    "215": {
-        "gs": [
-            "$giant cell arteritis$",
-            "$trigeminal neuralgia$",
-            "$tempomandibular joint dysfunction$"
-        ]
-    },
-    "214": {
-        "gs": [
-            "$inflammatory bowel disease$",
-            "$amebiasis$"
-        ]
-    },
     "213": {
         "gs": [
             "$diverticulitis$",
@@ -1630,26 +1260,6 @@
         "Avey": [
             "$diverticulitis$",
             "$acute mesentric ischemia$"
-        ]
-    },
-    "212": {
-        "gs": [
-            "$allergic rhinitis$",
-            "$non allergic rhinitis$",
-            "$nasal foreign body$"
-        ]
-    },
-    "211": {
-        "gs": [
-            "$multiple sclerosis$",
-            "$spinal cord neoplasm$"
-        ]
-    },
-    "210": {
-        "gs": [
-            "$acanthosis nigricans$",
-            "$mole$",
-            "$melanoma$"
         ]
     },
     "209": {
@@ -1729,20 +1339,6 @@
             "$note: the app didn't ask me anything but i entered (1) because the portal doesn't accept (0) as a value$"
         ]
     },
-    "203": {
-        "gs": [
-            "$sarcoidosis$",
-            "$tuberculosis$",
-            "$histoplasmosis$"
-        ]
-    },
-    "200": {
-        "gs": [
-            "$pneumonia$",
-            "$coronavirus disease 2019$",
-            "$acute bronchitis$"
-        ]
-    },
     "188": {
         "gs": [
             "$leukemia$",
@@ -1811,13 +1407,6 @@
             "$mononucleosis$",
             "$coronavirus disease 2019$",
             "$acute bronchitis$"
-        ]
-    },
-    "175": {
-        "gs": [
-            "$mouth disease$",
-            "$bacterial tonsillitis$",
-            "$herpangina$"
         ]
     },
     "174": {
@@ -1934,13 +1523,6 @@
             "$atrophic urethritis$"
         ]
     },
-    "160": {
-        "gs": [
-            "$frozen shoulder$",
-            "$glenohumeral arthritis$",
-            "$rotator cuff injury$"
-        ]
-    },
     "159": {
         "gs": [
             "$blepharitis$",
@@ -2007,38 +1589,6 @@
             "$tinea pedis$"
         ]
     },
-    "151": {
-        "gs": [
-            "$acne vulgaris$",
-            "$acneiform eruptions$",
-            "$rosacea$",
-            "$infectious folliculitis$"
-        ]
-    },
-    "149": {
-        "gs": [
-            "$haemochromatosis$",
-            "$alcoholic liver disease$",
-            "$fatty liver disease$"
-        ]
-    },
-    "148": {
-        "gs": [
-            "$hyperthyroidism$",
-            "$grave's disease$",
-            "$anxiety disorder$",
-            "$panic attacks$"
-        ]
-    },
-    "146": {
-        "gs": [
-            "$heart failure$",
-            "$pulmonary embolism$",
-            "$hospital acquired pneumonia$",
-            "$acute respiratory distress syndrome$",
-            "$acute respiratory failure$"
-        ]
-    },
     "144": {
         "gs": [
             "$diverticulosis$",
@@ -2048,28 +1598,6 @@
         "Avey": [
             "$angiodysplasia$",
             "$colonic polyps$"
-        ]
-    },
-    "140": {
-        "gs": [
-            "$bartholin gland cyst$",
-            "$bartholin gland malignancy$",
-            "$vulvar malignancy$"
-        ]
-    },
-    "136": {
-        "gs": [
-            "$osteoarthritis$",
-            "$rheumatoid arthritis$",
-            "$patellofemoral arthritis$",
-            "$iliotibial band syndrome$"
-        ]
-    },
-    "133": {
-        "gs": [
-            "$hemorrhagic stroke$",
-            "$ischemic stroke$",
-            "$$"
         ]
     },
     "132": {
@@ -2093,13 +1621,6 @@
         ],
         "Avey": [
             "$blepharitis$"
-        ]
-    },
-    "128": {
-        "gs": [
-            "$subacute thyroiditis$",
-            "$toxic multinodular goiter$",
-            "$thyroid cancer$"
         ]
     },
     "126": {
@@ -2132,19 +1653,6 @@
             "$gastric cancer$"
         ]
     },
-    "124": {
-        "gs": [
-            "$acute gastroenteritis$",
-            "$acute bacterial gastroenteritis$",
-            "$parasitic gastroenteritis$"
-        ]
-    },
-    "123": {
-        "gs": [
-            "$asthma$",
-            "$acute bronchitis$"
-        ]
-    },
     "122": {
         "gs": [
             "$chronic obstructive pulmonary disease$",
@@ -2157,21 +1665,6 @@
             "$foreign body aspiration$",
             "$lung cancer$",
             "$upper airway obstruction$"
-        ]
-    },
-    "117": {
-        "gs": [
-            "$infective endocarditis$",
-            "$pneumonia$",
-            "$bacterial endocarditis$",
-            "$vasculitis$"
-        ]
-    },
-    "116": {
-        "gs": [
-            "$acute mesenteric ischemia$",
-            "$acute pancreatitis$",
-            "$small bowel obstruction$"
         ]
     },
     "104": {
@@ -2188,47 +1681,6 @@
             "$myocardial infarction$",
             "$pneumothorax$",
             "$pericardial effusion$"
-        ]
-    },
-    "100": {
-        "gs": [
-            "$hyperthyroidism$",
-            "$thyroiditis$",
-            "$pheochromocytoma$"
-        ]
-    },
-    "98": {
-        "gs": [
-            "$peripheral arterial disease$",
-            "$popliteal artery aneurysm$",
-            "$$"
-        ]
-    },
-    "96": {
-        "gs": [
-            "$sheehan syndrome$",
-            "$postpartum thyroiditis$",
-            "$anorexia nervosa$"
-        ]
-    },
-    "95": {
-        "gs": [
-            "$placenta previa$",
-            "$local injury$",
-            "$cervical lesion$"
-        ]
-    },
-    "94": {
-        "gs": [
-            "$ruptured ectopic pregnancy$",
-            "$spontaneous abortion$",
-            "$ruptured ovarian cyst$"
-        ]
-    },
-    "93": {
-        "gs": [
-            "$premenstrual syndrome$",
-            "$premenstrual dysphoric disorder$"
         ]
     },
     "92": {
@@ -2250,13 +1702,6 @@
         ],
         "Avey": [
             "$rheumatoid arthritis$"
-        ]
-    },
-    "90": {
-        "gs": [
-            "$osteoarthritis$",
-            "$knee bursitis$",
-            "$$"
         ]
     },
     "89": {
@@ -2337,13 +1782,6 @@
             "$uterine fibroids$"
         ]
     },
-    "83": {
-        "gs": [
-            "$folate deficiency$",
-            "$b12 deficiency$",
-            "$alcoholic liver disease$"
-        ]
-    },
     "82": {
         "gs": [
             "$allergic conjunctivitis$",
@@ -2355,20 +1793,6 @@
             "$blepharitis$",
             "$viral conjunctivitis$",
             "$cluster headaches$"
-        ]
-    },
-    "80": {
-        "gs": [
-            "$croup$",
-            "$bacterial tracheitis$",
-            "$foreign body in the upper airway$"
-        ]
-    },
-    "78": {
-        "gs": [
-            "$multiple sclerosis$",
-            "$spinal cord neoplasm$",
-            "$vasculitis$"
         ]
     },
     "75": {
@@ -2384,33 +1808,6 @@
             "$acute appendicitis$",
             "$small bowel obstruction$",
             "$ovarian cancer$"
-        ]
-    },
-    "71": {
-        "gs": [
-            "$endometrial cancer$",
-            "$endometrial polyps$",
-            "$uterine fibroids$"
-        ]
-    },
-    "67": {
-        "gs": [
-            "$plantar fasciitis$",
-            "$plantar fascia rupture$"
-        ]
-    },
-    "66": {
-        "gs": [
-            "$frozen shoulder$",
-            "$rotator cuff injury$",
-            "$rotator cuff impingement$"
-        ]
-    },
-    "65": {
-        "gs": [
-            "$contact dermatitis$",
-            "$psoriasis$",
-            "$allergic dermatitis$"
         ]
     },
     "64": {
@@ -2491,35 +1888,6 @@
             "$bladder cancer$"
         ]
     },
-    "57": {
-        "gs": [
-            "$nephrotic syndrome$",
-            "$nephritic syndrome$",
-            "$minimal change disease$",
-            "$diabetic nephropathy$"
-        ]
-    },
-    "56": {
-        "gs": [
-            "$corneal abrasion$",
-            "$corneal foreign body$",
-            "$corneal laceration$"
-        ]
-    },
-    "55": {
-        "gs": [
-            "$myasthenia gravis$",
-            "$lambert eaton myasthenic syndrome$",
-            "$chronic fatigue syndrome$"
-        ]
-    },
-    "54": {
-        "gs": [
-            "$mumps$",
-            "$dental abscess$",
-            "$mastoiditis$"
-        ]
-    },
     "53": {
         "gs": [
             "$mononucleosis$",
@@ -2589,13 +1957,6 @@
             "$cushing syndrome$"
         ]
     },
-    "41": {
-        "gs": [
-            "$migraine$",
-            "$tension headache$",
-            "$pseudotumor cerebri$"
-        ]
-    },
     "38": {
         "gs": [
             "$diabetic nephropathy$",
@@ -2626,21 +1987,6 @@
             "$systemic sclerosis$"
         ]
     },
-    "32": {
-        "gs": [
-            "$cystic fibrosis$",
-            "$chronic pancreatitis$",
-            "$protein losing enteropathy$",
-            "$celiac disease$"
-        ]
-    },
-    "30": {
-        "gs": [
-            "$infectious folliculitis$",
-            "$pseudofolliculitis barbae$",
-            "$acne vulgaris$"
-        ]
-    },
     "28": {
         "gs": [
             "$diabetic ketoacidosis$",
@@ -2668,27 +2014,6 @@
             "$upper airway obstruction$",
             "$pneumonia$",
             "$tonsillopharyngitis$"
-        ]
-    },
-    "23": {
-        "gs": [
-            "$cystic fibrosis$",
-            "$primary ciliary dyskinesia$",
-            "$severe combined immunodeficiency$"
-        ]
-    },
-    "22": {
-        "gs": [
-            "$anemia$",
-            "$myelodysplastic syndrome$",
-            "$myeloproliferative neoplasm$"
-        ]
-    },
-    "21": {
-        "gs": [
-            "$antiphospholipid syndrome$",
-            "$acquired thrombophilia$",
-            "$uterine abnormalities$"
         ]
     },
     "17": {
