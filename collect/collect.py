@@ -8,22 +8,28 @@ def openFile(fileName):
 
 
 gs = {case["id"]: case for case in openFile('gs')}
-batch1 = openFile('batch1')
+batch = {}
+for i in range(1,4):
+    batch = {**batch, **openFile(f'Avey {i}')}
 tests = openFile('tests')
+maram = set(i['case_number']
+           for i in tests if i['conducted_by'] == "Maram Smairat")
+print(len(set(batch.keys()) & maram))
+batch = set(batch.keys()) - maram
 collect = {
     id: {
         "gs": [
             f"${d.split('-')[-1].strip().lower().split('.')[-1].lower().strip()}$"
             for d in case["differential_diagnosis"].split("\n")
         ]
-    } for id, case in gs.items() if id not in batch1.keys()
+    } for id, case in gs.items() if id not in batch
 }
 
 for case in tests:
     if case["case_number"] in collect:
         collect[case["case_number"]][case["app"]] = \
             [f"${d.split('-')[-1].strip().lower().split('.')[-1].lower().strip()}$" for d in case["content"].split("\n")]
-    elif case["case_number"] not in batch1:
+    elif case["case_number"] not in batch:
         print(f"{case['case_number']} has no gold standard")
 
 
@@ -48,20 +54,20 @@ for case in tests:
 #                             for d in ddx.split("\n")]
 
 
-for test in openFile('gp'):
-    caseNum, app, ddx = test["case_number"], test["conducted_by"], test["content"]
-    # present = False 
-    # x = None
-    # for d in ddx.split("\n"):
-    #     present |= d[3:].find('-')!=-1
-    #     x = x if x is not None else d if present else None
-    # if present:
-    #     print(caseNum,app,x) 
-    if caseNum in collect:
-        collect[caseNum][app] = [f"${d.split('-')[-1].strip().lower().split('.')[-1].lower().strip()}$"
-                        for d in ddx.split("\n")]
-    elif caseNum not in batch1:
-        print(f'{caseNum} from gp has no gs')
+# for test in openFile('gp'):
+#     caseNum, app, ddx = test["case_number"], test["conducted_by"], test["content"]
+#     # present = False 
+#     # x = None
+#     # for d in ddx.split("\n"):
+#     #     present |= d[3:].find('-')!=-1
+#     #     x = x if x is not None else d if present else None
+#     # if present:
+#     #     print(caseNum,app,x) 
+#     if caseNum in collect:
+#         collect[caseNum][app] = [f"${d.split('-')[-1].strip().lower().split('.')[-1].lower().strip()}$"
+#                         for d in ddx.split("\n")]
+#     elif caseNum not in batch:
+#         print(f'{caseNum} from gp has no gs')
 
 
 collectString = json.dumps(collect, indent=4)
