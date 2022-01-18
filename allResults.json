@@ -43,6 +43,14 @@
         ],
         "Noor Joudeh": [
             "reactive airway disease with superimposed infection"
+        ],
+        "Avey": [
+            "acute bronchitis",
+            "common cold",
+            "pneumonia",
+            "pulmonary edema",
+            "laryngitis",
+            "tonsillopharingitis"
         ]
     },
     "2": {
@@ -88,6 +96,12 @@
         "Noor Joudeh": [
             "unstable angina",
             "myocardial infarction"
+        ],
+        "Avey": [
+            "unstable angina",
+            "myocardial infarction",
+            "stable angina",
+            "varient angina"
         ]
     },
     "3": {
@@ -126,6 +140,14 @@
         ],
         "Noor Joudeh": [
             "aortic dissection"
+        ],
+        "Avey": [
+            "aortic dissection",
+            "myocardial infarction",
+            "unstable angina",
+            "variant angina",
+            "pulmonary edema",
+            "cardiomyopathy"
         ]
     },
     "4": {
@@ -171,6 +193,14 @@
         "Noor Joudeh": [
             "asthma",
             "pulmonary edema"
+        ],
+        "Avey": [
+            "asthma",
+            "chronic obstructive pulmonary disease",
+            "cystic fibrosis",
+            "bronchiactasis",
+            "valvular heart disease",
+            "acute bronchitis"
         ]
     },
     "5": {
@@ -204,6 +234,14 @@
         ],
         "Noor Joudeh": [
             "heart failure"
+        ],
+        "Avey": [
+            "heart failure",
+            "cardiomyopathy",
+            "valvular heart disease",
+            "anemia",
+            "amyloidosis",
+            "anemia"
         ]
     },
     "6": {
@@ -250,6 +288,14 @@
         ],
         "Noor Joudeh": [
             "chronic obstructive pulmonary disease"
+        ],
+        "Avey": [
+            "chronic obstructive pulmonary disease",
+            "asthma",
+            "heart failure",
+            "cardiomyopathy",
+            "bronchiectasis",
+            "valvular heart disease"
         ]
     },
     "7": {
@@ -292,6 +338,14 @@
         "Noor Joudeh": [
             "acute pericarditis",
             "acute pleuritis"
+        ],
+        "Avey": [
+            "acute pericarditis",
+            "pericardial effusion",
+            "pneumothorax",
+            "pulmonary embolism",
+            "aortic dissection",
+            "pulmonary edema"
         ]
     },
     "8": {
@@ -323,6 +377,14 @@
             "rheumatic fever"
         ],
         "Noor Joudeh": [
+            "rheumatic fever"
+        ],
+        "Avey": [
+            "juvenile idiopathic arthritis",
+            "gout",
+            "mixed connective tissue disease",
+            "rubella",
+            "systemic lupus erythematosus",
             "rheumatic fever"
         ]
     },
@@ -364,6 +426,12 @@
         ],
         "Noor Joudeh": [
             "unstable angina"
+        ],
+        "Avey": [
+            "stable angina",
+            "variant angina",
+            "myocardial infarction",
+            "unstable angina"
         ]
     },
     "10": {
@@ -404,6 +472,14 @@
             "acute appendicitis",
             "uti",
             "ovarian cyst complicated"
+        ],
+        "Avey": [
+            "acute appendicitis",
+            "peptic ulcer disease",
+            "acute pancreatitis",
+            "abdominal aortic aneurysm",
+            "nephrolithiasis",
+            "gastritis"
         ]
     },
     "11": {
@@ -449,6 +525,14 @@
         ],
         "Noor Joudeh": [
             "acute cholecystitis"
+        ],
+        "Avey": [
+            "acute cholangitis",
+            "acute cholecystitis",
+            "acute pancreatitis",
+            "cholelithiasis",
+            "acute appendicitis",
+            "liver abscess"
         ]
     },
     "12": {
@@ -495,6 +579,14 @@
             "cholelithiasis",
             "acute cholecystitis",
             "hepatitis"
+        ],
+        "Avey": [
+            "acute cholangitis",
+            "acute cholecystitis",
+            "acute pancreatitis",
+            "acute appendicitis",
+            "peptic ulcer disease",
+            "cholelithiasis"
         ]
     },
     "13": {
@@ -546,6 +638,14 @@
             "chronic obstructive pulmonary disease",
             "asthma",
             "acute bronchitis"
+        ],
+        "Avey": [
+            "bronchiactasis",
+            "chronic obstructive pulmonary disease",
+            "cystic fibrosis",
+            "valvular heart disease",
+            "cardiomyopathy",
+            "heart failure"
         ]
     },
     "14": {
@@ -590,6 +690,14 @@
         "Noor Joudeh": [
             "pneumonia",
             "coronavirus disease 2019"
+        ],
+        "Avey": [
+            "coronavirus disease 2019",
+            "malaria",
+            "influenza",
+            "pneumonia",
+            "pulmonary embolism",
+            "pericardial effusion"
         ]
     },
     "15": {
@@ -627,6 +735,14 @@
         ],
         "Noor Joudeh": [
             "abdominal aortic aneurysm"
+        ],
+        "Avey": [
+            "acute mesenteric ischemia",
+            "small bowel obstruction",
+            "abdominal aortic aneurysm",
+            "diverticulitis",
+            "acute appendicitis",
+            "acute pancreatitis"
         ]
     },
     "16": {
@@ -674,6 +790,14 @@
         ],
         "Noor Joudeh": [
             "acute pancreatitis"
+        ],
+        "Avey": [
+            "acute cholangitis",
+            "acute cholecystitis",
+            "acute mesentric ischemia",
+            "acute pancreatitis",
+            "acute appendicitis",
+            "small bowel obstruction"
         ]
     },
     "17": {
@@ -723,6 +847,13 @@
         ],
         "Noor Joudeh": [
             "cholelithiasis"
+        ],
+        "Avey": [
+            "acute cholecystitis",
+            "acute cholangitis",
+            "cholelithiasis",
+            "acute pancreatitis",
+            "acute liver failure"
         ]
     },
     "18": {
@@ -769,6 +900,14 @@
         "Noor Joudeh": [
             "pneumonia",
             "acute bronchitis"
+        ],
+        "Avey": [
+            "coronavirus disease 2019",
+            "pericardial effusion",
+            "pneumonia",
+            "mixed connective tissue disease",
+            "influenza",
+            "pulmonary embolism"
         ]
     },
     "19": {
@@ -806,6 +945,13 @@
         "Noor Joudeh": [
             "acute gastroenteritis",
             "hus"
+        ],
+        "Avey": [
+            "cholera",
+            "food poisoning",
+            "cronkhite canada syndrome",
+            "acute gastroenteritis",
+            "colitis"
         ]
     },
     "20": {
@@ -855,6 +1001,10 @@
             "insulin resistance",
             "diabetes mellitus",
             "acanthosis nigricans"
+        ],
+        "Avey": [
+            "acanthosis nigricans",
+            "tinea versicolor"
         ]
     },
     "24": {
@@ -900,6 +1050,14 @@
         "Noor Joudeh": [
             "pneumonia",
             "bronchial asthma exacerbation"
+        ],
+        "Avey": [
+            "influenza",
+            "common cold",
+            "coronavirus disease 2019",
+            "upper airway obstruction",
+            "pneumonia",
+            "tonsillopharyngitis"
         ]
     },
     "25": {
@@ -942,6 +1100,10 @@
         "Noor Joudeh": [
             "obstructive sleep apnea",
             "nasal polyps"
+        ],
+        "Avey": [
+            "obstructive sleep apnea",
+            "upper airway narrowing"
         ]
     },
     "26": {
@@ -990,6 +1152,14 @@
         "Noor Joudeh": [
             "pancreatic cancer",
             "acute pancreatitis"
+        ],
+        "Avey": [
+            "acute pancreatitis",
+            "acute cholecystitis",
+            "acute cholangitis",
+            "chronic pancreatitis",
+            "myocardial infarction",
+            "cystic fibrosis"
         ]
     },
     "27": {
@@ -1032,6 +1202,14 @@
         "Noor Joudeh": [
             "inflammatory bowel disease",
             "psoriasis"
+        ],
+        "Avey": [
+            "celiac disease",
+            "inflammatory bowel disease",
+            "chronic pancreatitis",
+            "herpes simplex",
+            "lactose intolerance",
+            "cronkhite canada syndrome"
         ]
     },
     "28": {
@@ -1071,6 +1249,12 @@
         "Noor Joudeh": [
             "diabetic ketoacidosis",
             "uti"
+        ],
+        "Avey": [
+            "diabetic ketoacidosis",
+            "hyperosmolar hyperglycaemic nonketonic state",
+            "diabetes mellitus",
+            "overactive bladder"
         ]
     },
     "29": {
@@ -1110,7 +1294,15 @@
         "Noor Joudeh": [
             "atopic dermatitis"
         ],
-        "Babylon": []
+        "Babylon": [],
+        "Avey": [
+            "atopic dermatitis",
+            "allergic rhinitis",
+            "scabies",
+            "contact dermatitis",
+            "psoriasis",
+            "urticaria"
+        ]
     },
     "31": {
         "gs": [
@@ -1152,6 +1344,9 @@
         ],
         "Noor Joudeh": [
             "sti (syphilis)"
+        ],
+        "Avey": [
+            "genital warts"
         ]
     },
     "33": {
@@ -1194,6 +1389,14 @@
         ],
         "Noor Joudeh": [
             "iron deficiency anemia"
+        ],
+        "Avey": [
+            "iron deficiency anemia",
+            "cardiomyopathy",
+            "myocarditis",
+            "valvvular heart disease",
+            "pericardial effusion",
+            "hemolytic anemia"
         ]
     },
     "34": {
@@ -1239,6 +1442,14 @@
         ],
         "Noor Joudeh": [
             "thalassemia"
+        ],
+        "Avey": [
+            "amyloidosis",
+            "lambert eaton myasthenic syndrome",
+            "anemia",
+            "polycythemia vera",
+            "valvular heart disease",
+            "systemic sclerosis"
         ]
     },
     "35": {
@@ -1277,6 +1488,14 @@
         ],
         "Noor Joudeh": [
             "celiac disease"
+        ],
+        "Avey": [
+            "celiac disease",
+            "acute bacterial gastroenteritis",
+            "acute gastroenteritis",
+            "acute pancreatitis",
+            "acute appendicitis",
+            "inflammatory bowel disease"
         ]
     },
     "36": {
@@ -1317,6 +1536,14 @@
         ],
         "Noor Joudeh": [
             "cholelithiasis"
+        ],
+        "Avey": [
+            "acute cholecystitis",
+            "cholelithiasis",
+            "peptic ulcer disease",
+            "acute pancreatitis",
+            "acute cholangitis",
+            "acute appendicitis"
         ]
     },
     "37": {
@@ -1360,6 +1587,13 @@
         ],
         "Noor Joudeh": [
             "cushing syndrome"
+        ],
+        "Avey": [
+            "cushing syndrome",
+            "thyroiditis",
+            "endometrial cancer",
+            "polycystic ocary syndrome",
+            "hypothyroidism"
         ]
     },
     "38": {
@@ -1404,7 +1638,14 @@
             "hypothyroidism"
         ],
         "K health": [],
-        "Babylon": []
+        "Babylon": [],
+        "Avey": [
+            "diabetic nephropathy",
+            "osteomyelitis",
+            "chronic venous insufficiency",
+            "popliteal artery aneurysm",
+            "deep vein thrombosis"
+        ]
     },
     "39": {
         "gs": [
@@ -1448,6 +1689,11 @@
         ],
         "Noor Joudeh": [
             "iatrogenic hyperthyroidism"
+        ],
+        "Avey": [
+            "primary ovarian failure",
+            "menopause",
+            "pituitary tumor"
         ]
     },
     "40": {
@@ -1484,6 +1730,14 @@
         ],
         "Noor Joudeh": [
             "acromegaly"
+        ],
+        "Avey": [
+            "acromegaly",
+            "fibromyalgia",
+            "brucellosis",
+            "lyme disease",
+            "malaria",
+            "ischemic optic neuropathy"
         ]
     },
     "42": {
@@ -1525,6 +1779,13 @@
         ],
         "Noor Joudeh": [
             "benign paroxysmal positional vertigo"
+        ],
+        "Avey": [
+            "benign paroxysmal positional vertigo",
+            "vestibular neuritis",
+            "labyrinthitis",
+            "meniere disease",
+            "hypotension"
         ]
     },
     "43": {
@@ -1567,6 +1828,14 @@
         ],
         "Noor Joudeh": [
             "meniere disease"
+        ],
+        "Avey": [
+            "acoustic neuroma",
+            "meniere disease",
+            "labyrinthitis",
+            "otitis media with effusion",
+            "vestibular neuritis",
+            "earwax blockage"
         ]
     },
     "44": {
@@ -1610,6 +1879,10 @@
         ],
         "Noor Joudeh": [
             "polycystic ovary syndrome"
+        ],
+        "Avey": [
+            "metabolic syndrome",
+            "cushing syndrome"
         ]
     },
     "45": {
@@ -1648,6 +1921,14 @@
         ],
         "Noor Joudeh": [
             "diabetic ketoacidosis"
+        ],
+        "Avey": [
+            "diabetic ketoacidosis",
+            "hyperosmolar hyperglycemic nonketotic state",
+            "acute mesenteric ischemia",
+            "hypercalcemia",
+            "gastritis",
+            "myocardial infarction"
         ]
     },
     "46": {
@@ -1689,6 +1970,14 @@
         ],
         "Noor Joudeh": [
             "tension headache"
+        ],
+        "Avey": [
+            "tension headache",
+            "transient ischemic attack",
+            "brain tumor",
+            "renal artery stenosis",
+            "migraine",
+            "thalassemia"
         ]
     },
     "47": {
@@ -1728,6 +2017,12 @@
         ],
         "Noor Joudeh": [
             "cluster headaches"
+        ],
+        "Avey": [
+            "cluster headaches",
+            "migraine",
+            "acute angle closure glaucoma",
+            "transient ischemic attack"
         ]
     },
     "48": {
@@ -1767,6 +2062,10 @@
         ],
         "Noor Joudeh": [
             "anal fissure"
+        ],
+        "Avey": [
+            "anal fissure",
+            "hemorrhoids"
         ]
     },
     "49": {
@@ -1810,6 +2109,14 @@
         ],
         "Noor Joudeh": [
             "irritable bowel syndrome"
+        ],
+        "Avey": [
+            "inflammatory bowel disease",
+            "celiac disease",
+            "colitis",
+            "cronkite canada syndrome",
+            "lactose intolerance",
+            "chronic pancreatitis"
         ]
     },
     "50": {
@@ -1857,6 +2164,14 @@
         "Noor Joudeh": [
             "hypothyroidism",
             "vitamin d deficiency"
+        ],
+        "Avey": [
+            "fibromyalgia",
+            "lambert eaton myasthenitic syndrome",
+            "rhabdomyolysis",
+            "thyroiditis",
+            "acute renal failure",
+            "orchitis"
         ]
     },
     "51": {
@@ -1900,6 +2215,14 @@
         ],
         "Noor Joudeh": [
             "hypothyroidism"
+        ],
+        "Avey": [
+            "multiple sclerosis",
+            "thyroiditis",
+            "adrenal insufficiency",
+            "premenstrual syndrome",
+            "hyperparathyroidism",
+            "acromegaly"
         ]
     },
     "52": {
@@ -1950,6 +2273,14 @@
         ],
         "Noor Joudeh": [
             "cat scratch disease"
+        ],
+        "Avey": [
+            "mixed connective tissue disease",
+            "brucellosis",
+            "influenza",
+            "systemic lupus erythromatosus",
+            "malaria",
+            "dengune fever"
         ]
     },
     "53": {
@@ -1988,6 +2319,14 @@
         ],
         "Noor Joudeh": [
             "tonsillopharyngitis"
+        ],
+        "Avey": [
+            "cat scratch disease",
+            "mononucleosis",
+            "lyme disease",
+            "impetigo",
+            "hand foot mouth disease",
+            "varicella"
         ]
     },
     "58": {
@@ -2027,6 +2366,14 @@
         ],
         "Noor Joudeh": [
             "urinary tract infection"
+        ],
+        "Avey": [
+            "urinary tract infection",
+            "overactive bladder",
+            "pyelonephritis",
+            "nephrolithiasis",
+            "atrophic urethritis",
+            "bladder cancer"
         ]
     },
     "59": {
@@ -2063,6 +2410,11 @@
         ],
         "Noor Joudeh": [
             "fibroadenoma"
+        ],
+        "Avey": [
+            "fibroadenoma",
+            "breast fat necrosis",
+            "galactocele"
         ]
     },
     "60": {
@@ -2110,6 +2462,12 @@
         "Noor Joudeh": [
             "primary dysmenorrhea",
             "fibroids"
+        ],
+        "Avey": [
+            "secondary dysmenorrhea",
+            "endometriosis",
+            "primary dysmenorrhea",
+            "adenomyosis"
         ]
     },
     "61": {
@@ -2160,6 +2518,14 @@
         "Noor Joudeh": [
             "ovarian mass",
             "diverticulitis"
+        ],
+        "Avey": [
+            "diverticulitis",
+            "acute appendicitis",
+            "peritonitis",
+            "diverticulosis",
+            "ectopic pregnancy",
+            "small bowel obstruction"
         ]
     },
     "62": {
@@ -2209,6 +2575,14 @@
         ],
         "Noor Joudeh": [
             "peptic ulcer disease"
+        ],
+        "Avey": [
+            "acute pancreatitis",
+            "acute cholangitis",
+            "peptic ulcer disease",
+            "small bowel obstruction",
+            "chronic pancreatitis",
+            "gastritis"
         ]
     },
     "63": {
@@ -2254,6 +2628,14 @@
         ],
         "Noor Joudeh": [
             "infective gastroenteritis"
+        ],
+        "Avey": [
+            "malaria",
+            "dengue fever",
+            "influenza",
+            "acute bacterial gastroenteritis",
+            "coronavirus disease 2019",
+            "acute gastroenteritis"
         ]
     },
     "64": {
@@ -2294,6 +2676,12 @@
         ],
         "Noor Joudeh": [
             "shingles"
+        ],
+        "Avey": [
+            "systemic lupus erythromatosus",
+            "fibromyalgia",
+            "lyme disease",
+            "mixed connective tissue disease"
         ]
     },
     "68": {
@@ -2333,6 +2721,9 @@
         ],
         "Noor Joudeh": [
             "chalazion"
+        ],
+        "Avey": [
+            ""
         ]
     },
     "69": {
@@ -2373,6 +2764,13 @@
         ],
         "Noor Joudeh": [
             "chalazion"
+        ],
+        "Avey": [
+            "chalazion",
+            "blepharitis",
+            "stye (hordeolum)",
+            "nasolacrimal duct obstruction",
+            "lipoma"
         ]
     },
     "70": {
@@ -2411,6 +2809,10 @@
         ],
         "Noor Joudeh": [
             "bacterial conjunctivitis"
+        ],
+        "Avey": [
+            "bacterial conjunctivitis",
+            "eyelid blepharitis"
         ]
     },
     "72": {
@@ -2459,6 +2861,13 @@
             "fibroids",
             "polyps",
             "endometriosis"
+        ],
+        "Avey": [
+            "secondary dysmenorrhea",
+            "primary dysmenorrhea",
+            "adenomyosis",
+            "endometriosis",
+            "fibroids"
         ]
     },
     "73": {
@@ -2502,6 +2911,12 @@
         ],
         "Noor Joudeh": [
             "bacterial vaginosis"
+        ],
+        "Avey": [
+            "trichomoniasis",
+            "bacterial vaginosis",
+            "vulvovaginal candidiasis",
+            "chlamydia"
         ]
     },
     "74": {
@@ -2545,6 +2960,14 @@
         "Noor Joudeh": [
             "breast cancer",
             "mastitis"
+        ],
+        "Avey": [
+            "breast engorgement",
+            "breast cancer",
+            "fibroadenoma",
+            "fibrocystic breast disease",
+            "fat necrosis",
+            "breast infection"
         ]
     },
     "75": {
@@ -2594,6 +3017,14 @@
             "cystitis",
             "pelvic inflammatory disease",
             "pelvic pain syndrome"
+        ],
+        "Avey": [
+            "cystitis",
+            "diverticulosis",
+            "chlamydia",
+            "acute appendicitis",
+            "small bowel obstruction",
+            "ovarian cancer"
         ]
     },
     "76": {
@@ -2635,6 +3066,14 @@
         ],
         "Noor Joudeh": [
             "viral conjunctivitis"
+        ],
+        "Avey": [
+            "viral conjunctivitis",
+            "corneal abrasion",
+            "nasolacrimal duct obstruction",
+            "allergic conjunctivitis",
+            "acute angle closure glaucoma",
+            "blepharitis"
         ]
     },
     "77": {
@@ -2673,6 +3112,10 @@
         ],
         "Noor Joudeh": [
             "lateral epicondylitis"
+        ],
+        "Avey": [
+            "lateral epicondylitis",
+            "osteoarthritis"
         ]
     },
     "79": {
@@ -2714,6 +3157,14 @@
         ],
         "Noor Joudeh": [
             "deep venous thrombosis"
+        ],
+        "Avey": [
+            "popliteal artery aneurysm",
+            "deep venous thrombosis",
+            "chronic venous insufficiency",
+            "peripheral vascular disease",
+            "osteomyelitis",
+            "lymphedema"
         ]
     },
     "81": {
@@ -2756,6 +3207,14 @@
         ],
         "Noor Joudeh": [
             "acute laryngitis"
+        ],
+        "Avey": [
+            "acute laryngitis",
+            "coronavirus disease 2019",
+            "pneumonia",
+            "pulmonary edema",
+            "common cold",
+            "acute bronchitis"
         ]
     },
     "82": {
@@ -2799,6 +3258,12 @@
         ],
         "Noor Joudeh": [
             "viral conjunctivitis"
+        ],
+        "Avey": [
+            "allergic conjunctivitis",
+            "blepharitis",
+            "viral conjunctivitis",
+            "cluster headaches"
         ]
     },
     "84": {
@@ -2842,6 +3307,14 @@
         "Noor Joudeh": [
             "thalassemia",
             "sickle cell disease"
+        ],
+        "Avey": [
+            "herniated disc",
+            "mechanical back pain",
+            "sciatica",
+            "degenerative disc disease",
+            "osteomyelitis",
+            "uterine fibroids"
         ]
     },
     "85": {
@@ -2882,6 +3355,12 @@
         ],
         "Noor Joudeh": [
             "medial epicondylitis"
+        ],
+        "Avey": [
+            "tennis elbow",
+            "osteoarthritis",
+            "menopause",
+            "pseudogout"
         ]
     },
     "86": {
@@ -2924,6 +3403,11 @@
         ],
         "Noor Joudeh": [
             "nephrolithiasis"
+        ],
+        "Avey": [
+            "acute prostatitis",
+            "acute interstitial nephritis",
+            "bladder cancer"
         ]
     },
     "87": {
@@ -2957,6 +3441,14 @@
         ],
         "Noor Joudeh": [
             "rosacea"
+        ],
+        "Avey": [
+            "rosacea",
+            "contact dermatitis",
+            "urticaria",
+            "atopic dermatitis",
+            "sun burn",
+            "tinea versicolor"
         ]
     },
     "88": {
@@ -2997,6 +3489,11 @@
         ],
         "Noor Joudeh": [
             "otitis externa"
+        ],
+        "Avey": [
+            "otitis externa",
+            "otomycosis",
+            "earwax blockage"
         ]
     },
     "89": {
@@ -3045,6 +3542,12 @@
         ],
         "Noor Joudeh": [
             "otitis media"
+        ],
+        "Avey": [
+            "otitis media",
+            "otitis media with effusion",
+            "otitis media with tympanic membrane perforation",
+            "lymphadenitis"
         ]
     },
     "91": {
@@ -3081,6 +3584,9 @@
         ],
         "Noor Joudeh": [
             "osteoarthritis"
+        ],
+        "Avey": [
+            "rheumatoid arthritis"
         ]
     },
     "92": {
@@ -3119,6 +3625,12 @@
         ],
         "Noor Joudeh": [
             "polyarteritis nodosa"
+        ],
+        "Avey": [
+            "rheumatoid arthritis",
+            "systemic sclerosis",
+            "pseudogout",
+            "osteoarthritis"
         ]
     },
     "97": {
@@ -3157,6 +3669,14 @@
         ],
         "Noor Joudeh": [
             "meningococcal meningitis"
+        ],
+        "Avey": [
+            "leukemia",
+            "tonsillopharyngitis",
+            "lymphadenitis",
+            "lymphoma",
+            "malaria",
+            "dengue fever"
         ]
     },
     "99": {
@@ -3200,6 +3720,11 @@
         ],
         "Noor Joudeh": [
             "benign prostatic hyperplasia"
+        ],
+        "Avey": [
+            "overactive bladder",
+            "atrophic urethritis",
+            "benign prostatic hyperplasia"
         ]
     },
     "101": {
@@ -3238,6 +3763,14 @@
         ],
         "Noor Joudeh": [
             "cystitis"
+        ],
+        "Avey": [
+            "pyelonephritis",
+            "cystitis",
+            "acute prostatitis",
+            "overactive bladder",
+            "atrophic urethritis",
+            "benign prostatic hyperplasia"
         ]
     },
     "102": {
@@ -3282,6 +3815,14 @@
             "pleuritis",
             "pulmonary embolism",
             "myocardial infarction"
+        ],
+        "Avey": [
+            "pulmonary edema",
+            "pericardial effusion",
+            "pneumothorax",
+            "aortic dissection",
+            "pulmonary embolism",
+            "pneumonia"
         ]
     },
     "103": {
@@ -3326,6 +3867,14 @@
             "liver failure",
             "inflammatory bowel disease",
             "celiac disease"
+        ],
+        "Avey": [
+            "celiac disease",
+            "inflammatory bowel disease",
+            "chronic pancreatitis",
+            "lactose intolerance",
+            "irritable bowel syndrome",
+            "diverticulosis"
         ]
     },
     "104": {
@@ -3370,6 +3919,13 @@
         "Noor Joudeh": [
             "acute pericarditis",
             "pleurisy"
+        ],
+        "Avey": [
+            "unstable angina",
+            "aortic dissection",
+            "myocardial infarction",
+            "pneumothorax",
+            "pericardial effusion"
         ]
     },
     "105": {
@@ -3406,6 +3962,14 @@
         ],
         "Noor Joudeh": [
             "adrenal insufficiency"
+        ],
+        "Avey": [
+            "adrenal insufficiency",
+            "liver cirrhosis",
+            "polycystic ovary syndrome",
+            "endometrial cancer",
+            "gastric cancer",
+            "acanthosis nigricans"
         ]
     },
     "106": {
@@ -3448,6 +4012,10 @@
         "Noor Joudeh": [
             "thyroid nodule",
             "reactive lymph node enlargement"
+        ],
+        "Avey": [
+            "lipoma",
+            "thyroiditis"
         ]
     },
     "107": {
@@ -3486,6 +4054,14 @@
             "uterine rupture",
             "placenta previa",
             "vasa previa"
+        ],
+        "Avey": [
+            "abruptio placenta",
+            "placenta previa",
+            "preterm labor",
+            "molar pregnancy",
+            "spontaneous abortion",
+            "ectopic pregnancy"
         ]
     },
     "108": {
@@ -3519,6 +4095,9 @@
             "impetigo"
         ],
         "Noor Joudeh": [
+            "impetigo"
+        ],
+        "Avey": [
             "impetigo"
         ]
     },
@@ -3567,6 +4146,13 @@
         "Noor Joudeh": [
             "ear wax blockage",
             "meniere disease"
+        ],
+        "Avey": [
+            "acoustic neuroma",
+            "labrynthitis",
+            "ear wax blockage",
+            "meniere disease",
+            "otitis media with effusion"
         ]
     },
     "110": {
@@ -3605,6 +4191,10 @@
         ],
         "Noor Joudeh": [
             "tia"
+        ],
+        "Avey": [
+            "tia",
+            "cerebral stroke (ischemic)"
         ]
     },
     "111": {
@@ -3653,6 +4243,14 @@
         ],
         "Noor Joudeh": [
             "salmonellosis"
+        ],
+        "Avey": [
+            "brucellosis",
+            "malaria",
+            "mixed connective tissue disease",
+            "mononucleosis",
+            "influenza",
+            "dengue fever"
         ]
     },
     "112": {
@@ -3690,6 +4288,11 @@
         ],
         "Noor Joudeh": [
             "urosepsis"
+        ],
+        "Avey": [
+            "pyelonephritis",
+            "colitis",
+            "renal cell carcinoma"
         ]
     },
     "113": {
@@ -3733,6 +4336,11 @@
         ],
         "Noor Joudeh": [
             "diabetic retinopathy"
+        ],
+        "Avey": [
+            "macular degeneration",
+            "diabetic retinopathy",
+            "cataract"
         ]
     },
     "114": {
@@ -3773,6 +4381,14 @@
         ],
         "Noor Joudeh": [
             "ankylosing spondylitis"
+        ],
+        "Avey": [
+            "ankylosing spondylitis",
+            "vertebral fracture",
+            "osteoarthritis",
+            "herniated disc",
+            "brucellosis",
+            "sciatica"
         ]
     },
     "115": {
@@ -3811,6 +4427,14 @@
         ],
         "Noor Joudeh": [
             "pneumothorax"
+        ],
+        "Avey": [
+            "pneumothorax",
+            "variant angina",
+            "myocardial infarction",
+            "pulmonary embolism",
+            "unstable angina",
+            "aortic dissection"
         ]
     },
     "118": {
@@ -3852,6 +4476,14 @@
         "Noor Joudeh": [
             "valvular heart disease",
             "tias"
+        ],
+        "Avey": [
+            "valvular heart disease",
+            "arrhythmias",
+            "hypertrophic obstructive cardiomyopathy",
+            "reflex syncope",
+            "pericardial effusion",
+            "amyloidosis"
         ]
     },
     "119": {
@@ -3895,6 +4527,10 @@
         "Noor Joudeh": [
             "atrophic urethritis",
             "saddle anesthesia due to lumbar spinal canal stenosis"
+        ],
+        "Avey": [
+            "urinary incontinence",
+            "urogenital fistula"
         ]
     },
     "120": {
@@ -3930,6 +4566,10 @@
         ],
         "Noor Joudeh": [
             "breast cancer"
+        ],
+        "Avey": [
+            "breast cancer",
+            "fibrocystic breast disease"
         ]
     },
     "121": {
@@ -3970,6 +4610,12 @@
             "stds"
         ],
         "Noor Joudeh": [
+            "stds"
+        ],
+        "Avey": [
+            "urethritis",
+            "acute prostatitis",
+            "cystitis",
             "stds"
         ]
     },
@@ -4014,6 +4660,14 @@
         "Noor Joudeh": [
             "pulmonary edema",
             "pleural effusion"
+        ],
+        "Avey": [
+            "chronic obstructive pulmonary disease",
+            "asthma",
+            "bronchiactasis",
+            "foreign body aspiration",
+            "lung cancer",
+            "upper airway obstruction"
         ]
     },
     "125": {
@@ -4058,6 +4712,14 @@
         ],
         "Noor Joudeh": [
             "peptic ulcer disease"
+        ],
+        "Avey": [
+            "acute pancreatitis",
+            "peptic ulcer disease",
+            "small bowel obstruction",
+            "gastritis",
+            "chronic pancreatitis",
+            "gastric cancer"
         ]
     },
     "126": {
@@ -4101,6 +4763,14 @@
         ],
         "Noor Joudeh": [
             "heart failure"
+        ],
+        "Avey": [
+            "pulmonary edema",
+            "heart failure",
+            "renal artery stenosis",
+            "cardiomyopathy",
+            "pulmonary embolism",
+            "vulvular heart disease"
         ]
     },
     "127": {
@@ -4141,6 +4811,14 @@
         ],
         "Noor Joudeh": [
             "aortic dissection"
+        ],
+        "Avey": [
+            "aortic dissection",
+            "myocardial infarction",
+            "pneumothorax",
+            "unstable angina",
+            "pulmonary embolism",
+            "arrhythmia"
         ]
     },
     "129": {
@@ -4180,6 +4858,9 @@
         ],
         "Noor Joudeh": [
             "bacterial conjunctivitis"
+        ],
+        "Avey": [
+            "blepharitis"
         ]
     },
     "130": {
@@ -4216,6 +4897,14 @@
         ],
         "Noor Joudeh": [
             "ectopic pregnancy"
+        ],
+        "Avey": [
+            "ectopic pregnancy",
+            "threatened abortion",
+            "molar pregnancy",
+            "endometrial cancer",
+            "abruptio placenta",
+            "ovarian cancer"
         ]
     },
     "131": {
@@ -4263,6 +4952,13 @@
             "pregnancy",
             "polycystic ovary syndrome",
             "hyperprolactenemia"
+        ],
+        "Avey": [
+            "pregnancy",
+            "molar pregnancy",
+            "ectopic pregnancy",
+            "spontaneous abortion",
+            "ovarian insufficiency"
         ]
     },
     "132": {
@@ -4303,6 +4999,14 @@
         ],
         "Noor Joudeh": [
             "shingles"
+        ],
+        "Avey": [
+            "shingles",
+            "bullous pemphigoid",
+            "contact dermatitis",
+            "atopic dermatitis",
+            "herpes simplex",
+            "scabies"
         ]
     },
     "134": {
@@ -4342,6 +5046,14 @@
         ],
         "Noor Joudeh": [
             "measles"
+        ],
+        "Avey": [
+            "shingles",
+            "varicella (chickenpox)",
+            "herpes simplex dermatitis",
+            "contact dermatitis",
+            "measles",
+            "cellulitis"
         ]
     },
     "135": {
@@ -4388,6 +5100,14 @@
             "bph or prostate cancer",
             "colonic mass",
             "renal cell carcinoma"
+        ],
+        "Avey": [
+            "polycystic kidney disease",
+            "nephrolithiasis",
+            "pyelonephritis",
+            "renal cell carcinoma",
+            "bladder cancer",
+            "anemia"
         ]
     },
     "137": {
@@ -4432,6 +5152,10 @@
         "Noor Joudeh": [
             "common cold",
             "coronavirus disease 2019"
+        ],
+        "Avey": [
+            "common cold",
+            "influenza"
         ]
     },
     "138": {
@@ -4470,6 +5194,14 @@
         ],
         "Noor Joudeh": [
             "irritable bowel syndrome"
+        ],
+        "Avey": [
+            "irritable bowel syndrome",
+            "diverticulosis",
+            "diverticulitis",
+            "ectopic pregnancy",
+            "ovarian cancer",
+            "colonic polyps"
         ]
     },
     "139": {
@@ -4509,6 +5241,10 @@
         ],
         "Noor Joudeh": [
             "lymphangitis"
+        ],
+        "Avey": [
+            "superficial thrombophlebitis",
+            "osteomyelitis"
         ]
     },
     "141": {
@@ -4551,6 +5287,12 @@
         ],
         "Noor Joudeh": [
             "varicocele"
+        ],
+        "Avey": [
+            "epididymitis",
+            "testicular cancer",
+            "varicocele",
+            "orchitis"
         ]
     },
     "142": {
@@ -4589,6 +5331,14 @@
         ],
         "Noor Joudeh": [
             "pulmonary embolism"
+        ],
+        "Avey": [
+            "pneumothorax",
+            "pulmonary embolism",
+            "pulmonary edema",
+            "unstable angina",
+            "myocardial infarction",
+            "aortic dissection"
         ]
     },
     "143": {
@@ -4624,6 +5374,14 @@
         ],
         "Noor Joudeh": [
             "croup"
+        ],
+        "Avey": [
+            "bronchiolitis",
+            "pneumonia",
+            "croup",
+            "influenza",
+            "coronavirus 2019",
+            "tonsillopharyngitis"
         ]
     },
     "144": {
@@ -4666,6 +5424,10 @@
         ],
         "Noor Joudeh": [
             "colon cancer"
+        ],
+        "Avey": [
+            "angiodysplasia",
+            "colonic polyps"
         ]
     },
     "145": {
@@ -4713,6 +5475,14 @@
         "Noor Joudeh": [
             "cholelithiasis",
             "peptic ulcer disease"
+        ],
+        "Avey": [
+            "acute pancreatitis",
+            "peptic ulcer disease",
+            "acute cholecystitis",
+            "cholelithiasis",
+            "acute cholangitis",
+            "acute appendicitis"
         ]
     },
     "147": {
@@ -4751,6 +5521,13 @@
         ],
         "Noor Joudeh": [
             "deep venous thrombosis"
+        ],
+        "Avey": [
+            "osteomyelitis",
+            "deep venous thrombosis",
+            "chronic venous insufficiency",
+            "lymphedema",
+            "superficial thrombophlebitis"
         ]
     },
     "150": {
@@ -4787,6 +5564,11 @@
         ],
         "Noor Joudeh": [
             "vulvovaginal candidiasis"
+        ],
+        "Avey": [
+            "vulvovaginal candidiasis",
+            "bacterial vaginosis",
+            "trichomoniasis"
         ]
     },
     "152": {
@@ -4835,6 +5617,9 @@
         ],
         "Noor Joudeh": [
             "tinea pedis (athlete's foot)"
+        ],
+        "Avey": [
+            "tinea pedis (athlete's foot)"
         ]
     },
     "153": {
@@ -4874,6 +5659,10 @@
         ],
         "Noor Joudeh": [
             "bacterial vaginosis"
+        ],
+        "Avey": [
+            "bacterial vaginosis",
+            "trichomoniasis"
         ]
     },
     "154": {
@@ -4915,6 +5704,14 @@
         "Noor Joudeh": [
             "bacterial meningitis",
             "acute encephalitis"
+        ],
+        "Avey": [
+            "cerebral stroke",
+            "acute encephalitis",
+            "brain abscess",
+            "brain tumor",
+            "bacterial meningitis",
+            "tonsillopharyngitis"
         ]
     },
     "155": {
@@ -4951,6 +5748,14 @@
         ],
         "Noor Joudeh": [
             "otitis media"
+        ],
+        "Avey": [
+            "otitis media",
+            "otitis externa",
+            "otitis media with tympanic membrane perforation",
+            "otomycosis",
+            "otitis media with effusion",
+            "lymphadenitis"
         ]
     },
     "156": {
@@ -4995,6 +5800,14 @@
         ],
         "Noor Joudeh": [
             "gastroenteritis"
+        ],
+        "Avey": [
+            "influenza",
+            "mixed connective tissue disease",
+            "coronavirus disease 2019",
+            "brucellosis",
+            "malaria",
+            "pneumonia"
         ]
     },
     "157": {
@@ -5033,6 +5846,12 @@
         ],
         "Noor Joudeh": [
             "pid"
+        ],
+        "Avey": [
+            "trichomoniasis",
+            "bacterial vaginosis",
+            "pelvic inflammatory disease",
+            "chlamydia"
         ]
     },
     "158": {
@@ -5078,6 +5897,14 @@
         "Noor Joudeh": [
             "bladder cancer",
             "prostate cancer"
+        ],
+        "Avey": [
+            "renal cell carcinoma",
+            "infective endocarditis",
+            "rhabdomyolysis",
+            "anemia",
+            "acute interstitial nephritis",
+            "bladder cancer"
         ]
     },
     "159": {
@@ -5117,6 +5944,9 @@
         ],
         "Noor Joudeh": [
             "blepharitis"
+        ],
+        "Avey": [
+            "corneal abrasion"
         ]
     },
     "161": {
@@ -5159,6 +5989,13 @@
         ],
         "Noor Joudeh": [
             "chlamydia"
+        ],
+        "Avey": [
+            "urethritis",
+            "chlamydia",
+            "trichomoniasis",
+            "benign prostatic hyperplasia",
+            "atrophic urethritis"
         ]
     },
     "162": {
@@ -5199,6 +6036,14 @@
         ],
         "Noor Joudeh": [
             "pneumothorax"
+        ],
+        "Avey": [
+            "pneumothorax",
+            "chronic obstructive pulmonary disease",
+            "pulmonary embolism",
+            "pulmonary edema",
+            "pericardial effusion",
+            "valvular heart disease"
         ]
     },
     "163": {
@@ -5241,6 +6086,13 @@
         ],
         "Noor Joudeh": [
             "hypothyroidism"
+        ],
+        "Avey": [
+            "irritable bowel syndrome",
+            "ovarian cancer",
+            "diverticulosis",
+            "diverticulitis",
+            "colonic polyps"
         ]
     },
     "164": {
@@ -5286,6 +6138,14 @@
         ],
         "Noor Joudeh": [
             "esophageal spasm"
+        ],
+        "Avey": [
+            "myocardial infarction",
+            "aortic dissection",
+            "variant angina",
+            "stable angina",
+            "unstable angina",
+            "diffuse esophageal spasm"
         ]
     },
     "165": {
@@ -5319,6 +6179,14 @@
         ],
         "Noor Joudeh": [
             "adrenal insufficiency"
+        ],
+        "Avey": [
+            "adrenal insufficiency",
+            "tinea versicolor",
+            "diabetes mellitus",
+            "acanthosis nigricans",
+            "hyperemesis gravidarum",
+            "multiple myeloma"
         ]
     },
     "166": {
@@ -5353,6 +6221,12 @@
         "Noor Joudeh": [
             "primary dysmenorrhea",
             "fibroids"
+        ],
+        "Avey": [
+            "primary dysmenorrhea",
+            "secondary dysmenorrhoea",
+            "endometriosis",
+            "adenomyosis"
         ]
     },
     "167": {
@@ -5390,6 +6264,14 @@
         ],
         "Noor Joudeh": [
             "breast engorgement"
+        ],
+        "Avey": [
+            "breast engorgement",
+            "galactocele",
+            "breast infection",
+            "fibrocystic breasts",
+            "fibroadenoma",
+            "breast fat necrosis"
         ]
     },
     "168": {
@@ -5417,6 +6299,13 @@
         ],
         "Noor Joudeh": [
             "diaper dermatitis"
+        ],
+        "Avey": [
+            "diaper dermatitis",
+            "urticaria",
+            "contact dermatitis",
+            "impetigo",
+            "psoriasis"
         ]
     },
     "169": {
@@ -5459,6 +6348,14 @@
         "Noor Joudeh": [
             "ibd",
             "irritable bowel syndrome"
+        ],
+        "Avey": [
+            "chronic pancreatitis",
+            "irritable bowel syndrome",
+            "lactose intolerance",
+            "peptic ulcer disease",
+            "small bowel obstruction",
+            "hepatocellular carcinoma"
         ]
     },
     "170": {
@@ -5500,6 +6397,10 @@
         ],
         "Noor Joudeh": [
             "cluster headaches"
+        ],
+        "Avey": [
+            "cluster headaches",
+            "brain abscess"
         ]
     },
     "171": {
@@ -5547,6 +6448,14 @@
         ],
         "Noor Joudeh": [
             "asthma"
+        ],
+        "Avey": [
+            "chronic obstructive pulmonary disease",
+            "asthma",
+            "bronchiactasis",
+            "valvular heart disease",
+            "cystic fibrosis",
+            "upper airway obstruction"
         ]
     },
     "172": {
@@ -5584,6 +6493,14 @@
         ],
         "Noor Joudeh": [
             "myocardial infarction"
+        ],
+        "Avey": [
+            "unstable angina",
+            "myocardial infarction",
+            "reflex syncope",
+            "cardiac tamponade",
+            "pneumothorax",
+            "variant angina"
         ]
     },
     "173": {
@@ -5623,6 +6540,13 @@
         ],
         "Noor Joudeh": [
             "polycythemia vera"
+        ],
+        "Avey": [
+            "brain tumor",
+            "cerebral stroke",
+            "migraine",
+            "tension headache",
+            "renal artery stenosis"
         ]
     },
     "174": {
@@ -5662,6 +6586,14 @@
         "Noor Joudeh": [
             "tonsillopharyngitis",
             "pharyngolaryngitis"
+        ],
+        "Avey": [
+            "mononucleosis",
+            "lymphadenitis",
+            "tonsillopharyngitis",
+            "cat scratch disease",
+            "influenza",
+            "hiv infection"
         ]
     },
     "176": {
@@ -5699,6 +6631,12 @@
         ],
         "Noor Joudeh": [
             "acute interstitial nephritis"
+        ],
+        "Avey": [
+            "cellulitis",
+            "tinea versicolor",
+            "lyme disease",
+            "rubella"
         ]
     },
     "177": {
@@ -5739,6 +6677,10 @@
         "Noor Joudeh": [
             "acute angle-closure glaucoma",
             "herpetic keratitis"
+        ],
+        "Avey": [
+            "acute angle closure glaucoma",
+            "corneal abrasion"
         ]
     },
     "178": {
@@ -5780,6 +6722,14 @@
         "Noor Joudeh": [
             "rhinosinusitis",
             "coronavirus disease 2019"
+        ],
+        "Avey": [
+            "influenza",
+            "cystic fibrosis",
+            "common cold",
+            "mononucleosis",
+            "coronavirus disease 2019",
+            "acute bronchitis"
         ]
     },
     "179": {
@@ -5822,6 +6772,14 @@
         "Noor Joudeh": [
             "peptic ulcer disease",
             "autoimmune hepatitis"
+        ],
+        "Avey": [
+            "acute pancreatitis",
+            "peptic ulcer disease",
+            "cholelithiasis",
+            "small bowel obstruction",
+            "chronic pancreatitis",
+            "gastritis"
         ]
     },
     "180": {
@@ -5862,6 +6820,14 @@
         ],
         "Noor Joudeh": [
             "heart failure"
+        ],
+        "Avey": [
+            "heart failure",
+            "cardiomyopathy",
+            "valvular heart disease",
+            "arrhythmias",
+            "amyloidosis",
+            "pericardial effusion"
         ]
     },
     "181": {
@@ -5904,6 +6870,11 @@
         "Noor Joudeh": [
             "spermatocele",
             "hydrocele"
+        ],
+        "Avey": [
+            "hydrocele",
+            "varicocele",
+            "testicular cancer"
         ]
     },
     "182": {
@@ -5944,6 +6915,14 @@
         ],
         "Noor Joudeh": [
             "chronic obstructive pulmonary disease"
+        ],
+        "Avey": [
+            "chronic obstructive pulmonary disease",
+            "asthma",
+            "pulmonary edema",
+            "bronchiectasis",
+            "valvular heart disease",
+            "pericardial effusion"
         ]
     },
     "183": {
@@ -5988,6 +6967,13 @@
         ],
         "Noor Joudeh": [
             "esophageal cancer"
+        ],
+        "Avey": [
+            "achalasia",
+            "gastroesophageal reflux",
+            "esophageal cancer",
+            "diffuse esophageal spasm",
+            "gastric cancer"
         ]
     },
     "184": {
@@ -6030,6 +7016,10 @@
         "Noor Joudeh": [
             "colonic polyps",
             "hemorrhoids"
+        ],
+        "Avey": [
+            "angiodysplasia",
+            "colonic polyps"
         ]
     },
     "185": {
@@ -6074,6 +7064,14 @@
         "Noor Joudeh": [
             "pleuritis",
             "acute pericarditis"
+        ],
+        "Avey": [
+            "pericardial effusion",
+            "myocarditis",
+            "acute pericarditis",
+            "rheumatic fever",
+            "valvular heart disease",
+            "infective endocarditis"
         ]
     },
     "186": {
@@ -6113,6 +7111,11 @@
         ],
         "Noor Joudeh": [
             "costochondritis"
+        ],
+        "Avey": [
+            "intercostal neuralgia",
+            "diabetic nephropathy",
+            "stable angina"
         ]
     },
     "187": {
@@ -6145,6 +7148,13 @@
         ],
         "Noor Joudeh": [
             "diabetes mellitus"
+        ],
+        "Avey": [
+            "diabetes mellitus",
+            "overactive bladder",
+            "metabolic syndrome",
+            "hyperoslmolar hyperglycemic nonketotic state",
+            "diabetic ketoacidosis"
         ]
     },
     "188": {
@@ -6189,6 +7199,14 @@
         ],
         "Noor Joudeh": [
             "leukemia"
+        ],
+        "Avey": [
+            "leukemia",
+            "lymphadenitis",
+            "tonsillopharyngitis",
+            "sepsis",
+            "pyelonephritis",
+            "encephalitis"
         ]
     },
     "189": {
@@ -6225,6 +7243,14 @@
         ],
         "Noor Joudeh": [
             "bartholin gland abscess"
+        ],
+        "Avey": [
+            "bartholin gland abscess",
+            "bartholin gland cyst",
+            "chlamydia",
+            "chancroid",
+            "trichomoniasis",
+            "cervical cancer"
         ]
     },
     "190": {
@@ -6261,6 +7287,10 @@
         ],
         "Noor Joudeh": [
             "breast infection"
+        ],
+        "Avey": [
+            "breast infection",
+            "breast engorgement"
         ]
     },
     "191": {
@@ -6293,6 +7323,9 @@
             "onychomycosis"
         ],
         "Noor Joudeh": [
+            "onychomycosis"
+        ],
+        "Avey": [
             "onychomycosis"
         ]
     },
@@ -6339,6 +7372,14 @@
         ],
         "Noor Joudeh": [
             "mumps"
+        ],
+        "Avey": [
+            "mononucleosis",
+            "tonsillopharingitis",
+            "lymphadinitis",
+            "otitis media",
+            "brain abscess",
+            "otomycosis"
         ]
     },
     "193": {
@@ -6376,6 +7417,14 @@
         ],
         "Noor Joudeh": [
             "migraine"
+        ],
+        "Avey": [
+            "migraine",
+            "tension headache",
+            "brain tumor",
+            "brain abscess",
+            "premenstrual syndrome",
+            "cluster headaches"
         ]
     },
     "194": {
@@ -6420,6 +7469,14 @@
         ],
         "Noor Joudeh": [
             "chronic obstructive pulmonary disease"
+        ],
+        "Avey": [
+            "chronic obstructive pulmonary disease",
+            "bronchiectasis",
+            "cystic fibrosis",
+            "asthma",
+            "lung cancer",
+            "upper airway obstruction"
         ]
     },
     "195": {
@@ -6464,6 +7521,14 @@
         "Noor Joudeh": [
             "diverticular disease",
             "left ovarian mass"
+        ],
+        "Avey": [
+            "ectopic pregnancy",
+            "irritable bowel syndrome",
+            "diverticulosis",
+            "diverticulitis",
+            "ovarian cancer",
+            "pelvic inflammatory disease"
         ]
     },
     "196": {
@@ -6503,6 +7568,11 @@
         "Noor Joudeh": [
             "galactocele",
             "fibroadenoma"
+        ],
+        "Avey": [
+            "galactocele",
+            "fibroadenoma",
+            "breast fat necrosis"
         ]
     },
     "197": {
@@ -6543,6 +7613,14 @@
         ],
         "Noor Joudeh": [
             "fibromyalgia"
+        ],
+        "Avey": [
+            "fibromyalgia",
+            "thalassemia",
+            "hypercalcemia",
+            "tension headache",
+            "premenstrual syndrome",
+            "anemia"
         ]
     },
     "198": {
@@ -6582,6 +7660,11 @@
         ],
         "Noor Joudeh": [
             "gout"
+        ],
+        "Avey": [
+            "gout",
+            "rheumatoid arthritis",
+            "anemia"
         ]
     },
     "199": {
@@ -6621,6 +7704,12 @@
         "Noor Joudeh": [
             "epiglottitis",
             "peritonsillar abscess"
+        ],
+        "Avey": [
+            "epiglottitis",
+            "croup",
+            "upper airway obstruction",
+            "foreign body aspiration"
         ]
     },
     "201": {
@@ -6660,6 +7749,9 @@
             "inguinal hernia"
         ],
         "Noor Joudeh": [
+            "inguinal hernia"
+        ],
+        "Avey": [
             "inguinal hernia"
         ]
     },
@@ -6707,6 +7799,14 @@
         ],
         "Noor Joudeh": [
             "lung cancer"
+        ],
+        "Avey": [
+            "lung cancer",
+            "chronic obstructive pulmonary disease",
+            "bronchiectasis",
+            "tuberculosis",
+            "cystic fibrosis",
+            "laryngitis"
         ]
     },
     "204": {
@@ -6735,7 +7835,10 @@
         "Noor Joudeh": [
             "acromegaly"
         ],
-        "Babylon": []
+        "Babylon": [],
+        "Avey": [
+            "acromegaly"
+        ]
     },
     "205": {
         "gs": [
@@ -6773,7 +7876,14 @@
         "Noor Joudeh": [
             "placental abruption with intraterine bleeding"
         ],
-        "Babylon": []
+        "Babylon": [],
+        "Avey": [
+            "ectopic pregnancy",
+            "molar pregnancy",
+            "spontaneous abortion",
+            "preterm labor",
+            "endometrial cancer"
+        ]
     },
     "206": {
         "gs": [
@@ -6807,6 +7917,11 @@
         ],
         "Noor Joudeh": [
             "tension headache"
+        ],
+        "Avey": [
+            "tension headache",
+            "renal artery stenosis",
+            "brain tumor"
         ]
     },
     "207": {
@@ -6844,6 +7959,13 @@
         ],
         "Noor Joudeh": [
             "measles (rubeola)"
+        ],
+        "Avey": [
+            "varicella",
+            "hand foot and mouth disease",
+            "measles (rubeola)",
+            "impetigo",
+            "rubella"
         ]
     },
     "208": {
@@ -6891,6 +8013,14 @@
         "Noor Joudeh": [
             "cystitis",
             "pelvic inflammatory disease"
+        ],
+        "Avey": [
+            "pelvic inflammatory disease",
+            "acute appendicitis",
+            "ectopic pregnancy",
+            "diverticulitis",
+            "chlamydia",
+            "pyelonephritis"
         ]
     },
     "209": {
@@ -6928,6 +8058,12 @@
         ],
         "Noor Joudeh": [
             "chronic venous insufficiency"
+        ],
+        "Avey": [
+            "chronic venous insufficiency",
+            "lymphedema",
+            "nephrotic syndrome",
+            "liver cirrhosis"
         ]
     },
     "213": {
@@ -6975,6 +8111,10 @@
         ],
         "Noor Joudeh": [
             "diverticulitis"
+        ],
+        "Avey": [
+            "diverticulitis",
+            "acute mesentric ischemia"
         ]
     },
     "216": {
@@ -7013,6 +8153,11 @@
         ],
         "Noor Joudeh": [
             "mixed connective tissue disease"
+        ],
+        "Avey": [
+            "systemic sclerosis",
+            "mixed connective tissue disease",
+            "rheumatoid arthritis"
         ]
     },
     "217": {
@@ -7055,6 +8200,12 @@
         "Noor Joudeh": [
             "diabetic retinopathy",
             "cataracts"
+        ],
+        "Avey": [
+            "diabetic retinopathy",
+            "macular degeneration (early)",
+            "cerebral stroke",
+            "hyperosmolar hyperglycemic nonketotic state"
         ]
     },
     "218": {
@@ -7097,6 +8248,14 @@
         ],
         "Noor Joudeh": [
             "bladder cancer"
+        ],
+        "Avey": [
+            "rhabdomyolysis",
+            "adrenal insufficiency",
+            "renal cell carcinoma",
+            "hyperthyroidism",
+            "multiple myeloma",
+            "diabetes mellitus"
         ]
     },
     "220": {
@@ -7137,6 +8296,14 @@
         ],
         "Noor Joudeh": [
             "polycythemia vera"
+        ],
+        "Avey": [
+            "polycythemia vera",
+            "systemic lupus erythematosus",
+            "psoriasis",
+            "urticaria",
+            "tinea versicolor",
+            "measles"
         ]
     },
     "221": {
@@ -7171,6 +8338,13 @@
         ],
         "Noor Joudeh": [
             "testicular torsion"
+        ],
+        "Avey": [
+            "testicular torsion",
+            "orchitis",
+            "epididymitis",
+            "varicocele",
+            "testicular cancer"
         ]
     },
     "224": {
@@ -7208,6 +8382,14 @@
         ],
         "Noor Joudeh": [
             "septic arthritis"
+        ],
+        "Avey": [
+            "infective endocarditis",
+            "pericardial effusion",
+            "mixed connective tissue disease",
+            "rheumatic fever",
+            "gout",
+            "cardiomyopathy"
         ]
     },
     "225": {
@@ -7252,6 +8434,11 @@
         ],
         "Noor Joudeh": [
             "peripheral vascular disease"
+        ],
+        "Avey": [
+            "peripheral vascular disease",
+            "popliteal artery aneurysm",
+            "diabetic neuropathy"
         ]
     },
     "228": {
@@ -7286,6 +8473,14 @@
         ],
         "Noor Joudeh": [
             "breast infection"
+        ],
+        "Avey": [
+            "breast engorgement",
+            "galactocele",
+            "fibrocystic breast",
+            "breast infection",
+            "fibroadenoma",
+            "breast fat necrosis"
         ]
     },
     "230": {
@@ -7326,6 +8521,9 @@
         ],
         "Noor Joudeh": [
             "obstructive sleep apnea"
+        ],
+        "Avey": [
+            "narcolepsy"
         ]
     },
     "231": {
@@ -7366,6 +8564,10 @@
         ],
         "Noor Joudeh": [
             "benign paroxysmal positional vertigo"
+        ],
+        "Avey": [
+            "benign paroxysmal positional vertigo",
+            "vestibular neuritis"
         ]
     },
     "233": {
@@ -7411,6 +8613,14 @@
         "Noor Joudeh": [
             "esophageal cancer",
             "laryngeal cancer"
+        ],
+        "Avey": [
+            "esophageal cancer",
+            "lung cancer",
+            "achalasia",
+            "diffuse esophageal spasm",
+            "tuberculosis",
+            "esophageal stricture"
         ]
     },
     "234": {
@@ -7453,6 +8663,14 @@
         "Noor Joudeh": [
             "axillary abscess",
             "cat scratch disease"
+        ],
+        "Avey": [
+            "rubella",
+            "cellulitis",
+            "mononucleosis",
+            "lymphadenitis (bacterial adenitis)",
+            "tonsillopharingitis",
+            "cat scratch disease"
         ]
     },
     "235": {
@@ -7491,6 +8709,14 @@
         ],
         "Noor Joudeh": [
             "menopause"
+        ],
+        "Avey": [
+            "menopause",
+            "hyperthyroidism",
+            "brain tumor",
+            "multiple sclerosis",
+            "endometrial cancer",
+            "secondary ovarian insufficiency"
         ]
     },
     "238": {
@@ -7530,6 +8756,9 @@
             "bacterial conjunctivitis"
         ],
         "Noor Joudeh": [
+            "bacterial conjunctivitis"
+        ],
+        "Avey": [
             "bacterial conjunctivitis"
         ]
     },
@@ -7573,6 +8802,14 @@
         ],
         "Noor Joudeh": [
             "ankylosing spondylitis"
+        ],
+        "Avey": [
+            "ankylosing spondylitis",
+            "vertebral fracture",
+            "herniated disc",
+            "mechanical back pain",
+            "osteoarthritis",
+            "degenerative disc disease"
         ]
     },
     "240": {
@@ -7612,6 +8849,14 @@
         ],
         "Noor Joudeh": [
             "systemic lupus erythematosus"
+        ],
+        "Avey": [
+            "systemic lupus erythematosus",
+            "mixed connective tissue disease",
+            "gout",
+            "rubella",
+            "osteoarthritis",
+            "rheumatic fever"
         ]
     },
     "241": {
@@ -7648,6 +8893,14 @@
         ],
         "Noor Joudeh": [
             "spontaneous abortion"
+        ],
+        "Avey": [
+            "spontaneous abortion",
+            "abruptio placentae",
+            "molar pregnancy",
+            "ectopic pregnancy",
+            "placenta previa",
+            "endometrial cancer"
         ]
     },
     "242": {
@@ -7692,6 +8945,14 @@
         ],
         "Noor Joudeh": [
             "ovarian cancer"
+        ],
+        "Avey": [
+            "diverticulitis",
+            "diverticulosis",
+            "ovarian cancer",
+            "cronkhite canada syndrome",
+            "chronic pancreatitis",
+            "irritable bowel syndrome"
         ]
     },
     "243": {
@@ -7728,6 +8989,14 @@
         ],
         "Noor Joudeh": [
             "sunburn"
+        ],
+        "Avey": [
+            "sunburn",
+            "shingles",
+            "herpes simplex",
+            "impetigo",
+            "cellulitis",
+            "rosacea"
         ]
     },
     "244": {
@@ -7769,6 +9038,14 @@
         ],
         "Noor Joudeh": [
             "vestibular neuritis"
+        ],
+        "Avey": [
+            "labyrinthitis",
+            "vestibular neuritis",
+            "acoustic neuroma",
+            "meniere disease",
+            "otitis media with effusion",
+            "otitis media with tympanic membrane perforated"
         ]
     },
     "245": {
@@ -7807,6 +9084,13 @@
         ],
         "Noor Joudeh": [
             "chronic sinusitis"
+        ],
+        "Avey": [
+            "chronic sinusitis",
+            "allergic rhinitis",
+            "nonallergic rhinitis",
+            "nasal septum deviation",
+            "common cold"
         ]
     },
     "247": {
@@ -7845,6 +9129,14 @@
         ],
         "Noor Joudeh": [
             "herpetic withlow"
+        ],
+        "Avey": [
+            "herpetic withlow",
+            "impetigo",
+            "scabies",
+            "cellulitis",
+            "shingles",
+            "herpes simplex"
         ]
     },
     "248": {
@@ -7888,6 +9180,14 @@
         ],
         "Noor Joudeh": [
             "rotator cuff tendonitis"
+        ],
+        "Avey": [
+            "shoulder bursitis",
+            "frozen shoulder",
+            "dislocated shoulder",
+            "rotator cuff injury",
+            "shoulder fracture",
+            "rheumatoid arthritis"
         ]
     },
     "249": {
@@ -7928,6 +9228,14 @@
         ],
         "Noor Joudeh": [
             "rheumatoid arthritis"
+        ],
+        "Avey": [
+            "pseudogout",
+            "osteoarthritis",
+            "rheumatoid arthritis",
+            "mixed connective tissue",
+            "gout",
+            "polymyalgia rheumatica"
         ]
     },
     "250": {
@@ -7969,6 +9277,14 @@
         ],
         "Noor Joudeh": [
             "epididymitis"
+        ],
+        "Avey": [
+            "epididymitis",
+            "orchitis",
+            "testicular torsion",
+            "urethritis",
+            "testicular cancer",
+            "varicocele"
         ]
     },
     "251": {
@@ -8016,6 +9332,14 @@
         "Noor Joudeh": [
             "bronchiectasis",
             "tuberculosis"
+        ],
+        "Avey": [
+            "bronchiectasis",
+            "chronic obstructive pulmonary disease",
+            "cystic fibrosis",
+            "valvular heart failure",
+            "tuberculosis",
+            "pneumonia"
         ]
     },
     "252": {
@@ -8057,6 +9381,11 @@
         ],
         "Noor Joudeh": [
             "hodgkin lymphoma"
+        ],
+        "Avey": [
+            "hodgkin lymphoma",
+            "reactive lymph node enlargement",
+            "tuberculosis"
         ]
     },
     "253": {
@@ -8099,6 +9428,11 @@
         ],
         "Noor Joudeh": [
             "cataract"
+        ],
+        "Avey": [
+            "diabetic retinopathy",
+            "cataract",
+            "anemia"
         ]
     },
     "254": {
@@ -8139,6 +9473,12 @@
         ],
         "Noor Joudeh": [
             "deep venous thrombosis"
+        ],
+        "Avey": [
+            "chronic venous insufficiency",
+            "popliteal artery aneurysm",
+            "deep venous thrombosis",
+            "osteomyelitis"
         ]
     },
     "255": {
@@ -8177,6 +9517,14 @@
         "Noor Joudeh": [
             "myocardial infarction",
             "unstable angina"
+        ],
+        "Avey": [
+            "unstable angina",
+            "myocardial infarction",
+            "stable angina",
+            "chronic kidney disease",
+            "aortic dissection",
+            "diabetic neuropathy"
         ]
     },
     "256": {
@@ -8220,6 +9568,13 @@
         ],
         "Noor Joudeh": [
             "diabetic neuropathy"
+        ],
+        "Avey": [
+            "diabetic neuropathy",
+            "cerebal stroke",
+            "diabetic nephropathy",
+            "vitamin b12 deficiency",
+            "transient ischemic attack"
         ]
     },
     "257": {
@@ -8267,6 +9622,13 @@
             "lymphoma",
             "heart failure",
             "hypothyroidism"
+        ],
+        "Avey": [
+            "nephrotic syndrome",
+            "nephritic syndrome",
+            "viral hepatitis",
+            "acute renal failure",
+            "amyloidosis"
         ]
     },
     "258": {
@@ -8306,6 +9668,14 @@
         ],
         "Noor Joudeh": [
             "nephrolithiasis"
+        ],
+        "Avey": [
+            "pyelonephritis",
+            "nephrolithiasis",
+            "acute appendicitis",
+            "polycyctic kidney disease",
+            "acute pancreatitis",
+            "renal cell carcinoma"
         ]
     },
     "259": {
@@ -8344,6 +9714,11 @@
         ],
         "Noor Joudeh": [
             "fibroadenoma"
+        ],
+        "Avey": [
+            "fibroadenoma",
+            "breast fat necrosis",
+            "breast cancer"
         ]
     },
     "260": {
@@ -8386,6 +9761,14 @@
         ],
         "Noor Joudeh": [
             "acute gastroenteritis"
+        ],
+        "Avey": [
+            "food poisoning",
+            "cholera",
+            "acute gastroenteritis",
+            "acute bacterial gastroenteritis",
+            "adrenal insufficiency",
+            "lactose intolerance"
         ]
     },
     "261": {
@@ -8429,6 +9812,13 @@
         ],
         "Noor Joudeh": [
             "acute prostatitis"
+        ],
+        "Avey": [
+            "urethritis",
+            "chlamydia",
+            "trichomoniasis",
+            "epididymitis",
+            "orchitis"
         ]
     },
     "263": {
@@ -8465,6 +9855,9 @@
         ],
         "Noor Joudeh": [
             "acute otitis media"
+        ],
+        "Avey": [
+            "otitis media with tympanic membrane perforation"
         ]
     },
     "264": {
@@ -8506,6 +9899,14 @@
         ],
         "Noor Joudeh": [
             "heart failure"
+        ],
+        "Avey": [
+            "heart failure",
+            "pericardial effusion",
+            "cardiomyopathy",
+            "arrhythmia",
+            "pulmonary edema",
+            "valvular heart disease"
         ]
     },
     "265": {
@@ -8551,6 +9952,14 @@
             "colonic cancer",
             "hemorrhoids",
             "anal fissure"
+        ],
+        "Avey": [
+            "angiodysplasia",
+            "anemia",
+            "hemolytic anemia",
+            "polycythemia vera",
+            "valvular heart disease",
+            "amyloidosis"
         ]
     },
     "266": {
@@ -8589,6 +9998,14 @@
         ],
         "Noor Joudeh": [
             "myocardial infarction"
+        ],
+        "Avey": [
+            "renal artery stenosis",
+            "pulmonary edema",
+            "myocardial infarction",
+            "pneumothorax",
+            "pulmonary embolism",
+            "aortic dissection"
         ]
     },
     "267": {
@@ -8634,6 +10051,14 @@
         ],
         "Noor Joudeh": [
             "obstructive sleep apnea"
+        ],
+        "Avey": [
+            "cystic fibrosis",
+            "myocarditis",
+            "valvular heart disease",
+            "anemia",
+            "hemolyitc anemia",
+            "obstructive sleep apnea"
         ]
     },
     "268": {
@@ -8678,6 +10103,14 @@
         "Noor Joudeh": [
             "meniere disease",
             "central nystagmus"
+        ],
+        "Avey": [
+            "labyrinthitis",
+            "acoustic neuroma",
+            "meniere disease",
+            "vistibular neuritis",
+            "earwax blockage",
+            "benign paroxysmal positional vertigo"
         ]
     },
     "269": {
@@ -8718,6 +10151,14 @@
         ],
         "Noor Joudeh": [
             "pneumomediastinum"
+        ],
+        "Avey": [
+            "pneumothorax",
+            "cardiac tamponade",
+            "reflex syncope",
+            "cardiomyopathy",
+            "variant angina",
+            "aortic dissection"
         ]
     },
     "270": {
@@ -8759,6 +10200,11 @@
         ],
         "Noor Joudeh": [
             "esophagitis"
+        ],
+        "Avey": [
+            "gastroesophageal reflux",
+            "hiv infection",
+            "hand foot and mouth disease"
         ]
     },
     "271": {
@@ -8800,6 +10246,13 @@
         ],
         "Noor Joudeh": [
             "cystitis"
+        ],
+        "Avey": [
+            "cystitis",
+            "urethritis",
+            "pyelonephritis",
+            "endometriosis",
+            "pelvic inflammatory disease"
         ]
     },
     "272": {
@@ -8842,6 +10295,14 @@
         ],
         "Noor Joudeh": [
             "chronic obstructive pulmonary disease"
+        ],
+        "Avey": [
+            "chronic obstructive pulmonary disease",
+            "asthma",
+            "pericardial effusion",
+            "cardiomyopathy",
+            "heart failure",
+            "valvular heart disease"
         ]
     },
     "273": {
@@ -8882,6 +10343,12 @@
         ],
         "Noor Joudeh": [
             "hypothyroidism"
+        ],
+        "Avey": [
+            "hypothyroidism",
+            "polycystic ovary syndrome",
+            "ovarian insufficiency",
+            "menopause"
         ]
     },
     "275": {
@@ -8924,6 +10391,14 @@
         ],
         "Noor Joudeh": [
             "leukemia"
+        ],
+        "Avey": [
+            "leukemia",
+            "lymphoma",
+            "anemia",
+            "liver cirrhosis",
+            "tonsillopharyngitis",
+            "infective endocarditis"
         ]
     },
     "276": {
@@ -8965,6 +10440,11 @@
         ],
         "Noor Joudeh": [
             "uterine fibroids"
+        ],
+        "Avey": [
+            "adenomyosis",
+            "uterine fibroids",
+            "endometriosis"
         ]
     },
     "277": {
@@ -9005,6 +10485,14 @@
         ],
         "Noor Joudeh": [
             "meningitis"
+        ],
+        "Avey": [
+            "brain abscess",
+            "cerebral stroke",
+            "meningitis",
+            "migraine",
+            "brain tumor",
+            "encephalitis"
         ]
     },
     "278": {
@@ -9047,6 +10535,13 @@
         ],
         "Noor Joudeh": [
             "polymyalgia rheumatica"
+        ],
+        "Avey": [
+            "polymyalgia rheumatica",
+            "rheumatoid arthritis",
+            "rotator cuff injury",
+            "dislocated shoulder",
+            "frozen shoulder"
         ]
     },
     "279": {
@@ -9085,6 +10580,14 @@
         ],
         "Noor Joudeh": [
             "disc herniation"
+        ],
+        "Avey": [
+            "disc herniation",
+            "sciatica",
+            "mechanical back pain",
+            "degenerative disc disease",
+            "osteomyelitis",
+            "acute interstitial nephritis"
         ]
     },
     "281": {
@@ -9129,6 +10632,14 @@
         ],
         "Noor Joudeh": [
             "aortic dissection"
+        ],
+        "Avey": [
+            "abdominal aortic aneurysm",
+            "myocardial infarction",
+            "unstable angina",
+            "arrhythmia",
+            "varient angina",
+            "cardiac tamponade"
         ]
     },
     "283": {
@@ -9167,6 +10678,13 @@
         ],
         "Noor Joudeh": [
             "testicular torsion"
+        ],
+        "Avey": [
+            "testicular torsion",
+            "epididymitis",
+            "orchitis",
+            "testicular cancer",
+            "varicocele"
         ]
     },
     "284": {
@@ -9202,6 +10720,14 @@
         ],
         "Noor Joudeh": [
             "rheumatic fever"
+        ],
+        "Avey": [
+            "idiopathic juvenile arthritis",
+            "septic arthritis",
+            "rubella",
+            "leukemia",
+            "brucellosis",
+            "gout"
         ]
     },
     "286": {
@@ -9240,6 +10766,10 @@
         ],
         "Noor Joudeh": [
             "dry eye disease (keratoconjunctivitis sicca)"
+        ],
+        "Avey": [
+            "dry eye disease (keratoconjunctivitis sicca)",
+            "blepharitis"
         ]
     },
     "287": {
@@ -9276,6 +10806,11 @@
         ],
         "Noor Joudeh": [
             "otitis externa"
+        ],
+        "Avey": [
+            "otitis externa",
+            "otomycosis",
+            "earwax blockage"
         ]
     },
     "288": {
@@ -9317,6 +10852,14 @@
         ],
         "Noor Joudeh": [
             "acute bacterial gastroenteritis"
+        ],
+        "Avey": [
+            "acute bacterial gastroenteritis",
+            "peritonitis",
+            "acute viral gastroenteritis",
+            "food poisoning",
+            "cholera",
+            "colitis"
         ]
     },
     "289": {
@@ -9357,6 +10900,14 @@
         ],
         "Noor Joudeh": [
             "tonsillopharyngitis"
+        ],
+        "Avey": [
+            "mononucleosis",
+            "hiv infection",
+            "tonsillopharyngitis",
+            "influenza",
+            "lymphadinitis",
+            "mumps"
         ]
     },
     "290": {
@@ -9403,6 +10954,14 @@
         "Noor Joudeh": [
             "bladder cancer",
             "prostate cancer"
+        ],
+        "Avey": [
+            "pancreatic cancer",
+            "gastric cancer",
+            "bladder cancer",
+            "cystitis",
+            "liver cirrhosis",
+            "chronic pancreatitis"
         ]
     },
     "291": {
@@ -9447,6 +11006,11 @@
             "diabetes mellitus",
             "bladder cancer",
             "prostate cancer"
+        ],
+        "Avey": [
+            "bladder cancer",
+            "acute renal failure",
+            "infective endocarditis"
         ]
     },
     "292": {
@@ -9484,6 +11048,13 @@
         "Noor Joudeh": [
             "shoulder fracture",
             "shoulder dislocation"
+        ],
+        "Avey": [
+            "shoulder fracture",
+            "dislocated shoulder",
+            "rotator cuff injury",
+            "frozen shoulder",
+            "shoulder bursitis"
         ]
     },
     "293": {
@@ -9526,6 +11097,10 @@
         "Noor Joudeh": [
             "achilles bursitis",
             "achilles tendonitis"
+        ],
+        "Avey": [
+            "achilles tendonitis",
+            "achilles tendon rupture"
         ]
     },
     "294": {
@@ -9564,6 +11139,10 @@
         ],
         "Noor Joudeh": [
             "bacterial vaginosis"
+        ],
+        "Avey": [
+            "bacterial vaginosis",
+            "trichomoniasis"
         ]
     },
     "295": {
@@ -9613,6 +11192,14 @@
         "Noor Joudeh": [
             "hypertrophic cardiomyopathy",
             "valvular heart disease"
+        ],
+        "Avey": [
+            "hypertrophic cardiomyopathy",
+            "valvular heart disease",
+            "pericardial effusion",
+            "arrhythmia",
+            "myocarditis",
+            "anemia"
         ]
     },
     "297": {
@@ -9650,6 +11237,14 @@
         ],
         "Noor Joudeh": [
             "endometriosis"
+        ],
+        "Avey": [
+            "primary dysmenorrhea",
+            "endometriosis",
+            "secondary dysmenorrhoea",
+            "adenomyosis",
+            "pelvic inflammatory disease",
+            "diverticulosis"
         ]
     },
     "298": {
@@ -9685,6 +11280,14 @@
         ],
         "Noor Joudeh": [
             "sickle cell anemia"
+        ],
+        "Avey": [
+            "septic arthritis",
+            "leukemia",
+            "bronchiolitis",
+            "malaria",
+            "influenza",
+            "idiopathic juvenile arthritis"
         ]
     },
     "300": {
@@ -9724,6 +11327,12 @@
         "Noor Joudeh": [
             "uterine fibroids",
             "adenomyosis"
+        ],
+        "Avey": [
+            "secondary dysmenorrhea",
+            "adenomyosis",
+            "uterine fibroids",
+            "endometrial cancer"
         ]
     },
     "302": {
@@ -9768,6 +11377,14 @@
         ],
         "Noor Joudeh": [
             "hay fever"
+        ],
+        "Avey": [
+            "malaria",
+            "influenza",
+            "dengue fever",
+            "osteomyelitis",
+            "anemia",
+            "infective endocarditis"
         ]
     },
     "304": {
@@ -9809,6 +11426,14 @@
         ],
         "Noor Joudeh": [
             "hypertension disease"
+        ],
+        "Avey": [
+            "cerebral stroke",
+            "renal artery stenosis",
+            "metabolic syndrome",
+            "chronic kidney disease",
+            "diabetic retinopathy",
+            "obstructive sleep apnea"
         ]
     },
     "305": {
@@ -9850,6 +11475,12 @@
         ],
         "Noor Joudeh": [
             "hypotension"
+        ],
+        "Avey": [
+            "hypotension",
+            "vasovagal syncope",
+            "amyloidosis",
+            "brain abscess"
         ]
     },
     "306": {
@@ -9893,6 +11524,14 @@
         ],
         "Noor Joudeh": [
             "functional dyspepsia"
+        ],
+        "Avey": [
+            "peptic ulcer disease",
+            "functional dyspepsia",
+            "chronic pancreatitis",
+            "gastric cancer",
+            "gastritis",
+            "small bowel obstruction"
         ]
     },
     "307": {
@@ -9928,6 +11567,14 @@
         "Noor Joudeh": [
             "muscle spasm",
             "mechanical back pain"
+        ],
+        "Avey": [
+            "vertebral fracture",
+            "mechanical back pain",
+            "ankylosing spondylitis",
+            "herniated disc",
+            "sciatica",
+            "anemia"
         ]
     },
     "308": {
@@ -9963,6 +11610,14 @@
         ],
         "Noor Joudeh": [
             "preterm labor"
+        ],
+        "Avey": [
+            "preterm labor",
+            "abruptio placentae",
+            "ectopic pregnancy",
+            "placenta previa",
+            "acute mesenteric  ischemia",
+            "molar pregnancy"
         ]
     },
     "309": {
@@ -10004,6 +11659,14 @@
         ],
         "Noor Joudeh": [
             "herpes simplex virus"
+        ],
+        "Avey": [
+            "herpes simplex virus",
+            "mononucleosis",
+            "hiv infection",
+            "chancroid",
+            "shingles",
+            "tonsillopharyngitis"
         ]
     },
     "310": {
@@ -10052,6 +11715,14 @@
         "Noor Joudeh": [
             "heart failure",
             "anemia"
+        ],
+        "Avey": [
+            "nephritic syndrome",
+            "chronic kidney disease",
+            "nephrotic syndrome",
+            "anemia",
+            "popliteal artery aneurysm",
+            "deep vein thrombosis"
         ]
     },
     "311": {
@@ -10079,6 +11750,14 @@
         "Noor Joudeh": [
             "bronchiolitis",
             "pneumonia"
+        ],
+        "Avey": [
+            "bronchiolitis",
+            "asthma",
+            "upper airway obstruction",
+            "foreign body aspiration",
+            "pneumonia",
+            "pulmonary edema"
         ]
     },
     "313": {
@@ -10121,6 +11800,13 @@
         "Noor Joudeh": [
             "lymphoma",
             "ddx for generalized lap"
+        ],
+        "Avey": [
+            "leukemia",
+            "lymphoma",
+            "anemia",
+            "tuberculosis",
+            "lymphadenitis"
         ]
     },
     "315": {
@@ -10161,6 +11847,14 @@
         ],
         "Noor Joudeh": [
             "pituitary adenoma"
+        ],
+        "Avey": [
+            "reflex syncope",
+            "pituitary adenoma",
+            "bray abscess",
+            "hypertension disease",
+            "cerebral stroke",
+            "meningitis"
         ]
     },
     "316": {
@@ -10199,6 +11893,14 @@
         "Noor Joudeh": [
             "breast engorgement",
             "breast infection"
+        ],
+        "Avey": [
+            "breast infection",
+            "galactocele",
+            "breast engorgement",
+            "fibrocystic breast",
+            "breast of necrosis",
+            "fibroadenoma"
         ]
     },
     "317": {
@@ -10239,6 +11941,14 @@
         ],
         "Noor Joudeh": [
             "benign paroxysmal positional vertigo"
+        ],
+        "Avey": [
+            "labyrinthitis",
+            "meniere disease",
+            "brain tumor",
+            "reflex syncope",
+            "otitis media with effusion",
+            "vestibular neuritis"
         ]
     },
     "318": {
@@ -10278,6 +11988,14 @@
         ],
         "Noor Joudeh": [
             "pyelonephritis"
+        ],
+        "Avey": [
+            "pyelonephritis",
+            "liver cirrhosis",
+            "acute cholangitis",
+            "liver abscess",
+            "colitis",
+            "acute appendicitis"
         ]
     },
     "319": {
@@ -10321,6 +12039,14 @@
         ],
         "Noor Joudeh": [
             "coronavirus disease 2019"
+        ],
+        "Avey": [
+            "coronavirus disease 2019",
+            "tonsillopharyngitis",
+            "influenza infection",
+            "pneumonia",
+            "common cold",
+            "laryngitis"
         ]
     },
     "320": {
@@ -10359,6 +12085,10 @@
         ],
         "Noor Joudeh": [
             "carpal tunnel syndrome"
+        ],
+        "Avey": [
+            "pseudogout",
+            "rheumatic fever"
         ]
     },
     "322": {
@@ -10404,6 +12134,9 @@
             "benign prostatic hyperplasia",
             "prostate cancer",
             "urinary bladder cancer"
+        ],
+        "Avey": [
+            "benign prostatic hyperplasia"
         ]
     },
     "324": {
@@ -10443,6 +12176,9 @@
         ],
         "Noor Joudeh": [
             "cataract"
+        ],
+        "Avey": [
+            "macular degeneration"
         ]
     },
     "325": {
@@ -10483,6 +12219,10 @@
         ],
         "Noor Joudeh": [
             "bladder cancer"
+        ],
+        "Avey": [
+            "bladder cancer",
+            "renal cell carcinoma"
         ]
     },
     "326": {
@@ -10520,6 +12260,14 @@
         ],
         "Noor Joudeh": [
             "lyme disease"
+        ],
+        "Avey": [
+            "lyme disease",
+            "brucellosis",
+            "rubella",
+            "rheumatic fever",
+            "dengue fever",
+            "systemic lupus erythematosus"
         ]
     },
     "327": {
@@ -10556,6 +12304,14 @@
         "Noor Joudeh": [
             "acute gastroenteritis",
             "ibd"
+        ],
+        "Avey": [
+            "acute bacterial gastroenteritis (shigella)",
+            "peritonitis",
+            "acute gastroenteritis",
+            "food poisoning",
+            "colitis",
+            "inflammatory bowel disease"
         ]
     },
     "328": {
@@ -10593,6 +12349,14 @@
         ],
         "Noor Joudeh": [
             "allergic rhinitis"
+        ],
+        "Avey": [
+            "allergic rhinitis",
+            "allergic conjunctivitis",
+            "viral conjunctivitis",
+            "non allergic rhinitis",
+            "common cold",
+            "nasal septum deviation"
         ]
     },
     "329": {
@@ -10640,6 +12404,14 @@
         "Noor Joudeh": [
             "colorectal carcinoma",
             "ovarian cancer"
+        ],
+        "Avey": [
+            "liver cirrhosis",
+            "ovarian cancer",
+            "chronic pancreatitis",
+            "hepatocellular carcinoma",
+            "acute liver failure",
+            "anemia"
         ]
     },
     "330": {
@@ -10682,6 +12454,11 @@
         "Noor Joudeh": [
             "uterine fibroids",
             "hypothyroidism"
+        ],
+        "Avey": [
+            "uterine fibroids",
+            "ovarian cancer",
+            "diverticulosis"
         ]
     },
     "331": {
@@ -10719,6 +12496,14 @@
         "Noor Joudeh": [
             "typical pneumonia",
             "empyema"
+        ],
+        "Avey": [
+            "typical pneumonia",
+            "sepsis",
+            "pericardial effusion",
+            "pulmonary edema",
+            "valvular heart disease",
+            "pulmonary embolism"
         ]
     },
     "332": {
@@ -10756,6 +12541,14 @@
         "Noor Joudeh": [
             "aortic dissection",
             "myocardial infraction"
+        ],
+        "Avey": [
+            "myocardial infraction",
+            "unstable angina",
+            "stable angina",
+            "arrhythmia",
+            "variant angina",
+            "aortic dissection"
         ]
     },
     "333": {
@@ -10788,6 +12581,12 @@
         ],
         "Noor Joudeh": [
             "chronic venous insufficiency"
+        ],
+        "Avey": [
+            "chronic venous insufficiency",
+            "popliteal artery aneurysm",
+            "peripheral vascular disease",
+            "lymphedema"
         ]
     },
     "334": {
@@ -10826,6 +12625,14 @@
         ],
         "Noor Joudeh": [
             "hypothyroidism"
+        ],
+        "Avey": [
+            "hyperparathyroidism",
+            "myasthenia gravis",
+            "pituitary adenoma",
+            "thyroiditis",
+            "upper gastrointestinal bleeding",
+            "acromegaly"
         ]
     },
     "335": {
@@ -10870,6 +12677,14 @@
         ],
         "Noor Joudeh": [
             "pernicious anemia"
+        ],
+        "Avey": [
+            "myocarditis",
+            "valvular heart disease",
+            "pericardial effusion",
+            "pernicious anemia",
+            "hemolytic anemia",
+            "cardiomyopathy"
         ]
     },
     "338": {
@@ -10912,6 +12727,14 @@
         ],
         "Noor Joudeh": [
             "vestibular neuritis"
+        ],
+        "Avey": [
+            "labyrinthitis",
+            "meniere disease",
+            "vestibular neuritis",
+            "acoustic neuroma",
+            "otitis media with effusion",
+            "otitis media with tympanic membrane perforated"
         ]
     },
     "339": {
@@ -10955,6 +12778,14 @@
         ],
         "Noor Joudeh": [
             "hepatocellular carcinoma"
+        ],
+        "Avey": [
+            "hepatocellular carcinoma",
+            "pancreatic cancer",
+            "liver abscess",
+            "liver cirrhosis",
+            "cholelithiasis",
+            "chronic pancreatitis"
         ]
     },
     "340": {
@@ -10995,6 +12826,13 @@
         ],
         "Noor Joudeh": [
             "osteoarthritis"
+        ],
+        "Avey": [
+            "menopause",
+            "osteoarthritis",
+            "gout",
+            "rheumatic fever",
+            "pseudogout"
         ]
     },
     "341": {
@@ -11033,6 +12871,14 @@
             "pulmonary embolism"
         ],
         "Noor Joudeh": [
+            "pulmonary embolism"
+        ],
+        "Avey": [
+            "unstable angina",
+            "myocardial infarction",
+            "pneumothorax",
+            "stable angina",
+            "aortic dissection",
             "pulmonary embolism"
         ]
     },
@@ -11080,6 +12926,14 @@
         ],
         "Noor Joudeh": [
             "valvular heart disease"
+        ],
+        "Avey": [
+            "variant angina",
+            "valvular heart disease",
+            "pericardial effusion",
+            "hemolytic anemia",
+            "anemia",
+            "polycythemia vera"
         ]
     },
     "344": {
@@ -11123,6 +12977,10 @@
         "Noor Joudeh": [
             "nasolacrimal duct obstruction",
             "chalazion"
+        ],
+        "Avey": [
+            "viral conjunctivitis",
+            "nasolacrimal duct obstruction"
         ]
     },
     "345": {
@@ -11161,6 +13019,11 @@
         ],
         "Noor Joudeh": [
             "interstitial nephritis"
+        ],
+        "Avey": [
+            "nephritic syndrome",
+            "acute renal failure",
+            "rhabdomyolysis"
         ]
     },
     "346": {
@@ -11200,6 +13063,14 @@
         ],
         "Noor Joudeh": [
             "measles"
+        ],
+        "Avey": [
+            "lyme disease",
+            "cellulitis",
+            "mixed connective tissue disease",
+            "rubella",
+            "measles",
+            "tinea versicolor"
         ]
     },
     "347": {
@@ -11239,6 +13110,14 @@
         ],
         "Noor Joudeh": [
             "hyperemesis gravidarum"
+        ],
+        "Avey": [
+            "pregnancy",
+            "hyperemesis gravidarum",
+            "molar pregnancy",
+            "sepsis",
+            "gastroenteritis",
+            "meningitis"
         ]
     },
     "349": {
@@ -11281,6 +13160,14 @@
         ],
         "Noor Joudeh": [
             "crohn disease"
+        ],
+        "Avey": [
+            "cronkhite canada syndrome",
+            "ulcerative colitis",
+            "celiac disease",
+            "irritable bowel syndrome",
+            "colorectal carcinoma",
+            "diverticulosis"
         ]
     },
     "350": {
@@ -11323,6 +13210,14 @@
         ],
         "Noor Joudeh": [
             "crohn disease"
+        ],
+        "Avey": [
+            "acute appendicitis",
+            "crohn disease",
+            "celiac disease",
+            "infectious colitis",
+            "chronic pancreatitis",
+            "cronkhite canada syndrome"
         ]
     },
     "351": {
@@ -11364,6 +13259,13 @@
         ],
         "Noor Joudeh": [
             "allergic rhinosinusitis"
+        ],
+        "Avey": [
+            "chronic sinusitis",
+            "nasal septum deviation",
+            "non allergic rhinitis",
+            "allergic rhinitis",
+            "cystic fibrosis"
         ]
     },
     "352": {
@@ -11400,6 +13302,14 @@
         ],
         "Noor Joudeh": [
             "meningitis"
+        ],
+        "Avey": [
+            "meningitis",
+            "cerebral stroke",
+            "encephalitis",
+            "brain tumor",
+            "brain abscess",
+            "malaria"
         ]
     },
     "353": {
@@ -11442,6 +13352,14 @@
         ],
         "Noor Joudeh": [
             "leukemia"
+        ],
+        "Avey": [
+            "lymphoma",
+            "tonsillopharyngitis",
+            "inflammatory bowel disease",
+            "mononucleosis",
+            "lymphadinitis",
+            "acute prostatitis"
         ]
     },
     "354": {
@@ -11483,6 +13401,12 @@
         "Noor Joudeh": [
             "pid",
             "bacterial vaginosis"
+        ],
+        "Avey": [
+            "bacterial vaginosis",
+            "trichomoniasis",
+            "pelvic inflammatory disease",
+            "chlamydia"
         ]
     },
     "355": {
@@ -11525,6 +13449,10 @@
         "Noor Joudeh": [
             "cushing syndrome",
             "hypothyroidism"
+        ],
+        "Avey": [
+            "cushing syndrome",
+            "polycystic ovary syndrome"
         ]
     },
     "356": {
@@ -11565,6 +13493,14 @@
         ],
         "Noor Joudeh": [
             "meniere disease"
+        ],
+        "Avey": [
+            "meniere disease",
+            "labyrinthitis",
+            "acoustic neuroma",
+            "otitis media with effusion",
+            "otitis media with tympanic membrane perforated",
+            "benign paroxysmal positional vertigo"
         ]
     },
     "357": {
@@ -11604,6 +13540,14 @@
         "Noor Joudeh": [
             "lumbar disc herniation",
             "mechanical back pain"
+        ],
+        "Avey": [
+            "degenerative disc disease (lumbar)",
+            "lumbar disc herniation",
+            "sciatica",
+            "mechanical back pain",
+            "osteomyelitis",
+            "ankylosing spondylitis"
         ]
     },
     "358": {
@@ -11644,6 +13588,14 @@
         "Noor Joudeh": [
             "polycystic kidney disease",
             "adrenal mass"
+        ],
+        "Avey": [
+            "polycystic kidney disease",
+            "renal cell carcinoma",
+            "nephrolithiasis",
+            "pyelonephritis",
+            "anemia",
+            "acute interstitial nephritis"
         ]
     },
     "359": {
@@ -11681,6 +13633,14 @@
         "Noor Joudeh": [
             "threatened abortion",
             "ectopic pregnancy"
+        ],
+        "Avey": [
+            "spontaneous abortion",
+            "ectopic pregnancy",
+            "molar pregnancy",
+            "abruptio placentae",
+            "endometrial cancer",
+            "placenta previa"
         ]
     },
     "360": {
@@ -11726,6 +13686,14 @@
         ],
         "Noor Joudeh": [
             "epididymitis"
+        ],
+        "Avey": [
+            "epididymitis",
+            "orchitis",
+            "testicular torsion",
+            "urethritis",
+            "acute prostatitis",
+            "varicocele"
         ]
     },
     "362": {
@@ -11768,6 +13736,14 @@
         ],
         "Noor Joudeh": [
             "costochondritis"
+        ],
+        "Avey": [
+            "pneumothorax",
+            "acute pericarditis",
+            "aortic dissection",
+            "unstable angina",
+            "intercostal neuralgia",
+            "myocardial infarction"
         ]
     },
     "363": {
@@ -11805,6 +13781,9 @@
         ],
         "Noor Joudeh": [
             "lung contusion",
+            "intercostal neuralgia"
+        ],
+        "Avey": [
             "intercostal neuralgia"
         ]
     },
@@ -11846,6 +13825,14 @@
         ],
         "Noor Joudeh": [
             "gestational hypertension"
+        ],
+        "Avey": [
+            "molar pregnancy",
+            "ectopic pregnancy",
+            "Pre-eclampsia",
+            "gestational hypertension",
+            "preterm labor",
+            "spontaneous abortion"
         ]
     },
     "366": {
@@ -11890,6 +13877,14 @@
         ],
         "Noor Joudeh": [
             "cholelithiasis with obstructed cbd"
+        ],
+        "Avey": [
+            "rhabdomyolysis",
+            "hemolytic anemia",
+            "polycyctic kidney disease",
+            "nephrolithiasis",
+            "acute renal failure",
+            "renal cell carcinoma"
         ]
     },
     "368": {
@@ -11931,6 +13926,14 @@
         ],
         "Noor Joudeh": [
             "central airway obstruction"
+        ],
+        "Avey": [
+            "foreign body aspiration",
+            "asthma",
+            "central airway obstruction",
+            "pulmonary embolism",
+            "pulmonary edema",
+            "pneumothorax"
         ]
     },
     "371": {
@@ -11971,6 +13974,12 @@
         ],
         "Noor Joudeh": [
             "urge urinary incontinence"
+        ],
+        "Avey": [
+            "atrophic urethritis",
+            "overactive bladder",
+            "urge urinary incontinence",
+            "urogenital fistula"
         ]
     },
     "372": {
@@ -12012,6 +14021,13 @@
             "biceps tendonitis",
             "rotator cuff tendonitis",
             "gouty arthritis"
+        ],
+        "Avey": [
+            "dislocated shoulder",
+            "shoulder bursitis",
+            "rotator cuff injury",
+            "frozen shoulder",
+            "shoulder fracture"
         ]
     },
     "373": {
@@ -12051,6 +14067,12 @@
         ],
         "Noor Joudeh": [
             "systemic sclerosis"
+        ],
+        "Avey": [
+            "systemic sclerosis",
+            "mixed connective tissue disease",
+            "rheumatoid arthritis",
+            "osteoarthritis"
         ]
     },
     "374": {
@@ -12096,6 +14118,9 @@
         "Noor Joudeh": [
             "uti",
             "menopausal changes in the vagina"
+        ],
+        "Avey": [
+            "urogenital fistula"
         ]
     },
     "375": {
@@ -12138,6 +14163,14 @@
         ],
         "Noor Joudeh": [
             "acute renal failure"
+        ],
+        "Avey": [
+            "renal artery stenosis",
+            "chronic kidney disease",
+            "acute renal failure",
+            "nephrotic syndrome",
+            "amyloidosis",
+            "nephritic syndrome"
         ]
     },
     "377": {
@@ -12179,6 +14212,11 @@
         ],
         "Noor Joudeh": [
             "prostate cancer"
+        ],
+        "Avey": [
+            "bladder cancer",
+            "benign prostatic hyperplasia",
+            "acute prostatitis"
         ]
     },
     "378": {
@@ -12217,6 +14255,11 @@
         ],
         "Noor Joudeh": [
             "breast fat necrosis"
+        ],
+        "Avey": [
+            "breast fat necrosis",
+            "fibroadenoma",
+            "galactocele"
         ]
     },
     "379": {
@@ -12255,6 +14298,14 @@
         "Noor Joudeh": [
             "lung cancer",
             "mesothelioma"
+        ],
+        "Avey": [
+            "pneumonia",
+            "malaria",
+            "coronavirus disease 2019",
+            "tonsillopharyngitis",
+            "pericardial effusion",
+            "pulmonary embolism"
         ]
     },
     "380": {
@@ -12291,6 +14342,14 @@
         ],
         "Noor Joudeh": [
             "bacterial tonsilitis"
+        ],
+        "Avey": [
+            "bacterial tonsilitis",
+            "mononucleosis",
+            "common cold",
+            "lymphadenitis",
+            "coronavirus disease 2019",
+            "laryngitis"
         ]
     },
     "382": {
@@ -12334,6 +14393,9 @@
         ],
         "Noor Joudeh": [
             "de quervain tenosynovitis"
+        ],
+        "Avey": [
+            "de quervain tenosynovitis"
         ]
     },
     "383": {
@@ -12376,6 +14438,14 @@
         ],
         "Noor Joudeh": [
             "acute interstitial nephritis"
+        ],
+        "Avey": [
+            "lyme disease",
+            "systemic lupus erythromatosus",
+            "dengue fever",
+            "measles",
+            "osteomyelitis",
+            "cellulitis"
         ]
     },
     "384": {
@@ -12415,6 +14485,14 @@
         ],
         "Noor Joudeh": [
             "chronic obstructive pulmonary disease"
+        ],
+        "Avey": [
+            "asthma",
+            "chronic obstructive pulmonary disease",
+            "pneumonia",
+            "bronchiectasis",
+            "tuberculosis",
+            "acute bronchitis"
         ]
     },
     "386": {
@@ -12460,6 +14538,12 @@
         "Noor Joudeh": [
             "myocardial infarction",
             "part of her migraine"
+        ],
+        "Avey": [
+            "variant angina",
+            "myocardial infarction",
+            "stable angina",
+            "unstable angina"
         ]
     },
     "388": {
@@ -12506,6 +14590,14 @@
             "hypothyroidism",
             "hyperparathyroidism (primary)",
             "fibromyalgia"
+        ],
+        "Avey": [
+            "fibromyalgia",
+            "lambert eaton myasthenitic syndrome",
+            "hypercalcemia",
+            "chronic pancreatitis",
+            "acute renal failure",
+            "renal cell carcinoma"
         ]
     },
     "389": {
@@ -12545,6 +14637,14 @@
         "Noor Joudeh": [
             "ectopic pregnancy",
             "ruptured ovarian cyst"
+        ],
+        "Avey": [
+            "ectopic pregnancy",
+            "molar pregnancy",
+            "diverticulitis",
+            "acute appendicitis",
+            "spontaneous abortion",
+            "diverticulosis"
         ]
     },
     "391": {
@@ -12584,6 +14684,14 @@
         ],
         "Noor Joudeh": [
             "urticaria"
+        ],
+        "Avey": [
+            "urticaria",
+            "psoriasis",
+            "contact dermatitis",
+            "atopic dermatitis",
+            "herpes simplex",
+            "bullous pemphigoid"
         ]
     },
     "393": {
@@ -12622,6 +14730,13 @@
         ],
         "Noor Joudeh": [
             "secondary ovarian insufficiency"
+        ],
+        "Avey": [
+            "secondary ovarian insufficiency",
+            "liver cirrhosis",
+            "brain tumor",
+            "polycystic ovary syndrome",
+            "sheehan syndrome"
         ]
     },
     "394": {
@@ -12657,6 +14772,14 @@
         ],
         "Noor Joudeh": [
             "peptic ulcer disease"
+        ],
+        "Avey": [
+            "acute pancreatitis",
+            "peptic ulcer disease",
+            "acute mesenteric ischemia",
+            "acute appendicitis",
+            "cholelithiasis",
+            "gastritis"
         ]
     },
     "395": {
@@ -12692,6 +14815,14 @@
         ],
         "Noor Joudeh": [
             "multiple sclerosis"
+        ],
+        "Avey": [
+            "multiple sclerosis",
+            "lambert eaton myasthenic syndrome",
+            "herniated disc",
+            "hypoparathyroidism",
+            "cerebral stoke",
+            "popliteal artery aneurysm"
         ]
     },
     "396": {
@@ -12733,6 +14864,9 @@
         "Noor Joudeh": [
             "earwax blockage",
             "middle ear effusion"
+        ],
+        "Avey": [
+            "earwax blockage"
         ]
     },
     "398": {
@@ -12774,6 +14908,12 @@
         ],
         "Noor Joudeh": [
             "rhabdomyolysis"
+        ],
+        "Avey": [
+            "rhabdomyolysis",
+            "anemia",
+            "acute renal failure",
+            "eaton myasthenic syndrome"
         ]
     },
     "399": {
@@ -12821,6 +14961,14 @@
         ],
         "Noor Joudeh": [
             "pleural effusion"
+        ],
+        "Avey": [
+            "heart failure",
+            "cardiomyopathy",
+            "valvular heart failure",
+            "chronic obstructive pulmonary disease",
+            "anemia",
+            "anemia"
         ]
     },
     "400": {
@@ -12858,6 +15006,14 @@
         ],
         "Noor Joudeh": [
             "abruptio placenta"
+        ],
+        "Avey": [
+            "abruptio placenta",
+            "ectopic pregnancy",
+            "preterm labor",
+            "placenta previa",
+            "spontaneous abortion",
+            "abdominl aortic aneurysm"
         ]
     },
     "401": {
@@ -12894,6 +15050,11 @@
         ],
         "Noor Joudeh": [
             "obstructive sleep apnea"
+        ],
+        "Avey": [
+            "obstructive sleep apnea",
+            "narcolepsy",
+            "acute renal failure"
         ]
     },
     "402": {
@@ -12929,6 +15090,9 @@
             "varicocele"
         ],
         "Noor Joudeh": [
+            "varicocele"
+        ],
+        "Avey": [
             "varicocele"
         ]
     },
@@ -12969,6 +15133,14 @@
         "Noor Joudeh": [
             "colon cancer with multiple metastasis",
             "leukemia"
+        ],
+        "Avey": [
+            "amyloidosis",
+            "lambert eaton myasthenic syndrome",
+            "anemia",
+            "systemic sclerosis",
+            "valvular heart disease",
+            "polycythemia vera"
         ]
     },
     "405": {
@@ -13008,6 +15180,11 @@
         ],
         "Noor Joudeh": [
             "vulvovaginal candidiasis"
+        ],
+        "Avey": [
+            "vulvovaginal candidiasis",
+            "bacterial vaginosis",
+            "trichomoniasis"
         ]
     },
     "406": {
@@ -13048,6 +15225,14 @@
         ],
         "Noor Joudeh": [
             "scabies"
+        ],
+        "Avey": [
+            "psoriasis",
+            "contact dermatitis",
+            "urticaria",
+            "atopic dermatitis",
+            "scabies",
+            "bullous pemphigoid"
         ]
     },
     "407": {
@@ -13095,6 +15280,14 @@
         ],
         "Noor Joudeh": [
             "pituitary adenoma"
+        ],
+        "Avey": [
+            "macular degeneration",
+            "multiple sclerosis",
+            "hypotension",
+            "diabetes mellitus",
+            "pituitary adenoma",
+            "cataract"
         ]
     },
     "408": {
@@ -13131,6 +15324,10 @@
             "uti"
         ],
         "Noor Joudeh": [
+            "stress urinary incontinence"
+        ],
+        "Avey": [
+            "urogenital fistula",
             "stress urinary incontinence"
         ]
     },
@@ -13175,6 +15372,14 @@
         ],
         "Noor Joudeh": [
             "colon cancer"
+        ],
+        "Avey": [
+            "ovarian cancer",
+            "amyloidosis",
+            "gastric cancer",
+            "anemia",
+            "adrenal insufficiency",
+            "chronic pancreatitis"
         ]
     },
     "411": {
@@ -13218,6 +15423,10 @@
         "Noor Joudeh": [
             "pulmonary and lymph node hydatid cysts",
             "thyroid cancer"
+        ],
+        "Avey": [
+            "lipoma",
+            "thyroiditis"
         ]
     },
     "413": {
@@ -13256,6 +15465,14 @@
         ],
         "Noor Joudeh": [
             "disc herniation"
+        ],
+        "Avey": [
+            "disc herniation",
+            "vertebral fracture",
+            "osteomyelitis",
+            "degenerative disc disease",
+            "sciatica",
+            "mechanical back pain"
         ]
     },
     "414": {
@@ -13300,6 +15517,14 @@
         "Noor Joudeh": [
             "ss",
             "diabetes mellitus"
+        ],
+        "Avey": [
+            "lung cancer",
+            "tuborculosis",
+            "lambert eaton myasthenic syndrome",
+            "esophageal stricture",
+            "esophageal cancer",
+            "laryngitis"
         ]
     },
     "415": {
@@ -13343,6 +15568,14 @@
         "Noor Joudeh": [
             "hypertrophic cardiomyopathy",
             "valvular heart disease"
+        ],
+        "Avey": [
+            "vasovagal syncope",
+            "labyrinthitis",
+            "otitis media with effusion",
+            "hyperthyroidism",
+            "earwax blockage",
+            "hypotension (orthostatic)"
         ]
     },
     "417": {
@@ -13382,6 +15615,14 @@
         "Noor Joudeh": [
             "gastroenteritis",
             "hyperemesis gravidarum"
+        ],
+        "Avey": [
+            "pregnancy",
+            "molar pregnancy",
+            "hyperemesis gravidarum",
+            "gastroenteritis",
+            "food poisoning",
+            "gastroesophageal reflux"
         ]
     },
     "419": {
@@ -13427,6 +15668,11 @@
         ],
         "Noor Joudeh": [
             "overflow urinary incontinence"
+        ],
+        "Avey": [
+            "overflow urinary incontinence",
+            "overactive bladder",
+            "atrophic urethritis"
         ]
     },
     "420": {
@@ -13470,6 +15716,14 @@
         ],
         "Noor Joudeh": [
             "viral hepatitis"
+        ],
+        "Avey": [
+            "viral hepatitis",
+            "cholangitis",
+            "acute cholecystitis",
+            "acute pancreatitis",
+            "liver cirrhosis",
+            "pancreatic cancer"
         ]
     },
     "421": {
@@ -13514,6 +15768,13 @@
         ],
         "Noor Joudeh": [
             "shoulder fracture"
+        ],
+        "Avey": [
+            "shoulder dislocation",
+            "shoulder fracture",
+            "rotator cuff injury",
+            "frozen shoulder",
+            "shoulder bursitis"
         ]
     },
     "422": {
@@ -13559,6 +15820,14 @@
         "Noor Joudeh": [
             "gastroesophageal reflux",
             "diffuse esophageal spasm"
+        ],
+        "Avey": [
+            "diffuse esophageal spasm",
+            "achalasia",
+            "esophageal stricture",
+            "gastroesophageal reflux",
+            "esophageal cancer",
+            "variant angina"
         ]
     },
     "423": {
@@ -13598,6 +15867,11 @@
         ],
         "Noor Joudeh": [
             "urge urinary incontinence"
+        ],
+        "Avey": [
+            "atrophic urethritis",
+            "overactive bladder",
+            "urge urinary incontinence"
         ]
     },
     "424": {
@@ -13636,6 +15910,10 @@
             "tia"
         ],
         "Noor Joudeh": [
+            "cerebral stroke (ischemic)",
+            "tia"
+        ],
+        "Avey": [
             "cerebral stroke (ischemic)",
             "tia"
         ]
@@ -13682,6 +15960,10 @@
         "Noor Joudeh": [
             "hypothyroidism",
             "uterine fibroids"
+        ],
+        "Avey": [
+            "endometrial cancer",
+            "adenomyosis"
         ]
     },
     "426": {
@@ -13724,6 +16006,11 @@
         ],
         "Noor Joudeh": [
             "gastroesophageal reflux"
+        ],
+        "Avey": [
+            "gastroesophageal reflux",
+            "acute laryngitis",
+            "lung cancer"
         ]
     },
     "427": {
@@ -13771,6 +16058,11 @@
         "Noor Joudeh": [
             "cataract",
             "diabetic retinopathy"
+        ],
+        "Avey": [
+            "macular degeneration",
+            "hyperoslmolar hyperglycemic nonketotic state",
+            "diabetic retinopathy"
         ]
     },
     "428": {
@@ -13817,6 +16109,14 @@
         ],
         "Noor Joudeh": [
             "aortic dissection"
+        ],
+        "Avey": [
+            "aortic dissection",
+            "pneumothorax",
+            "unstable angina",
+            "myocardial infarction",
+            "cardiac tamponade",
+            "arrhythmia"
         ]
     },
     "430": {
@@ -13853,6 +16153,14 @@
         ],
         "Noor Joudeh": [
             "iga nephropathy"
+        ],
+        "Avey": [
+            "hemolytic anemia",
+            "acute renal failure",
+            "rhabdomyolysis",
+            "nephritic syndrome",
+            "acute interstitial nephritis",
+            "renal cell carcinoma"
         ]
     },
     "431": {
@@ -13895,6 +16203,14 @@
         ],
         "Noor Joudeh": [
             "hiv infection"
+        ],
+        "Avey": [
+            "hiv infection",
+            "malaria",
+            "dengue fever",
+            "tonsillopharyngitis",
+            "lymphoma",
+            "lymphadenitis"
         ]
     },
     "432": {
@@ -13942,6 +16258,14 @@
         ],
         "Noor Joudeh": [
             "acute on chronic hepatitis c with liver failure and ruptured esophageal varices"
+        ],
+        "Avey": [
+            "peritonitis",
+            "acute bacterial gastroenteritis",
+            "colitis",
+            "liver cirrhosis",
+            "acute gastroenteritis",
+            "lactose intolerance"
         ]
     },
     "433": {
@@ -13988,6 +16312,14 @@
         "Noor Joudeh": [
             "hypotensive shock",
             "intra abdominal oozing"
+        ],
+        "Avey": [
+            "sepsis",
+            "infective endocarditis",
+            "malaria",
+            "liver cirrhosis",
+            "osteomyelitis",
+            "adrenal insufficiency"
         ]
     },
     "434": {
@@ -14020,6 +16352,14 @@
         ],
         "Noor Joudeh": [
             "foreign body aspiration"
+        ],
+        "Avey": [
+            "foreign body aspiration",
+            "bronchiolitis",
+            "central airway obstruction",
+            "asthma",
+            "pulmonary embolism",
+            "pneumothorax"
         ]
     },
     "435": {
@@ -14058,6 +16398,11 @@
         "Noor Joudeh": [
             "meningitis",
             "encephalitis"
+        ],
+        "Avey": [
+            "meningitis",
+            "tension headache",
+            "brain abscess"
         ]
     },
     "436": {
@@ -14098,6 +16443,14 @@
         ],
         "Noor Joudeh": [
             "threatened abortion"
+        ],
+        "Avey": [
+            "molar pregnancy",
+            "threatened abortion",
+            "ectopic pregnancy",
+            "pregnancy",
+            "endometrial cancer",
+            "ovarian cancer"
         ]
     },
     "437": {
@@ -14143,6 +16496,14 @@
             "hypotension (orthostatic)",
             "vasovagal syncope",
             "hypertrophic cardiomyopathy"
+        ],
+        "Avey": [
+            "vestibular neuritis",
+            "vasovagal syncope",
+            "labyrinthitis",
+            "adrenal insufficiency",
+            "hypotension (orthostatic)",
+            "upper gastrointestinal bleeding"
         ]
     },
     "438": {
@@ -14180,6 +16541,14 @@
         ],
         "Noor Joudeh": [
             "cystic fibrosis"
+        ],
+        "Avey": [
+            "cystic fibrosis",
+            "lung cancer",
+            "diabetes mellitus",
+            "hyperosmolar hyperglycemic nonketotic state",
+            "diabetic ketoacidosis",
+            "upper airway obstruction"
         ]
     },
     "439": {
@@ -14226,6 +16595,14 @@
         "Noor Joudeh": [
             "cellulitis",
             "deep venous thrombosis"
+        ],
+        "Avey": [
+            "osteomyelitis",
+            "superficial vein thrombophlebitis",
+            "cellulitis",
+            "deep venous thrombosis",
+            "septic arthritis",
+            "popliteal artery aneurysm"
         ]
     },
     "440": {
@@ -14270,6 +16647,14 @@
         "Noor Joudeh": [
             "gastritis  with or without hpylori infection",
             "pud"
+        ],
+        "Avey": [
+            "thalassemia",
+            "pernicious anemia",
+            "hemolytic anemia",
+            "acute renal failure",
+            "multiple sclerosis",
+            "myasthenia gravis"
         ]
     },
     "441": {
@@ -14307,6 +16692,14 @@
             "pneumonia",
             "bronchiolitis",
             "coronavirus disease 2019"
+        ],
+        "Avey": [
+            "pericardial effusion",
+            "pneumonia",
+            "valvular heart disease",
+            "bronchiolitis",
+            "acute pericarditis",
+            "pulmonary edema"
         ]
     },
     "442": {
@@ -14350,6 +16743,14 @@
         "Noor Joudeh": [
             "pyelonephritis",
             "acute prostatitis"
+        ],
+        "Avey": [
+            "acute prostatitis",
+            "cystitis",
+            "overactive bladder",
+            "benign prostatic hyperplasia",
+            "gout",
+            "atrophic urethritis"
         ]
     },
     "445": {
@@ -14388,6 +16789,12 @@
         ],
         "Noor Joudeh": [
             "peripheral vascular disease"
+        ],
+        "Avey": [
+            "peripheral vascular disease",
+            "popliteal artery aneurysm",
+            "chronic venous insufficiency",
+            "diabetic neuropathy"
         ]
     },
     "446": {
@@ -14436,6 +16843,14 @@
         "Noor Joudeh": [
             "liver failure with low protein and albumin",
             "heart failure"
+        ],
+        "Avey": [
+            "arrhythmia",
+            "renal artery stenosis",
+            "heart failure",
+            "cardiomyopathy (restrictive)",
+            "valvular heart disease",
+            "pericardial effusion"
         ]
     },
     "448": {
@@ -14475,6 +16890,14 @@
         ],
         "Noor Joudeh": [
             "g6pd deficiency"
+        ],
+        "Avey": [
+            "cystitis",
+            "nephrolithiasis",
+            "polycyctic kidney disease",
+            "anemia",
+            "acute prostatitis",
+            "pyelonephritis"
         ]
     },
     "449": {
@@ -14513,6 +16936,14 @@
         "Noor Joudeh": [
             "preterm labor",
             "abruptio placenta"
+        ],
+        "Avey": [
+            "molar pregnancy",
+            "placenta previa",
+            "preterm labor",
+            "abruptio placenta",
+            "endometrial cancer",
+            "spontaneous abortion"
         ]
     },
     "450": {
@@ -14558,6 +16989,10 @@
         ],
         "Noor Joudeh": [
             "ischemic stroke"
+        ],
+        "Avey": [
+            "ischemic stroke",
+            "diabetic neuropathy"
         ]
     },
     "451": {
@@ -14596,6 +17031,9 @@
         ],
         "Noor Joudeh": [
             "herpes simplex virus"
+        ],
+        "Avey": [
+            "chancroid"
         ]
     },
     "452": {
@@ -14633,6 +17071,10 @@
         ],
         "Noor Joudeh": [
             "gout"
+        ],
+        "Avey": [
+            "gout",
+            "anemia"
         ]
     },
     "453": {
@@ -14673,6 +17115,9 @@
             "drug induced myopathy"
         ],
         "Noor Joudeh": [
+            "polymyalgia rheumatica"
+        ],
+        "Avey": [
             "polymyalgia rheumatica"
         ]
     },
@@ -14718,6 +17163,11 @@
         "Noor Joudeh": [
             "anterior prolapse",
             "stress urinary incontinence"
+        ],
+        "Avey": [
+            "mixed urinary incontinence",
+            "atrophic urethritis",
+            "ovarian cancer"
         ]
     },
     "455": {
@@ -14754,6 +17204,10 @@
             "atrophic vaginitis"
         ],
         "Noor Joudeh": [
+            "atrophic urethritis"
+        ],
+        "Avey": [
+            "menopause",
             "atrophic urethritis"
         ]
     },
@@ -14794,6 +17248,10 @@
         "Noor Joudeh": [
             "lymphoma",
             "secondary syphilis"
+        ],
+        "Avey": [
+            "lymphoma",
+            "anemia"
         ]
     },
     "457": {
@@ -14829,6 +17287,11 @@
         ],
         "Noor Joudeh": [
             "myasthenia gravis"
+        ],
+        "Avey": [
+            "myasthenia gravis",
+            "multiple sclerosis",
+            "laryngitis"
         ]
     },
     "459": {
@@ -14867,6 +17330,10 @@
         ],
         "Noor Joudeh": [
             "stress urinary incontinence"
+        ],
+        "Avey": [
+            "stress urinary incontinence",
+            "urogenital fistula"
         ]
     },
     "461": {
@@ -14908,6 +17375,14 @@
         "Noor Joudeh": [
             "chronic obstructive pulmonary disease",
             "cystic fibrosis"
+        ],
+        "Avey": [
+            "bronchiectasis",
+            "chronic obstructive pulmonary disease",
+            "cystic fibrosis",
+            "upper airway obstruction",
+            "asthma",
+            "valvular heart disease"
         ]
     },
     "462": {
@@ -14949,6 +17424,14 @@
         "Noor Joudeh": [
             "pneumothorax",
             "pleural effusion"
+        ],
+        "Avey": [
+            "heart failure",
+            "cardiomyopathy",
+            "pulmonary edema",
+            "pericardial effusion",
+            "valvular heart disease",
+            "chronic obstructive pulmonary disease"
         ]
     },
     "463": {
@@ -14985,6 +17468,14 @@
         ],
         "Noor Joudeh": [
             "acute liver failure"
+        ],
+        "Avey": [
+            "liver cirrhosis",
+            "acute cholangitis",
+            "acute liver failure",
+            "lymphoma",
+            "rhabdomyolysis",
+            "meningitis"
         ]
     },
     "464": {
@@ -15027,6 +17518,13 @@
         ],
         "Noor Joudeh": [
             "colon cancer"
+        ],
+        "Avey": [
+            "diverticulitis",
+            "diverticulosis",
+            "liver cirrhosis",
+            "ovarian cancer",
+            "amyloidosis"
         ]
     },
     "465": {
@@ -15066,6 +17564,13 @@
         "Noor Joudeh": [
             "diabetes mellitus",
             "uti"
+        ],
+        "Avey": [
+            "diabetes mellitus",
+            "renal artery stenosis",
+            "metabolic syndrome",
+            "hyperosmolar hyperglycaemic nonketonic state",
+            "acute renal failure"
         ]
     },
     "466": {
@@ -15103,6 +17608,14 @@
         ],
         "Noor Joudeh": [
             "ruptured ectopic pregnancy"
+        ],
+        "Avey": [
+            "ruptured ectopic pregnancy",
+            "spontaneous abortion",
+            "abruptio placentae",
+            "molar pregnancy",
+            "preterm labor",
+            "placenta previa"
         ]
     },
     "467": {
@@ -15142,6 +17655,14 @@
         "Noor Joudeh": [
             "septic arthritis",
             "gout"
+        ],
+        "Avey": [
+            "pseudogout",
+            "gout",
+            "septic arthritis",
+            "osteoarthritis",
+            "rheumatoid arthritis",
+            "anemia"
         ]
     },
     "469": {
@@ -15181,6 +17702,10 @@
         "Noor Joudeh": [
             "obstructive sleep apnea",
             "hypothyroidism"
+        ],
+        "Avey": [
+            "idiopathic hypersomnia",
+            "narcolepsy"
         ]
     },
     "470": {
@@ -15227,6 +17752,14 @@
             "nephrolithiasis",
             "obstructed urinary outflow from enlarged prostate",
             "acute renal failure (post-renal)"
+        ],
+        "Avey": [
+            "nephrolithiasis",
+            "testicular torsion",
+            "acute renal failure (post-renal)",
+            "pyelonephritis",
+            "nephritic syndrome",
+            "polycyctic kidney disease"
         ]
     },
     "471": {
@@ -15269,6 +17802,14 @@
         ],
         "Noor Joudeh": [
             "chronic obstructive pulmonary disease"
+        ],
+        "Avey": [
+            "bronchiectasis",
+            "asthma",
+            "chronic obstructive pulmonary disease",
+            "tuberculosis",
+            "lung cancer",
+            "acute bronchitis"
         ]
     },
     "472": {
@@ -15316,6 +17857,14 @@
         "Noor Joudeh": [
             "heart failure",
             "pneumonia"
+        ],
+        "Avey": [
+            "cardiomyopathy",
+            "heart failure",
+            "chronic obstructive pulmonary disease",
+            "vulvular heart disease",
+            "pneumonia",
+            "cystic fibrosis"
         ]
     },
     "473": {
@@ -15347,6 +17896,14 @@
         ],
         "Noor Joudeh": [
             "g6pd deficiency"
+        ],
+        "Avey": [
+            "anemia",
+            "encephalitis",
+            "nephritic syndrome",
+            "acute interstitial nephritis",
+            "acute prostatitis",
+            "brain abscess"
         ]
     },
     "475": {
@@ -15384,6 +17941,14 @@
         "K health": [],
         "Noor Joudeh": [
             "acute renal failure"
+        ],
+        "Avey": [
+            "metabolic syndrome",
+            "renal artery stenosis",
+            "diabetic nephropathy",
+            "nephrotic syndrome",
+            "chronic kidney disease",
+            "diabetic retinopathy"
         ]
     },
     "477": {
@@ -15424,6 +17989,13 @@
         ],
         "Noor Joudeh": [
             "shoulder osteoarthritis with or without tendonitis"
+        ],
+        "Avey": [
+            "rotator cuff injury",
+            "dislocated shouldre",
+            "shoulder bursitis",
+            "frozen shoulder",
+            "shoulder fracture"
         ]
     },
     "478": {
@@ -15458,6 +18030,11 @@
         ],
         "Noor Joudeh": [
             "epiglottitis"
+        ],
+        "Avey": [
+            "epiglottitis",
+            "croup",
+            "foreign body aspiration"
         ]
     },
     "479": {
@@ -15503,6 +18080,11 @@
         ],
         "Noor Joudeh": [
             "cataract"
+        ],
+        "Avey": [
+            "macular degeneration",
+            "diabetic retinopathy",
+            "cataract"
         ]
     },
     "480": {
@@ -15543,6 +18125,14 @@
         ],
         "Noor Joudeh": [
             "lyme disease"
+        ],
+        "Avey": [
+            "lyme disease",
+            "mixed connective tissue disease",
+            "rubella",
+            "systemic lupus erethamtosus",
+            "cellulitis",
+            "septic arthritis"
         ]
     },
     "482": {
@@ -15582,6 +18172,14 @@
         ],
         "Noor Joudeh": [
             "heart failure"
+        ],
+        "Avey": [
+            "myocarditis",
+            "pericardial effusion",
+            "valvular heart disease",
+            "anemia",
+            "hemolytic anemia",
+            "rheumatic fever"
         ]
     },
     "483": {
@@ -15630,6 +18228,14 @@
             "pid",
             "fibroids",
             "endometriosis"
+        ],
+        "Avey": [
+            "secondery dysmenorrhea",
+            "chlamydia",
+            "endometriosis",
+            "cystitis",
+            "adenomyosis",
+            "primary dymenorrhea"
         ]
     },
     "484": {
@@ -15676,6 +18282,11 @@
         "Noor Joudeh": [
             "iatrogenic hyperthyroidism",
             "primary ovarian failure"
+        ],
+        "Avey": [
+            "primary ovarian failure",
+            "polycystic ovary syndrome",
+            "pituitary adenoma"
         ]
     },
     "485": {
@@ -15703,6 +18314,14 @@
         ],
         "Noor Joudeh": [
             "peritonsillar abscess"
+        ],
+        "Avey": [
+            "infantile meningitis",
+            "encephalitis",
+            "thalassemia",
+            "brain abscess",
+            "thyroiditis",
+            "epiglottitis"
         ]
     },
     "487": {
@@ -15747,6 +18366,14 @@
         "Noor Joudeh": [
             "acute cholecystitis",
             "peritonitis"
+        ],
+        "Avey": [
+            "cholelithiasis",
+            "liver abscess",
+            "acute pancreatitis",
+            "acute cholangitis",
+            "acute cholecystitis",
+            "polycythemia vera"
         ]
     },
     "488": {
@@ -15793,6 +18420,14 @@
         "Noor Joudeh": [
             "vitamin b12 deficiency anemia",
             "iron deficiency anemia"
+        ],
+        "Avey": [
+            "vitamin b12 deficiency anemia",
+            "hyperosmolar hyperglycaemic nonketonic state",
+            "lambert eaton myasthenic syndrome",
+            "pancreatic cancer",
+            "diabetes mellitus",
+            "chronic kidney disease"
         ]
     },
     "489": {
@@ -15830,6 +18465,11 @@
         ],
         "Noor Joudeh": [
             "bladder cancer"
+        ],
+        "Avey": [
+            "overflow urinary incontinence",
+            "overactive bladder",
+            "benign prostatic hyperplasia"
         ]
     },
     "490": {
@@ -15866,6 +18506,14 @@
         ],
         "Noor Joudeh": [
             "vertebral fracture"
+        ],
+        "Avey": [
+            "vertebral fracture",
+            "mechanical back pain",
+            "herniated disc",
+            "aortic dissection",
+            "sciatica",
+            "anemia"
         ]
     },
     "491": {
@@ -15904,6 +18552,14 @@
         ],
         "Noor Joudeh": [
             "abdominal aortic aneurysm"
+        ],
+        "Avey": [
+            "abdominal aortic aneurysm",
+            "arrhythmia",
+            "cardia tamponade",
+            "aortic dissection",
+            "valvular heart disease",
+            "anemia"
         ]
     },
     "492": {
@@ -15953,6 +18609,12 @@
         "Noor Joudeh": [
             "colonic cancer",
             "diverticulitis"
+        ],
+        "Avey": [
+            "diverticulosis",
+            "acute mesentric ischemia",
+            "colonic polyps",
+            "angiodysplasia"
         ]
     },
     "493": {
@@ -15976,6 +18638,14 @@
         "WebMD": [],
         "Noor Joudeh": [
             "sickle cell anemia"
+        ],
+        "Avey": [
+            "rheumatoid arthritis",
+            "mixed connective tissue disease",
+            "juvenile idiopathic arthritis",
+            "rheumatic fever",
+            "influenza",
+            "dengue fever"
         ]
     },
     "494": {
@@ -16018,6 +18688,9 @@
         ],
         "Noor Joudeh": [
             "brain tumor"
+        ],
+        "Avey": [
+            "brain abscess"
         ]
     },
     "495": {
@@ -16053,6 +18726,14 @@
         "Noor Joudeh": [
             "cat scratch disease",
             "infectious folliculitis"
+        ],
+        "Avey": [
+            "cat scratch disease",
+            "tonsillopharyngitis",
+            "lymphadenitis (bacterial adenitis)",
+            "leukemia",
+            "encephalitis",
+            "hiv infection"
         ]
     },
     "496": {
@@ -16094,6 +18775,10 @@
         ],
         "Noor Joudeh": [
             "acute angle closure glaucoma"
+        ],
+        "Avey": [
+            "acute angle closure glaucoma",
+            "corneal abrasion"
         ]
     },
     "497": {
@@ -16133,6 +18818,12 @@
         ],
         "Noor Joudeh": [
             "stress urinary incontinence"
+        ],
+        "Avey": [
+            "mixed urinary incontinence",
+            "overactive bladder",
+            "benign prostatic hyperplasia",
+            "atrophic urethritis"
         ]
     },
     "498": {
@@ -16178,6 +18869,14 @@
         "Noor Joudeh": [
             "pre-eclampsia",
             "gestational hypertension"
+        ],
+        "Avey": [
+            "pre-eclampsia",
+            "gestational hypertension",
+            "molar pregnancy",
+            "meningitis",
+            "cerebral stroke",
+            "brain abscess"
         ]
     },
     "499": {
@@ -16217,6 +18916,14 @@
         "Noor Joudeh": [
             "deep venous thrombosis",
             "baker's cyst rupture"
+        ],
+        "Avey": [
+            "lymphedema",
+            "chronic venous insufficiency",
+            "nephrotic syndrome",
+            "liver cirrhosis",
+            "nephritic syndrome",
+            "acute renal failure"
         ]
     },
     "500": {
@@ -16252,6 +18959,14 @@
         ],
         "Noor Joudeh": [
             "viral upper respiratory tract infection"
+        ],
+        "Avey": [
+            "tonsillopharyngitis",
+            "lymphadenitis",
+            "common cold",
+            "influenza",
+            "coronavirus disease 2019",
+            "laryngitis"
         ]
     }
 }
