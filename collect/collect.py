@@ -14,7 +14,7 @@ for i in range(1,4):
 tests = openFile('tests')
 maram = set(i['case_number']
            for i in tests if i['conducted_by'] == "Maram Smairat")
-print(len(set(batch.keys()) & maram))
+print(set(batch.keys() & maram))
 batch = set(batch.keys()) - maram
 collect = {
     id: {
@@ -31,8 +31,6 @@ for case in tests:
             [f"${d.split('-')[-1].strip().lower().split('.')[-1].lower().strip()}$" for d in case["content"].split("\n")]
     elif case["case_number"] not in batch:
         print(f"{case['case_number']} has no gold standard")
-
-collect = {k:v for k,v in collect.items() if len(v) > 1}
 
 # for file in os.listdir("new"):
 #     file=file.replace(".json","")
