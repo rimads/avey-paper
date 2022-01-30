@@ -1848,8 +1848,8 @@
         ],
         "Ada": [
             "polycystic ovary syndrome",
-            "grave's disease",
-            "cushing syndrome"
+            "cushing syndrome",
+            "hypothyroidism"
         ],
         "Babylon": [],
         "K health": [
@@ -1859,11 +1859,10 @@
         ],
         "WebMD": [
             "polycystic ovary syndrome",
-            "hirsutism",
+            "obstructive sleep apnea",
+            "cholelithiasis",
             "obesity",
-            "hypothyroidism",
-            "drug allergy",
-            "obstructive sleep apnea"
+            "cellulitis"
         ],
         "Buoy": [
             "polycystic ovary syndrome",
@@ -1882,8 +1881,11 @@
             "polycystic ovary syndrome"
         ],
         "Avey": [
+            "polycystic ovary syndrome",
+            "cushing syndrome",
             "metabolic syndrome",
-            "cushing syndrome"
+            "nephrotic syndrome",
+            "acne vulgaris"
         ]
     },
     "45": {
@@ -2081,21 +2083,20 @@
         "Ada": [
             "irritable bowel syndrome",
             "lactose intolerance",
-            "dietry fructose intolerance"
+            "dietary fructose intolerance"
         ],
         "Buoy": [
             "lactose intolerance",
-            "microscopic colitis",
-            "irritable bowel syndrome"
+            "irritable bowel syndrome",
+            "microscopic colitis"
         ],
         "Babylon": [],
         "WebMD": [
             "irritable bowel syndrome",
             "lactose intolerance",
+            "influenza (flu)",
             "acute gastroenteritis",
-            "giardiasis",
-            "norovirus",
-            "antibiotics associated diarrhea"
+            "celiac disease"
         ],
         "MA": [
             "irritable bowel syndrome",
@@ -2112,12 +2113,12 @@
             "irritable bowel syndrome"
         ],
         "Avey": [
-            "inflammatory bowel disease",
-            "celiac disease",
-            "colitis",
-            "cronkite canada syndrome",
             "lactose intolerance",
-            "chronic pancreatitis"
+            "colitis",
+            "irritable bowel syndrome",
+            "food poisoning",
+            "celiac disease",
+            "acute gastroenteritis"
         ]
     },
     "50": {
@@ -2128,30 +2129,30 @@
         ],
         "K health": [
             "iron deficiency anemia",
+            "irritable bowel syndrome (ibs)",
             "hypothyroidism",
-            "fatigue"
+            "celiac disease",
+            "cancer that forms in the large intestine or rectum"
         ],
         "Buoy": [
-            "low blood cell counts due to a chronic disease",
-            "iron deficiency anemia",
+            "fibromyalgia",
+            "chronic liver infection",
             "normal occurrence of fatigue"
         ],
         "WebMD": [
-            "endogenous depression",
             "drug allergy",
+            "endogenous depression",
             "hypothyroidism",
-            "multiple myeloma",
-            "lung cancer (small cell)",
-            "celiac disease",
-            "hyperparathyroidism (primary)"
+            "heart failure",
+            "multiple myeloma"
         ],
         "Babylon": [],
         "Ada": [
-            "bowel cancer",
-            "fibromyalgia",
+            "alcoholic steatohepatitis",
             "folate deficiency",
-            "hypothyroidism",
-            "acquired zinc deficiency"
+            "acquired zinc deficiency",
+            "iron deficiency anemia",
+            "chronic fatigue syndrome"
         ],
         "MA": [
             "hypothyroidism",
@@ -2167,12 +2168,12 @@
             "vitamin d deficiency"
         ],
         "Avey": [
-            "fibromyalgia",
-            "lambert eaton myasthenitic syndrome",
-            "rhabdomyolysis",
-            "thyroiditis",
+            "hypercalcemia",
+            "hyperparathyroidism (primary)",
+            "diverticulosis",
+            "acute mesenteric ischemia",
             "acute renal failure",
-            "orchitis"
+            "colonic polyps"
         ]
     },
     "51": {
@@ -4825,25 +4826,25 @@
         ],
         "K health": [
             "bacterial conjunctivitis",
-            "dry eye syndrome",
-            "episcleritis"
+            "subconjuctival hemorrhage"
         ],
         "Buoy": [
             "bacterial conjunctivitis",
+            "viral conjunctivitis",
             "inflamed eyelid (blepharitis)"
         ],
         "WebMD": [
+            "blepharitis",
             "bacterial conjunctivitis",
-            "eye allergy",
-            "viral conjunctivitis",
-            "corneal abrasion (scratch)",
-            "bleeding in the eye",
-            "subconjunctival hemorrhage"
+            "eye allergies",
+            "subconjunctival hemorrhage (bleeding in eye)",
+            "boil"
         ],
         "Babylon": [],
         "Ada": [
-            "viral conjunctivitis",
             "bacterial conjunctivitis",
+            "inflammation of the tear sac",
+            "blepharitis",
             "keratitis"
         ],
         "MA": [
@@ -4857,7 +4858,7 @@
             "bacterial conjunctivitis"
         ],
         "Avey": [
-            "blepharitis"
+            "bacterial conjunctivitis"
         ]
     },
     "130": {
@@ -9392,28 +9393,26 @@
         ],
         "K health": [
             "cataract",
-            "hyperopia",
-            "diabetic retinopathy"
+            "hyperopia"
         ],
         "Buoy": [
             "cataract",
-            "diabetic eye issue",
-            "vision disorder"
+            "vision disorder",
+            "diabetic eye issue"
         ],
         "WebMD": [
-            "macular degeneration",
-            "cataract",
-            "hypoglycemia",
-            "open angle glucoma",
-            "concussion",
-            "vasovagal syncope"
+            "parkinson disease",
+            "fainting ( vasovagal syncope)",
+            "diabetic neuropathy",
+            "age related maculopathy",
+            "cataract"
         ],
         "Babylon": [],
         "Ada": [
             "cataract",
+            "macular degeneration",
             "age related farsightedness",
-            "diabetic eye disease",
-            "macular degeneration"
+            "retinitis pigmentosa"
         ],
         "MA": [
             "side effect of ramipril [ large dose or newly start with it]"
@@ -9427,9 +9426,9 @@
             "cataract"
         ],
         "Avey": [
-            "diabetic retinopathy",
             "cataract",
-            "anemia"
+            "macular degeneration",
+            "diabetic retinopathy"
         ]
     },
     "254": {
@@ -12839,26 +12838,22 @@
         ],
         "K health": [
             "pulmonary embolism",
-            "muscloskeletal chest pain",
+            "congestive heart failure ( chf) exacerbation",
             "pleural effusion"
         ],
         "Buoy": [],
         "WebMD": [
-            "heart failure",
-            "diastolic heart failure",
             "pulmonary embolism",
-            "chronic obstructive pulmonary disease",
-            "bronchitis",
             "myocardial infarction",
-            "broken ribs"
+            "broken ( fractured) rib",
+            "costochondritis",
+            "heart failure"
         ],
         "Babylon": [],
         "Ada": [
-            "acute aspiration of oropharyngeal or gastric content",
             "pulmonary embolism",
-            "coronavirus disease 2019",
-            "collapsed lung",
-            "acute panic attack"
+            "sepsis",
+            "acute aspiration of oropharyngeal or gastric contents"
         ],
         "MA": [
             "pulmonary embolism",
@@ -12871,12 +12866,12 @@
             "pulmonary embolism"
         ],
         "Avey": [
-            "unstable angina",
-            "myocardial infarction",
+            "pulmonary embolism",
             "pneumothorax",
-            "stable angina",
-            "aortic dissection",
-            "pulmonary embolism"
+            "pulmonary edema",
+            "valvular heart disease",
+            "pericardial effusion",
+            "infective endocarditis"
         ]
     },
     "342": {
@@ -18653,27 +18648,24 @@
         ],
         "K health": [
             "tia",
-            "ischemic cerebral stroke",
-            "epilepsy"
+            "stroke",
+            "brain tumor"
         ],
-        "Buoy": [
-            "potential vitamin or mineral disturbance",
-            "overactive thyroid"
-        ],
+        "Buoy": [],
         "Babylon": [],
         "Ada": [
-            "convulsive generalized seizure",
-            "hemorrhage stroke",
-            "subarachnoid hemorrhage"
+            "convulsive generalised seizure",
+            "alcohol withdrawal",
+            "subarachnoid hemorrhage",
+            "sepsis",
+            "acute encephalitis"
         ],
         "WebMD": [
-            "hypoglycemia",
-            "epilepsy (simple partial seizures)",
-            "epilepsy (tonic clonic)",
-            "post concussion syndrome",
-            "meningitis",
-            "lupus",
-            "pneumococcal meningitis"
+            "drug overdose",
+            "low blood sugar",
+            "epilepsy ( simple partial seizure)",
+            "epilepsy ( tonic clonic or grand mal seizures)",
+            "meningitis"
         ],
         "MA": [
             "epiliptic attake"
@@ -18687,7 +18679,11 @@
             "brain tumor"
         ],
         "Avey": [
-            "brain abscess"
+            "brain tumor",
+            "brain abscess",
+            "encephalitis",
+            "lymphoma",
+            "hypoparathyroidism"
         ]
     },
     "495": {
