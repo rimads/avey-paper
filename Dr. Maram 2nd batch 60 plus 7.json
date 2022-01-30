@@ -1,0 +1,810 @@
+{
+
+
+    "302": {
+        "gs": [
+            "dengue fever",
+            "malaria"
+        ],
+        "Avey": [
+            "lyme disease",
+            "dengue fever",
+            "measles",
+            "malaria",
+            "systemic lupus erythromatosus",
+            "osteomyelitis"
+        ]
+    },
+    "300": {
+        "gs": [
+            "uterine fibroids",
+            "adenomyosis"
+        ],
+        "Avey": [
+            "uterine fibroids",
+            "adenomyosis",
+            "endometrial cancer"
+        ]
+    },
+    "298": {
+        "gs": [
+            "sickle cell anemia",
+            "idiopathic juvenile arthritis"
+        ],
+        "Avey": [
+            "cystic fibrosis",
+            "bronchiolitis",
+            "tuberculosis",
+            "coronavirus 2019",
+            "pneumonia",
+            "measles"
+        ]
+    },
+    "284": {
+        "gs": [
+            "rheumatic fever",
+            "idiopathic juvenile arthritis"
+        ],
+        "Avey": [
+            "idiopathic juvenile arthritis",
+            "septic arthritis",
+            "rubella",
+            "leukemia",
+            "rheumatic fever",
+            "osteomyelitis"
+        ]
+    },
+    "283": {
+        "gs": [
+            "testicular torsion",
+            "epididymitis"
+        ],
+        "Avey": [
+            "testicular torsion",
+            "epididymitis",
+            "orchitis",
+            "varicocele"
+        ]
+    },
+    "281": {
+        "gs": [
+            "pulmonary embolism",
+            "arrhythmia",
+            "myocardial infarction"
+        ],
+        "Avey": [
+            "aortic dissection",
+            "pneumothorax",
+            "unstable angina",
+            "cardiac tamponade",
+            "myocardial infarction",
+            "pulmonary embolism"
+        ]
+    },
+    "279": {
+        "gs": [
+            "sciatica",
+            "disc herniation"
+        ],
+        "Avey": [
+            "disc herniation",
+            "sciatica",
+            "mechanical back pain",
+            "degenerative disc disease",
+            "osteomyelitis",
+            "acute interstitial nephritis"
+        ]
+    },
+    "278": {
+        "gs": [
+            "polymyalgia rheumatica",
+            "rheumatoid arthritis"
+        ],
+        "Avey": [
+            "polymyalgia rheumatica",
+            "rheumatoid arthritis",
+            "rotator cuff injury",
+            "dislocated shoulder",
+            "septic arthritis",
+            "shoulder fracture"
+        ]
+    },
+    "277": {
+        "gs": [
+            "brain abscess",
+            "encephalitis",
+            "meningitis"
+        ],
+        "Avey": [
+            "brain abscess",
+            "cerebral stroke",
+            "transient ischemic attack",
+            "migraine",
+            "meningitis",
+            "encephalitis"
+        ]
+    },
+    "267": {
+        "gs": [
+            "obstructive sleep apnea",
+            "nasal septum deviation"
+        ],
+        "Avey": [
+            "obstructive sleep apnea",
+            "narcolepsy",
+            "valvular heart disease",
+            "polycythemia vera",
+            "anemia",
+            "idiopathic hypersomnia"
+        ]
+    },
+    "260": {
+        "gs": [
+            "cholera",
+            "acute gastroenteritis"
+        ],
+        "Avey": [
+            "food poisoning",
+            "cholera",
+            "acute gastroenteritis",
+            "celiac disease",
+            "adrenal insufficiency",
+            "lactose intolerance"
+        ]
+    },
+    "258": {
+        "gs": [
+            "nephrolithiasis",
+            "pyelonephritis"
+        ],
+        "Avey": [
+            "nephrolithiasis",
+            "pyelonephritis",
+            "renal cell carcinoma",
+            "peptic ulcer disease",
+            "polycyctic kidney disease",
+            "abdominal aortic aneurysm"
+        ]
+    },
+    "257": {
+        "gs": [
+            "nephrotic syndrome",
+            "nephritic syndrome"
+        ],
+        "Avey": [
+            "nephrotic syndrome",
+            "nephritic syndrome",
+            "acute renal failure",
+            "lipoma",
+            "amyloidosis",
+            "chalazion"
+        ]
+    },
+    "256": {
+        "gs": [
+            "diabetic neuropathy",
+            "vitamin b12 deficiency"
+        ],
+        "Avey": [
+            "diabetic neuropathy",
+            "cerebal stroke",
+            "diabetic nephropathy",
+            "vitamin b12 deficiency",
+            "transient ischemic attack"
+        ]
+    },
+    "254": {
+        "gs": [
+            "deep venous thrombosis",
+            "cellulitis",
+            "superficial vein thrombophlebitis"
+        ],
+        "Avey": [
+            "chronic venous insufficiency",
+            "popliteal artery aneurysm",
+            "deep venous thrombosis",
+            "lymphedema"
+        ]
+    },
+
+    "252": {
+        "gs": [
+            "hodgkin lymphoma",
+            "reactive lymph node enlargement"
+        ],
+        "Avey": [
+            "hodgkin lymphoma",
+            "reactive lymph node enlargement"
+        ]
+    },
+    "250": {
+        "gs": [
+            "epididymitis",
+            "testicular torsion"
+        ],
+        "Avey": [
+            "epididymitis",
+            "testicular torsion",
+            "orchitis",
+            "urethritis",
+            "testicular cancer",
+            "varicocele"
+        ]
+    },
+    "231": {
+        "gs": [
+            "benign paroxysmal positional vertigo",
+            "vestibular neuritis"
+        ],
+        "Avey": [
+            "benign paroxysmal positional vertigo",
+            "vestibular neuritis"
+        ]
+    },
+    "230": {
+        "gs": [
+            "narcolepsy",
+            "obstructive sleep apnea",
+            "idiopathic hypersomnia"
+        ],
+        "Avey": [
+            "narcolepsy"
+        ]
+    },
+    "228": {
+        "gs": [
+            "breast infection"
+        ],
+        "Avey": [
+            "breast engorgement",
+            "galactocele",
+            "fibrocystic breast",
+            "breast infection",
+            "fibroadenoma",
+            "breast fat necrosis"
+        ]
+    },
+    "213": {
+        "gs": [
+            "diverticulitis",
+            "acute appendicitis"
+        ],
+        "Avey": [
+            "diverticulitis",
+            "acute appendicitis",
+            "acute mesentric ischemia",
+            "peritonitis",
+            "liver abscess",
+            "pyelonephritis"
+        ]
+    },
+    "209": {
+        "gs": [
+            "chronic venous insufficiency",
+            "deep venous thrombosis",
+            "superficial thrombophlebitis"
+        ],
+        "Avey": [
+            "lymphedema",
+            "chronic venous insufficiency"
+        ]
+    },
+    "208": {
+        "gs": [
+            "pelvic inflammatory disease",
+            "acute appendicitis",
+            "cystitis"
+        ],
+        "Avey": [
+            "pelvic inflammatory disease",
+            "acute appendicitis",
+            "ectopic pregnancy",
+            "diverticulitis",
+            "chlamydia",
+            "diverticulosis"
+        ]
+    },
+    "207": {
+        "gs": [
+            "measles (rubeola)",
+            "rubella"
+        ],
+        "Avey": [
+            "rubella",
+            "measles (rubeola)",
+            "juvenile idiopathic arthritis",
+            "varicella",
+            "coronavirus 2019",
+            "mixed connective tissue disease"
+        ]
+    },
+    "206": {
+        "gs": [
+            "tension headache",
+            "migraine"
+        ],
+        "Avey": [
+            "tension headache",
+            "renal artery stenosis",
+            "brain tumor"
+        ]
+    },
+    "205": {
+        "gs": [
+            "molar pregnancy",
+            "spontaneous abortion"
+        ],
+        "Avey": [
+            "molar pregnancy",
+            "ectopic pregnancy",
+            "preterm labor",
+            "spontaneous abortion",
+            "endometrial cancer",
+            "placenta previa"
+        ]
+    },
+    "204": {
+        "gs": [
+            "acromegaly",
+            "pituitary adenoma"
+        ],
+        "Avey": [
+            "acromegaly"
+        ]
+    },
+    "188": {
+        "gs": [
+            "leukemia",
+            "anemia"
+        ],
+        "Avey": [
+            "leukemia",
+            "anemia",
+            "lymphoma",
+            "celiac disease",
+            "liver cirrhosis",
+            "tuberculosis"
+        ]
+    },
+    "187": {
+        "gs": [
+            "diabetes mellitus",
+            "metabolic syndrome"
+        ],
+        "Avey": [
+            "diabetes mellitus",
+            "metabolic syndrome",
+            "hyperoslmolar hyperglycemic nonketotic state",
+            "diabetic ketoacidosis"
+        ]
+    },
+    "180": {
+        "gs": [
+            "valvular heart disease",
+            "heart failure"
+        ],
+        "Avey": [
+            "renal artery stenosis",
+            "valvular heart disease",
+            "amyloidosis",
+            "cardiomyopathy",
+            "pulmonary edema",
+            "myocarditis"
+        ]
+    },
+    "179": {
+        "gs": [
+            "gastric cancer",
+            "peptic ulcer disease"
+        ],
+        "Avey": [
+            "gastric cancer",
+            "chronic pancreatitis",
+            "pancreatic cancer",
+            "hepatocellular cancer",
+            "gastritis",
+            "esophageal cancer"
+        ]
+    },
+    "178": {
+        "gs": [
+            "common cold",
+            "tonsillopharyngitis",
+            "coronavirus disease 2019"
+        ],
+        "Avey": [
+            "common cold",
+            "influenza",
+            "coronavirus disease 2019",
+            "acute bronchitis",
+            "tonsillopharyngitis",
+            "mononucleosis"
+        ]
+    },
+    "174": {
+        "gs": [
+            "tonsillopharyngitis",
+            "mononucleosis",
+            "influenza",
+            "coronavirus disease 2019"
+        ],
+        "Avey": [
+            "mononucleosis",
+            "tonsillopharyngitis",
+            "lymphadenitis",
+            "coronavirus disease 2019",
+            "influenza",
+            "common cold"
+        ]
+    },
+    "171": {
+        "gs": [
+            "asthma",
+            "chronic obstructive pulmonary disease"
+        ],
+        "Avey": [
+            "chronic obstructive pulmonary disease",
+            "asthma",
+            "bronchiectasis",
+            "vulvular heart disease",
+            "cystic fibrosis",
+            "upper airway obstruction"
+        ]
+    },
+    "170": {
+        "gs": [
+            "cluster headaches",
+            "migraine"
+        ],
+        "Avey": [
+            "cluster headaches"
+        ]
+    },
+    "169": {
+        "gs": [
+            "lactose intolerance",
+            "irritable bowel syndrome"
+        ],
+        "Avey": [
+            "lactose intolerance",
+            "chronic pancreatitis",
+            "inflammatory bowel disease",
+            "peptic ulcer disease",
+            "small bowel obstruction",
+            "gastritis"
+        ]
+    },
+    "165": {
+        "gs": [
+            "adrenal insufficiency",
+            "hemochromatosis"
+        ],
+        "Avey": [
+            "adrenal insufficiency",
+            "tinea versicolor",
+            "diabetes mellitus",
+            "acanthosis nigricans",
+            "hemochromatosis",
+            "multiple myeloma"
+        ]
+    },
+    "164": {
+        "gs": [
+            "variant angina",
+            "unstable angina",
+            "stable angina"
+        ],
+        "Avey": [
+            "pneumothorax",
+            "myocardial infarction",
+            "unstable angina",
+            "aortic dissection",
+            "variant angina",
+            "stable angina"
+        ]
+    },
+    "162": {
+        "gs": [
+            "pneumothorax",
+            "pulmonary embolism",
+            "myocardial infarction (atypical)"
+        ],
+        "Avey": [
+            "pneumothorax",
+            "chronic obstructive pulmonary disease",
+            "pulmonary embolism",
+            "pericardial effusion",
+            "pulmonary edema",
+            "vulvular heart disease"
+        ]
+    },
+    "161": {
+        "gs": [
+            "urethritis",
+            "chlamydia",
+            "cystitis",
+            "acute prostatitis"
+        ],
+        "Avey": [
+            "urethritis",
+            "chlamydia",
+            "trichomoniasis",
+            "benign prostatic hyperplasia"
+        ]
+    },
+    "159": {
+        "gs": [
+            "blepharitis",
+            "viral conjunctivitis",
+            "allergic contact dermatitis",
+            "dry eye syndrome"
+        ],
+        "Avey": [
+            "blepharitis",
+            "dry eye disease",
+            "stye"
+        ]
+    },
+    "156": {
+        "gs": [
+            "malaria",
+            "pneumonia",
+            "encephalitis"
+        ],
+        "Avey": [
+            "influenza",
+            "coronavirus 2019",
+            "brucellosis",
+            "malaria",
+            "pneumonia",
+            "common cold"
+        ]
+    },
+    "155": {
+        "gs": [
+            "otitis media",
+            "otitis media with effusion",
+            "otitis externa"
+        ],
+        "Avey": [
+            "otitis media",
+            "meningitis",
+            "otitis media with effusion",
+            "tonsillopharyngitis",
+            "otitis media with tympanic membrane perforation",
+            "encephalitis"
+        ]
+    },
+    "154": {
+        "gs": [
+            "brain abscess",
+            "acute encephalitis",
+            "bacterial meningitis"
+        ],
+        "Avey": [
+            "brain abscess",
+            "cerebral stroke",
+            "acute encephalitis",
+            "thyroiditis",
+            "coronavirus 2019",
+            "bacterial meningitis"
+        ]
+    },
+    "152": {
+        "gs": [
+            "tinea pedis (athlete's foot)",
+            "allergic contact dermatitis",
+            "plaque psoriasis"
+        ],
+        "Avey": [
+            "tinea pedis (athlete's foot)"
+        ]
+    },
+    "144": {
+        "gs": [
+            "diverticulosis",
+            "colon cancer",
+            "angiodysplasia"
+        ],
+        "Avey": [
+            "colonic polyps",
+            "diverticulosis",
+            "angiodysplasia",
+            "hemorrhoids"
+        ]
+    },
+    "132": {
+        "gs": [
+            "shingles",
+            "bullous pemphigoid"
+        ],
+        "Avey": [
+            "shingles",
+            "bullous pemphigoid",
+            "cellulitis",
+            "contact dermatitis",
+            "atopic dermatitis",
+            "herpes simplex"
+        ]
+    },
+    "126": {
+        "gs": [
+            "heart failure",
+            "pulmonary edema",
+            "chronic obstructive pulmonary disease"
+        ],
+        "Avey": [
+            "heart failure",
+            "chronic obstructive pulmonary disease",
+            "cardiomyopathy",
+            "pulmonary edema",
+            "cystic fibrosis",
+            "valvular heart disease"
+        ]
+    },
+    "125": {
+        "gs": [
+            "peptic ulcer disease",
+            "esophagitis",
+            "gastroesophageal reflux"
+        ],
+        "Avey": [
+            "peptic ulcer disease",
+            "acute pancreatitis",
+            "cholelithiasis",
+            "acute cholangitis",
+            "gastritis",
+            "gastric cancer"
+        ]
+    },
+    "122": {
+        "gs": [
+            "chronic obstructive pulmonary disease",
+            "heart failure"
+        ],
+        "Avey": [
+            "chronic obstructive pulmonary disease",
+            "asthma",
+            "bronchiectasis",
+            "vulvular heart disease",
+            "heart failure",
+            "acute bronchitis"
+        ]
+    },
+    "104": {
+        "gs": [
+            "costochondritis",
+            "acute pericarditis",
+            "pulmonary embolism",
+            "myocardial infarction",
+            "acute pneumonia"
+        ],
+        "Avey": [
+            "myocardial infarction",
+            "stable angina",
+            "unstable angina",
+            "aortic dissection",
+            "pneumothorax",
+            "varient angina"
+        ]
+    },
+    "92": {
+        "gs": [
+            "rheumatoid arthritis",
+            "osteoarthritis"
+        ],
+        "Avey": [
+            "rheumatoid arthritis",
+            "osteoarthritis",
+            "systemic sclerosis",
+            "pseudogout",
+            "mixed connective tissue disease",
+            "rheumatic fever"
+        ]
+    },
+    "91": {
+        "gs": [
+            "osteoarthritis",
+            "rheumatoid arthritis"
+        ],
+        "Avey": [
+            "rheumatoid arthritis",
+            "osteoarthritis",
+            "pseudogout",
+            "systemic sclerosis"
+        ]
+    },
+    "89": {
+        "gs": [
+            "otitis media",
+            "otitis media with effusion",
+            "otitis externa"
+        ],
+        "Avey": [
+            "otitis media",
+            "otitis media with effusion",
+            "otitis media with tympanic membrane perforation",
+            "tonsillopharyngitis",
+            "lymphadenitis"
+        ]
+    },
+    "88": {
+        "gs": [
+            "otitis externa",
+            "otomycosis",
+            "contact dermatitis"
+        ],
+        "Avey": [
+            "otitis externa",
+            "otomycosis",
+            "earwax blockage"
+        ]
+    },
+    "87": {
+        "gs": [
+            "rosacea",
+            "systemic lupus erythematosus",
+            "contact dermatitis"
+        ],
+        "Avey": [
+            "rosacea",
+            "contact dermatitis",
+            "urticaria",
+            "atopic dermatitis",
+            "sunburn",
+            "tinea versicolor"
+        ]
+    },
+    "86": {
+        "gs": [
+            "nephrolithiasis",
+            "pyelonephritis"
+        ],
+        "Avey": [
+            "nephrolithiasis",
+            "polycyctic kidney disease",
+            "pyelonephritis",
+            "acute interstitial nephritis",
+            "renal cell carcinoma",
+            "small bowel obstruction"
+        ]
+    },
+    "85": {
+        "gs": [
+            "medial epicondylitis",
+            "elbow trauma"
+        ],
+        "Avey": [
+            ""
+        ]
+    },
+    "84": {
+        "gs": [
+            "multiple myeloma",
+            "amyloidosis",
+            "leukemia"
+        ],
+        "Avey": [
+            "pancreatic cancer",
+            "adrenal insufficiency",
+            "diabetes mellitus",
+            "osteomyelitis",
+            "herniated disc",
+            "mechanical back pain"
+        ]
+    },
+    "82": {
+        "gs": [
+            "allergic conjunctivitis",
+            "viral conjunctivitis",
+            "allergic rhinitis"
+        ],
+        "Avey": [
+            "allergic rhinitis",
+            "viral conjunctivitis",
+            "blepharitis",
+            "cluster headaches",
+            "dry eye disease"
+        ]
+    }
+}

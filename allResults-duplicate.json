@@ -3258,10 +3258,11 @@
             "viral conjunctivitis"
         ],
         "Avey": [
-            "allergic conjunctivitis",
-            "blepharitis",
+            "allergic rhinitis",
             "viral conjunctivitis",
-            "cluster headaches"
+            "blepharitis",
+            "cluster headaches",
+            "dry eye disease"
         ]
     },
     "84": {
@@ -3307,12 +3308,12 @@
             "sickle cell disease"
         ],
         "Avey": [
-            "herniated disc",
-            "mechanical back pain",
-            "sciatica",
-            "degenerative disc disease",
+            "pancreatic cancer",
+            "adrenal insufficiency",
+            "diabetes mellitus",
             "osteomyelitis",
-            "uterine fibroids"
+            "herniated disc",
+            "mechanical back pain"
         ]
     },
     "85": {
@@ -3355,10 +3356,7 @@
             "medial epicondylitis"
         ],
         "Avey": [
-            "tennis elbow",
-            "osteoarthritis",
-            "menopause",
-            "pseudogout"
+            ""
         ]
     },
     "86": {
@@ -3403,9 +3401,12 @@
             "nephrolithiasis"
         ],
         "Avey": [
-            "acute prostatitis",
+            "nephrolithiasis",
+            "polycyctic kidney disease",
+            "pyelonephritis",
             "acute interstitial nephritis",
-            "bladder cancer"
+            "renal cell carcinoma",
+            "small bowel obstruction"
         ]
     },
     "87": {
@@ -3445,7 +3446,7 @@
             "contact dermatitis",
             "urticaria",
             "atopic dermatitis",
-            "sun burn",
+            "sunburn",
             "tinea versicolor"
         ]
     },
@@ -3545,6 +3546,7 @@
             "otitis media",
             "otitis media with effusion",
             "otitis media with tympanic membrane perforation",
+            "tonsillopharyngitis",
             "lymphadenitis"
         ]
     },
@@ -3584,7 +3586,10 @@
             "osteoarthritis"
         ],
         "Avey": [
-            "rheumatoid arthritis"
+            "rheumatoid arthritis",
+            "osteoarthritis",
+            "pseudogout",
+            "systemic sclerosis"
         ]
     },
     "92": {
@@ -3626,9 +3631,11 @@
         ],
         "Avey": [
             "rheumatoid arthritis",
+            "osteoarthritis",
             "systemic sclerosis",
             "pseudogout",
-            "osteoarthritis"
+            "mixed connective tissue disease",
+            "rheumatic fever"
         ]
     },
     "97": {
@@ -3919,11 +3926,12 @@
             "pleurisy"
         ],
         "Avey": [
+            "myocardial infarction",
+            "stable angina",
             "unstable angina",
             "aortic dissection",
-            "myocardial infarction",
             "pneumothorax",
-            "pericardial effusion"
+            "varient angina"
         ]
     },
     "105": {
@@ -4662,10 +4670,10 @@
         "Avey": [
             "chronic obstructive pulmonary disease",
             "asthma",
-            "bronchiactasis",
-            "foreign body aspiration",
-            "lung cancer",
-            "upper airway obstruction"
+            "bronchiectasis",
+            "vulvular heart disease",
+            "heart failure",
+            "acute bronchitis"
         ]
     },
     "125": {
@@ -4712,11 +4720,11 @@
             "peptic ulcer disease"
         ],
         "Avey": [
-            "acute pancreatitis",
             "peptic ulcer disease",
-            "small bowel obstruction",
+            "acute pancreatitis",
+            "cholelithiasis",
+            "acute cholangitis",
             "gastritis",
-            "chronic pancreatitis",
             "gastric cancer"
         ]
     },
@@ -4763,12 +4771,12 @@
             "heart failure"
         ],
         "Avey": [
-            "pulmonary edema",
             "heart failure",
-            "renal artery stenosis",
+            "chronic obstructive pulmonary disease",
             "cardiomyopathy",
-            "pulmonary embolism",
-            "vulvular heart disease"
+            "pulmonary edema",
+            "cystic fibrosis",
+            "valvular heart disease"
         ]
     },
     "127": {
@@ -5001,10 +5009,10 @@
         "Avey": [
             "shingles",
             "bullous pemphigoid",
+            "cellulitis",
             "contact dermatitis",
             "atopic dermatitis",
-            "herpes simplex",
-            "scabies"
+            "herpes simplex"
         ]
     },
     "134": {
@@ -5424,8 +5432,10 @@
             "colon cancer"
         ],
         "Avey": [
+            "colonic polyps",
+            "diverticulosis",
             "angiodysplasia",
-            "colonic polyps"
+            "hemorrhoids"
         ]
     },
     "145": {
@@ -5704,12 +5714,12 @@
             "acute encephalitis"
         ],
         "Avey": [
+            "brain abscess",
             "cerebral stroke",
             "acute encephalitis",
-            "brain abscess",
-            "brain tumor",
-            "bacterial meningitis",
-            "tonsillopharyngitis"
+            "thyroiditis",
+            "coronavirus 2019",
+            "bacterial meningitis"
         ]
     },
     "155": {
@@ -5749,11 +5759,11 @@
         ],
         "Avey": [
             "otitis media",
-            "otitis externa",
-            "otitis media with tympanic membrane perforation",
-            "otomycosis",
+            "meningitis",
             "otitis media with effusion",
-            "lymphadenitis"
+            "tonsillopharyngitis",
+            "otitis media with tympanic membrane perforation",
+            "encephalitis"
         ]
     },
     "156": {
@@ -5801,11 +5811,11 @@
         ],
         "Avey": [
             "influenza",
-            "mixed connective tissue disease",
-            "coronavirus disease 2019",
+            "coronavirus 2019",
             "brucellosis",
             "malaria",
-            "pneumonia"
+            "pneumonia",
+            "common cold"
         ]
     },
     "157": {
@@ -5944,7 +5954,9 @@
             "blepharitis"
         ],
         "Avey": [
-            "corneal abrasion"
+            "blepharitis",
+            "dry eye disease",
+            "stye"
         ]
     },
     "161": {
@@ -5992,8 +6004,7 @@
             "urethritis",
             "chlamydia",
             "trichomoniasis",
-            "benign prostatic hyperplasia",
-            "atrophic urethritis"
+            "benign prostatic hyperplasia"
         ]
     },
     "162": {
@@ -6039,9 +6050,9 @@
             "pneumothorax",
             "chronic obstructive pulmonary disease",
             "pulmonary embolism",
-            "pulmonary edema",
             "pericardial effusion",
-            "valvular heart disease"
+            "pulmonary edema",
+            "vulvular heart disease"
         ]
     },
     "163": {
@@ -6138,12 +6149,12 @@
             "esophageal spasm"
         ],
         "Avey": [
+            "pneumothorax",
             "myocardial infarction",
+            "unstable angina",
             "aortic dissection",
             "variant angina",
-            "stable angina",
-            "unstable angina",
-            "diffuse esophageal spasm"
+            "stable angina"
         ]
     },
     "165": {
@@ -6183,7 +6194,7 @@
             "tinea versicolor",
             "diabetes mellitus",
             "acanthosis nigricans",
-            "hyperemesis gravidarum",
+            "hemochromatosis",
             "multiple myeloma"
         ]
     },
@@ -6348,12 +6359,12 @@
             "irritable bowel syndrome"
         ],
         "Avey": [
-            "chronic pancreatitis",
-            "irritable bowel syndrome",
             "lactose intolerance",
+            "chronic pancreatitis",
+            "inflammatory bowel disease",
             "peptic ulcer disease",
             "small bowel obstruction",
-            "hepatocellular carcinoma"
+            "gastritis"
         ]
     },
     "170": {
@@ -6397,8 +6408,7 @@
             "cluster headaches"
         ],
         "Avey": [
-            "cluster headaches",
-            "brain abscess"
+            "cluster headaches"
         ]
     },
     "171": {
@@ -6450,8 +6460,8 @@
         "Avey": [
             "chronic obstructive pulmonary disease",
             "asthma",
-            "bronchiactasis",
-            "valvular heart disease",
+            "bronchiectasis",
+            "vulvular heart disease",
             "cystic fibrosis",
             "upper airway obstruction"
         ]
@@ -6587,11 +6597,11 @@
         ],
         "Avey": [
             "mononucleosis",
-            "lymphadenitis",
             "tonsillopharyngitis",
-            "cat scratch disease",
+            "lymphadenitis",
+            "coronavirus disease 2019",
             "influenza",
-            "hiv infection"
+            "common cold"
         ]
     },
     "176": {
@@ -6722,12 +6732,12 @@
             "coronavirus disease 2019"
         ],
         "Avey": [
-            "influenza",
-            "cystic fibrosis",
             "common cold",
-            "mononucleosis",
+            "influenza",
             "coronavirus disease 2019",
-            "acute bronchitis"
+            "acute bronchitis",
+            "tonsillopharyngitis",
+            "mononucleosis"
         ]
     },
     "179": {
@@ -6772,12 +6782,12 @@
             "autoimmune hepatitis"
         ],
         "Avey": [
-            "acute pancreatitis",
-            "peptic ulcer disease",
-            "cholelithiasis",
-            "small bowel obstruction",
+            "gastric cancer",
             "chronic pancreatitis",
-            "gastritis"
+            "pancreatic cancer",
+            "hepatocellular cancer",
+            "gastritis",
+            "esophageal cancer"
         ]
     },
     "180": {
@@ -6820,12 +6830,12 @@
             "heart failure"
         ],
         "Avey": [
-            "heart failure",
-            "cardiomyopathy",
+            "renal artery stenosis",
             "valvular heart disease",
-            "arrhythmias",
             "amyloidosis",
-            "pericardial effusion"
+            "cardiomyopathy",
+            "pulmonary edema",
+            "myocarditis"
         ]
     },
     "181": {
@@ -7149,7 +7159,6 @@
         ],
         "Avey": [
             "diabetes mellitus",
-            "overactive bladder",
             "metabolic syndrome",
             "hyperoslmolar hyperglycemic nonketotic state",
             "diabetic ketoacidosis"
@@ -7200,11 +7209,11 @@
         ],
         "Avey": [
             "leukemia",
-            "lymphadenitis",
-            "tonsillopharyngitis",
-            "sepsis",
-            "pyelonephritis",
-            "encephalitis"
+            "anemia",
+            "lymphoma",
+            "celiac disease",
+            "liver cirrhosis",
+            "tuberculosis"
         ]
     },
     "189": {
@@ -7876,11 +7885,12 @@
         ],
         "Babylon": [],
         "Avey": [
-            "ectopic pregnancy",
             "molar pregnancy",
-            "spontaneous abortion",
+            "ectopic pregnancy",
             "preterm labor",
-            "endometrial cancer"
+            "spontaneous abortion",
+            "endometrial cancer",
+            "placenta previa"
         ]
     },
     "206": {
@@ -7959,11 +7969,12 @@
             "measles (rubeola)"
         ],
         "Avey": [
-            "varicella",
-            "hand foot and mouth disease",
+            "rubella",
             "measles (rubeola)",
-            "impetigo",
-            "rubella"
+            "juvenile idiopathic arthritis",
+            "varicella",
+            "coronavirus 2019",
+            "mixed connective tissue disease"
         ]
     },
     "208": {
@@ -8018,7 +8029,7 @@
             "ectopic pregnancy",
             "diverticulitis",
             "chlamydia",
-            "pyelonephritis"
+            "diverticulosis"
         ]
     },
     "209": {
@@ -8058,10 +8069,8 @@
             "chronic venous insufficiency"
         ],
         "Avey": [
-            "chronic venous insufficiency",
             "lymphedema",
-            "nephrotic syndrome",
-            "liver cirrhosis"
+            "chronic venous insufficiency"
         ]
     },
     "213": {
@@ -8112,7 +8121,11 @@
         ],
         "Avey": [
             "diverticulitis",
-            "acute mesentric ischemia"
+            "acute appendicitis",
+            "acute mesentric ischemia",
+            "peritonitis",
+            "liver abscess",
+            "pyelonephritis"
         ]
     },
     "216": {
@@ -9278,8 +9291,8 @@
         ],
         "Avey": [
             "epididymitis",
-            "orchitis",
             "testicular torsion",
+            "orchitis",
             "urethritis",
             "testicular cancer",
             "varicocele"
@@ -9382,8 +9395,7 @@
         ],
         "Avey": [
             "hodgkin lymphoma",
-            "reactive lymph node enlargement",
-            "tuberculosis"
+            "reactive lymph node enlargement"
         ]
     },
     "253": {
@@ -9474,7 +9486,7 @@
             "chronic venous insufficiency",
             "popliteal artery aneurysm",
             "deep venous thrombosis",
-            "osteomyelitis"
+            "lymphedema"
         ]
     },
     "255": {
@@ -9622,9 +9634,10 @@
         "Avey": [
             "nephrotic syndrome",
             "nephritic syndrome",
-            "viral hepatitis",
             "acute renal failure",
-            "amyloidosis"
+            "lipoma",
+            "amyloidosis",
+            "chalazion"
         ]
     },
     "258": {
@@ -9666,12 +9679,12 @@
             "nephrolithiasis"
         ],
         "Avey": [
-            "pyelonephritis",
             "nephrolithiasis",
-            "acute appendicitis",
+            "pyelonephritis",
+            "renal cell carcinoma",
+            "peptic ulcer disease",
             "polycyctic kidney disease",
-            "acute pancreatitis",
-            "renal cell carcinoma"
+            "abdominal aortic aneurysm"
         ]
     },
     "259": {
@@ -9762,7 +9775,7 @@
             "food poisoning",
             "cholera",
             "acute gastroenteritis",
-            "acute bacterial gastroenteritis",
+            "celiac disease",
             "adrenal insufficiency",
             "lactose intolerance"
         ]
@@ -10049,12 +10062,12 @@
             "obstructive sleep apnea"
         ],
         "Avey": [
-            "cystic fibrosis",
-            "myocarditis",
+            "obstructive sleep apnea",
+            "narcolepsy",
             "valvular heart disease",
+            "polycythemia vera",
             "anemia",
-            "hemolyitc anemia",
-            "obstructive sleep apnea"
+            "idiopathic hypersomnia"
         ]
     },
     "268": {
@@ -10485,9 +10498,9 @@
         "Avey": [
             "brain abscess",
             "cerebral stroke",
-            "meningitis",
+            "transient ischemic attack",
             "migraine",
-            "brain tumor",
+            "meningitis",
             "encephalitis"
         ]
     },
@@ -10537,7 +10550,8 @@
             "rheumatoid arthritis",
             "rotator cuff injury",
             "dislocated shoulder",
-            "frozen shoulder"
+            "septic arthritis",
+            "shoulder fracture"
         ]
     },
     "279": {
@@ -10630,12 +10644,12 @@
             "aortic dissection"
         ],
         "Avey": [
-            "abdominal aortic aneurysm",
-            "myocardial infarction",
+            "aortic dissection",
+            "pneumothorax",
             "unstable angina",
-            "arrhythmia",
-            "varient angina",
-            "cardiac tamponade"
+            "cardiac tamponade",
+            "myocardial infarction",
+            "pulmonary embolism"
         ]
     },
     "283": {
@@ -10679,7 +10693,6 @@
             "testicular torsion",
             "epididymitis",
             "orchitis",
-            "testicular cancer",
             "varicocele"
         ]
     },
@@ -10722,8 +10735,8 @@
             "septic arthritis",
             "rubella",
             "leukemia",
-            "brucellosis",
-            "gout"
+            "rheumatic fever",
+            "osteomyelitis"
         ]
     },
     "286": {
@@ -11278,12 +11291,12 @@
             "sickle cell anemia"
         ],
         "Avey": [
-            "septic arthritis",
-            "leukemia",
+            "cystic fibrosis",
             "bronchiolitis",
-            "malaria",
-            "influenza",
-            "idiopathic juvenile arthritis"
+            "tuberculosis",
+            "coronavirus 2019",
+            "pneumonia",
+            "measles"
         ]
     },
     "300": {
@@ -11325,9 +11338,8 @@
             "adenomyosis"
         ],
         "Avey": [
-            "secondary dysmenorrhea",
-            "adenomyosis",
             "uterine fibroids",
+            "adenomyosis",
             "endometrial cancer"
         ]
     },
@@ -11375,12 +11387,12 @@
             "hay fever"
         ],
         "Avey": [
-            "malaria",
-            "influenza",
+            "lyme disease",
             "dengue fever",
-            "osteomyelitis",
-            "anemia",
-            "infective endocarditis"
+            "measles",
+            "malaria",
+            "systemic lupus erythromatosus",
+            "osteomyelitis"
         ]
     },
     "304": {
