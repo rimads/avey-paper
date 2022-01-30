@@ -9,13 +9,13 @@ def openFile(fileName):
 
 gs = {case["id"]: case for case in openFile('gs')}
 batch = {}
-for i in range(1,4):
-    batch = {**batch, **openFile(f'Avey {i}')}
+# for i in range(1,4):
+#     batch = {**batch, **openFile(f'Avey {i}')}
 tests = openFile('tests')
-maram = set(i['case_number']
-           for i in tests if i['conducted_by'] == "Maram Smairat")
-print(set(batch.keys() & maram))
-batch = set(batch.keys()) - maram
+# maram = set(i['case_number']
+#            for i in tests if i['conducted_by'] == "Maram Smairat")
+# print(set(batch.keys() & maram))
+# batch = set(batch.keys()) - maram
 collect = {
     id: {
         "gs": [
@@ -26,11 +26,18 @@ collect = {
 }
 
 for case in tests:
+    if case['app'] == 'F':
+        print(case)
     if case["case_number"] in collect:
         collect[case["case_number"]][case["app"]] = \
             [f"${d.split('-')[-1].strip().lower().split('.')[-1].lower().strip()}$" for d in case["content"].split("\n")]
     elif case["case_number"] not in batch:
         print(f"{case['case_number']} has no gold standard")
+
+
+for id in list(collect.keys()):
+    if len(collect[id].keys()) < 2:
+        del collect[id]
 
 # for file in os.listdir("new"):
 #     file=file.replace(".json","")
