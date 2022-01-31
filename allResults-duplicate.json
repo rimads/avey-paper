@@ -6167,7 +6167,10 @@
             "hemochromatosis"
         ],
         "K health": [],
-        "Ada": [],
+        "Ada": [
+            "benign mole",
+            "seborrheic dermatitis"
+        ],
         "WebMD": [
             "endogenous depression",
             "drug allergy",
@@ -13882,9 +13885,11 @@
         ],
         "Avey": [
             "rhabdomyolysis",
+            "hemolytic anemia",
+            "polycystic kidney disease",
+            "nephrolithiasis",
             "acute renal failure",
-            "renal cell carcinoma",
-            "bladder cancer"
+            "renal cell carcinoma"
         ]
     },
     "368": {
@@ -16159,9 +16164,12 @@
             "iga nephropathy"
         ],
         "Avey": [
+            "hemolytic anemia",
+            "acute renal failure",
             "rhabdomyolysis",
-            "renal cell carcinoma",
-            "bladder cancer"
+            "nephritic syndrome",
+            "acute interstitial nephritis",
+            "renal cell carcinoma"
         ]
     },
     "431": {
@@ -17805,12 +17813,12 @@
             "chronic obstructive pulmonary disease"
         ],
         "Avey": [
-            "bronchiectasis",
-            "asthma",
             "chronic obstructive pulmonary disease",
-            "tuberculosis",
-            "lung cancer",
-            "acute bronchitis"
+            "asthma",
+            "bronchiectasis",
+            "valvular heart disease",
+            "acute bronchitis",
+            "cystic fibrosis"
         ]
     },
     "472": {
