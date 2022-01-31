@@ -3887,17 +3887,17 @@
             "costochondritis",
             "acute pericarditis",
             "pulmonary embolism",
-            "myocardial ifraction",
+            "myocardial infarction",
             "acute pneumonia"
         ],
         "K health": [
             "costochondritis",
             "heart arrhythmia",
-            "myocardial ifraction"
+            "myocardial infarction"
         ],
         "Buoy": [],
         "WebMD": [
-            "myocardial ifraction",
+            "myocardial infarction",
             "unstable angina",
             "pulmonary embolism",
             "takutsobo cardiomyopathy",
@@ -3918,7 +3918,7 @@
         ],
         "TH": [
             "costochondritis",
-            "myocardial ifraction",
+            "myocardial infarction",
             "pulmonary embolism"
         ],
         "NJ": [
@@ -16856,8 +16856,7 @@
     },
     "448": {
         "gs": [
-            "g6pd deficiency",
-            "anemia"
+            "hemolytic anemia"
         ],
         "K health": [
             "hepatitis",
@@ -16865,7 +16864,7 @@
             "nephrolithiasis"
         ],
         "Buoy": [
-            "g6pd deficiency",
+            "hemolytic anemia",
             "heart infection"
         ],
         "WebMD": [
@@ -16877,26 +16876,26 @@
         ],
         "Babylon": [],
         "Ada": [
-            "g6pd deficiency",
+            "hemolytic anemia",
             "acute hepatitis c",
             "anemia",
             "gilbert's syndrome",
             "hereditary spherocytosis"
         ],
         "MA": [
-            "g6pd deficiency"
+            "hemolytic anemia"
         ],
         "TH": [
-            "g6pd deficiency"
+            "hemolytic anemia"
         ],
         "NJ": [
-            "g6pd deficiency"
+            "hemolytic anemia"
         ],
         "Avey": [
             "thalassemia",
             "liver cirrhosis",
             "viral hepatitis",
-            "anemia",
+            "hemolytic anemia",
             "nephritic syndrome",
             "rhabdomyolysis"
         ]
@@ -17871,8 +17870,7 @@
     },
     "473": {
         "gs": [
-            "g6pd deficiency",
-            "anemia"
+            "hemolytic anemia"
         ],
         "K health": [],
         "Buoy": [
@@ -17886,18 +17884,18 @@
         ],
         "Babylon": [],
         "Ada": [
-            "g6pd deficiency",
+            "hemolytic anemia",
             "hereditary spherocytosis"
         ],
         "MA": [
             "acute renal impairment as acomplication of nitrofurantoin"
         ],
         "TH": [
-            "g6pd deficiency",
+            "hemolytic anemia",
             "drug induced"
         ],
         "NJ": [
-            "g6pd deficiency"
+            "hemolytic anemia"
         ],
         "Avey": [
             "hemolytic anemia",
