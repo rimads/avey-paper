@@ -404,18 +404,19 @@
         475
     ],
     "apps": {
-        "Ada": {
-            "session_failed": [
-                165
-            ],
-            "no_disease_found": []
-        },
         "Avey": {
-            "session_failed": [],
-            "no_disease_found": []
+            "session failed": [],
+            "no disease found": [
+                68,
+                85
+            ]
+        },
+        "Ada": {
+            "session failed": [],
+            "no disease found": []
         },
         "Babylon": {
-            "session_failed": [
+            "session failed": [
                 29,
                 38,
                 87,
@@ -432,7 +433,7 @@
                 475,
                 478
             ],
-            "no_disease_found": [
+            "no disease found": [
                 1,
                 2,
                 3,
@@ -788,7 +789,7 @@
             ]
         },
         "Buoy": {
-            "session_failed": [
+            "session failed": [
                 8,
                 35,
                 91,
@@ -800,7 +801,7 @@
                 311,
                 493
             ],
-            "no_disease_found": [
+            "no disease found": [
                 2,
                 3,
                 5,
@@ -872,13 +873,14 @@
                 482,
                 485,
                 491,
+                494,
                 495,
                 496,
                 498
             ]
         },
         "K health": {
-            "session_failed": [
+            "session failed": [
                 8,
                 19,
                 28,
@@ -933,18 +935,18 @@
                 495,
                 500
             ],
-            "no_disease_found": [
+            "no disease found": [
                 168,
                 485
             ]
         },
         "WebMD": {
-            "session_failed": [
+            "session failed": [
                 187,
                 311,
                 493
             ],
-            "no_disease_found": [
+            "no disease found": [
                 168,
                 206,
                 485
