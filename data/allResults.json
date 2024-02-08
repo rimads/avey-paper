@@ -37195,5 +37195,592 @@
             "copd flare (milder)",
             "asthma"
         ]
+    },
+    "17": {
+        "gold": [
+            "cholelithiasis",
+            "acute cholecystitis",
+            "acute pancreatitis",
+            "acute cholangitis"
+        ],
+        "Avey v2": [
+            "acute cholecystitis",
+            "cholelithiasis",
+            "peptic ulcer disease",
+            "acute cholangitis",
+            "acute appendicitis"
+        ],
+        "Ada": [
+            "acute cholecystitis",
+            "cholelithiasis",
+            "acute bacterial gastroenteritis",
+            "acute gastritis"
+        ],
+        "ChatGPT - 4": [
+            "gastritis",
+            "peptic ulcer disease",
+            "acute pancreatitis"
+        ],
+        "Buoy": [
+            "food poisoning",
+            "acute cholecystitis",
+            "ovarian torsion"
+        ],
+        "K Health": [
+            "acute cholecystitis",
+            "gastritis"
+        ],
+        "Mediktor": [
+            "acute cholecystitis",
+            "biliary colic",
+            "acute pancreatitis",
+            "choledocholithiasis",
+            "acute bacterial gastroenteritis",
+            "acute appendicitis",
+            "ovarian torsion",
+            "endomerial cyst"
+        ],
+        "WebMD": [
+            "irritable bowel syndrome",
+            "gastritis",
+            "vasovagal syncope",
+            "diverticulitis",
+            "cholelithiasis",
+            "acute bacterial gastroenteritis",
+            "heart failure",
+            "pneumonia"
+        ],
+        "Healthily": [
+            "cholelithiasis"
+        ],
+        "Symptomate": [
+            "choledocholithiasis",
+            "cholelithiasis"
+        ],
+        "Avey": [
+            "acute cholecystitis",
+            "cholelithiasis",
+            "acute cholangitis",
+            "acute pancreatitis",
+            "peptic ulcer disease"
+        ],
+        "doctor_MA": [
+            "cholelithiasis",
+            "hepatic congestion"
+        ],
+        "doctor_NJ": [
+            "cholelithiasis"
+        ],
+        "doctor_TH": [
+            "biliary colic",
+            "cholelithiasis",
+            "peptic ulcer disease"
+        ]
+    },
+    "45": {
+        "gold": [
+            "diabetic ketoacidosis",
+            "hyperosmolar hyperglycemic state"
+        ],
+        "Avey v2": [
+            "diabetic ketoacidosis",
+            "hyperosmolar hyperglycemic state",
+            "acute renal failure",
+            "cystitis",
+            "acute pancreatitis"
+        ],
+        "Ada": [
+            "diabetic ketoacidosis",
+            "pyelonephritis",
+            "acute gastritis"
+        ],
+        "ChatGPT - 4": [
+            "diabetes mellitus",
+            "chronic pancreatitis",
+            "acute appendicitis",
+            "gastroparesis"
+        ],
+        "Buoy": [
+            "acute liver failure"
+        ],
+        "K Health": [
+            "acute bacterial gastroenteritis"
+        ],
+        "Mediktor": [
+            "diabetic ketoacidosis",
+            "type 2 diabetes mellitus",
+            "type 1 diabetes mellitus",
+            "complicated gastroenteritis",
+            "acute bacterial gastroenteritis",
+            "hyperosmolar hyperglycemic state",
+            "meningitis",
+            "encephalitis"
+        ],
+        "WebMD": [
+            "diabetic ketoacidosis",
+            "hypoglycemia",
+            "obstructive sleep apnea",
+            "pneumonia",
+            "vasovagal syncope",
+            "hyperparathyroidism",
+            "liver cirrhosis",
+            "cholestatic hepatitis"
+        ],
+        "Healthily": [
+            "acute bacterial gastroenteritis",
+            "acute appendicitis"
+        ],
+        "Symptomate": [
+            "diabetic ketoacidosis"
+        ],
+        "Avey": [
+            "diabetic ketoacidosis",
+            "hyperosmolar hyperglycemic state",
+            "cystitis",
+            "acute renal failure",
+            "sepsis"
+        ],
+        "doctor_MA": [
+            "diabetic ketoacidosis"
+        ],
+        "doctor_TH": [
+            "diabetic ketoacidosis"
+        ],
+        "doctor_NJ": [
+            "diabetic ketoacidosis"
+        ]
+    },
+    "133": {
+        "gold": [
+            "hemorrhagic stroke",
+            "ischemic stroke",
+            "hypertensive encephalopathy"
+        ],
+        "Avey v2": [
+            "ischemic stroke",
+            "hemorrhagic stroke",
+            "brain tumor",
+            "meningitis",
+            "aortic dissection"
+        ],
+        "Ada": [
+            "brainstem infarct",
+            "ischemic stroke",
+            "hemorrhagic stroke"
+        ],
+        "ChatGPT - 4": [
+            "hemorrhagic stroke",
+            "ischemic stroke",
+            "brain tumor"
+        ],
+        "Buoy": [
+            "ischemic stroke",
+            "hemorrhagic stroke",
+            "meningitis"
+        ],
+        "K Health": [
+            "ischemic stroke",
+            "hemorrhagic stroke"
+        ],
+        "Mediktor": [
+            "hemorrhagic stroke",
+            "ischemic stroke"
+        ],
+        "WebMD": [
+            "cerebellar hemorrhage",
+            "ischemic stroke",
+            "hemorrhagic stroke",
+            "hypoglycemia",
+            "somatic symptom disorder",
+            "postconcussive syndrome",
+            "measles"
+        ],
+        "Healthily": [
+            "hemorrhagic stroke"
+        ],
+        "Symptomate": [
+            "hemorrhagic stroke",
+            "ischemic stroke"
+        ],
+        "Avey": [
+            "ischemic stroke",
+            "hemorrhagic stroke",
+            "brain tumor",
+            "aortic dissection"
+        ],
+        "doctor_NJ": [
+            "hemorrhagic stroke"
+        ],
+        "doctor_TH": [
+            "hemorrhagic stroke",
+            "ischemic stroke"
+        ],
+        "doctor_MA": [
+            "hemorrhagic stroke"
+        ]
+    },
+    "178": {
+        "gold": [
+            "common cold",
+            "pharyngitis",
+            "covid 19"
+        ],
+        "Avey v2": [
+            "common cold",
+            "influenza",
+            "acute bronchitis",
+            "covid 19",
+            "diphtheria"
+        ],
+        "Ada": [
+            "common cold",
+            "flu",
+            "covid 19"
+        ],
+        "ChatGPT - 4": [
+            "common cold",
+            "influenza",
+            "sinusitis"
+        ],
+        "Buoy": [
+            "common cold",
+            "pharyngitis",
+            "covid 19"
+        ],
+        "K Health": [
+            "common cold",
+            "influenza"
+        ],
+        "Mediktor": [
+            "common cold",
+            "covid 19",
+            "acute laryngitis",
+            "allergic rhinitis"
+        ],
+        "WebMD": [
+            "common cold",
+            "hay fever",
+            "adenovirus infection",
+            "covid 19",
+            "chronic sinusitis",
+            "acute sinusitis",
+            "influenza",
+            "acute bronchitis",
+            "bacterial tonsilitis"
+        ],
+        "Healthily": [
+            "common cold"
+        ],
+        "Symptomate": [
+            "common cold",
+            "pharyngitis",
+            "adenoviral respiratory disease"
+        ],
+        "Avey": [
+            "pharyngitis",
+            "diphtheria",
+            "influenza",
+            "common cold",
+            "covid 19"
+        ],
+        "doctor_NJ": [
+            "rhinosinusitis",
+            "covid 19"
+        ],
+        "doctor_TH": [
+            "covid 19",
+            "common cold",
+            "pharyngitis"
+        ],
+        "doctor_MA": [
+            "pharyngitis",
+            "common cold",
+            "inflounza"
+        ]
+    },
+    "363": {
+        "gold": [
+            "intercostal neuralgia",
+            "shingles",
+            "costochondritis"
+        ],
+        "Avey v2": [
+            "intercostal neuralgia",
+            "costochondritis",
+            "fibromyalgia",
+            "myocardial infarction"
+        ],
+        "Ada": [
+            "costochondritis",
+            "pectoral strain",
+            "intercostal myalgia",
+            "chest wall injury",
+            "intercostal neuralgia"
+        ],
+        "ChatGPT - 4": [
+            "costochondritis",
+            "gerd",
+            "muscle strain",
+            "non cardiac chest pain"
+        ],
+        "Buoy": [
+            "atypical chest pain"
+        ],
+        "K Health": [
+            "musculoskeletal chest pain"
+        ],
+        "Mediktor": [
+            "musculoskeletal chest pain",
+            "costochondritis",
+            "primary spontaneous pneumothorax",
+            "myocarditis",
+            "pericarditis",
+            "myocardial infarction"
+        ],
+        "WebMD": [
+            "rib fracture",
+            "costochondritis",
+            "gerd",
+            "pulmonary embolism",
+            "pericarditis",
+            "esophagitis",
+            "diffuse esophageal spasm",
+            "unstable angina"
+        ],
+        "Healthily": [
+            "costochondritis"
+        ],
+        "Symptomate": [
+            "intercostal neuralgia"
+        ],
+        "Avey": [
+            "intercostal neuralgia",
+            "costochondritis",
+            "fibromyalgia",
+            "myocardial infarction"
+        ],
+        "doctor_TH": [
+            "costochondritis",
+            "intercostal neuralgia"
+        ],
+        "doctor_NJ": [
+            "lung contusion",
+            "intercostal neuralgia"
+        ],
+        "doctor_MA": [
+            "intercostal neuralgia",
+            "inter coastal strain"
+        ]
+    },
+    "368": {
+        "gold": [
+            "foreign body aspiration",
+            "central airway obstruction"
+        ],
+        "Avey v2": [
+            "foreign body aspiration",
+            "pneumonia",
+            "central airway obstruction",
+            "chronic obstructive pulmonary disease",
+            "acute bronchitis"
+        ],
+        "Ada": [
+            "acute respiratory failure",
+            "pulmonary embolism",
+            "foreign body aspiration",
+            "acute aspiration of oropharyngeal or gastric content",
+            "heart failure"
+        ],
+        "ChatGPT - 4": [
+            "bronchiectasis",
+            "heart failure",
+            "pneumonia"
+        ],
+        "Buoy": [
+            "pneumonia",
+            "asthma"
+        ],
+        "K Health": [
+            "heart failure",
+            "asthma",
+            "pulmonary embolism",
+            "upper respiratory infection",
+            "pneumonia"
+        ],
+        "Mediktor": [
+            "asthma",
+            "acute bronchitis",
+            "typical pneumonia",
+            "foreign body aspiration",
+            "heart failure",
+            "biventricular heart failure",
+            "covid 19",
+            "tuberculosis"
+        ],
+        "WebMD": [
+            "asthma",
+            "acute bronchitis",
+            "congestive heart failure",
+            "heart failure",
+            "emphysema",
+            "pneumonia",
+            "pulmonary embolism",
+            "infuelnza"
+        ],
+        "Healthily": [
+            "anaphylaxis"
+        ],
+        "Symptomate": [
+            "pulmonary embolism"
+        ],
+        "Avey": [
+            "foreign body aspiration",
+            "pneumonia",
+            "central airway obstruction",
+            "chronic obstructive pulmonary disease",
+            "acute bronchitis"
+        ],
+        "doctor_MA": [
+            "foreign body aspiration"
+        ],
+        "doctor_NJ": [
+            "central airway obstruction"
+        ],
+        "doctor_TH": [
+            "foreign body aspiration",
+            "central airway obstruction"
+        ]
+    },
+    "500": {
+        "gold": [
+            "tonsillopharyngitis",
+            "mononucleosis",
+            "influenza"
+        ],
+        "Avey v2": [
+            "tonsillopharyngitis",
+            "diphtheria",
+            "croup",
+            "acute laryngitis",
+            "influenza"
+        ],
+        "Ada": [
+            "bacterial tonsilitis",
+            "influenza",
+            "tonsillopharyngitis",
+            "covid 19"
+        ],
+        "ChatGPT - 4": [
+            "common cold",
+            "influenza",
+            "viral infection"
+        ],
+        "Buoy": [
+            "tonsillopharyngitis",
+            "common cold",
+            "acute laryngitis"
+        ],
+        "K Health": [],
+        "Mediktor": [
+            "covid 19",
+            "mononucleosis",
+            "influenza",
+            "acute bronchitis",
+            "tuberculosis"
+        ],
+        "WebMD": [
+            "common cold",
+            "hay fever",
+            "adenovirus infection",
+            "covid 19",
+            "chronic sinusitis",
+            "acute sinusitis",
+            "influenza",
+            "acute bronchitis"
+        ],
+        "Healthily": [],
+        "Symptomate": [
+            "tonsillopharyngitis",
+            "influenza",
+            "acute bronchitis",
+            "pharyngitis",
+            "acute laryngitis",
+            "pneumonia",
+            "otitis media"
+        ],
+        "Avey": [
+            "tonsillopharyngitis",
+            "diphtheria",
+            "croup",
+            "acute laryngitis",
+            "acute bronchitis"
+        ],
+        "doctor_TH": [
+            "mononucleosis",
+            "tonsillopharyngitis",
+            "coronavirus disease 2019"
+        ],
+        "doctor_NJ": [
+            "influenza"
+        ],
+        "doctor_MA": [
+            "influenza",
+            "tonsillopharyngitis"
+        ]
+    },
+    "533": {
+        "gold": [
+            "acute conjunctivitis"
+        ],
+        "Avey v2": [
+            "acute conjunctivitis",
+            "nasolacrimal duct obstruction",
+            "dry eye disease",
+            "corneal injury"
+        ],
+        "Ada": [
+            "acute conjunctivitis",
+            "keratitis"
+        ],
+        "ChatGPT - 4": [
+            "acute conjunctivitis",
+            "corneal abrasion",
+            "subconjunctival hemorrhage"
+        ],
+        "Buoy": [
+            "acute conjunctivitis",
+            "blepharitis"
+        ],
+        "K Health": [],
+        "Mediktor": [],
+        "WebMD": [
+            "acute conjunctivitis",
+            "herpes eye infection",
+            "corneal abrasion",
+            "bleeding in the eye",
+            "subconjunctival hemorrhage",
+            "covid 19",
+            "marijuana use"
+        ],
+        "Healthily": [],
+        "Symptomate": [
+            "acute conjunctivitis",
+            "blepharitis"
+        ],
+        "Avey": [
+            "acute conjunctivitis",
+            "nasolacrimal duct obstruction",
+            "dry eye disease",
+            "glucoma"
+        ],
+        "doctor_TH": [
+            "acute conjunctivitis"
+        ],
+        "doctor_NJ": [
+            "acute conjunctivitis"
+        ],
+        "doctor_MA": [
+            "acute conjunctivitis"
+        ]
     }
 }
